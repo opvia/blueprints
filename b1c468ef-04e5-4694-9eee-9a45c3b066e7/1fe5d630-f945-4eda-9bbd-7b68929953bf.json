@@ -1,0 +1,251 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "1fe5d630-f945-4eda-9bbd-7b68929953bf",
+  "title": "Retrieve and Load Sample",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "type": "STEP",
+  "description": "This step outlines the process of retrieving and loading the sample into the correct Assay for potency testing. Use Document View for more details.",
+  "recordReviewConfig": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "User": {
+        "id": "c0988a8e-d2a8-4704-907b-6299a6117b41",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Assay ID": {
+        "id": "abec33e3-5f65-402c-8617-9654df99b2b2",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Assay 1",
+            "Assay 2"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Sample ID": {
+        "id": "696321b7-7d4d-4e24-ae32-4d4f82685ead",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Sample 1",
+            "Sample 2",
+            "Sample 3"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Time & date": {
+        "id": "edceb826-3251-4cc8-82f8-bd4a372e0a59",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "SOP Referenced": {
+        "id": "31189c42-65cb-408a-979d-8916f6f13743",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "1c582f9a-54e1-44a0-ba99-30b4ae0d933c",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "bold": true,
+            "text": "1. "
+          },
+          {
+            "text": "Retrieve the desired sample from the inventory management system, and upload a picture of the current state:"
+          }
+        ]
+      },
+      {
+        "id": "eec848cc-e66f-4c4b-bdf2-42d8b791c7c2",
+        "type": "field",
+        "fieldId": "696321b7-7d4d-4e24-ae32-4d4f82685ead",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "99b12015-677d-4852-8997-021f44ad372a",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "bold": true,
+            "text": "2. "
+          },
+          {
+            "text": "Record the time and date at which the sample was taken out for testing"
+          }
+        ]
+      },
+      {
+        "id": "10f67b81-9f5f-431b-995c-0edb15f88fb2",
+        "type": "field",
+        "fieldId": "edceb826-3251-4cc8-82f8-bd4a372e0a59",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "19673f8e-47d7-4486-8816-c74edceda907",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "bold": true,
+            "text": "3. "
+          },
+          {
+            "text": "Reference the correct SOP for the procedure for reviewing purposes "
+          }
+        ]
+      },
+      {
+        "id": "33f9d4fb-387f-4feb-88b7-ddcb6317eb48",
+        "type": "field",
+        "fieldId": "31189c42-65cb-408a-979d-8916f6f13743",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f4406273-9625-4c2d-9269-b1c10416bbfe",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "bold": true,
+            "text": "4. "
+          },
+          {
+            "text": "Select from list of operators for this assay"
+          }
+        ]
+      },
+      {
+        "id": "5b41ad3b-6f13-4ef5-9af8-714a110a2900",
+        "type": "field",
+        "fieldId": "c0988a8e-d2a8-4704-907b-6299a6117b41",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "2673e36e-dd4b-4b83-b7da-123c91899dbf",
+        "type": "img",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6c6d6dc8-b0c0-4041-9fed-227cb8b41bfe",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "bold": true,
+            "text": "5. "
+          },
+          {
+            "text": "Select desired Assay for the seed sample and which equipment will be used for the process:"
+          }
+        ]
+      },
+      {
+        "id": "4cadeae2-f43f-4523-89cf-ff1c3bac67d0",
+        "type": "field",
+        "fieldId": "abec33e3-5f65-402c-8617-9654df99b2b2",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0fc763b0-e7d6-4eed-b320-23fdc24800fe",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "7a6571fd-234e-42dd-bce6-199101056bdb",
+        "type": "FIELD",
+        "fieldId": "696321b7-7d4d-4e24-ae32-4d4f82685ead"
+      },
+      {
+        "id": "d6cb7bc2-1077-49d5-ad31-6c853cfa06dc",
+        "type": "FIELD",
+        "fieldId": "edceb826-3251-4cc8-82f8-bd4a372e0a59"
+      },
+      {
+        "id": "58262e9f-0e15-4679-baf1-2fee287f02b9",
+        "type": "FIELD",
+        "fieldId": "c0988a8e-d2a8-4704-907b-6299a6117b41"
+      },
+      {
+        "id": "2d6c3e41-c7ec-4ecb-8e2f-25e1b1e9ac42",
+        "type": "FIELD",
+        "fieldId": "abec33e3-5f65-402c-8617-9654df99b2b2"
+      },
+      {
+        "id": "9c199b6d-8343-4c09-9e2a-bc110e702ac5",
+        "type": "FIELD",
+        "fieldId": "31189c42-65cb-408a-979d-8916f6f13743"
+      }
+    ]
+  }
+}
