@@ -25,6 +25,7 @@
     {
       "id": "24f4e646-984a-4775-a33f-7b58958ccd56",
       "type": "STEP",
+      "subType": "DATA",
       "title": "Measure the stuff",
       "source": {
         "id": "f5de1f07-1b79-4cf7-81a2-895c4d9d5faf",
