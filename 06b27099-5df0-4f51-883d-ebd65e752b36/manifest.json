@@ -35,6 +35,7 @@
     {
       "id": "cd61c599-b313-4a6f-b4d9-608ef1be5e73",
       "type": "STEP",
+      "subType": "SCRIPT",
       "title": "njdnfkdjsnf",
       "source": {
         "id": "1d05c59d-9bbd-4b12-a0f9-eccf2c1e5544",
