@@ -7,6 +7,7 @@
     {
       "id": "1fe5d630-f945-4eda-9bbd-7b68929953bf",
       "type": "STEP",
+      "subType": "DATA",
       "title": "Retrieve and Load Sample",
       "source": {
         "id": "509a162b-d32c-4b07-8854-4706b3d752fe",
