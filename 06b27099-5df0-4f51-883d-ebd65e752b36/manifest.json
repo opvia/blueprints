@@ -45,6 +45,7 @@
     {
       "id": "8380d5ae-0b31-4511-b61f-cb1a8cdc02b8",
       "type": "STEP",
+      "subType": "DATA",
       "title": "multi 1",
       "source": {
         "id": "b1a71438-777f-494d-981d-f95201038e9e",
