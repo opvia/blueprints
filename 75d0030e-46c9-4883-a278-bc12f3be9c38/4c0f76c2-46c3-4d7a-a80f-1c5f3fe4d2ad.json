@@ -1,0 +1,200 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4c0f76c2-46c3-4d7a-a80f-1c5f3fe4d2ad",
+  "title": "Change Control Action Items",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "type": "STEP",
+  "description": "Send for review prior to implementation.",
+  "recordReviewConfig": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Task": {
+        "id": "3f63cdd7-d450-4e31-aa94-cdee6d9592a9",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "File(s)": {
+        "id": "39dcc25f-f4d5-494e-b3e7-f540624b7628",
+        "type": "UPLOAD",
+        "value": null,
+        "config": {
+          "allowMultiple": true
+        },
+        "dataType": "UPLOAD"
+      },
+      "Comments": {
+        "id": "becd35de-63a9-4c65-b159-1ffa3b659e26",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Assigned To": {
+        "id": "9cb01b42-c45e-41d2-af91-e1c2489098a9",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Completed By": {
+        "id": "982efbc0-5dd4-4a83-8107-76482441f0b0",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Date of Completion": {
+        "id": "a75cb9ae-3f12-4af3-b235-c393de6b6de8",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Action or Implementation Task": {
+        "id": "cc81b4b7-a9da-4467-98ef-a171d39e3c00",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Action",
+            "Implementation"
+          ]
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "656ad85c-6e15-4a29-be34-91e889993f28",
+        "type": "field",
+        "fieldId": "3f63cdd7-d450-4e31-aa94-cdee6d9592a9",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4c7a4e07-876d-4f7e-b542-ab493a227ea6",
+        "type": "field",
+        "fieldId": "cc81b4b7-a9da-4467-98ef-a171d39e3c00",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7e4962d4-7af8-4d00-8b77-f60507a63b93",
+        "type": "field",
+        "fieldId": "9cb01b42-c45e-41d2-af91-e1c2489098a9",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5142a55b-83fe-4633-961d-b1bc36a2b042",
+        "type": "field",
+        "fieldId": "a75cb9ae-3f12-4af3-b235-c393de6b6de8",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "542ec918-83d3-42f3-9112-27d6a6f1aa6b",
+        "type": "field",
+        "fieldId": "982efbc0-5dd4-4a83-8107-76482441f0b0",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f4031ccd-43c0-4fbb-a449-02ee768ad868",
+        "type": "field",
+        "fieldId": "becd35de-63a9-4c65-b159-1ffa3b659e26",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3e6eb3b8-14b5-4398-92ca-3f9745f8137c",
+        "type": "field",
+        "fieldId": "39dcc25f-f4d5-494e-b3e7-f540624b7628",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "133b97c8-15ff-4339-a0b1-2f74a8c3bd23",
+        "type": "FIELD",
+        "fieldId": "3f63cdd7-d450-4e31-aa94-cdee6d9592a9"
+      },
+      {
+        "id": "a5100810-1a84-43cd-86a9-3b997d60d909",
+        "type": "FIELD",
+        "fieldId": "cc81b4b7-a9da-4467-98ef-a171d39e3c00"
+      },
+      {
+        "id": "a7bef47d-9bb6-4397-a3fa-9e1f7972722e",
+        "type": "FIELD",
+        "fieldId": "9cb01b42-c45e-41d2-af91-e1c2489098a9"
+      },
+      {
+        "id": "2dc3c5bf-1795-4123-a31d-fbe5b500cb7f",
+        "type": "FIELD",
+        "fieldId": "a75cb9ae-3f12-4af3-b235-c393de6b6de8"
+      },
+      {
+        "id": "db31abbe-561b-4994-8dc6-70fbe833f7bb",
+        "type": "FIELD",
+        "fieldId": "982efbc0-5dd4-4a83-8107-76482441f0b0"
+      },
+      {
+        "id": "6e2fbbc2-bf5d-4d61-b64f-cd644699b831",
+        "type": "FIELD",
+        "fieldId": "becd35de-63a9-4c65-b159-1ffa3b659e26"
+      },
+      {
+        "id": "aea7b64f-fbf4-485a-b17e-60594657ae35",
+        "type": "FIELD",
+        "fieldId": "39dcc25f-f4d5-494e-b3e7-f540624b7628"
+      }
+    ]
+  }
+}
