@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "af5d2026-a879-4ad8-86d3-d02a1fb62459",
+  "title": "My script",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "subType": "SCRIPT",
+  "scriptCode": ""
+}

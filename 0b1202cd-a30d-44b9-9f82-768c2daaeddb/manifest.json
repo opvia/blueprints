@@ -1,0 +1,37 @@
+{
+  "id": "0b1202cd-a30d-44b9-9f82-768c2daaeddb",
+  "version": 1,
+  "name": "Orian's template",
+  "description": "",
+  "entities": [
+    {
+      "id": "c70fbe78-f977-410b-a329-8b05371a58c2",
+      "type": "PROCEDURE",
+      "title": "Orian's template",
+      "source": {
+        "id": "a4bc414b-5a3a-4fb3-a35a-4b7efb709a31",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b1888e10-5425-43b8-a41f-d4206ed7a708",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Step 1",
+      "source": {
+        "id": "e968ef15-80f7-408c-8aa3-fb452a66237b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "af5d2026-a879-4ad8-86d3-d02a1fb62459",
+      "type": "STEP",
+      "subType": "SCRIPT",
+      "title": "My script",
+      "source": {
+        "id": "ac0de348-3349-4fcb-a2a4-6ffb51862ab5",
+        "version": "1"
+      }
+    }
+  ]
+}

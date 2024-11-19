@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "b1888e10-5425-43b8-a41f-d4206ed7a708",
+  "title": "Step 1",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Date": {
+        "id": "294eae02-e4f8-4080-9068-a4e410623d76",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Text": {
+        "id": "1f436baa-33d8-4564-b706-a18aae022ccf",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "User": {
+        "id": "f5dd1954-863e-4cb4-b7bd-982ea2012f6c",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Number": {
+        "id": "01b512df-761e-4a5f-a413-d1828673d0cc",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Checkbox": {
+        "id": "5413dc13-d9be-4220-9000-96b05c4a7aee",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "83febae6-4df9-4fd8-8de5-f325d3c7e677",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "1d590f8d-2409-4c48-ab4c-062c56007a4a",
+        "type": "FIELD",
+        "fieldId": "5413dc13-d9be-4220-9000-96b05c4a7aee"
+      },
+      {
+        "id": "cff8dc06-6bab-4590-9a34-06d5ac4aaa6c",
+        "type": "FIELD",
+        "fieldId": "1f436baa-33d8-4564-b706-a18aae022ccf"
+      },
+      {
+        "id": "8315c828-1816-4b04-9416-dcdd0081a87c",
+        "type": "FIELD",
+        "fieldId": "294eae02-e4f8-4080-9068-a4e410623d76"
+      },
+      {
+        "id": "2d10f604-4a11-44bb-a92c-516642d894fb",
+        "type": "FIELD",
+        "fieldId": "01b512df-761e-4a5f-a413-d1828673d0cc"
+      },
+      {
+        "id": "2694caa0-75fa-4501-9ebe-66c35f2f3859",
+        "type": "FIELD",
+        "fieldId": "f5dd1954-863e-4cb4-b7bd-982ea2012f6c"
+      }
+    ]
+  }
+}
