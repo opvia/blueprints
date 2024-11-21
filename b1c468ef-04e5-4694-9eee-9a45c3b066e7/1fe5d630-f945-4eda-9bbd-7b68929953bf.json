@@ -17,9 +17,11 @@
     "index": "0"
   },
   "reviewConfig": null,
+  "collections": null,
   "type": "STEP",
   "description": "This step outlines the process of retrieving and loading the sample into the correct Assay for potency testing. Use Document View for more details.",
   "recordReviewConfig": null,
+  "recordCollections": null,
   "subType": "DATA",
   "recordConfig": {
     "allowMultiple": true,

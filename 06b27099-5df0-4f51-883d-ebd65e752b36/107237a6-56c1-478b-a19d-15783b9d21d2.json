@@ -17,8 +17,10 @@
     "index": "0"
   },
   "reviewConfig": null,
+  "collections": null,
   "type": "PROCEDURE",
   "runReviewConfig": null,
+  "runCollections": null,
   "stages": [
     {
       "id": "e0045be6-2272-4e80-b42d-2ecb38bcd444",

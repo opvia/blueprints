@@ -17,9 +17,11 @@
     "index": "0"
   },
   "reviewConfig": null,
+  "collections": null,
   "type": "STEP",
   "description": "get the entity",
   "recordReviewConfig": null,
+  "recordCollections": null,
   "subType": "SCRIPT",
   "scriptCode": "previous_record = seal.get_previous_step_records()\n\nprint(previous_record[\"fields\"][\"Reference\"])"
 }

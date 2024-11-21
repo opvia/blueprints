@@ -17,9 +17,11 @@
     "index": "0"
   },
   "reviewConfig": null,
+  "collections": null,
   "type": "STEP",
   "description": "Send for review prior to implementation.",
   "recordReviewConfig": null,
+  "recordCollections": null,
   "subType": "DATA",
   "recordConfig": {
     "allowMultiple": true,
