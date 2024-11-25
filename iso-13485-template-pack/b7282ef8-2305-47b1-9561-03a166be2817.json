@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "b7282ef8-2305-47b1-9561-03a166be2817",
+  "title": "Quality Review",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Comments": {
+        "id": "b0a04af5-27bd-48cd-99b4-1a7656169cd5",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "QA Reviewer": {
+        "id": "0fa4a193-96fa-4120-aedd-05e5386006b0",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "391e74d3-dcd6-45db-b42f-463e7bac738d",
+        "type": "field",
+        "fieldId": "0fa4a193-96fa-4120-aedd-05e5386006b0",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "375e9537-0f3e-4844-a8f7-8aa08d42ed15",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Comments:"
+          }
+        ]
+      },
+      {
+        "id": "95452a6e-3d5a-4a0d-ba50-93baa7b60c7d",
+        "type": "li",
+        "children": [
+          {
+            "id": "343ddd2b-2d68-45d3-bb4c-15fce10abe78",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "6707b831-3f42-45cc-be56-ffc81b5b754e",
+        "type": "FIELD",
+        "fieldId": "0fa4a193-96fa-4120-aedd-05e5386006b0"
+      },
+      {
+        "id": "e699b8c0-ccc6-42bd-917e-a0546a35b192",
+        "type": "FIELD",
+        "fieldId": "b0a04af5-27bd-48cd-99b4-1a7656169cd5"
+      }
+    ]
+  }
+}

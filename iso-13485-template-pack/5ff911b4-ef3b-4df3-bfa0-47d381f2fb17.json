@@ -1,0 +1,1558 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "5ff911b4-ef3b-4df3-bfa0-47d381f2fb17",
+  "title": "SOP - Referral Testing",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "22479b87-3434-42fb-902e-f648b906ebea",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "330c1adc-a78d-4c5d-908f-79bdb960b060",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "fd38c086-fc75-4f06-9799-07ff9a5d51cb",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "ad9bb709-0a31-475e-9f42-e331158772af",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "00606a60-acc4-460e-afe4-938678aaa964",
+      "type": "field",
+      "fieldId": "ad9bb709-0a31-475e-9f42-e331158772af",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3eb4591d-1b34-4aea-938b-d52e3bb39b15",
+      "type": "field",
+      "fieldId": "fd38c086-fc75-4f06-9799-07ff9a5d51cb",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "21ee59cd-c520-42ef-9eee-28acf97d7131",
+      "type": "field",
+      "fieldId": "22479b87-3434-42fb-902e-f648b906ebea",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1d799a68-9884-457e-82db-3ff221db5709",
+      "type": "field",
+      "fieldId": "330c1adc-a78d-4c5d-908f-79bdb960b060",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7b8e3317-d377-4ef6-8536-926d13b8a05c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "602353ac-2dad-4863-a484-d7076a83dc63",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "73540dcc-46cd-483a-b46f-7b43695839ed",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP provides guidelines for sending samples to external reference laboratories for testing, ensuring the accuracy, reliability, and timely receipt of test results. These procedures ensure quality and maintain sample integrity during transit and handling by external laboratories."
+        }
+      ]
+    },
+    {
+      "id": "bc8f22c2-b9f8-449a-8d3f-9b2477526507",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ff2b2979-69aa-4449-85d6-0cd0ce60b80d",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "d2a2645e-6fc4-4e5d-bb60-268295d8c069",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel responsible for managing, preparing, and documenting samples sent to reference laboratories. It covers sample preparation, packaging, shipping, documentation, tracking, and verification of test results from external laboratories."
+        }
+      ]
+    },
+    {
+      "id": "c3c6bbd2-79ed-4b71-8602-a2ddd243feb7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d171330f-268a-42a0-b235-83a0fb78e328",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "96130f7b-db39-4b9b-94b8-c8c71abca7db",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b36c0211-215d-4d65-8850-fbbca92b5ff1",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "4e846f20-af04-406e-b0fc-102462d11164",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ccf74cbb-5671-4fb7-a4ef-c1e95c3952ce",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures that all referral testing follows this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6598632-597f-4f6b-af44-082a2dc6c126",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4079ab2a-497f-49c3-a29d-22d4ef58183e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verifies the quality and compliance of referral laboratories."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e070a99a-a5f8-403f-8cdb-63e259c6ab8e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "b8de8b2a-9718-46a2-9cc5-b6e619e5ed56",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "abdd4653-890f-4a63-b753-9ccd4cf7b71c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Responsible for preparing, labeling, packaging, and shipping samples to the referral laboratory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75b8287b-aa53-4568-98d9-b4c95564cfc9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e5897887-3aa1-4f3f-a774-6b8cbbf48eeb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Documents the entire process according to this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0bae4b1-5b45-4f0e-9930-ebcc551a14a9",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "19dc6a58-b20f-476d-8ff8-e995ea4a4d86",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ade4f62d-3165-43a2-86ec-5fe9f02dfe4d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitors referral testing practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ffd9f8a-d1f7-41a9-b26f-20f4ab6227ae",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "36a0b653-236a-4342-8ee2-b8af92ab47f6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Audits referral laboratories and reviews test results for quality and compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec84536e-3f5c-4dbd-a33c-e53120b8cad3",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Courier Service (if applicable)"
+        }
+      ]
+    },
+    {
+      "id": "9c34b8db-c3b7-4aaa-afce-f585a6d3718b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6ed63047-d61e-43eb-86d9-3f596ef9e7ae",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures timely and safe transport of samples to reference laboratories."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64fd751e-d20c-4773-809d-24faced8398a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "953d2038-2201-4b86-8165-c2c92197d61a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "f54d38eb-1771-4fef-8cce-85461a24b680",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1afa78a8-8d45-4647-bbaa-c802ed211439",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Referral Testing"
+            },
+            {
+              "text": ": Sending samples to an external or reference laboratory for analysis that cannot be performed in-house."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2055f98d-a14d-4354-b221-72c55518247e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ae1e2f3c-ed1c-4c6b-aae1-2e54abcf5461",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Reference Laboratory"
+            },
+            {
+              "text": ": An accredited external laboratory contracted to perform specific tests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08e0fdaf-36be-4c00-87dc-2217f329fb1b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "991be731-0aa8-4059-a29d-2d0ada1c3587",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Chain of Custody"
+            },
+            {
+              "text": ": Documentation tracking the handling and transfer of a sample from collection to referral laboratory receipt, ensuring traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdcc6b99-e7b4-4765-8d2e-ff00f7388d73",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1b3ad803-b983-4ccc-afc8-d00f238498f9",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Selection and Verification of Referral Laboratories"
+        }
+      ]
+    },
+    {
+      "id": "3f20cb7b-d9b6-4788-b775-7b6fc9dfd842",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "57b0f07e-3f2e-4e61-a77c-8d9d7815da6a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Selection of Referral Laboratories"
+        }
+      ]
+    },
+    {
+      "id": "576c7898-46f0-4369-af2d-58840de2737e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "77575569-12d5-4f89-b40e-3f786a835743",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accreditation and Certification"
+            },
+            {
+              "text": ": Use only reference laboratories accredited to ISO 15189 or equivalent standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1be9f30-fc78-4dc2-a6aa-3ca31b8f0927",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "29a53dde-3360-40e7-87ef-65e5faf83c56",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Evaluation of Quality Standards"
+            },
+            {
+              "text": ": Assess the laboratory’s quality standards, proficiency testing records, and validation of methods before entering into agreements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbb90e37-1226-43eb-9cdc-434bc1c239a4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "890b5989-2d36-4c49-a86c-627f34080090",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. Verification of Referral Laboratory Services"
+        }
+      ]
+    },
+    {
+      "id": "1bdae95e-2be1-45bc-a790-95fb7492965a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b5deec1b-d92a-45dd-9ef7-3d8ca7669b13",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Agreement"
+            },
+            {
+              "text": ": Establish agreements detailing expectations for sample handling, turnaround time, test performance, and data reporting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53c8ed6d-49a2-4dcd-9bec-5f8fc175696b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e12e29d2-2ff5-44d3-8ec2-e94a2466b510",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Annual Review"
+            },
+            {
+              "text": ": Conduct annual reviews of the referral laboratory’s performance, documenting findings in a Referral Laboratory Review Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86fb4d92-c644-4430-b3fa-130a682b8df4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0ad21dab-7d3d-449a-8f1f-38b631c68c9b",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Sample Preparation for Referral Testing"
+        }
+      ]
+    },
+    {
+      "id": "28b29692-49bf-4181-9987-62729c3a4390",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "21be9550-1c18-4bb9-9700-2e9ea6c049dd",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Sample Identification and Labelling"
+        }
+      ]
+    },
+    {
+      "id": "162af069-41c0-4388-a290-9066e5937693",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ae2e52c7-925b-4f22-b422-2e5d0ebf8d78",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assign a unique Sample ID that matches the Laboratory Information Management System (LIMS)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ada4de3c-15dc-4b40-bbe5-38d264dfa7e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a0ae0e3f-33ac-4b23-875b-7275a0c8818e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Label containers with:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8b6b5413-05a2-4398-9222-bf3bf654055c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "d6742a3f-fd98-4921-88f0-f1c5aca3e336",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bca4206-d1b5-4132-8d35-e41b8206d1ba",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b97e61c3-c0f5-4115-9971-84e0c1d93648",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Patient initials (if applicable)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6620e53d-eaab-4439-bcf4-6abd2e697411",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "1c19b6e5-9283-4042-b4bd-00254dc3640f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Test requested"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8b1541a-7d27-4280-a834-f9a833eb8327",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "d629c07f-dd6f-4465-aa81-87890fce6a52",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Collection date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba0de6d5-771d-4060-98c9-39b12e0206d8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "333f5dbf-2c62-4951-be0f-c78cd321d1b3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Hazard symbols (if necessary)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e96b4df9-9300-40cd-8ce2-3f911ef690b8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f277a97d-eee4-4f1e-8781-3ebd02c9df58",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Sample Collection and Processing"
+        }
+      ]
+    },
+    {
+      "id": "d6f7b08d-e375-4f95-977c-723faacac8ea",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c87bab3f-4687-486c-89fd-277298e70006",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follow standardised collection protocols."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50ada9ea-eade-42b3-9c20-8e19e6875eda",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c855b61a-bcf8-42ef-9e0b-5216419432bd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Prepare samples as per referral laboratory requirements, ensuring proper volume, temperature, and addition of preservatives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "868e297b-1abe-4838-950a-3b1d4bdabf9b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "975c655d-cf16-4cd9-9f8d-090d42ee1a58",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Packaging and Shipping of Samples"
+        }
+      ]
+    },
+    {
+      "id": "9423a7df-5ba5-4106-9c75-b1b9b76904ae",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "129e380b-dd2b-4e1d-989c-5f890381568f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Packaging Requirements"
+        }
+      ]
+    },
+    {
+      "id": "5383a85a-b90c-45a4-a221-6a3b33826d0a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e3d2bfbb-595e-4af0-bc43-72f5829e1f58",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use primary leak-proof containers, secondary biohazard bags, and insulated, impact-resistant outer containers with handling instructions (e.g., “Keep Refrigerated”)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85fe0791-e923-475a-a312-7c5e146a0873",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8c5eebeb-944e-4e1d-b03b-281b7b46e963",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Documentation for Shipping"
+        }
+      ]
+    },
+    {
+      "id": "1633a90d-8496-41da-be09-668b07b8af33",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "105b0aa2-5731-4eda-885d-9a416b51db6c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Complete a Sample Requisition Form with all necessary details."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c5bf2d6-c6a9-4602-b774-08e887b41b70",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fa557178-6f8e-4156-8f86-4b9d0a985d9f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Attach a Chain of Custody form to document each transfer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01f2205c-4a69-47ea-97c4-9b0eda0d0a8c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "573a8b1b-d6ff-4586-94b6-b854055bd705",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3. Selection and Coordination with Courier Services"
+        }
+      ]
+    },
+    {
+      "id": "f6222deb-d30e-46c5-92de-04ee121caec5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "82be6b7c-1545-45ed-a3cb-e030e7aa08e2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Select reliable couriers experienced in handling laboratory samples and adhering to regulatory requirements (e.g., IATA)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62064c0d-9175-4052-900a-17df09f8ad03",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d334dac9-2a53-4811-8c88-0097928bb166",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Schedule timely pickups and track shipments to ensure timely delivery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f778f080-32c3-46e1-b3b3-31f08445f800",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6136dcbf-b7ed-4caf-87be-33244c16ff41",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Tracking and Documentation of Referral Samples"
+        }
+      ]
+    },
+    {
+      "id": "40884ccf-3c34-465a-9831-b8446a326290",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c58e5d4d-20c4-4e81-95bc-7538f4d84f0d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Entry in LIMS"
+        }
+      ]
+    },
+    {
+      "id": "9ff2a72e-ed19-4f85-9393-61c3f4bff82a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4b75b8bb-9190-4858-8c39-bd54b7038f89",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document sample details, shipment date, referral laboratory, and courier tracking number in the LIMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8dfc2806-3667-4423-8288-2f1728a684bb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "447e8e37-d406-4051-86d3-fc61ba98b74c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Chain of Custody Documentation"
+        }
+      ]
+    },
+    {
+      "id": "bdf5183c-1f89-43ed-b7f3-eada223c45ea",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "42ae3bbd-9a34-4afa-b3df-0507edec0d10",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update the Chain of Custody log for every sample transfer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97f3a9ae-387c-4aa8-acf0-e558c4c2d9be",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1877125f-d848-4d87-9f3e-1dd19118bb40",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Receipt and Verification of Test Results"
+        }
+      ]
+    },
+    {
+      "id": "7480f53d-37c3-443d-a53b-1903440ac6e8",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6fe36b7c-bd8b-49ee-a92b-62b28c1f3ebb",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Receipt of Results"
+        }
+      ]
+    },
+    {
+      "id": "9f87bd48-1eda-4908-9a70-4477b01a732d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9b7ca4ed-c43f-46ec-9111-f6d936d61edf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Enter results into the LIMS upon receipt, ensuring they are attributed to the correct Sample ID."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baf6f262-ed0d-4f28-a0ef-7506833a85bd",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8317bb6a-bcae-4b20-a756-3d2faee49c98",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.2. Quality Review of Test Results"
+        }
+      ]
+    },
+    {
+      "id": "4bd9ae3e-3739-4254-b0f5-4cffab83eaa8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cfe23675-5bed-41d8-8fd0-4b73108a9246",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify results against requested tests and historical data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "814e9663-4889-4701-882d-942d1efc84e8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7c577993-c9e6-4d94-af6b-f08467ed56d8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document the review process and flag discrepancies for follow-up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3ffab58-b46a-49e4-b70b-9c353e2c876a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0ebb4a87-76ca-44ac-b02c-81ff60d74cf0",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Reporting and Documentation of Referral Results"
+        }
+      ]
+    },
+    {
+      "id": "451feee9-1373-4afd-8fc1-bc97f4f3395e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c2910613-7639-4176-8ca2-95a2447c475f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. Test Report Preparation"
+        }
+      ]
+    },
+    {
+      "id": "40b0710a-4285-4827-9813-9b2e628eff83",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2ac39c08-4dcf-48aa-b6f5-67738f69bf67",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Incorporate verified results into the patient’s final test report, labeling them as external results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0b6fea3-08a0-4002-bf66-0d9cd0108d10",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "81f4f8e7-392f-459d-8696-526f20f4038c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.2. Documentation and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "809fe427-379d-49bb-8880-6be0764d1402",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d9a6c8a5-cd2c-4549-81b9-78707b1b0cf5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain referral testing records (e.g., requisition forms, Chain of Custody documentation, results) for a minimum of five years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed541cdc-be13-45e7-8801-75db7c5b7610",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9556fce5-0ca0-4e54-9f68-150c3df02fe2",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. Monitoring and Quality Assurance"
+        }
+      ]
+    },
+    {
+      "id": "c8c9ab23-0150-4ecb-9ace-ca2b481125c7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d84e3206-54d6-4825-ba7a-38bee88bdb36",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.1. Monitoring Referral Laboratory Performance"
+        }
+      ]
+    },
+    {
+      "id": "a13cafd5-7c88-40d2-855f-f088d72860eb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fb91be09-6fe3-44cc-a17e-531718f5652b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual reviews, addressing deficiencies with corrective actions if needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a7437d7-54e8-498c-866c-1f7470641a09",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "89b41020-9037-4e13-b284-0eb90438069d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.2. Periodic Audits"
+        }
+      ]
+    },
+    {
+      "id": "6ac2b674-f355-42f4-8997-23176cde9fa7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "34172f42-8885-4a95-8fe9-35edf1c0f292",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly audit referral testing processes to ensure compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91c95111-a08f-48ca-9f05-4ea4ac7b2d89",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5d9497e5-5f0e-4274-86fe-09d7266adce9",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "12. Incident Reporting and Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "93f710a7-2877-4b78-9d1b-c64478c0f487",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c70ad67e-d673-495e-bf3f-ab6562d64b03",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "12.1. Reporting Issues"
+        }
+      ]
+    },
+    {
+      "id": "88eea5cb-e626-4d50-8b10-0356922394fd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c031074b-0907-418c-9b84-8117667e04a4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document incidents such as sample loss, compromised samples, or delayed results in an Incident Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d52694c7-a1e9-4884-ab86-5e18984309bd",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5dc8f3aa-0746-4cb8-b019-51c099ea1a61",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "12.2. Root Cause Analysis and Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "588bdabc-41f2-44c4-bc2c-265d6e92cb07",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "15d53387-6ce5-4cd0-8d6b-5f32dcb4d2d5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct a root cause analysis for reported incidents and implement corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "365b6472-3631-42f8-90e0-0275093383f6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "26962e88-5cc3-49ce-bc93-b0bb03d4931c",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "13. Staff Training and Competency"
+        }
+      ]
+    },
+    {
+      "id": "4398a379-bf35-4e44-bce4-2f6ce63794ee",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "08a6964d-afb0-4032-899a-f15ce81fc099",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "13.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "35feeb93-f4ac-4352-b90a-7a1cc1fdadc4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "391eb74d-67fb-4b72-9301-80823e4930fc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Train new staff on referral testing procedures, including preparation, documentation, packaging, and Chain of Custody requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0fae4cd-1d2d-4e04-b12b-2dd4bc70e5b0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "39722780-c23a-4ada-81e3-947f63ac9486",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "13.2. Ongoing Competency Assessments"
+        }
+      ]
+    },
+    {
+      "id": "d4af3216-46f3-4b6a-acf8-840128b3bd75",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "47bf0b84-5134-4b93-8de9-d10a04cab602",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide annual refresher training and update training records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc557022-1324-4436-9142-d7ce6597e222",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7dd034a9-f986-4d95-bb28-ffcf4300f710",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "14. References"
+        }
+      ]
+    },
+    {
+      "id": "7e6a6465-8766-4eaf-9788-dcaa024925f1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b6fb7387-aea6-48f5-bb5c-b780f3ae4e25",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 15189: Medical laboratories – Requirements for quality and competence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0679107-fbf4-4d40-94b5-d556d3145cb4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "868d828f-fcdf-4aab-b2a5-a4b5ecc97111",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d7c20f9-b930-425b-86ab-a921fef13205",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "643b5c73-9d9a-4694-a2ff-f12ca7b28d23",
+          "type": "lic",
+          "children": [
+            {
+              "text": "IATA Dangerous Goods Regulations for shipping laboratory samples"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e2ffc85-8420-49b6-9f63-5727516d1e05",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a385af6b-1e8b-4745-b316-b9a0907b8e5a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Quality and Safety Policies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc31fe5c-3e5d-4670-a033-17ab43bc97c3",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "24f3a3ad-086d-409b-a084-f1c86b73fa92",
+  "title": "Review Scope",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Date": {
+        "id": "f61e6d99-51e3-4176-a785-447a319774ed",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Reviewer": {
+        "id": "a516cf13-0b7f-408d-bd23-4865561295dc",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Review Period": {
+        "id": "cc1c65c2-6755-4b21-b271-8e37b39ab577",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Standard being Reviewed (Reference SOP)": {
+        "id": "e259cba0-0015-44e3-bb41-b0434cab94e8",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "ff6a27ba-5582-4d5a-af6b-e7296d5f83a1",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Define the Scope of this Review:"
+          }
+        ]
+      },
+      {
+        "id": "de1c92bd-80a7-4b6c-85c2-b1e75b3d0ce7",
+        "type": "li",
+        "children": [
+          {
+            "id": "469fc349-561c-45aa-b57e-7629b7d727ed",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9149845f-b2ca-4fb5-9cbc-3291e9a3d7db",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "369db6a1-e2cc-4de6-afbb-0a4c88a5cf20",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "38e82321-f3f3-47b9-8925-1f068484a172",
+        "type": "field",
+        "fieldId": "cc1c65c2-6755-4b21-b271-8e37b39ab577",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9a6445ae-4b14-4be9-9269-dff7310a673d",
+        "type": "field",
+        "fieldId": "e259cba0-0015-44e3-bb41-b0434cab94e8",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "02983dfd-5d06-414c-a57f-663f603b5e3f",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7df37dfa-8715-436f-bed2-41d8b0b8a622",
+        "type": "field",
+        "fieldId": "a516cf13-0b7f-408d-bd23-4865561295dc",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c2447554-83ff-4a70-aa98-1f11b64a93c5",
+        "type": "field",
+        "fieldId": "f61e6d99-51e3-4176-a785-447a319774ed",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "2f5cb5f0-017e-408c-be47-771c645343b9",
+        "type": "FIELD",
+        "fieldId": "cc1c65c2-6755-4b21-b271-8e37b39ab577"
+      },
+      {
+        "id": "8d0bbb7c-b6f5-4827-a392-91734bda28d8",
+        "type": "FIELD",
+        "fieldId": "e259cba0-0015-44e3-bb41-b0434cab94e8"
+      },
+      {
+        "id": "d9bebf81-53d3-4ece-baf9-e9326e8e78a8",
+        "type": "FIELD",
+        "fieldId": "a516cf13-0b7f-408d-bd23-4865561295dc"
+      },
+      {
+        "id": "fef236ba-bcad-4212-a10c-849771f06796",
+        "type": "FIELD",
+        "fieldId": "f61e6d99-51e3-4176-a785-447a319774ed"
+      }
+    ]
+  }
+}

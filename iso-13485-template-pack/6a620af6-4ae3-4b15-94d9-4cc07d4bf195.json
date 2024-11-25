@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "6a620af6-4ae3-4b15-94d9-4cc07d4bf195",
+  "title": "Issue Reporting",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Issue": {
+        "id": "6fcf1903-375b-435b-83a8-27dc2cf6e98d",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Severity": {
+        "id": "32cf24e0-b894-43a6-b232-e0ab84f3833b",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": []
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "c0c03e64-7d17-4c21-9a32-cbe457941309",
+        "type": "h2",
+        "children": [
+          {
+            "text": "Report Issue Here:"
+          }
+        ]
+      },
+      {
+        "id": "c7fe2b2d-bf54-4ba4-abab-06d1323dea99",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "a7ac406f-0376-4695-ae5e-7db9286eb4af",
+        "type": "field",
+        "fieldId": "6fcf1903-375b-435b-83a8-27dc2cf6e98d",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6c7bf53a-b40d-4507-a765-1db8c851085e",
+        "type": "field",
+        "fieldId": "32cf24e0-b894-43a6-b232-e0ab84f3833b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3270ac0a-fc6d-49c8-a8bf-a921bd26485c",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6837b203-55d1-479d-96c4-cda7dbfa9be0",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Description of the Issue:"
+          }
+        ]
+      },
+      {
+        "id": "55034ac6-9544-4b20-958e-4915315caeca",
+        "type": "li",
+        "children": [
+          {
+            "id": "650eb2b7-f801-482d-a161-4e0b083df402",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b631d594-f5e2-473c-ac6c-6ef64603958e",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c382875b-b717-4a21-86f6-332a90168385",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Corrective Actions to be Taken:"
+          }
+        ]
+      },
+      {
+        "id": "fe503b43-f919-4d74-998a-0276c066d530",
+        "type": "li",
+        "children": [
+          {
+            "id": "0a930185-76ba-40ba-8b0b-443c86e1056c",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "f911561f-0d46-44e5-9be1-aff015805d7d",
+        "type": "FIELD",
+        "fieldId": "6fcf1903-375b-435b-83a8-27dc2cf6e98d"
+      },
+      {
+        "id": "cd7af5e8-936c-4b01-8409-b09419070f48",
+        "type": "FIELD",
+        "fieldId": "32cf24e0-b894-43a6-b232-e0ab84f3833b"
+      }
+    ]
+  }
+}

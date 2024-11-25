@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "34657613-33e0-403d-9513-dcfceccfeeb9",
+  "title": "Cleaning Verification",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "QA Supervisor": {
+        "id": "7e6b7d19-16db-49f4-ab24-fd82b621cfc1",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Verification Date": {
+        "id": "92fb35d5-d2d2-44c2-b0b8-531b3547b26b",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Verification Status": {
+        "id": "99d3bf26-1db7-45de-928f-d5316295da99",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Approved",
+            "Rejected",
+            "Review Required"
+          ]
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "525664bb-ec42-4bbc-92f4-9e2a1c04064e",
+        "type": "field",
+        "fieldId": "7e6b7d19-16db-49f4-ab24-fd82b621cfc1",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4c54835b-4d50-4273-a631-5cd88226e210",
+        "type": "field",
+        "fieldId": "92fb35d5-d2d2-44c2-b0b8-531b3547b26b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "d7d8c0c0-9f5e-4d39-a55e-fe8393e7d3f2",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5558fb48-a228-4802-9312-73ceb5dca6ca",
+        "type": "field",
+        "fieldId": "99d3bf26-1db7-45de-928f-d5316295da99",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5c8888d5-323a-4f9e-abe1-9c33fe21cfb3",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4df0d246-e332-4eb4-a167-2f1f31c138e5",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Add any comments regarding the protocol or verification process below:"
+          }
+        ]
+      },
+      {
+        "id": "7c4b7403-75d7-4589-bd64-6ebddb322a13",
+        "type": "li",
+        "children": [
+          {
+            "id": "ca8f7f0d-242d-4eea-8001-e8fa8842877b",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "57db71b1-d91e-44ff-9fb0-5d4615440c04",
+        "type": "FIELD",
+        "fieldId": "7e6b7d19-16db-49f4-ab24-fd82b621cfc1"
+      },
+      {
+        "id": "b9da25b1-48fd-4c71-b0ea-a621b9e41272",
+        "type": "FIELD",
+        "fieldId": "99d3bf26-1db7-45de-928f-d5316295da99"
+      },
+      {
+        "id": "83594e19-1ab8-4e19-99ba-56400b836301",
+        "type": "FIELD",
+        "fieldId": "92fb35d5-d2d2-44c2-b0b8-531b3547b26b"
+      }
+    ]
+  }
+}

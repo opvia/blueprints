@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ebe38066-35aa-4966-a0cd-836eacbbb26f",
+  "title": "Incident Reporting Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "bb33fb0d-b1fa-47a7-b2e0-b2b43fa9a9b7",
+      "step": {
+        "id": "7655a43f-0249-4b94-892b-1a81c0353f58",
+        "version": null
+      }
+    }
+  ]
+}

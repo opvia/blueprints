@@ -1,0 +1,1066 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "a2c37e2b-194c-47bd-9009-30f798fdec03",
+  "title": "SOP - Documenting External Audits",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "8f7072a7-7b64-4b24-879f-bfe57fbe1e56",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "bedc0e2b-7384-47ff-8b02-b386ecac93a0",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "2ea0a674-b718-4353-b08f-6ebefdbf6200",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "314beae1-bf68-4161-9d74-3a298ddf2162",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "e87b811e-8c98-4788-84a7-cac75de0d374",
+      "type": "field",
+      "fieldId": "314beae1-bf68-4161-9d74-3a298ddf2162",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0b6c4fd7-a96b-4f08-aa6d-5aca8e407849",
+      "type": "field",
+      "fieldId": "2ea0a674-b718-4353-b08f-6ebefdbf6200",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c7309af4-f62d-4674-8c4a-9aa89d10c026",
+      "type": "field",
+      "fieldId": "8f7072a7-7b64-4b24-879f-bfe57fbe1e56",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0f9d326a-462e-4406-bcc6-5096631a116a",
+      "type": "field",
+      "fieldId": "bedc0e2b-7384-47ff-8b02-b386ecac93a0",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d7bde9bd-04a6-4f9b-a2aa-51367c796378",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ab5f9987-20da-425f-9ae5-81d54d47fec9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "752701fd-43fb-444d-bd68-cbded9737ef7",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to define the process for documenting external audits to ensure compliance with ISO13485. This SOP ensures that all external audit activities are recorded, findings are documented, and corrective actions are tracked, thereby supporting continuous improvement within the quality management system."
+        }
+      ]
+    },
+    {
+      "id": "dea3c7a5-583e-4223-9abe-b35e4359f4a0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "59206856-47f9-4e28-8142-6d9eacd87261",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "3e1ccdb2-dd6c-4aec-a0b5-490728a4df1e",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all external audits conducted by regulatory bodies, certification organisations, or customers. It covers documentation of audit activities, findings, corrective and preventive actions (CAPA), and communication with relevant stakeholders."
+        }
+      ]
+    },
+    {
+      "id": "f849b8e0-3a76-4a37-87de-ed87e57658d0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b416984e-7caa-4241-9173-ba49145cabd9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "e3a27ce9-8b9f-4ccb-934e-b1fb9c91532a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0d255f56-aa99-4bc5-b98c-a022705bf5a9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Coordinates audit activities, documents audit findings, and ensures corrective actions are implemented and documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1bae4858-0575-408e-8313-6607d7cd63a2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "902b98b7-f508-45ac-b22a-09e530d4811d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Department Heads"
+            },
+            {
+              "text": ": Provide necessary information and support during the audit process, respond to findings, and implement corrective actions in their respective areas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e37fa5e4-0b7e-4009-8480-707ffdbbf837",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c3b311c4-42ed-41a5-8927-dd0cc48e60f9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management"
+            },
+            {
+              "text": ": Reviews and approves audit findings and corrective actions, and allocates resources for addressing audit outcomes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5af8c1f0-1e03-4f40-89c2-29b7b2e78a21",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aa9624c4-37b0-4a80-8825-25ad6d0804ab",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "7ca4e802-a514-4835-bd1d-c4abe53e07cb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "30178b00-011f-4e65-bf76-239d81067628",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "External Audit"
+            },
+            {
+              "text": ": A formal review conducted by an external party, such as a regulatory authority, certification body, or customer, to assess compliance with specified standards or regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3512489-2f85-41df-9eca-c943e3c00a31",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "df54353a-006d-4719-a353-e0e481a07acf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Findings"
+            },
+            {
+              "text": ": Observations made by the auditor(s) which may include non-conformities, recommendations, or areas for improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23d7abaa-3003-48b8-a204-ca0636c0d17a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dce7b625-d5ad-4d71-baf4-5358c7638083",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective Action"
+            },
+            {
+              "text": ": Actions taken to eliminate the causes of non-conformities identified during the audit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a421d3ba-b556-4ec8-9278-dcf645c4d201",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f4ce69f7-77c2-4ff8-9ed8-6c813a0881f4",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "General Guidelines for Documenting External Audits"
+        }
+      ]
+    },
+    {
+      "id": "5cd5316b-f66e-40cd-a9c9-cee9a687f032",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d2fb852f-3c1e-437a-8c7a-da0b3d0b416d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Preparation"
+            },
+            {
+              "text": ": Ensure all relevant documents, records, and personnel are available for the audit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f61b7272-bd05-4e3c-ae73-d14256592c4b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc9815b6-1f5d-4c0e-93bf-1c2229b17629",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accuracy"
+            },
+            {
+              "text": ": Record all findings accurately, with specific details of each observation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de299bd9-4538-4845-b25b-12f9d25dfe6a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "20765b72-5d3d-4cde-a5c1-ebc7c80666ef",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Confidentiality"
+            },
+            {
+              "text": ": Ensure that all audit-related documents are handled with confidentiality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e951f9f-aebc-4fe3-b5dc-6466b992ceaa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "088949cb-93f0-450c-a39c-a4082cb090a9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "External Audit Documentation Process"
+        }
+      ]
+    },
+    {
+      "id": "e35bf930-d115-4200-a698-84b30de04c1d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1be6eb28-2f7f-4a10-8ad6-1cd381a86fa0",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Pre-Audit Preparation"
+        }
+      ]
+    },
+    {
+      "id": "77ba75f6-f56c-4a67-a148-c438b5ebcd6b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5e931581-b268-4253-b24d-d29466892b4a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coordination"
+            },
+            {
+              "text": ": QA coordinates with the external auditor to confirm the audit scope, schedule, and required documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a05f339c-9f7f-4434-aa20-cc53c3206296",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0d071783-2c0e-48f8-9fc5-fcea14dc6a6c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Internal Preparation"
+            },
+            {
+              "text": ": QA reviews the quality management system and communicates with Department Heads to prepare relevant records and ensure availability of key personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eaba2092-3fb6-41bd-9046-9190b9fd7e2f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "13256f13-ef6f-43d6-b4d1-e78ec7949856",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Agenda"
+            },
+            {
+              "text": ": Ensure the audit agenda is documented and shared with relevant departments prior to the audit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79c83f58-c40a-4fdd-9c52-76a338e8a748",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2cc4d9da-8819-4eb4-b82d-7096ef4e1db5",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. During the Audit"
+        }
+      ]
+    },
+    {
+      "id": "6fa25c74-43dd-4821-8d09-588fa9ace69a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "171c472f-fa86-4e1c-bc05-792c21febdda",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Real-Time Documentation"
+            },
+            {
+              "text": ": QA documents audit proceedings, including observations, discussions, and evidence reviewed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eba05a36-323f-4665-a0fc-157a428f26ad",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dcb8d37f-c31a-487e-a6f9-436b36ea0b99",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Findings Log"
+            },
+            {
+              "text": ": QA maintains an audit findings log to record each finding, classification (e.g., major, minor), and associated details, including evidence and auditor’s comments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2425b801-1dab-43b9-b4db-9d3ad239017f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a8f3dad2-d93a-4792-9875-e9e373b12740",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Clarifications"
+            },
+            {
+              "text": ": If clarification is needed on any findings, QA liaises with the auditor to ensure accurate documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6da63458-a259-471f-9131-7039c51b5800",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f81da6ac-b7f6-4ca5-bf7f-837f5400f072",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3. Post-Audit Documentation"
+        }
+      ]
+    },
+    {
+      "id": "75b38ef7-0303-44f6-a0f4-d2fcb911e262",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f7d653f5-3f2f-4833-9268-611989d87960",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Report"
+            },
+            {
+              "text": ": Upon receiving the audit report from the external auditor, QA reviews it for accuracy and completeness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e1e7a99-81a5-46ff-ad5b-7b25fb74d8d4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6a34f5b7-7901-4213-b17a-b5ffc25a1bb1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Distribution of Findings"
+            },
+            {
+              "text": ": QA distributes the audit report to Department Heads and Management, highlighting critical findings that require immediate action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "146f0c99-4e05-4949-9187-f976b91298b1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e32ffa35-134e-4635-b84d-6ae999688e8c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Documentation Package"
+            },
+            {
+              "text": ": Assemble a comprehensive documentation package that includes the audit agenda, findings log, auditor report, and any associated evidence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d405ca0b-68df-4e17-869f-8e7e8bc909d5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0d5892c3-2f76-47db-a646-825b9eedf100",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Corrective and Preventive Actions (CAPA) for Audit Findings"
+        }
+      ]
+    },
+    {
+      "id": "8f25b087-37f0-4646-a267-3cd44c8e8c35",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "79f11b86-0632-4cf4-b7f9-46d8375a47ed",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Identifying Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "a2ff2ef9-0c8e-4235-9697-19008ee78add",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "95c24fee-6d87-4374-983d-28c8b6eeb2e0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For each non-conformity identified in the audit, QA coordinates with relevant Department Heads to identify and document corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb1cd6de-e078-4f6c-8cbf-f2e44de57214",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7735981f-eb37-4d3c-ad92-94c078e37c5b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Root Cause Analysis"
+            },
+            {
+              "text": ": Perform a root cause analysis for each finding to determine the underlying cause."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c44f5fb-5fba-451d-be91-4c34268b5ed6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dd208108-01b9-4339-8299-eac463fe3734",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Implementing and Documenting Actions"
+        }
+      ]
+    },
+    {
+      "id": "2d8007a4-764e-45f4-bd3c-f69fa13d7f85",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5ac168c7-c23a-4836-bee9-19cb95b340fa",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Action Plan"
+            },
+            {
+              "text": ": Create an action plan detailing corrective actions, responsible personnel, and deadlines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d3b7874-0714-4c01-9270-4efd74862a9d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc1ace0d-ab4a-4b94-b82a-8f8b1f05535c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Document each corrective action in the CAPA log, including descriptions, status updates, and completion dates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "900ce726-8c6b-4b6f-8c0d-dcc6661e4765",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a79271da-fc0f-4d0c-8d93-b51fab91db38",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Verification of Effectiveness"
+            },
+            {
+              "text": ": QA verifies that corrective actions have been effective in resolving the non-conformities and documents this verification in the CAPA log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5de213bc-188b-4758-9b98-ab6995ceaf3a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "82cadf38-c927-49b2-929a-5af9ed56c94d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Post-Audit Review and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "9101c209-13d4-4e55-82c1-f93e933168da",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5fc0971f-f51d-4a62-8271-820cc73ff670",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Management Review"
+        }
+      ]
+    },
+    {
+      "id": "5504dded-3249-4c50-bdad-6d3ebc2c0189",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea2787ed-0a61-48c2-8a78-c78abce44b9e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA presents the audit findings, corrective actions, and effectiveness verification to Management for review and approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72814f2b-9e3d-4e57-8a6f-24bc97342142",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6fb1cb14-1922-4239-b08f-85fab0588344",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Improvement Opportunities"
+            },
+            {
+              "text": ": Management reviews findings for potential opportunities to improve the quality management system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0947ffa7-f790-419a-8eb0-93f6dad27b37",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "73286146-32b1-41fe-8aed-75575756237e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Record Retention"
+        }
+      ]
+    },
+    {
+      "id": "0ad3e8f0-e09a-4316-aaa4-de95bb5262ea",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "16e0ae64-0238-4d43-9665-9ef056ac108a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Retention Period"
+            },
+            {
+              "text": ": All audit-related records, including audit reports, findings logs, CAPA documentation, and related correspondence, are retained according to ISO13485 requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78ceb406-5b7a-4b16-bf6c-275f03064327",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8e149f7c-7da4-4f4e-b058-98089edef9db",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accessibility"
+            },
+            {
+              "text": ": Records must be accessible for subsequent audits, management reviews, and regulatory inspections."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43bfdf58-f675-421f-8509-d6fd0f691d53",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad722c0c-34b3-44ac-a44f-c25b602d787a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "cb436ec6-db0d-4bda-87ce-8c6605bcf796",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bf3c9758-389d-4a39-af21-8cb645692c83",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel involved in the audit process must receive training on this SOP before participating in an external audit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ad47f21-a326-4172-a670-32f1e37899fb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "92757dea-c47f-43b4-9db5-abf2084c0915",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Refresher training is conducted annually or when significant updates are made."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f9ce6d3-8417-41dc-b225-24d7558a4910",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3105cb4b-2b0a-4cbb-8106-377c8c1bfc80",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records for audit and compliance purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55dab06e-01e2-4098-b4d9-b9b1bcaea7df",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f86fc860-d0b1-49e1-8aa7-7934a3331ea2",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "0a3bf29a-916c-48c7-a977-7e147a596fd6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e91e3d0c-50b4-4d6a-a589-b0bc4e186ee3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 Quality Management Systems – Requirements for Regulatory Purposes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

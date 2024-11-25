@@ -1,0 +1,1521 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "28348fde-2313-4ea6-8eeb-586bdd005d16",
+  "title": "SOP - Staff Training and Competency Assessment",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "03967383-6b17-40e6-bcb6-da68439d89a7",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "89a8ea5b-a579-45c2-b924-07f4b02b9dbc",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "4c46c4b8-4ee2-48a5-bc8a-44ba3ee8605a",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "41cbe94f-db1f-468e-a76a-ae5b2b9052b7",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "5280f26b-7a19-4d6c-b80f-566aa7fc530f",
+      "type": "field",
+      "fieldId": "41cbe94f-db1f-468e-a76a-ae5b2b9052b7",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5fdc7557-7153-487e-9999-fb2315817416",
+      "type": "field",
+      "fieldId": "4c46c4b8-4ee2-48a5-bc8a-44ba3ee8605a",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d3e0f36e-86c3-455d-ae4d-aaaeff7c3ac5",
+      "type": "field",
+      "fieldId": "03967383-6b17-40e6-bcb6-da68439d89a7",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b4709e01-06f6-4661-ae00-dfc99a308149",
+      "type": "field",
+      "fieldId": "89a8ea5b-a579-45c2-b924-07f4b02b9dbc",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8e61112a-9ad2-4f2d-98e4-9c3d19ea7af4",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7bb2a4ae-a034-45d7-8106-9ef3d3d1fb80",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "d0adb87d-9103-4358-8654-bea2beb6ea5a",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this SOP is to define the procedures for staff training and competency assessment to ensure that all personnel performing tasks that affect product quality, safety, or compliance have the necessary skills, knowledge, and qualifications. This procedure supports compliance with ISO13485 and promotes continuous improvement of workforce capabilities."
+        }
+      ]
+    },
+    {
+      "id": "9fba709d-ebdf-42be-9bc5-f67c0e2231dc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "22b74f41-8927-45f3-808d-f1c0eaf758ca",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "5adf6e44-d954-4307-9368-a17cde90d35c",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all employees whose responsibilities impact the quality management system (QMS), including production, quality assurance, regulatory compliance, and support functions. It includes training, competency assessment, and documentation."
+        }
+      ]
+    },
+    {
+      "id": "f880e7dc-1db2-4cfa-a8cc-609b5f13bfa5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0af5f3a7-a9ce-4a68-bf34-9651b9114fa3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "7b07c249-5c0f-4ac2-9725-f5ce9f38c28a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "14248394-0aca-421c-b95d-9169b082c54e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "HR Department"
+            },
+            {
+              "text": ": Maintains training records and schedules training sessions. Coordinates initial and refresher training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52204200-f268-41bc-9a96-d173a94a7ba9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "df855206-5b7b-43f5-a5f3-6bc708c0844d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Department Heads"
+            },
+            {
+              "text": ": Identify training needs, ensure training delivery, and assess competency within their departments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1a3e794-15d5-4001-8432-aff3f1a4d819",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6a7a0b7b-c491-4bf2-8604-8d1e615fa670",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Monitors and verifies the effectiveness of training and competency programs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e0fa9a0-ed21-459a-a95c-4a8e982dee4a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "860b92d2-7300-463d-b46d-e6f72fca1cc0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Employees"
+            },
+            {
+              "text": ": Participate in training sessions and assessments and apply knowledge and skills in their roles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ce1adb5-cf73-4d62-9665-e4677b2e6ef8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0142d11f-828b-4791-be27-86aa67d499b8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management"
+            },
+            {
+              "text": ": Reviews training effectiveness and allocates resources for training and competency improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "299786dc-8982-4c5e-8802-85e18e6d61e3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ecc8ce89-81ed-4d17-9d2a-af4e3a4dea1c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "7a16875c-f363-40f2-bc5d-75b564b71d76",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "656f6b75-a70f-40db-b769-83c2c0a1e52f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Competency"
+            },
+            {
+              "text": ": The ability of personnel to apply knowledge, skills, and experience to perform assigned tasks effectively and consistently."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b10b9f27-fffd-4a18-9d95-8a9562b8eb02",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "18892bc9-f98f-4dcd-a27f-462598c4f24d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Plan"
+            },
+            {
+              "text": ": A document that outlines required training, schedules, and objectives for staff members."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c73c4f3a-7769-418e-80bd-59f857dfdd0f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5c4eac88-9732-49ed-8b06-65efb35f1707",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Record"
+            },
+            {
+              "text": ": A documented record of all training activities completed by an employee, including dates and certifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfb5ee59-fe30-4ef8-823f-26efb3a95746",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "43a9c4b3-b03e-4139-9ddc-6a10a9dbf0a5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Competency Assessment"
+            },
+            {
+              "text": ": An evaluation to verify an individual’s ability to perform their assigned duties to required standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "618e43b5-3125-4170-b2ec-7e6bf49f9e41",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "585855b9-e932-4fdb-802a-7bdae3a6c5c2",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "Procedure"
+        }
+      ]
+    },
+    {
+      "id": "a0e3d36e-dc79-4607-b9a1-4076d04ee706",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bbedcf04-b15a-45e4-afe4-1d0b474c31cd",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Identifying Training Needs"
+        }
+      ]
+    },
+    {
+      "id": "05f46250-2998-48f6-8bac-6e5d2200ae96",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b5a67544-c479-4819-9755-e127c38ed43b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Department Heads and QA identify training needs based on:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64f87a89-2307-462e-ae7e-cb601a7cd338",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "bcbe45e0-bef8-4300-b80f-1d3cc276d178",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Job descriptions and roles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e0d4505-a987-4289-a396-9b21d32c95f2",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "33bc3cfa-9986-4bc6-97b6-779c176e6e4e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regulatory and QMS requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d17fef3b-3539-4508-be33-480865803c17",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2274f25d-abdc-46ca-aeb5-c72c4984aa6b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Results of audits, non-conformances, or process changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4cd609e-5a67-4009-9920-00efb2bebdc0",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "c3a383d6-b5b7-498b-8e70-3a105bd8b242",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Performance evaluations and employee feedback."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bc03282-0065-4d6c-93a4-5392b8682f36",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cb5b53b7-ed46-47a7-af9c-364cbae5e8a0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training requirements are documented in a "
+            },
+            {
+              "bold": true,
+              "text": "Training Needs Matrix"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "026ea87e-e684-4a14-a068-4fdc5ac6517d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9fc32207-8bdc-45d5-90c0-0ecb31fad721",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. Developing Training Plans"
+        }
+      ]
+    },
+    {
+      "id": "f624e344-a1d3-4457-865e-785d539c6cda",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc97030c-02ed-4271-93b9-28a749325aab",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Individual Training Plans"
+            },
+            {
+              "text": ": HR creates individual training plans based on the Training Needs Matrix, ensuring alignment with job roles and regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d1e61fa-6197-4574-8c58-d750640b4b36",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c1c559d7-01ab-4635-950a-25cd3deaa5f7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Content Development"
+            },
+            {
+              "text": ": Training content is developed or sourced by subject matter experts to cover:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6caf4b74-c6d4-4764-824e-7a91f1cc762c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "53052e93-8c3e-472d-bde1-4dfb95686c47",
+          "type": "lic",
+          "children": [
+            {
+              "text": "SOPs and work instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "704b52fb-8364-4087-b724-57a846585483",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "90db657d-256b-48ca-b97d-11e047769954",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regulatory compliance and QMS principles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28cebf34-96b6-4ac1-a726-1dae2b751bdf",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "dfd45197-c2e6-4906-aa4c-4ba6cdbb53fb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Role-specific technical knowledge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7ef4840-7f46-4d31-9889-3296821407b0",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e5b96362-9d43-414d-9b21-d330085dc8b1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Health and safety procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "040c90bd-61e6-4691-875a-6bf681b87613",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "90f38c00-e994-4342-8c6d-f709c0ef48c3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Methods"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82fa9917-d633-4437-926b-a6251e8e592a",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "129f6124-db6d-4683-9f7f-7b65fc050bdf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Classroom training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49a9d673-e07d-4fc4-a215-239c5b297ae8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "8dd38aaa-f670-405f-aac1-5324907366e5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "On-the-job training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9043ebae-c531-46f8-a3a0-6eb79a27e5b1",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2bd08774-1743-4962-8e24-00e901597502",
+          "type": "lic",
+          "children": [
+            {
+              "text": "E-learning modules."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2d33e71-8e96-4870-8884-2d0dad400e4e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "19b35260-564e-4c8f-83dc-72b0f09ac21e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Workshops or external courses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30e805d9-9d54-4ee4-8ae2-a5eaceda2f55",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1c2afb5a-3ba2-4efc-a0e6-7d7a927a2a91",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.3. Training Delivery"
+        }
+      ]
+    },
+    {
+      "id": "18545d1b-084a-45df-a50f-1a774ad47cfa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "85dd78b4-71ed-460b-a3b5-b92b72905553",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training sessions are delivered according to the individual or departmental training plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf3e6763-e21e-44ca-be47-29190ec9ea96",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9682fb11-9aaa-496c-9fde-db553ff3763c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Trainers document attendance using a "
+            },
+            {
+              "bold": true,
+              "text": "Training Attendance Sheet"
+            },
+            {
+              "text": ", including:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4661e660-6c52-41ef-8eba-6a3eb080a2ec",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "422c480f-43f0-495f-8f53-49a1e54385f0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training date and topic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13370c2c-4650-4179-8521-205299fd96dc",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a5e455c9-7286-4424-bea0-d74f3986690f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Names of participants."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83a33863-59e0-432e-a1a1-e37ee81f8326",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "8d8009b6-54fa-43a0-8d63-4b14428b562b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Trainer’s name and signature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da82fb98-753f-4143-a58a-a3a224359d9c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d89047cf-983f-4982-9ae9-c167d724ca74",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.4. Competency Assessment"
+        }
+      ]
+    },
+    {
+      "id": "bd5c7930-52ba-4d21-b634-d0f5bbc4862c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "46818e26-72fe-4879-b347-68c321da8386",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Initial Assessment"
+            },
+            {
+              "text": ": New employees undergo competency assessments upon completion of their initial training to verify their ability to perform their assigned duties."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f09b4982-8b8c-4e37-8e5c-e1a27f679c5f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d62365ce-7a78-42de-b7b0-77650209c08a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Periodic Assessment"
+            },
+            {
+              "text": ": Department Heads conduct periodic competency assessments based on:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6072aa49-d69f-4ba5-b2c1-99e4ac89adad",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2418aa61-c75e-468c-b9c7-f70f9b376917",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Observations during work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d53be784-29fb-43df-a4bc-3672a254c0eb",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "89b32478-0a3a-41db-8f3c-de6a74289add",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Written or practical tests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e51d4abe-c53c-40e2-b1d3-91d67373b03e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "eb3576d2-acb5-45b5-93bd-9d570fc895e1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Employee self-assessments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abbb8c53-4b8d-45a6-9a92-271a3be81f45",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "462a1b4f-d689-45f2-b3e9-3208de6fff36",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Results are documented in the "
+            },
+            {
+              "bold": true,
+              "text": "Competency Assessment Form"
+            },
+            {
+              "text": " and reviewed by QA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db195099-8c85-4cd9-b136-508f99a4aa79",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4f74f488-c1c8-4072-b453-7d4a0c3213ca",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.5. Re-Training and Skill Development"
+        }
+      ]
+    },
+    {
+      "id": "c374a214-4774-4b94-b0e9-011183349f0b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "48049a56-55f5-4b56-9d93-b9de16c3df17",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Employees are retrained when:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10a2fc3d-344f-4b71-aeff-da312527d13c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "320816b2-537e-4473-861a-7454bf03979d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Changes are made to processes, systems, or regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9dbcaa39-fd6d-459f-9cc8-f8c30a3f0c3c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "84bacd8c-2ec3-4ca1-9ab2-e971f247def0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Competency assessments identify gaps in knowledge or skills."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96bb44be-dfdb-4de0-abdc-fcf100a3f5f6",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "7c27685b-6c28-40c7-b326-8f27b6fd4717",
+          "type": "lic",
+          "children": [
+            {
+              "text": "New equipment or technologies are introduced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e822056-4881-401e-b13a-f0dd91c33592",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "29bbaed9-3998-40c1-bf74-0f041466ffcb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA and Department Heads monitor retraining effectiveness and document the outcomes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c7729f4-d565-4d60-8c94-bc614526a91c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9e70a1ac-559a-48cf-9d70-db60a6428a22",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.6. Effectiveness Review"
+        }
+      ]
+    },
+    {
+      "id": "645ed9fe-8efd-4c4f-a14a-a39d207252fe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3349426c-b3ba-42d0-be26-c114fa9b6a01",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA evaluates the effectiveness of training programs by:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e331ab0f-aeaa-421f-9890-077915cb977c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "dbaa8ade-ddf5-4ad8-a4c7-301c287965ad",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reviewing audit findings related to employee performance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49783ebe-f967-4da8-b876-a99eeeae2d6e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "92d0cb1d-bbb1-4175-b1a4-7743f1144857",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitoring KPIs such as non-conformance rates and process deviations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "733b63d4-a041-4e82-b2ba-ac325c0475b5",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2ec716f1-8697-48a4-9178-3d80801176e5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Collecting employee feedback on training relevance and quality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16855568-1347-46a9-b851-ea4aa8bed98b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8af84278-d62b-4d31-bd41-e23314b632d0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Results are reviewed during management review meetings, and improvements to training programs are implemented as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfab6a2b-d6ed-4072-abdc-2a0e58903170",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "95d3d8af-8122-462c-af2e-166123fb439b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Documentation and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "adf6dddc-2315-403b-8915-6f5b84a3dd30",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d5a4be04-8979-4d8a-99d6-cf752e4e48d2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Needs Matrix"
+            },
+            {
+              "text": ": Maintains a record of all identified training needs per job role."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "230c0115-cb12-4f55-b0f7-e2c2725f3c3c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "53ed91e9-e355-496a-85e6-6fbb18d3bd00",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Attendance Sheets"
+            },
+            {
+              "text": ": Documents attendance at training sessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88dccd92-2b91-4e7f-83c2-01b9323a8e4e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "96c0e97d-f22e-45c7-abfa-40a40247a9db",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Competency Assessment Forms"
+            },
+            {
+              "text": ": Records outcomes of competency assessments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be1a4a30-ea6a-4cf7-9241-370956b47b9e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea2705b2-ddae-4e64-bd0a-fb5f05597dd2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Records"
+            },
+            {
+              "text": ": Maintains individual training records for each employee, including:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1978800-a708-4552-b1a4-31c0a3dbe81b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "c65e524c-c934-42c5-9e02-43bb588b8830",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training dates, topics, and methods."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bbd3e808-9221-4f3f-8fb9-56c72e6abf02",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "dd5051fd-ed07-42cf-9d90-d27cc81ba755",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Competency assessment results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76f6fd07-5bf6-4bc7-8130-03bce8c90fb5",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e0cb04ac-d5b5-4388-ae18-b45fcf9e4bca",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Certifications or qualifications earned."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8cc1298d-6609-455f-bf3e-4828d05cfc90",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f4d3c9a3-3678-41dd-a95d-1971ddc13bdd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All records are retained according to the document retention policy and are accessible for audits and regulatory reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e4cdd3f-6c7a-4815-9999-0a52cb21e5e2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b8234b92-4940-4c0f-b864-83de33a66853",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Training Records Maintenance"
+        }
+      ]
+    },
+    {
+      "id": "a6678979-7c36-40fe-bd5a-d6db0df31784",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fca849b7-1dd3-4011-97ca-d229f005c6f9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Retention"
+            },
+            {
+              "text": ": Retain training records for at least the duration of employment plus any regulatory-required retention period."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "442767d7-e370-443e-8b41-e6e21c6217b8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f95084de-16c3-4501-9df3-d7fca9d88566",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Storage"
+            },
+            {
+              "text": ": Store records securely in an electronic document management system or a locked file with restricted access."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db36de01-0fff-492e-a823-f6bb191ef41b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "422453d1-9dca-4ae4-92ae-9a31e701c331",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Training Program Review"
+        }
+      ]
+    },
+    {
+      "id": "cffdabd6-71b4-4744-b2aa-35e6936efa0d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bce3475d-7ffa-45bb-b303-ff6651977932",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training programs are reviewed annually or whenever significant changes occur in:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59015e28-840d-4085-8af2-38949a4f1058",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "71858d5c-ea53-4c83-82a7-759ff1009847",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Job roles or responsibilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cde29df7-aa1e-48cf-a666-f12b14218038",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "3c9b01ff-70c6-49c6-b13c-6ea1a6d59378",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QMS processes or regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22fab246-5635-40b3-b97e-6932e551853f",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "06da8d1b-d887-4521-ba56-95279e5c0157",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Employee feedback or performance evaluations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91f49174-f5d3-4a97-8d01-49a154b55023",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6587cf9f-0b7f-4b87-9caa-a319ef0f73bb",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "9f0d8e8d-3eea-486e-bdb6-b9e2dfd41666",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8c84828b-90b2-43eb-8d0d-424864c3879c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 Quality Management Systems – Requirements for Regulatory Purposes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

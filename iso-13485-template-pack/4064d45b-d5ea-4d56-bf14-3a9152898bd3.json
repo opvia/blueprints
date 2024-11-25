@@ -1,0 +1,1113 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4064d45b-d5ea-4d56-bf14-3a9152898bd3",
+  "title": "SOP - Purchasing",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "90e10451-18ff-4e5f-8f2a-b79d8156ffbc",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "379c5ecf-921c-4e22-b71f-fe7ea7136068",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "e3824a2e-9768-42b4-b5fb-26edca1d6bc8",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "86133ba4-0738-4dca-b2b0-d05b9bcf4af1",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "ba1c3d26-5bdb-4ee4-a4a1-77be8d71f92d",
+      "type": "field",
+      "fieldId": "86133ba4-0738-4dca-b2b0-d05b9bcf4af1",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d94f25a5-086e-471f-b6a1-bc64834fa8a0",
+      "type": "field",
+      "fieldId": "e3824a2e-9768-42b4-b5fb-26edca1d6bc8",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "db5b62c5-3297-4b2f-93e3-c44aac02ca86",
+      "type": "field",
+      "fieldId": "90e10451-18ff-4e5f-8f2a-b79d8156ffbc",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad2b02f9-76ef-4531-80d4-a7361246c495",
+      "type": "field",
+      "fieldId": "379c5ecf-921c-4e22-b71f-fe7ea7136068",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "08ba5dfd-20e2-4a9f-939c-bf5655e15bcb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2856fff9-153c-4738-8b49-d864a28256fe",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "efe89797-a0e7-49c0-a2f7-db341de62b05",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to define the process for managing purchasing activities to ensure that all purchased products and services meet specified quality requirements in accordance with ISO13485. This SOP establishes controls for selecting suppliers, defining purchase requirements, and verifying purchased materials and services to ensure they contribute to the quality and compliance of the final product."
+        }
+      ]
+    },
+    {
+      "id": "cc9c8a1e-71ef-4264-aaa5-0498bacb0d24",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d623266f-dfaa-4fd5-9a68-face5e0d6616",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "bebbec25-fe3c-4274-aded-0f644ea41a96",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to the purchasing of all materials, components, and services that impact the quality, safety, or regulatory compliance of products, including raw materials, components, equipment, and outsourced processes. It includes supplier evaluation, purchase requirements, verification of purchased items, and maintenance of purchasing records."
+        }
+      ]
+    },
+    {
+      "id": "1ee51b8a-13d7-46b4-aea1-44258da3d916",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "309e8acc-2112-40a8-9f5d-c6d58acd19b0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "b2107c6a-1fcf-4b68-b3a8-1648b09fa370",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "75ebaf9d-1def-4cd5-8bfa-ff1037f34174",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Purchasing Department"
+            },
+            {
+              "text": ": Initiates purchase orders, coordinates with suppliers, and ensures all purchased items meet specified requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3b8095e4-3591-45e6-905f-ded61f3f495a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d48b6005-1559-41ba-a895-8e6d47fba638",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Evaluates and approves suppliers, defines quality requirements for purchased items, and verifies incoming materials for compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9770bfd6-7568-48f8-ac0f-79f942bcb910",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3f1b8a63-d1d2-45b7-872a-f0572fb063b9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Suppliers"
+            },
+            {
+              "text": ": Provide products and services that meet the specified requirements and support compliance with ISO13485."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "624ff7b3-aacc-441b-a8dd-a870ceaaa357",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7c7f301e-5539-49fc-8f2a-422ca5d2958c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management"
+            },
+            {
+              "text": ": Reviews and approves key suppliers and purchasing processes to ensure alignment with quality and regulatory standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f91d575c-85a3-41fa-8697-4e9c96da7551",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "089f7f2a-7b44-47e6-87eb-a525ecb73054",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "460c882a-27ad-40d7-86e3-2f4f22e0b854",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "78c8d523-5e29-4cf4-bf05-c4dfa35b7105",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Supplier"
+            },
+            {
+              "text": ": Any external provider of goods or services that impact the quality, safety, or regulatory compliance of the organisation’s products."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a53d2f2d-ac70-4852-9733-791ccfa090a3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "580044c6-ec42-4f1e-b82b-a4e0f4cc7eaa",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Purchase Order (PO)"
+            },
+            {
+              "text": ": A formal document issued to suppliers detailing the specifications, quantities, and delivery requirements for purchased items."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9200d2ca-3d68-4ffb-aa38-29f91daae3f8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e6be7735-c347-4d47-8e1a-dc91052c7865",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Verification"
+            },
+            {
+              "text": ": The process of inspecting and testing incoming goods or services to ensure they meet defined specifications and quality requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85c053d0-35a9-4ebd-8829-3e97e4d3f722",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b66553fc-b35a-4afc-8882-752badc8504a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "General Purchasing Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "fe3b63bb-474b-48bb-9429-21e53c6e8ea8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "eea26e70-3f9c-4787-aa39-aaaa3e7ab91d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approved Suppliers"
+            },
+            {
+              "text": ": Only use suppliers who have been evaluated and approved by QA according to organisational requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "923d0e36-d4fc-4188-becb-f56ceaa4a987",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "233084d6-4a92-4629-a3d9-23eddab6c32a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Purchase Documentation"
+            },
+            {
+              "text": ": Ensure all purchase orders clearly define product specifications, quality requirements, and any additional regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "938ee384-9bcc-4b36-a9c7-1e27a2c14ab5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fb710f29-1ac3-40eb-a78c-e1bd928234ae",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Verification"
+            },
+            {
+              "text": ": Verify that purchased items meet specified requirements before they are used in production."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe845378-25b8-4d94-b702-9d6c84e76f76",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "943c5448-09f3-4a87-be7a-d6f4e1f37eb5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Purchasing Process"
+        }
+      ]
+    },
+    {
+      "id": "158944c4-404d-4ebf-8fa8-a7f80145c412",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f5dfd673-b549-426e-8bb1-24e490cad022",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Supplier Evaluation and Approval"
+        }
+      ]
+    },
+    {
+      "id": "ad773b3a-0816-4588-a2bf-f82cd5ab3e07",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c9a969e3-8cd0-45cd-b634-42cb921637ea",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Initial Evaluation"
+            },
+            {
+              "text": ": QA evaluates potential suppliers based on their ability to meet specified quality and regulatory requirements, including ISO13485 compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b6c4a0c-c86c-4c02-a9bc-31ea29ae2f3a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d278c31d-a1a8-4040-a497-13fdb61a0888",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approval"
+            },
+            {
+              "text": ": Document approved suppliers in the Approved Supplier List (ASL). Management must review and approve suppliers critical to product quality or compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a736708b-5565-417e-9c88-8d5a0f105e3c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6812b6bf-cac1-45b3-a6d6-02e555c4c371",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Re-Evaluation"
+            },
+            {
+              "text": ": QA periodically re-evaluates suppliers to ensure continued compliance, updating the ASL as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cbebc00-557a-4eed-8eee-9cb73ad9c6c7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4b02c1ac-6fe7-46f5-962c-75f9d8a3615a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Defining Purchase Requirements"
+        }
+      ]
+    },
+    {
+      "id": "43476c0c-7c6e-4e00-929f-1524cc50a934",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fb03a4c5-62c1-45b7-abc9-8f42ef21c21e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Specifications"
+            },
+            {
+              "text": ": The Purchasing Department, with input from QA and relevant departments, defines specifications for each purchased item or service."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5e165be-2185-4af0-82f8-dfb353ed42ce",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a5555e8d-82aa-4ec1-b394-d796034dd9bd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Purchase Order Creation"
+            },
+            {
+              "text": ": Issue a Purchase Order (PO) detailing the requirements, including product specifications, quality standards, delivery timelines, and any testing or certification needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55c337ab-ec44-4696-85d9-41b7b81d0f30",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c82d8169-c6a7-422f-bea3-baa439d4e8d0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Supplier Agreement"
+            },
+            {
+              "text": ": Ensure suppliers agree to meet the specified requirements by signing the PO or a supply agreement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e1f030c-2fdd-4696-99f5-cb524510a812",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b52b6020-8515-4774-ad5f-68ac98cdb9ea",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3. Communicating Quality Requirements to Suppliers"
+        }
+      ]
+    },
+    {
+      "id": "a7abaf6f-d2b4-48b8-b778-20593793c64d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9bbabb07-e906-4f91-af5c-a24d42daaf26",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Agreements"
+            },
+            {
+              "text": ": For critical suppliers, establish quality agreements that define mutual responsibilities for meeting quality standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a6811dd-53dd-41a4-a8a0-5e3d659ac389",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5e445df3-7de2-408b-8885-87d6671f233d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Product-Specific Requirements"
+            },
+            {
+              "text": ": Communicate any product-specific regulatory or quality requirements, such as material certifications, safety data sheets (SDS), or specific testing requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "002f470d-4e6a-42cb-9ae1-4fe6c5217dd7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5bdacc30-cc32-45ad-bc14-461ed82f78ca",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.4. Verification of Purchased Products and Services"
+        }
+      ]
+    },
+    {
+      "id": "06b8b7ec-e2e0-4a7e-8c7a-b41b59d39c5d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1b0f9d8e-418f-4ddc-9e8b-b6ea7ee7d242",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Incoming Inspection"
+            },
+            {
+              "text": ": QA performs incoming inspections on critical materials or components to verify that they meet specifications, including tests for physical properties, dimensions, and chemical composition as applicable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be495d7a-81e3-45c1-9d9a-7c1591dfbfc5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "63d7f404-6c9f-46a1-9a7f-2db736be748d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation and Recordkeeping"
+            },
+            {
+              "text": ": Record inspection results, including nonconformities, in the Incoming Inspection Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c05df6cf-3265-42f2-9a35-aa9b6a5967c2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "06f98b7e-bfc7-4e3a-9b39-c8a06f89eff2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Acceptance Criteria"
+            },
+            {
+              "text": ": Accept items that meet all specified requirements; reject or quarantine items that do not meet specifications, and document non-conformances per SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91927fac-40e6-4c4c-b607-6e6ee5d12b2c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c7d5a18a-cf68-4032-b524-8a439c3744f0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Supplier Performance Monitoring and Feedback"
+        }
+      ]
+    },
+    {
+      "id": "bd3d456f-cc0b-4f07-9c0f-54531bcad88f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "de7c5892-032d-4873-80a0-d134d2ff9b42",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Monitoring Supplier Performance"
+        }
+      ]
+    },
+    {
+      "id": "05d8c300-1b31-4d98-9121-8b88c2386370",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8d4c3d4e-6e27-451a-a0d2-df8f30dcd539",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Metrics"
+            },
+            {
+              "text": ": QA tracks supplier performance metrics, including on-time delivery, quality of delivered products, and responsiveness to issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0832a9ee-3e67-436f-ac62-bca0323af061",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ff34d44d-2e22-4f35-87b6-19d9198348f6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Performance Review"
+            },
+            {
+              "text": ": Regularly review supplier performance and document in the Supplier Performance Log. Discuss findings with the supplier if performance falls below expectations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0e6bcf7-c75c-4848-81f2-203980f470de",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3baf8b99-072d-4fed-af6d-4a0c6a32dfdc",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Supplier Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "27f627aa-2497-4b34-8dd8-e05adc795119",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bc4e965a-ef68-4243-b417-0c4d2e6da1e4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective Actions"
+            },
+            {
+              "text": ": If a supplier fails to meet specified requirements, initiate corrective actions, which may include additional inspection, process audits, or requalification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "522dc98c-fdbb-4f7b-b5b1-cb0d58941d2e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2322b31c-13fe-4aab-bbe4-0477918a8808",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Record corrective actions in the CAPA log and communicate expectations for improvement to the supplier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4062ca2c-cb2f-48e2-90fd-cf4f44211326",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5150d747-c587-46ae-ad7a-cf0ad905bd79",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3. Supplier Relationship Management"
+        }
+      ]
+    },
+    {
+      "id": "4688b030-ec02-4eeb-8262-d46ded12eb5b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ec433f16-c1e4-41ce-ae0f-cde692aaea39",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Continuous Improvement"
+            },
+            {
+              "text": ": Engage with key suppliers to support continuous improvement initiatives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffd1947d-e22d-401a-bbd8-eba45edbbd36",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd7d3508-04f9-4e17-8914-cdf9d907d926",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Feedback"
+            },
+            {
+              "text": ": Provide feedback to suppliers on performance, quality, and areas for improvement, fostering a collaborative relationship to ensure ongoing compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df25d9d7-5032-477b-a268-9dbfaed7ca0d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "60741515-1886-4998-951d-9fe180354cb8",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Post-Purchase Documentation and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "0cc9356b-afdc-43eb-91f4-9f6e7711b1b7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "76f42f7e-b1d1-4de2-ad66-d00daf80dc7e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Retention of Records"
+            },
+            {
+              "text": ": Retain all purchasing documents, including POs, ASLs, inspection records, and supplier correspondence, according to ISO13485 requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd5d9898-8fde-4651-8868-51fa2b696929",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "247d2b80-d164-485e-a38f-771efa09a994",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accessibility"
+            },
+            {
+              "text": ": Ensure records are readily accessible for audits, management reviews, and regulatory inspections."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd42d610-7384-4f73-8363-835c81facbae",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2c2d4ba5-69ae-41c6-9cf5-392333572f02",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "79fcbdde-2abb-429e-aa9e-ddc53df58ae7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "99967394-1cbb-4319-9f1a-a3435763c2d7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel involved in purchasing activities must receive training on this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa201ba2-7f4a-4cb7-b1f1-a2e4067e614b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9d246230-fabf-4fde-b53d-1a96d6dda7b5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual refresher training or when significant updates are made."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1f2e012-8e16-4f15-a00f-9b4284be682a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f7936764-3475-49d1-84fd-614f5fdc1ae5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records for audit and compliance purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34825184-27b3-48c5-9c18-0ef9536b2f44",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f893b0fb-d26c-4e5b-b95b-d942051a6d0a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "c884c708-4083-4a33-a62d-bf22a7ad9f6d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea05942b-b9d0-4f22-a987-a715f6219abc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 Quality Management Systems – Requirements for Regulatory Purposes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

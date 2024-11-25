@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c95cf89f-492b-4414-85fe-3c8554c11970",
+  "title": "Release Authorisation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Authorise the Release of the Product",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Reference": {
+        "id": "7aac387f-72b0-4719-9a13-a0182e35b482",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Product ID": {
+        "id": "a25a9f94-6c44-49a8-8c5d-5f205a99f453",
+        "type": "LOOKUP",
+        "value": null,
+        "config": {
+          "refFieldId": "7aac387f-72b0-4719-9a13-a0182e35b482",
+          "lookupFieldName": "Product ID"
+        },
+        "dataType": "LOOKUP"
+      },
+      "Release By": {
+        "id": "c95ad7b4-788e-43c0-b318-672c00e719da",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Release Date": {
+        "id": "d69ede12-cb79-438b-ab54-dbe0ecd74f36",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Authorised By": {
+        "id": "8a627f8b-5c00-47ff-babf-65e44dc16f8d",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Authorisation Date": {
+        "id": "ef856dc3-8a15-47a3-800f-3537512ac46a",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "2aef58e3-5343-4a3d-b05d-48070aa112bc",
+        "type": "field",
+        "fieldId": "a25a9f94-6c44-49a8-8c5d-5f205a99f453",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "77d8153a-6c8e-4adc-904c-8c9d77f008e9",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "51e3e6cb-99f6-487a-8e61-62ea4982dbd7",
+        "type": "field",
+        "fieldId": "8a627f8b-5c00-47ff-babf-65e44dc16f8d",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f148e6bd-fb1b-46ce-bdf7-a95376aa56f3",
+        "type": "field",
+        "fieldId": "ef856dc3-8a15-47a3-800f-3537512ac46a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "25011bcc-d299-4d07-afa4-dc8d1be62bec",
+        "type": "FIELD",
+        "fieldId": "a25a9f94-6c44-49a8-8c5d-5f205a99f453"
+      },
+      {
+        "id": "8e5046ea-f17b-4e05-8a52-22859b4ae222",
+        "type": "FIELD",
+        "fieldId": "8a627f8b-5c00-47ff-babf-65e44dc16f8d"
+      },
+      {
+        "id": "47578566-0937-4baf-80c1-6cee94c15b1d",
+        "type": "FIELD",
+        "fieldId": "ef856dc3-8a15-47a3-800f-3537512ac46a"
+      },
+      {
+        "id": "051f7d4d-ae2b-4b25-9f57-19315260079e",
+        "type": "FIELD",
+        "fieldId": "d69ede12-cb79-438b-ab54-dbe0ecd74f36"
+      },
+      {
+        "id": "f3f12253-6dd9-4d20-9e7f-9e32ab2b0579",
+        "type": "FIELD",
+        "fieldId": "c95ad7b4-788e-43c0-b318-672c00e719da"
+      }
+    ]
+  }
+}

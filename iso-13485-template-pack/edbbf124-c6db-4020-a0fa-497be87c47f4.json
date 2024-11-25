@@ -1,0 +1,1519 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "edbbf124-c6db-4020-a0fa-497be87c47f4",
+  "title": "SOP - Internal Audits",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "a475fb8e-738c-4ddd-b8c7-0b1c11cac176",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "4ba6e25a-fc9c-452d-a753-21054207da38",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "0a621b0d-b2b6-4873-8dc7-82c37474ded7",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "3ec6eb6f-37b7-451f-8d95-4b5ee216b135",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "df0f6348-1640-4ea0-b589-5903eb6fd273",
+      "type": "field",
+      "fieldId": "3ec6eb6f-37b7-451f-8d95-4b5ee216b135",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5cc993a8-f896-4dd4-a3a2-55a50c816c0f",
+      "type": "field",
+      "fieldId": "0a621b0d-b2b6-4873-8dc7-82c37474ded7",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5d21b944-fc05-4cbd-8f49-9672d88a106b",
+      "type": "field",
+      "fieldId": "a475fb8e-738c-4ddd-b8c7-0b1c11cac176",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6a523230-d111-4205-a9c8-5c4f6be8f3c8",
+      "type": "field",
+      "fieldId": "4ba6e25a-fc9c-452d-a753-21054207da38",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b0b98565-ef6e-4433-bff7-b91a88e13ed6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "01141fcf-3caf-41e0-9c38-e492da03afe2",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "e7844944-67ce-4827-9b01-c0afa10e6320",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "03272d16-3c5d-440b-b721-f071b1dc9e16",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to outline the process for conducting regular internal audits to ensure compliance with laboratory standards, regulations, and SOPs. Internal audits help maintain high-quality laboratory operations, identify areas for improvement, and ensure readiness for external audits."
+        }
+      ]
+    },
+    {
+      "id": "7a321a2c-4b90-474d-a106-f21f1008a661",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "720499b2-d913-493e-b1ae-b85873072c68",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "10ea6930-6467-45e4-afcc-aa0d7af77171",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "55645231-514b-4050-86cb-ba14db077b5b",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel involved in or subject to internal audits, including audit planning, conducting audits, reporting findings, and implementing corrective actions. It encompasses all laboratory activities, from sample handling to data management, safety protocols, and quality control."
+        }
+      ]
+    },
+    {
+      "id": "2877003f-749d-4e98-893e-2bde7fa8c505",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad64d2b3-6bb7-4ff6-bd70-220a83d728b8",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "4c91914b-2eff-4559-a67c-01b632c52b5f",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d914a63b-fc86-4019-a93d-c4d0cacbb683",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager:"
+        },
+        {
+          "text": " Oversees the internal audit program, assigns audit teams, and ensures that corrective actions are implemented."
+        }
+      ]
+    },
+    {
+      "id": "623eabcd-ed20-47e5-9287-caff83a54a8d",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Quality Assurance (QA) Officer:"
+        },
+        {
+          "text": " Coordinates the audit process, prepares audit schedules, reviews findings, and tracks corrective actions."
+        }
+      ]
+    },
+    {
+      "id": "10edc604-ca11-4a20-8c14-85750f2db054",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Internal Audit Team:"
+        },
+        {
+          "text": " Conducts audits in compliance with this SOP, documents findings, and provides feedback to audited personnel."
+        }
+      ]
+    },
+    {
+      "id": "a5cee041-f380-4ca5-b3cd-18db33ec9de8",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Laboratory Personnel:"
+        },
+        {
+          "text": " Cooperates with the audit team, provides requested documentation, and implements corrective actions if required."
+        }
+      ]
+    },
+    {
+      "id": "210934f4-2b34-400b-93ce-b156fed29b07",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "885b0a9b-9b72-481e-aea7-892f87bc524f",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "db1bbbd0-2bb5-4fd7-a122-b036b0cf138b",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Internal Audit:"
+        },
+        {
+          "text": " A systematic, independent examination of laboratory processes and procedures to determine compliance with internal SOPs, regulatory requirements, and quality standards."
+        }
+      ]
+    },
+    {
+      "id": "87acbf62-b388-4a13-9ee1-f7af3d601ffc",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Non-Conformance:"
+        },
+        {
+          "text": " A finding that indicates a deviation from an SOP, regulatory standard, or established protocol."
+        }
+      ]
+    },
+    {
+      "id": "fe93bf4f-bb01-4041-a9f7-96e6e0ff68a8",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Corrective Action:"
+        },
+        {
+          "text": " Steps taken to address a non-conformance and prevent recurrence."
+        }
+      ]
+    },
+    {
+      "id": "ada7c8d0-3baf-482b-a937-3b4b7b961082",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Audit Report:"
+        },
+        {
+          "text": " A formal record of audit findings, including observed practices, identified non-conformances, and recommended corrective actions."
+        }
+      ]
+    },
+    {
+      "id": "7fe2523f-47f7-4a24-8c88-5a8c7154a659",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9ceb259c-f7da-45de-b459-62aa91bb0a6e",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Audit Planning"
+        }
+      ]
+    },
+    {
+      "id": "482068e4-af08-4dbe-a363-73c868835ef6",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f82c78db-e438-4335-8271-49f2c7467985",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.1 Developing the Audit Schedule"
+        }
+      ]
+    },
+    {
+      "id": "78d3599c-61cd-4cee-bbf6-e9107f02b332",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Annual Audit Plan: "
+        },
+        {
+          "text": "Prepare an annual audit plan that includes all key areas of laboratory operations. Each area should be audited at least once per year, with high-risk areas audited more frequently if needed."
+        }
+      ]
+    },
+    {
+      "id": "93dc4289-074e-4f84-8e74-42a3c3f64fa9",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Audit Frequency: "
+        },
+        {
+          "text": "Determine audit frequency based on factors such as regulatory requirements, previous audit findings, and the criticality of processes. Include additional audits as needed for new processes or after significant changes."
+        }
+      ]
+    },
+    {
+      "id": "459e2058-d63e-437e-8f44-6556aa2435f5",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1aed5f47-a4f4-4082-a975-1c5d364621fb",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.2. Assignment of Audit Team"
+        }
+      ]
+    },
+    {
+      "id": "4704b252-eb0b-4193-9da6-01d44b3079f1",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Selecting Auditors: "
+        },
+        {
+          "text": "Appoint qualified internal auditors who are familiar with laboratory processes but independent of the area being audited to ensure objectivity. Preferably, auditors should be trained in internal auditing practices."
+        }
+      ]
+    },
+    {
+      "id": "2792c5c4-d530-4c74-b08d-e47d5855eb68",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Training for Auditors: "
+        },
+        {
+          "text": "Ensure that auditors receive adequate training on auditing techniques, confidentiality, and handling non-conformances in a constructive manner."
+        }
+      ]
+    },
+    {
+      "id": "3b43abbd-0f25-43ac-9e0c-9399ff896bfe",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Notification of Auditees: "
+        },
+        {
+          "text": "Inform the department or personnel scheduled for an audit at least one week in advance, allowing them time to prepare necessary documentation and access to relevant records."
+        }
+      ]
+    },
+    {
+      "id": "d66dfa44-e051-4da6-8574-70f61a005837",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7a261901-a041-4315-9319-db5c746ef9e6",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Conducting the Audit"
+        }
+      ]
+    },
+    {
+      "id": "9177f861-d65e-40bc-a7c6-8d21fc34c31e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1d5f5139-ae97-4634-a388-bc843c39e1b6",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Opening Meeting"
+        }
+      ]
+    },
+    {
+      "id": "cea6d179-0131-499e-bea3-64bfa9f054f0",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Initial Briefing: "
+        },
+        {
+          "text": "Begin with an opening meeting with auditees to discuss the audit objectives, scope, and schedule. Ensure personnel understand the purpose of the audit and their roles in the process."
+        }
+      ]
+    },
+    {
+      "id": "57681d0d-a313-4ea9-9916-2b9588532b3d",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Review of Previous Findings: "
+        },
+        {
+          "text": "Review findings from previous audits with the team to assess if corrective actions were implemented effectively."
+        }
+      ]
+    },
+    {
+      "id": "02fbd534-2d58-4359-9132-bab0534b35fe",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9d4bc80f-82b3-46c2-89ce-1191e289e24f",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.2. Audit Process"
+        }
+      ]
+    },
+    {
+      "id": "663eacc6-9f5c-4e19-b39b-e7d26a22baa5",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Document Review: "
+        },
+        {
+          "text": "Review relevant documents, such as SOPs, training records, calibration logs, and quality control data, to verify compliance with laboratory policies and procedures."
+        }
+      ]
+    },
+    {
+      "id": "146b07df-eb00-4589-8186-cc7e5e2d17c1",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Observation of Procedures: "
+        },
+        {
+          "text": "Observe personnel as they carry out tasks to verify that procedures are being followed as described in SOPs. Take notes of any deviations, adherence to safety protocols, and proper use of equipment."
+        }
+      ]
+    },
+    {
+      "id": "d7d4867c-b8bc-4ea7-982b-3536f9678a12",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Interviews: "
+        },
+        {
+          "text": "Interview staff members to assess their understanding of procedures and identify potential gaps in training or compliance. Encourage open communication and address any questions they may have."
+        }
+      ]
+    },
+    {
+      "id": "88ea2900-11c0-4cdb-a5f8-8cf0375aafd0",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3c5634b5-cb0d-489a-a3cc-f9b4744199eb",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3. Recording Observations and Findings"
+        }
+      ]
+    },
+    {
+      "id": "2e517c9d-a7ee-4277-affa-52578b94fc91",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Documenting Non-Conformances: "
+        },
+        {
+          "text": "Record all non-conformances observed during the audit, specifying the area, nature of non-compliance, and associated SOP or standard that was not followed."
+        }
+      ]
+    },
+    {
+      "id": "dc7025cc-bcb8-4210-8688-e2521d94ab86",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Classification of Findings:"
+        }
+      ]
+    },
+    {
+      "id": "d4ff40d0-b5a9-4ded-b00f-2ebd0335708d",
+      "type": "p",
+      "children": [
+        {
+          "text": "Classify findings based on their severity:"
+        }
+      ]
+    },
+    {
+      "id": "d1ff5374-d76a-4a90-9e4e-e242e97e9792",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Minor Non-Conformance:"
+        },
+        {
+          "text": " Minor deviation from SOP or standards with limited impact on quality or safety."
+        }
+      ]
+    },
+    {
+      "id": "bc83c185-210e-441e-b4f9-3ceb21d1802f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Major Non-Conformance:"
+        },
+        {
+          "text": " Significant deviation that may impact quality, safety, or compliance."
+        }
+      ]
+    },
+    {
+      "id": "3e4b8562-8c89-4559-914d-73a097407e87",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Critical Non-Conformance:"
+        },
+        {
+          "text": " Serious violation with the potential for regulatory or safety consequences."
+        }
+      ]
+    },
+    {
+      "id": "0cce9388-1239-4f2f-857f-1c9f55887d9f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d92ead38-6bbe-4df4-8d06-32cead1f323c",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.4. Audit Checklist"
+        }
+      ]
+    },
+    {
+      "id": "3ea3df9a-901a-4011-818c-d36eb026e579",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Checklist Use: "
+        },
+        {
+          "text": "Use a standardised audit checklist tailored to each area being audited. This ensures that all key aspects of the process are evaluated consistently across audits."
+        }
+      ]
+    },
+    {
+      "id": "5d94e92a-e1a7-4488-b924-7ab353808b50",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bec5ba11-3097-423d-bb51-40de6aa3e76c",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Reporting Audit Findings"
+        }
+      ]
+    },
+    {
+      "id": "04173de9-1573-4c87-84b3-10b91174a29f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0a4f5dc7-d091-45b6-a481-e1b8f1d10324",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "7.1. Audit Report Preparation"
+        }
+      ]
+    },
+    {
+      "id": "8c243db4-5624-4a7d-b361-616925cb3c3e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Report Content:"
+        }
+      ]
+    },
+    {
+      "id": "a464c2cc-e11a-4997-93d6-0f5a4d7039ed",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "Prepare an "
+        },
+        {
+          "bold": true,
+          "text": "Audit Report"
+        },
+        {
+          "text": " that includes:"
+        }
+      ]
+    },
+    {
+      "id": "4c2f9c59-4c61-4358-af99-35867e0bbf55",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "2160915f-2cd7-4643-a412-587051af5fef",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Date of the audit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8279f225-6f13-4484-a0e5-7c12d91c1993",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "3bcdfcab-1156-4523-b8e9-da7af44a5438",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Scope and objective of the audit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14638867-0215-4839-8fda-427b098e3161",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "9e70fe36-e44c-4777-bc51-a1434b213453",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Summary of findings, categorised by severity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5922bae9-e0cc-4e2b-9fa1-18f5afc045be",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "31dd1867-d497-432e-a596-3a8f2ffe3b9f",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Recommendations for corrective actions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44438542-f12b-4a3d-944a-e4e6f9c7e7fe",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "de0c1b1f-c4df-45df-8d1f-2c018ab826ab",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Any positive observations or areas of excellence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49e9a6f8-73d9-40c7-8b0f-f7d9e8b8f3e4",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Review by QA Officer:"
+        }
+      ]
+    },
+    {
+      "id": "0147a0da-2cdd-4964-a297-9225686ff6a9",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "Submit the Audit Report to the QA officer for review. Ensure the report is complete, objective, and clear before sharing it with the audited department."
+        }
+      ]
+    },
+    {
+      "id": "f7892659-cdcc-440c-aad6-bdca56624638",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "7.2. Closing Meeting"
+        }
+      ]
+    },
+    {
+      "id": "f54391e9-6827-480b-b5db-4434b0d5d087",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Summary of Findings: "
+        },
+        {
+          "text": "Conduct a closing meeting with the auditees and lab manager to discuss the findings and recommended corrective actions. This meeting provides an opportunity for auditees to ask questions and clarify findings."
+        }
+      ]
+    },
+    {
+      "id": "e567d20b-ed73-43ae-87c3-1dfebf8f9787",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Positive Feedback: "
+        },
+        {
+          "text": "Acknowledge areas of compliance or exemplary practices noted during the audit to encourage adherence to quality standards."
+        }
+      ]
+    },
+    {
+      "id": "a8dffdbc-9cef-4fd2-a780-56fda2d44f05",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b7b3a6af-35f0-416a-a68a-d80e8fa8d6f5",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Corrective Actions and Follow-Up"
+        }
+      ]
+    },
+    {
+      "id": "db53ea72-5a22-40d0-a3b8-e760b2513823",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e2f9b484-c6fa-42a9-a244-13c6b7cb0373",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Developing Corrective Action Plans"
+        }
+      ]
+    },
+    {
+      "id": "3bfd2f20-3f3e-44db-93e9-24e1909478b8",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Assignment of Responsibilities: "
+        },
+        {
+          "text": "Assign specific personnel responsible for addressing each non-conformance. Outline a timeline for completion based on the severity of the findings."
+        }
+      ]
+    },
+    {
+      "id": "f5f9bc35-29df-48e8-93a9-88a29ba06ff6",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Corrective Action Plan Documentation: "
+        }
+      ]
+    },
+    {
+      "id": "1c5f5ffa-3b6d-40c9-b57b-cfd62067f611",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "Document corrective actions in a "
+        },
+        {
+          "bold": true,
+          "text": "Corrective Action Plan"
+        },
+        {
+          "text": " that includes:"
+        }
+      ]
+    },
+    {
+      "id": "70619e55-b8fc-4a28-9800-5a8a057da13d",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "c56e8c1c-ac9b-44bd-9e3e-e706a68ea6f5",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Description of each corrective action"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dcdce876-e008-48eb-8eb2-83c1c3fb1d99",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "638bce51-7a82-4331-b693-e4c01a901b45",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Target completion dates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e33a623-9ab1-44f1-88a3-6ba194bc5a79",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "ed76e48b-c6f2-46e6-a6d3-1433324dbb2e",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Responsible personnel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2834eba1-9463-4375-96c5-ca476fe26fae",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "8.2. Implementing Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "b8e18d56-dbb0-4eca-9208-36a281102722",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Execution of Corrective Actions: "
+        },
+        {
+          "text": "Implement corrective actions according to the approved plan. Ensure that personnel responsible for each action receive appropriate training if needed."
+        }
+      ]
+    },
+    {
+      "id": "24dc9b76-d30b-4687-8299-d449f6ebae30",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Verification of Corrective Actions: "
+        },
+        {
+          "text": "Once actions are completed, verify that they effectively address the non-conformances. Document the completion and effectiveness of corrective actions in the Corrective Action Plan."
+        }
+      ]
+    },
+    {
+      "id": "2a17f5c4-72b0-4ad8-a8e5-fc339f9f2dbc",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "8.3. Follow-Up Audits"
+        }
+      ]
+    },
+    {
+      "id": "39b7dea7-32b0-4e58-a6b7-c9a653e22112",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Re-Audit for Major and Critical Findings: "
+        },
+        {
+          "text": "Schedule a follow-up audit if major or critical findings were identified. Confirm that corrective actions have been implemented effectively and compliance has been restored."
+        }
+      ]
+    },
+    {
+      "id": "2abdcea5-5f1b-4498-b05d-32cc6fb1f3fa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ab2e2291-67db-4d5f-8e91-ab9158b56822",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Documentation and Record-Keeping"
+        }
+      ]
+    },
+    {
+      "id": "b6e1f555-68ae-440b-8ecb-e512082fc42e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d4d85f61-18fd-43f6-a62e-6a7c0eefcb1b",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Required Documentation"
+        }
+      ]
+    },
+    {
+      "id": "23520bb0-fb43-480a-bf6a-7b8ac3e4a61a",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "f570ed44-dc60-46b6-bd6d-c5132334b1d2",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Audit Schedule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ffa0a79-daf7-42b5-983c-78fe18fa682d",
+      "type": "li",
+      "children": [
+        {
+          "id": "d253c57b-f7bc-437d-ae6d-017b86a55a7b",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Audit Checklists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc4438aa-a80d-4493-a556-46ad181dfe2e",
+      "type": "li",
+      "children": [
+        {
+          "id": "4c4b6575-4764-4ae5-85ae-7dc8a4740dcf",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Audit Reports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97dacf99-309b-473e-9182-ea2170fd1613",
+      "type": "li",
+      "children": [
+        {
+          "id": "c4fa3886-8a6a-454f-9e6e-8f331ad33734",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Corrective Action Plans"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a88d662-779c-4ceb-a38b-660389eccce5",
+      "type": "li",
+      "children": [
+        {
+          "id": "39b2216a-29f1-41f9-8ba6-80f904908f52",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Records of Follow-Up Audits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ee8c0f8-09a7-430e-8a28-318bf35d2ab3",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "9.2. Retention of Records"
+        }
+      ]
+    },
+    {
+      "id": "8a1f6a5e-e665-4041-8742-baee812d3578",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Retention Period:"
+        }
+      ]
+    },
+    {
+      "id": "e275ea75-14db-40d2-859e-2907c64f877c",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "fd4308ba-5837-4f62-8ade-1745c62ae5fd",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Retain all audit-related documents, including Audit Reports and Corrective Action Plans, for a minimum of five years or as required by regulatory standards. Store records securely and ensure they are accessible for external audits or reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46eeb917-08f2-4eb3-93d2-349a582ab490",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2198db29-4236-4e6f-b84e-8ee85c6c2440",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Monitoring and Review of the Audit Program"
+        }
+      ]
+    },
+    {
+      "id": "75df1447-81d8-4f38-bbaf-e417a2219fe2",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "faceed2e-daad-4a4b-b2b0-7f99470607c0",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. Annual Review of Audit Program"
+        }
+      ]
+    },
+    {
+      "id": "cfb84a28-3175-45ab-9cf9-8102975f1e18",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Program Evaluation: "
+        },
+        {
+          "text": "Conduct an annual review of the audit program to assess its effectiveness. Adjust audit frequencies, checklists, and procedures as needed based on audit results and laboratory changes."
+        }
+      ]
+    },
+    {
+      "id": "63a314b9-1d2b-4aa5-a6d7-b6ac26f37598",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Continuous Improvement: "
+        },
+        {
+          "text": "Use feedback from audits and corrective action follow-ups to improve the audit process, SOPs, and other laboratory procedures."
+        }
+      ]
+    },
+    {
+      "id": "292a6068-4dc1-4bcd-a69b-bfb22f292bce",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "10.2. QA Oversight"
+        }
+      ]
+    },
+    {
+      "id": "a8b310b9-4ff7-4c89-b885-eeac7a633d5a",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "QA Officer Review: "
+        },
+        {
+          "text": "The QA officer should periodically review the entire audit program, focusing on compliance trends, recurring non-conformances, and any areas requiring enhanced monitoring."
+        }
+      ]
+    },
+    {
+      "id": "65d006d0-4553-4362-a508-72eed3828337",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "58357c55-763e-4ca0-bf93-1888b7601a01",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. Training on Internal Audits"
+        }
+      ]
+    },
+    {
+      "id": "099afb14-7208-45a3-a929-fcd9ec1ae01a",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4ca0423b-7df1-4627-bda5-07821f7b5d41",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.1. Initial Training for Auditors"
+        }
+      ]
+    },
+    {
+      "id": "5b5b7a79-80f8-422b-bb85-a5ce4a89191b",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Auditor Training Requirements: "
+        },
+        {
+          "text": "All personnel assigned as auditors must undergo training on audit procedures, use of checklists, documentation standards, and strategies for conducting objective audits."
+        }
+      ]
+    },
+    {
+      "id": "19ac9ce5-5f21-4db2-870c-661630a19d06",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "11.2. Annual Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "b69bb506-b732-445e-b769-c309019a5b8a",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Refresher Training for Auditors:"
+        },
+        {
+          "text": "Conduct annual refresher training on internal audit procedures to ensure that auditors remain updated on best practices, regulatory changes, and program updates."
+        }
+      ]
+    },
+    {
+      "id": "891dee21-b0a7-4544-b095-537e56d12c94",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d146f73b-76dd-4ace-adb0-0fead2784198",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "d9c64403-3fa6-4159-a955-bb8c79dadfd0",
+      "type": "li",
+      "children": [
+        {
+          "id": "a8db78bf-f40c-4d0f-be09-f79b6bd67763",
+          "type": "lic",
+          "children": [
+            {
+              "text": " ISO 15189: Medical laboratories – Requirements for quality and competence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d1a5e48-c00b-4772-bc1b-5f5a2186d7b7",
+      "type": "li",
+      "children": [
+        {
+          "id": "732e8e84-4b53-44c0-a7da-ebc398bb72f2",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Good Laboratory Practice (GLP) Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c31fdf25-c34a-4470-a05c-b41152d0dff3",
+      "type": "li",
+      "children": [
+        {
+          "id": "4f1ff49c-d502-4da5-94af-94d716e7aa3d",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Institutional Quality Assurance Policies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

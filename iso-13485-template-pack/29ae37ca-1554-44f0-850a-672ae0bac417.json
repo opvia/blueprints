@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "29ae37ca-1554-44f0-850a-672ae0bac417",
+  "title": "CAPA Creation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "0a160e58-f048-49d1-93bd-21413f5bd101",
+      "step": {
+        "id": "ef0a6f09-dd26-446d-a882-7cb00c9e45e1",
+        "version": null
+      }
+    },
+    {
+      "id": "dec470b9-3e60-424c-b215-95f088cce55d",
+      "step": {
+        "id": "e412b68f-e434-4336-a58e-2ba863893708",
+        "version": null
+      }
+    },
+    {
+      "id": "1924c895-96e0-41d7-a7d5-a069e3067912",
+      "step": {
+        "id": "11956cb4-e080-4ab9-b322-6c7b5f0e05cb",
+        "version": null
+      }
+    },
+    {
+      "id": "da4215d9-07f9-4e61-991c-b7d4ec3fce27",
+      "step": {
+        "id": "55e3571d-a7e1-411d-b147-7843cce62e65",
+        "version": null
+      }
+    },
+    {
+      "id": "6bd3de93-88c7-43a6-b4d0-805c2d82ce48",
+      "step": {
+        "id": "f83dc4ad-504a-4eb3-90ca-4ab119441553",
+        "version": null
+      }
+    }
+  ]
+}

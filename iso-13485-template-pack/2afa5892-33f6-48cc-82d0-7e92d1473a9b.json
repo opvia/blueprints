@@ -1,0 +1,1532 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "2afa5892-33f6-48cc-82d0-7e92d1473a9b",
+  "title": "SOP - Aseptic Techniques",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "02e9b4ea-e1ab-4459-9f80-289ac06377a2",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "43062d7d-73cf-4816-b502-c3258669b94b",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "da8592f4-e59b-48a1-89fe-fba642232015",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "28e4f15c-a2df-4b86-82e3-870c7e2da2d1",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "06a8314d-dadf-4e2f-bae4-b290f9370102",
+      "type": "field",
+      "fieldId": "28e4f15c-a2df-4b86-82e3-870c7e2da2d1",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3e2fb091-19f3-415d-ad66-02db5c603428",
+      "type": "field",
+      "fieldId": "da8592f4-e59b-48a1-89fe-fba642232015",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cfa46fc0-8799-405c-89a3-094ce978cb24",
+      "type": "field",
+      "fieldId": "02e9b4ea-e1ab-4459-9f80-289ac06377a2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "450e3741-3c26-4e49-a12b-9c51f7aedff6",
+      "type": "field",
+      "fieldId": "43062d7d-73cf-4816-b502-c3258669b94b",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0fa9786c-5093-4096-ae42-23c7e3fe86c5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "155f3631-94d9-48b8-8d9c-2e23ed566e1f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "5dc5eb70-1037-476a-8640-ec3248ff75ac",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP outlines the aseptic techniques required to maintain sterile conditions during laboratory experiments. Aseptic techniques are critical for preventing contamination of biological samples, reagents, and equipment, ensuring reliable and accurate experimental results."
+        }
+      ]
+    },
+    {
+      "id": "256edd78-520e-4714-9299-f00245655aad",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8869a9ac-f972-4d32-baf8-2849f4d4019c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "c543f531-a741-445b-917a-68758110be75",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel who handle biological materials, cell cultures, reagents, and sterile equipment. It covers aseptic techniques for maintaining sterility during preparation, handling, and experimental procedures."
+        }
+      ]
+    },
+    {
+      "id": "c84b96c3-830e-45c8-8517-999a9dfed1b4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a49df8d1-ff65-4fbf-8309-8084c77b0398",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "c36b7bb5-3bd0-4224-9691-b65d02e4bdff",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d9e55aa0-c433-414e-841c-a99996a09896",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "b22b09df-5e7d-45be-b8a5-1e423402ac57",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "54a451df-1889-429b-8103-e1a8516c63a8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures personnel are trained in aseptic techniques."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12bdbb52-a4fe-4caa-86e0-c5092b53aec3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7baedecf-466c-40f3-946b-723cc72977bc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Oversees laboratory equipment sterilisation and maintenance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6457329d-ac99-4fe8-978c-bce1d64ce62e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "d06cbe10-943d-45cf-a0d0-3c69a0afe852",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dbc56c2e-e314-4861-aafb-e978bbddce26",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follows aseptic techniques during experiments to maintain sterile conditions and prevent contamination."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ca4ead6-e9d9-4889-beee-c28c32a10e92",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Quality Control Officer"
+        }
+      ]
+    },
+    {
+      "id": "de293132-dd4a-40ce-ac8f-2dfa1faba6e6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aefac194-490d-44fe-8573-0ebb7213a8e8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Periodically audits aseptic practices to ensure compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e63a10c-79e6-4e13-8433-b6ee52944425",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "898a4522-8501-498c-88c4-7284660dcfaa",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "fe3a80bc-e5a2-4ace-a2c5-9c784d2a8177",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4dd64402-980e-4407-b857-d2e97abacbe5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aseptic Technique"
+            },
+            {
+              "text": ": Practices to prevent contamination by pathogens or unwanted microorganisms during experimental procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4301ca14-2244-4cd0-abc6-9a211b05c8ee",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "144ac34d-265d-479d-88e6-64370d8b39ab",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sterile"
+            },
+            {
+              "text": ": Free from any living microorganisms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77a61e03-bcc2-40f4-8f4e-bf214029cd46",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "639b44c8-0146-4286-8870-0c595908c16e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Contamination"
+            },
+            {
+              "text": ": The unintended introduction of microorganisms or substances that can compromise sterility."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1312005-83df-4018-a759-43957cbccc3b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0e8ae3d0-b703-41b7-86b7-933db205d2e0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. General Aseptic Techniques"
+        }
+      ]
+    },
+    {
+      "id": "5efe39fc-2a78-40fc-9fb0-5e3084369d5e",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7fe9b112-5d74-46d3-a982-e6d4c9b9f45d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Personal Hygiene and Preparation"
+        }
+      ]
+    },
+    {
+      "id": "2da0fac6-9d16-4357-9245-d219bad09ab7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Hand Washing"
+        }
+      ]
+    },
+    {
+      "id": "5f0b49c4-6485-42b2-8c31-0a6217b1a0f5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5f93d50a-d554-4496-95e8-4125779d2337",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Wash hands thoroughly with soap and water for at least 20 seconds before starting any aseptic procedure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4ecb8c6-6feb-4490-a5bd-eef351372857",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ca5f3738-75b4-4485-8fd1-3d15ca0bc5d3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Dry hands using a clean, disposable towel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a9e8c74-f7d9-4f3a-86a6-381a660fe05e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Personal Protective Equipment (PPE)"
+        }
+      ]
+    },
+    {
+      "id": "77326514-6913-4b57-903f-85341ab46c55",
+      "type": "p",
+      "children": [
+        {
+          "text": "Wear the following PPE to minimise contamination risk:"
+        }
+      ]
+    },
+    {
+      "id": "04dd27bc-2f87-409f-8fd6-f412897e6f30",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7fd660c9-2971-4c68-a053-e0bf610cf75f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sterile gloves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2696924-186d-4b70-88a0-373b3fc04d2c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "775e08b6-1e87-488d-84f9-5dd2a055cd0d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Lab coat or sterile gown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ec022c0-bbfa-4e05-ac85-70721549b6c1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22acc9ab-ab89-420f-91e5-11070807818a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Face mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c4b448c-d8b9-4918-8a42-88e94117700f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "db4dd950-9c25-4a2f-aae4-b89b23cdffc4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Hairnet (if necessary to cover long hair)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6c5ca0cc-cca2-4c5b-8550-057c04805cc3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Glove Sterilisation"
+        }
+      ]
+    },
+    {
+      "id": "797d824e-c81f-4c79-b98d-4218327cffa9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8a3c479a-6eff-41ee-b1aa-f8ff2afd6975",
+          "type": "lic",
+          "children": [
+            {
+              "text": "After donning gloves, sanitise them with 70% ethanol or another suitable disinfectant before starting the procedure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2abda74-fa68-4873-8789-d1c155143d63",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9a9f9f99-85f9-47ec-8dfb-3fc56eaf3502",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Work Area Preparation"
+        }
+      ]
+    },
+    {
+      "id": "dfc6c0ad-8842-4e90-967f-0e66551feaac",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Sterile Work Area"
+        }
+      ]
+    },
+    {
+      "id": "016a9bec-c8b3-4279-a859-f8beca8facae",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "818f2d19-0bc0-4e68-8ae8-15147f1a2bca",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform work inside a biosafety cabinet (BSC) or laminar flow hood. Ensure the hood is functioning properly and decontaminated before use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40601541-a1aa-4c31-bdb7-f247c5190773",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Disinfection of Surfaces"
+        }
+      ]
+    },
+    {
+      "id": "3bc10d9a-097f-4a45-b97e-a93b7dbeff88",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cf964fb1-2abd-42b7-855e-f0d35e69ddfa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Disinfect all work surfaces with 70% ethanol or an appropriate disinfectant before starting the experiment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58075138-88de-43b2-a143-7f820d6f2d9e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Minimising Air Flow and Movement"
+        }
+      ]
+    },
+    {
+      "id": "29215c7c-250f-437c-b2c4-b89c4cf5ad2d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bf3620e3-8a89-4eed-83cd-e6900ce116d3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Avoid unnecessary movements or talking over open containers. Close doors and windows to minimise airflow into the lab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "365b9877-b58d-48c9-a99e-055decd5b3b8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8397233e-d4e4-459a-afe9-be86918b41f2",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Sterilisation of Equipment and Materials"
+        }
+      ]
+    },
+    {
+      "id": "5ee0c77b-c5e7-438a-932f-19ece0fa6653",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b3b767b6-a7f7-4f50-8d53-9fc0b570145c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Sterilising Instruments and Tools"
+        }
+      ]
+    },
+    {
+      "id": "e925cfb9-a616-448b-b5bb-b1d86f676cb3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Autoclaving"
+        }
+      ]
+    },
+    {
+      "id": "b9fd167c-db30-4ae0-b963-7f6aed6360da",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d29646e6-fcc5-4e8a-97bb-16dcc49ddc77",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Autoclave reusable instruments (e.g., forceps, scalpels) at 121°C for 15–30 minutes. Ensure autoclave tape indicates successful sterilisation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa5f81a5-cacf-48ca-82c8-bb4a784c110b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Dry Heat Sterilisation"
+        }
+      ]
+    },
+    {
+      "id": "f0bc21c2-7f45-4104-b30f-02e4f589f5b6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "44b0e19c-9af9-4447-9e05-63abb9e1050b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use dry heat sterilisation in an oven at 160–180°C for at least 2 hours for heat-resistant equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00ec4561-4769-4f1c-b11b-30418bd05a06",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "id": "53285946-def4-40ee-bf9e-b5885bfebfca",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8ad4d866-5e8e-4a5f-9630-17dc86ca1ac9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sterilise metal instruments by holding them in the flame of a Bunsen burner or alcohol burner until red-hot. Allow instruments to cool before use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3126f251-bed2-48ed-92f0-92302d7d4a63",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e1720d14-e36e-4e8a-8ecf-aa694dcf97ae",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Sterile Consumables"
+        }
+      ]
+    },
+    {
+      "id": "8be5b513-6e2b-4557-ae57-b59d49f9e57f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "69864678-a473-4b5e-aba7-ed7f456d9fe1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use pre-sterilised disposable plasticware."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63f46441-25e2-4ba4-acc2-8b017c060c45",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22d7f906-ef9a-4ee7-8706-3aca33b6dead",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure packaging integrity before use and discard compromised materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74b4b2bc-872b-453a-a1ce-6ba6dd6f1d20",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9f34af0e-4f77-46e6-a679-7e89deb73ff0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Aseptic Handling Procedures"
+        }
+      ]
+    },
+    {
+      "id": "02e0b8e2-e8fb-4bf2-aa55-9f297261287c",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b069a6a5-bbbf-46c2-b48d-00f5c3bd826c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Handling Sterile Materials"
+        }
+      ]
+    },
+    {
+      "id": "c89b81cc-aff9-456a-940d-62013220bf51",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Minimise Exposure"
+        }
+      ]
+    },
+    {
+      "id": "a9a375f0-9792-42d4-bfba-6932a9b80118",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "68e92dd7-c322-44f0-b448-7d00d3c364e1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Open sterile containers only when necessary and inside a BSC or laminar flow hood. Close containers promptly after transferring materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e50ee9e-6074-491d-a9b9-111864466842",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Sterile Transfer of Reagents"
+        }
+      ]
+    },
+    {
+      "id": "34b5b599-79fe-4544-950f-73d905b7fa0b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5cdab7bb-4535-48c7-8050-7f614ae80f42",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use sterile pipettes or pipette tips. Avoid touching the pipette tips or the insides of containers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a678fed-2783-41e6-8e29-62cc0f3b91db",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a77b7add-1cea-4487-9c56-4f09d7be9897",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Working with Cell Cultures"
+        }
+      ]
+    },
+    {
+      "id": "a5aa7ea7-6ace-4d1d-a761-8bb1b7a24152",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Culture Vessels"
+        }
+      ]
+    },
+    {
+      "id": "7b8cf12f-8768-488d-9286-db5cef5ba45c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "82facc38-6f31-4966-9d3e-c2e0d1af7187",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Open culture flasks or Petri dishes only inside a sterile environment. Avoid placing lids or covers on non-sterile surfaces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64030658-69af-45a2-8d2c-1941193e851a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Media Changes and Passaging"
+        }
+      ]
+    },
+    {
+      "id": "5cb23275-0fc9-46d2-aa82-b89452dd5122",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a159a3b9-335b-40de-9979-5dccd4a3d00a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use pre-sterilised materials. Work swiftly to minimise the exposure of cultures to the environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df815846-64be-4423-a39b-530c03c3d32d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "711fb63f-f604-49be-beb6-72c48975c149",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.3. Use of Biosafety Cabinets"
+        }
+      ]
+    },
+    {
+      "id": "b0cc953a-734e-4555-b294-45106965b168",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Preparation"
+        }
+      ]
+    },
+    {
+      "id": "06986e8a-7094-4e2d-9ee9-0ae5fce92cc4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1a4c029f-b66f-439e-b1b0-b8542bbd964a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Turn on the BSC at least 10 minutes before starting work. Disinfect the interior surfaces with 70% ethanol."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ff3c0b7-832a-458d-91b5-91f253ce9fb5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Proper Technique"
+        }
+      ]
+    },
+    {
+      "id": "bdf67db0-bfd5-4ca2-8fae-69c009e042f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "37dee70a-c2d9-4cfa-a312-c6e01566f046",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Work at least 6 inches from the front grille. Organise the workspace to avoid blocking airflow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dc99a69-376b-4cab-9e46-7787618f042e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "389221a6-b0d5-4ef5-a215-0ea613f1139e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.4. Handling Microbiological Samples"
+        }
+      ]
+    },
+    {
+      "id": "3d36ed5f-646b-43de-b6c4-835df5cae3a0",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Flame Sterilisation"
+        }
+      ]
+    },
+    {
+      "id": "e28d062b-d1d6-48a2-858b-9f387896b5ae",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "abe43f80-03aa-45af-a296-a6745d833bbf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Flame-sterilise inoculation loops and tools before and after use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c9cf1c2-d6c9-46e2-b4fd-4f90a7132135",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Minimising Aerosols"
+        }
+      ]
+    },
+    {
+      "id": "22a8b66a-ce79-4d6c-b243-f77c37f63263",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "71169f57-c29a-4b58-9005-7753a25dc745",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Handle pathogenic or sensitive microorganisms carefully to minimise aerosol generation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5247dcc5-734f-480c-b3bc-db8776bf18a0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7e4b1650-98b8-4ebb-9cd3-eb3632bfb10b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Waste Management and Decontamination"
+        }
+      ]
+    },
+    {
+      "id": "cd268632-50cf-47b4-a164-da6df7d00313",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "773540e0-b1dc-4161-b4cf-a2cc968a52a3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.1. Disposal of Contaminated Waste"
+        }
+      ]
+    },
+    {
+      "id": "6505c949-0ae4-40b1-a86a-c6cbbc45810a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Biological Waste"
+        }
+      ]
+    },
+    {
+      "id": "547a7da9-cdbd-4be1-a74a-e3ba1dd0e0b4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a61c26de-ce1b-476e-8de6-a512cfed99bc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Place contaminated consumables in biohazard bags. Autoclave waste before disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f80529b-848d-4e18-8427-48f9f1db1d6e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Liquid Waste"
+        }
+      ]
+    },
+    {
+      "id": "f76f0c44-e424-419d-9fa0-3520684a825e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cf6d8c29-03cd-447b-b3c7-ce9a771f0a3e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Decontaminate liquid biological waste with a disinfectant (e.g., bleach) before disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2042eaa8-38db-48a8-a84b-06207b8f165c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "62d0eb36-099b-4c84-b4e2-79b9c00ef71e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.2. Work Area Decontamination"
+        }
+      ]
+    },
+    {
+      "id": "8f38500c-36c5-4799-ba63-97e21d2a9ba8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f73e320e-4095-4ace-864a-d29bedcf4e37",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Disinfect work surfaces and reusable equipment with 70% ethanol after use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48b6d788-81da-436e-b029-862241ce540b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ab0e7ca1-1dbe-4678-abb4-84fdb557bb9a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Monitoring and Quality Control"
+        }
+      ]
+    },
+    {
+      "id": "11f572c8-fbaf-43a3-be62-b6cf094b6946",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d6d01c27-46d1-4fc5-b928-0f9c34a85628",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Sterility Checks"
+        }
+      ]
+    },
+    {
+      "id": "2af52ef9-429c-4c06-b321-163c5702b937",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5726fe26-84a5-4bb3-bd16-5bea75750056",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform sterility checks by culturing samples from equipment, media, and reagents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9133ff6-c5ae-4eb2-ac80-d4a7f405843c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8d304027-e117-462c-8ae8-2ecfa6a298b7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Reporting Contamination"
+        }
+      ]
+    },
+    {
+      "id": "222cab7f-7df2-49f2-93b2-c41821714a91",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "89eabe0d-df3f-4e24-a671-c426851a7454",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Immediately report contamination incidents to the lab manager. Document and, if necessary, repeat experiments under stricter conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f5cc386-196b-4946-919d-c9cde9271d18",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f2a99206-225f-4325-bfab-82be88e62247",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Training"
+        }
+      ]
+    },
+    {
+      "id": "b5ad2b89-fc79-4fbc-9559-0a1b719ed49f",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "67e12fbe-02d9-4b03-b657-61e9762c6220",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "59ce6ba1-9fc9-491e-b6f8-b3e963602302",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a12f1bc6-83fd-46e0-818d-5cc4908cf80c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must complete training in aseptic techniques before performing sterile procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d49f5eb9-e4d7-4d76-be1a-3d5db4056667",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1dab7a7a-f544-4349-aa50-9e7f3f5dc2f1",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "0c9e9ef3-14f1-4312-b0c0-ca5789daf11d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1df22199-e3f1-4f1c-9ea8-ae49dccb0b69",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual refresher training. Maintain training records for all personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "892edb42-65e3-4e82-b241-6a06c1de1354",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bb4c305e-b386-4fdc-a679-ca168e63e2c0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. Record-Keeping and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "4bd3c4e9-6972-476d-a562-7b2650ed369f",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f761134f-8357-4979-b772-4b5de25220ec",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.1. Records to Maintain"
+        }
+      ]
+    },
+    {
+      "id": "1d23184e-88aa-4022-a3fd-1a337df2bd11",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "90fcfc46-3c23-4610-ab67-ef3d61022680",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sterility check results"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e42fb4b2-14fb-4187-907c-a7cffed743f3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6bb3a497-946d-4286-bd6a-0cd0d29f2d84",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Equipment sterilisation logs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90a7db15-0ef4-4ca8-a591-4eef37ee2aff",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "544894e3-7814-4492-9b0e-7c761b97388f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Contamination incident reports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51127688-7b8c-4941-93f3-40d4b5d183dd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "da552760-29fe-4184-b718-cb32952249f2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training records"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e8abe45-2a31-405f-9789-11993c3621a3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7a8e15c9-6626-4633-b7e8-28d7db71c795",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "68d8d958-0c0e-485b-869b-5b71545a533f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a7c658f4-1315-412f-9901-b6fa255b0662",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6476c9ac-c1ea-4610-88da-d94163e9cdbb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f92c30ee-be55-49e5-97cc-6a24ecf020c3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "CDC Biosafety in Microbiological and Biomedical Laboratories (BMBL)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a0409fc-48c5-4437-98b5-3c8632b92220",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "186726e1-cf40-4124-af95-7295f4c42dea",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Laboratory Biosafety Manual"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "cb2c2ec5-1906-4a02-8fe3-b5e87ef0f76c",
+  "title": "Quality Control (QC) Checks",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Reference": {
+        "id": "e92e23db-aa71-42be-a176-ad373348ab93",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Passed QC?": {
+        "id": "b63201da-0a71-4456-a7d1-92f7293e2674",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "QC Procedure": {
+        "id": "88e41aef-a990-419c-a8cc-e148b85a9db1",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Reagent Name": {
+        "id": "700e226b-19c0-42e3-b06b-8253e4fd5131",
+        "type": "LOOKUP",
+        "value": null,
+        "config": {
+          "refFieldId": "e92e23db-aa71-42be-a176-ad373348ab93",
+          "lookupFieldName": "Reagent Name"
+        },
+        "dataType": "LOOKUP"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "b4895aa6-8d4a-45e9-8321-c0f27f0d28b0",
+        "type": "field",
+        "fieldId": "700e226b-19c0-42e3-b06b-8253e4fd5131",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "453bd6db-42f1-423f-880d-7cde1d5381d6",
+        "type": "field",
+        "fieldId": "88e41aef-a990-419c-a8cc-e148b85a9db1",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "83adcc66-a380-4344-af54-c5add23b4614",
+        "type": "field",
+        "fieldId": "b63201da-0a71-4456-a7d1-92f7293e2674",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "8f6ca6dd-53da-4ee9-806d-f1b80441eda4",
+        "type": "FIELD",
+        "fieldId": "700e226b-19c0-42e3-b06b-8253e4fd5131"
+      },
+      {
+        "id": "953d5b8e-f560-4e87-adef-26ce470aa827",
+        "type": "FIELD",
+        "fieldId": "88e41aef-a990-419c-a8cc-e148b85a9db1"
+      },
+      {
+        "id": "c8fe50a0-5226-4845-b679-bce1803fff51",
+        "type": "FIELD",
+        "fieldId": "b63201da-0a71-4456-a7d1-92f7293e2674"
+      }
+    ]
+  }
+}

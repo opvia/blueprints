@@ -1,0 +1,1474 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4d9a3e17-74cb-4fcd-bfbf-7e2c6a51fd0e",
+  "title": "SOP - Using and Maintaining the Seal LIMS",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "fcc74f20-70c1-40b5-8368-bf44bfbfb796",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised by": {
+      "id": "e1b71b05-6cfd-4084-9c7a-5e26ea367c02",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "469dc5ba-13de-4e64-8abc-e39c97f4d65c",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "f0c04b11-c3c5-4458-957b-5ba6bfa69fa3",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "c8983ded-0d61-41d8-9a37-bc2adad388d9",
+      "type": "field",
+      "fieldId": "f0c04b11-c3c5-4458-957b-5ba6bfa69fa3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5c65236d-5037-4755-847c-bcb7d8f29cd9",
+      "type": "field",
+      "fieldId": "469dc5ba-13de-4e64-8abc-e39c97f4d65c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e573e9d0-d423-40be-93a0-3ce795c4cbee",
+      "type": "field",
+      "fieldId": "fcc74f20-70c1-40b5-8368-bf44bfbfb796",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "45adb307-c38b-4909-9517-1ec72f8605ea",
+      "type": "field",
+      "fieldId": "e1b71b05-6cfd-4084-9c7a-5e26ea367c02",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9229fbb1-b5ee-43e0-bc28-7016e99c3761",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3bae8ad6-d705-49e4-a4fb-ae44e12ddfbb",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "5751aa4b-545b-4675-abab-3e71598b2d75",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines the protocols for using and maintaining the Seal Laboratory Information Management System (LIMS). It aims to ensure that all users understand how to access, utilise, and maintain the Seal LIMS for data entry, sample tracking, workflow management, and reporting within the lab."
+        }
+      ]
+    },
+    {
+      "id": "724957b2-a438-4d92-957b-9f4f5cce1b4d",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "df0f8c51-11dc-4316-92d6-8b3900df893f",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "a3ac3a83-79a6-4b81-a988-326e3b6e05ef",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "This SOP applies to all personnel using Seal for recording, managing, or analysing laboratory data. It includes guidelines for maintaining the system to ensure data integrity, security, and functionality."
+        }
+      ]
+    },
+    {
+      "id": "71cf04f7-36df-4ee5-b5e7-b9de28cd59b3",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6835aba9-d269-4d8d-9ae0-e610decddccf",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "9bf7d712-b935-46d6-bd98-38c9230f6c53",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager:"
+        },
+        {
+          "text": " Oversee the overall use and maintenance of Seal and ensure compliance with this SOP."
+        }
+      ]
+    },
+    {
+      "id": "6437e032-de1d-46ea-9450-cefd6bac7189",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Seal Administrator:"
+        },
+        {
+          "text": " Responsible for configuring, maintaining, and updating the Seal platform, as well as managing user access and permissions."
+        }
+      ]
+    },
+    {
+      "id": "e08d0743-9fe0-48e1-b642-7eaa06becf18",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Personnel:"
+        },
+        {
+          "text": " Ensure proper use of Seal by entering accurate data, following established workflows, and adhering to security protocols."
+        }
+      ]
+    },
+    {
+      "id": "533e0b1d-5244-49ad-8ffd-712b7fbf915b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "69cd875d-9a51-4435-8c26-98954c6a55ae",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "f5bafa6c-2427-4328-8635-d0a77b732b56",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "LIMS:"
+        },
+        {
+          "text": " Laboratory Information Management System used to manage samples, data, workflows, and laboratory information."
+        }
+      ]
+    },
+    {
+      "id": "1fb1f5f5-3880-4694-8d74-8746bd930b72",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Data Integrity:"
+        },
+        {
+          "text": " The accuracy and consistency of data stored in LIMS over its lifecycle."
+        }
+      ]
+    },
+    {
+      "id": "972af440-d4f0-46da-97af-af79485470e9",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "User Roles:"
+        },
+        {
+          "text": " Access privileges granted to individual users based on their role in the lab (e.g., technician, researcher, administrator)."
+        }
+      ]
+    },
+    {
+      "id": "c6b2dbbf-1cf8-443e-8993-296b1e2426d0",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Audit Trail:"
+        },
+        {
+          "text": " A log of all actions taken within the system, including data entries, modifications, and deletions."
+        }
+      ]
+    },
+    {
+      "id": "da17beed-72f3-4b7a-9d24-efb7fa450dcd",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2c3c826c-ff2f-4f79-9cf6-edad0556501a",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "5. Seal Procedures"
+        }
+      ]
+    },
+    {
+      "id": "d1ee2e69-3579-4350-9fa7-38e058f71505",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e4321c27-a44e-421b-8aac-bdda6011c4f7",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.1. User Access and Roles"
+        }
+      ]
+    },
+    {
+      "id": "c3e0e545-98e5-47d8-a537-62e5ef750bf9",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "User Accounts:"
+        },
+        {
+          "text": " All lab personnel must have individual accounts with unique login credentials to access Seal."
+        }
+      ]
+    },
+    {
+      "id": "f545748a-5e40-4a2a-a7fe-f6b18a5dcfd5",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Roles and Permissions:"
+        },
+        {
+          "text": " Seal administrators will assign roles based on job function. "
+        }
+      ]
+    },
+    {
+      "id": "20af7184-d7f6-4714-89e0-cf9c89642cdb",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Account Security:"
+        },
+        {
+          "text": " Users must keep their passwords confidential. Passwords should comply with security guidelines (e.g., complexity, expiration)."
+        }
+      ]
+    },
+    {
+      "id": "101dbb1b-17f2-4f3a-a600-b636a9717e31",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "08ac6275-00ff-4b1a-9852-cf5a8bd75a90",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.2. System Login and Navigation"
+        }
+      ]
+    },
+    {
+      "id": "d846b21f-c1f6-419d-9ddf-665de860d01e",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Login:"
+        },
+        {
+          "text": " Access Seal via https://seal.run/ using provided credentials. Ensure two-factor authentication is enabled where applicable."
+        }
+      ]
+    },
+    {
+      "id": "35b285ca-fd77-4013-826f-a6b7a3793b14",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Dashboard Overview:"
+        },
+        {
+          "text": " The dashboard will display key metrics and notifications, such as pending samples, ongoing tests, and system alerts."
+        }
+      ]
+    },
+    {
+      "id": "5d354e2e-e03e-4217-b3c3-d3ea3fd2f9b0",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Navigation:"
+        },
+        {
+          "text": " Use the navigation pane to access views such as “Procedures,” “Steps,” “Documents,” and “Computed Views.”"
+        }
+      ]
+    },
+    {
+      "id": "806ca7a9-6ad8-4a07-9f54-4fd23f03a772",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "713d1315-9e9e-4a52-9831-824fee639ec2",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.3. Sample Management"
+        }
+      ]
+    },
+    {
+      "id": "255ec166-eb2e-478d-96c8-b955c50e5ca6",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Sample Registration:"
+        }
+      ]
+    },
+    {
+      "id": "96fce4f6-cdc2-4bec-a597-923d32d0384a",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "4f39d2be-ebe0-4df4-85a5-fb8ca5411dff",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Enter new samples into the system by navigating to the \"Sample Entry\" module."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f472d9b9-f225-4c9f-9010-422adbdc7aa5",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "f1a414f0-43c4-4a8d-96ae-1aaf8b567262",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide relevant details such as sample ID, date of collection, type, and storage location."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "542b5b16-fabe-425c-91fb-c4529d2d0f4c",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "61b25de5-e114-4ab5-ad93-72cedffc55a4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If the sample is linked to a project or study, associate the sample with the appropriate records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f37e33a-d407-4ce6-a1ae-18dcf508bdfe",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Sample Tracking:"
+        }
+      ]
+    },
+    {
+      "id": "c53ceafd-4dd1-41f7-98f2-364216ed31b7",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "616e7244-4607-4dab-8dc7-768664a4619f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use the Seal tracking features to follow the progress of each sample through the workflow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93204322-afaa-4886-8218-de3e14cae90b",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "4fe4cc80-9bea-4493-b6c0-b32027843ce3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record all sample movements (e.g., from storage to testing) within Seal for traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f97d39a5-5694-4a76-b1bf-69054b5580f3",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Chain of Custody:"
+        }
+      ]
+    },
+    {
+      "id": "2f427585-8e28-4579-bfe5-50c4bf16d518",
+      "type": "li",
+      "children": [
+        {
+          "id": "f0a69357-d4ca-45fd-b750-edbf35d11b3f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure the chain of custody is documented for every sample, including transfers between personnel or facilities. This is especially important for regulatory compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c15231c-c8c9-482d-9fae-2e85e542efd3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bd975fad-10f4-4f84-852c-a982e2ea8cf7",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.4. Data Entry and Management"
+        }
+      ]
+    },
+    {
+      "id": "7cc8a2e5-989f-4f01-a95a-36061123d80e",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Test Data Entry:"
+        }
+      ]
+    },
+    {
+      "id": "9c1eb3dd-4840-4386-a174-84cd0eee3c83",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "d0838dfe-8897-4dce-a78c-863c19a701f9",
+          "type": "lic",
+          "children": [
+            {
+              "text": " After completing an experiment or test, enter results into Seal using the \"Results\" module."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1386264a-9a8f-4e24-8bd0-4585449782f2",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "1dec91f9-6a96-4ed1-a72c-3c4be6598993",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Ensure all data is accurately recorded, and link test results to the corresponding sample."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e9985c6-fef9-4f69-8071-a96f39ee059d",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "df71d04c-0ff5-4fc5-a699-1afc33f2a247",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Any data modifications must be logged with a reason for the change, and the original entry should remain visible in the audit trail."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e15eb1f2-9f55-4ed6-a3fc-865e0aa95774",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Data Validation:"
+        }
+      ]
+    },
+    {
+      "id": "ee2af463-731f-4eeb-bb05-42fa435015e2",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "ef7080b2-3c87-4308-9be9-950a59fe02f3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Lab managers or designated personnel should review and approve entered data for accuracy and completeness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1ae3173-43d0-4d10-8e65-d6a0fa1d2896",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "b974f259-f8aa-41ef-8a4e-66092c85ee9e",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Flag any erroneous or questionable data for follow-up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37f998a3-d845-4e3c-b335-422bb7a4846f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "699eb1cc-7725-4a51-97d9-64a922f0b5d2",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.5. Workflow Management"
+        }
+      ]
+    },
+    {
+      "id": "bc7e4797-42b3-4ac2-a61a-49efb5276619",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Task Assignment:"
+        }
+      ]
+    },
+    {
+      "id": "d29d11dc-7de6-4188-b02f-27d2691bec26",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "f0e795c0-4da2-425e-835b-2d822d251412",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Seal administrators or lab managers can assign tasks or experiments to personnel. Assigned personnel will receive notifications via Seal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfb7722b-147d-43b4-8e4a-fe55caac08be",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Workflow Monitoring:"
+        }
+      ]
+    },
+    {
+      "id": "72016d4e-480b-47db-bbdb-721e84fe7760",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "e7c3ed52-6d15-4edb-86d4-4f7881ac5edc",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Track the progress of all ongoing projects and tests. Use Seal to monitor deadlines, project milestones, and potential bottlenecks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c07ef08-cfa8-40b9-8ae3-b948f68d6cf7",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "91dd5a6d-8b3c-477b-bd0d-f6cbe07b28ba",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Use colour-coded indicators or automated alerts to identify tasks that require immediate attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84858244-cbab-4560-b966-d17473dc9c69",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7ac08a78-c03e-4b76-abdf-d233f22d41e6",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.6. Reporting and Analysis"
+        }
+      ]
+    },
+    {
+      "id": "cceb46ff-3a83-4c36-bed3-56ec90234b57",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Report Generation:"
+        }
+      ]
+    },
+    {
+      "id": "79017bdc-a0a8-45a5-bce7-87575b9a289b",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "80fce04d-735d-4c51-97b1-b2293beb6582",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Use Seal to generate standard and custom reports for sample analysis, project updates, or compliance documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85531cd2-6679-432c-b6f1-3831d93bf06e",
+      "type": "li",
+      "children": [
+        {
+          "id": "6a72e45f-3caa-4e42-b923-f7d6fd0b3705",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Reports can be filtered by date, project, sample type, or test result to meet specific needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "486a6f25-2f1b-46ef-af59-0b1d5fd23061",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Data Export:"
+        }
+      ]
+    },
+    {
+      "id": "f845e94a-aa83-45d5-85da-e1f5d3f4685b",
+      "type": "li",
+      "children": [
+        {
+          "id": "74ab83f7-2572-46bf-9a30-5816fb57991b",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Data can be exported in various formats (e.g., CSV, PDF) for external analysis or submission to regulatory bodies. Ensure proper data handling procedures when exporting sensitive information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82f9f226-300f-470f-9911-9d7d5274aaec",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "580e4f2b-c198-4c4a-85e4-a70d5748ebed",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "6. Maintenance of Seal"
+        }
+      ]
+    },
+    {
+      "id": "d08073fc-be73-4745-a25f-02c0a4364156",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "071d2a00-ac9c-43cd-8d9f-dd5c27270267",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.1. System Updates"
+        }
+      ]
+    },
+    {
+      "id": "24fa351f-b2a9-47ca-a230-b7f58dd59aa1",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "2fc71cd0-503d-4b9f-b493-435ed5e1bab5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Seal administrator is responsible for ensuring that the software is regularly updated to the latest version. This includes security patches, new features, and bug fixes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "becafd3f-d76d-4887-ac30-c3dcff27aac6",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "63b26c01-70ea-4c18-868c-294d7bfeefa4",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Major updates should be tested in a staging environment before deployment to the live system to ensure compatibility with existing workflows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44386d83-52e1-4b67-9f25-6e7786032fb1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e1dca937-9e1c-4f48-9a7e-a84c688bdd43",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.2. Data Backup"
+        }
+      ]
+    },
+    {
+      "id": "a8a35a6b-d24c-4579-b99e-6badb2f54ef5",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "2eff0302-eb7a-445d-a47f-46ef63f86428",
+          "type": "lic",
+          "children": [
+            {
+              "text": " The system must have an automated data backup procedure in place. Full backups should be performed daily, with incremental backups conducted hourly if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feb1c905-466c-4e03-bc33-9e2217744924",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "805de6e9-b5bc-458e-afcc-37630501b3fb",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Backup data should be stored securely, both locally and in offsite/cloud locations. Ensure backups are encrypted and accessible only to authorised personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5170d185-1b34-4058-8ef7-100f4c9978e5",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "0d0f3eac-7162-433e-bb91-48199d19400d",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Periodically test data recovery procedures to ensure backups can be restored in case of system failure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c0315bc-e4af-41ad-8d88-48676c5c5cb8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9dae84fd-08f3-4cf2-8104-5b91cb9152b1",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.3. User Audits and Logs"
+        }
+      ]
+    },
+    {
+      "id": "d847429f-01f4-4a86-a9f0-bad03fff8a5d",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "0836fe82-9963-436c-9f00-212e27a1adf8",
+          "type": "lic",
+          "children": [
+            {
+              "text": " The Seal administrator must regularly review user activities using the system's audit trail. This includes reviewing data entry logs, modifications, and deletions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7dea4318-f2c5-4da8-9975-a63a238ef2a9",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "b7729691-9dd0-4b93-8d28-2429de87526b",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Audit logs must be retained for a minimum of five years, in accordance with regulatory or institutional guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4534e971-809a-46dc-920f-7e36bd38ae50",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "38afc2b5-3f23-4920-a56d-f06c9beba4dd",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Any suspicious activity or potential breaches must be reported to the lab manager immediately for investigation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d2b974b-a24f-46f8-b3bb-c2d9953ef4fd",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "22ef5820-6ec5-4076-8a1d-60b8b6c6228b",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.4. System Security"
+        }
+      ]
+    },
+    {
+      "id": "bc84e96d-362a-4a76-a4c1-76d474c0d9a8",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "20759220-76a8-4d8c-a9d5-c1c25d33b243",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Seal must be protected by firewalls and up-to-date anti-virus software. Regular security audits should be performed to identify potential vulnerabilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55c87a82-3d42-4cd2-8ddd-d0c6d6fde341",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "e286598d-e565-4cde-8ceb-8291032fb199",
+          "type": "lic",
+          "children": [
+            {
+              "text": " All users should adhere to password management policies, including changing passwords regularly and avoiding password reuse across platforms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6668f8c7-5c1b-4f42-bbc9-ce6c60d0b29b",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "72ca0179-b787-4a77-a628-1a374e317dc2",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "7. Troubleshooting and Support"
+        }
+      ]
+    },
+    {
+      "id": "6426bc29-80f8-4354-a55a-97c9a408780b",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "938e6893-154a-4056-b6bb-3dce93a0fc0f",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "7.1. Common Issues"
+        }
+      ]
+    },
+    {
+      "id": "3a22fc6b-1f89-4d27-9c17-a823ff4c0760",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Login Problems: "
+        },
+        {
+          "text": "Reset passwords through the “Forgot Password” link or contact the Seal administrator for help."
+        }
+      ]
+    },
+    {
+      "id": "1d3318e0-eb19-4b40-85fa-d242bc5c43e0",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Data Entry Errors: "
+        },
+        {
+          "text": "Incorrect data entries should be flagged and reviewed by the lab manager or administrator for correction. Changes must be properly documented in the system."
+        }
+      ]
+    },
+    {
+      "id": "342de124-265b-4e47-ba15-3106ab016c13",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "System Performance Issues: "
+        },
+        {
+          "text": "For slow system performance or errors, contact IT support or the Seal administrator. Regular system monitoring should be conducted to prevent disruptions."
+        }
+      ]
+    },
+    {
+      "id": "24860d02-dc9f-4d4b-962a-bd3dfa9cfba7",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e23b479c-e23a-46e7-9f57-0a49c30ae52a",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "7.2. Support"
+        }
+      ]
+    },
+    {
+      "id": "62e62fb1-28b9-4a19-be2b-49024c0b389a",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "For technical issues or system errors, contact the IT support team. Support tickets can be submitted through Zendesk. Keep detailed logs of system failures or performance issues to aid in troubleshooting."
+        }
+      ]
+    },
+    {
+      "id": "b2c3869f-bb1b-47ce-b83b-e5362dd27665",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aac32905-1162-4c4a-816f-61417b668ba1",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "8. Training"
+        }
+      ]
+    },
+    {
+      "id": "67e0a0f0-4fcc-4ea9-9eb3-e842f4520431",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "All lab personnel must undergo Seal training before gaining access to the system. Training includes:"
+        }
+      ]
+    },
+    {
+      "id": "8f1e29ad-938e-4a5b-bfff-85b76e85e0ad",
+      "type": "li",
+      "children": [
+        {
+          "id": "9847d748-ef64-45f1-bce1-e195c485ac42",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Basic system navigation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3467492-ef06-47a4-8506-366aba677517",
+      "type": "li",
+      "children": [
+        {
+          "id": "9e758fa9-f975-41a7-b18a-f50834e19068",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Sample and data entry procedures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a65a51ee-ef6f-4d80-8c9a-4133a5bf1267",
+      "type": "li",
+      "children": [
+        {
+          "id": "e076e4c9-a062-48b9-a8ca-2b99e728afe9",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Workflow management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fcaee7b-9def-4a13-9831-001f302ab726",
+      "type": "li",
+      "children": [
+        {
+          "id": "4c90d6a6-850d-423e-b0c7-ce556c5a6ae6",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Data integrity and security practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee8e9507-a36a-4eaf-94b9-7e969ff18f84",
+      "type": "p",
+      "children": [
+        {
+          "text": "Refresher training should be conducted annually or when new system updates are introduced."
+        }
+      ]
+    },
+    {
+      "id": "7a8a39a6-5c5b-4343-a1ef-dfcff7bd81fb",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "82c9c4f0-7e51-4403-b08c-2aaf2620061c",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "9. Documentation and Records"
+        }
+      ]
+    },
+    {
+      "id": "484a4e24-e515-42ee-8830-9071c94949ff",
+      "type": "li",
+      "children": [
+        {
+          "id": "53bc1746-33e0-4122-9f15-e53bedee656d",
+          "type": "lic",
+          "children": [
+            {
+              "text": " All system updates, maintenance activities, and user audits must be documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79251262-5721-4c56-9294-371fe2ff9655",
+      "type": "li",
+      "children": [
+        {
+          "id": "17b7f9e9-354d-427a-a360-3a9ccc609454",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Training records for all users must be maintained by the lab manager or administrator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49e86e2a-cae3-48fe-9b34-16e739793322",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "7e687d00-072a-4c96-8a97-f0f4e85dd60d",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Seal data backups must be logged and verified periodically."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bda77b6-0317-433f-8024-0ae6cdfc156e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "73351c3b-c819-4e80-b9e0-f58f5aacccec",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "text": "10. References"
+        }
+      ]
+    },
+    {
+      "id": "1bc1a514-e549-40aa-978e-639af19ded64",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "d258c25e-2b50-42e7-8009-6c81947dd051",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Seal User Manual (Docs)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c5ec8eb-72a4-4999-92fe-54614e387544",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "7c4002e4-3f5c-4fea-b244-71045460488d",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Laboratory Data Integrity Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34519565-c9d3-45d1-b8eb-a9fa6cf85821",
+      "type": "li",
+      "align": "left",
+      "children": [
+        {
+          "id": "613cb878-5d90-45c9-a4a7-357067c97601",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Institutional Data Security Policies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "09c45af1-435e-4a86-8752-37737b7c5684",
+  "title": "Equipment Calibration Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "5bece966-1b7a-4f43-863e-9a5dcb7d4e1d",
+      "step": {
+        "id": "73b3a990-8deb-4492-8d5b-1281806ac922",
+        "version": null
+      }
+    },
+    {
+      "id": "509442e9-6cfb-4689-aa4e-cabec43ce22e",
+      "step": {
+        "id": "8a55f06c-df72-44a6-b828-79604d9849a4",
+        "version": null
+      }
+    }
+  ]
+}

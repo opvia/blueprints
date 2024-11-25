@@ -1,0 +1,250 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "645e176b-fe06-4ea3-82af-696c5d1db87b",
+  "title": "Post-Incident Evaluation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Evaluator": {
+        "id": "61dc63d3-9abe-4829-9414-d74159c335cd",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Incident ID": {
+        "id": "065c693c-ef6d-44d5-9c3c-a7165ff008b6",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Date of Evaluation": {
+        "id": "b35599bb-982d-4503-9762-277e8419880d",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "caa4e3ec-0e64-47fb-b2b5-66d172c1b659",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "1f9b340a-092b-4f0a-a9e5-dac32eec95c7",
+        "type": "field",
+        "fieldId": "065c693c-ef6d-44d5-9c3c-a7165ff008b6",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f41ff0fa-3177-4475-b4d0-50d5d7cc8a78",
+        "type": "field",
+        "fieldId": "b35599bb-982d-4503-9762-277e8419880d",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4b5b9049-9d25-475d-bb11-31ad84541ee1",
+        "type": "field",
+        "fieldId": "61dc63d3-9abe-4829-9414-d74159c335cd",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "82c0c9ca-b0c8-49f9-82fc-a5ee10908692",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "e32f8270-49ab-4a64-a9dd-46f81b639333",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Identify the Root Cause for this Incident:"
+          }
+        ]
+      },
+      {
+        "id": "1f6899c3-efa9-464d-a07f-c198f776b123",
+        "type": "li",
+        "children": [
+          {
+            "id": "9c1ffa0f-9cb9-453f-a159-37ea92b5c09a",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ba0a2028-ec14-415b-a066-6cc13d9f8506",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "731d6fee-2aed-489d-8188-d6b267386488",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Lessons Learned:"
+          }
+        ]
+      },
+      {
+        "id": "2f4e7550-d0d0-46b3-a91e-cffc145ad3b4",
+        "type": "li",
+        "children": [
+          {
+            "id": "90e13fcb-c1f9-4b5d-9e0a-48c3e1400f3b",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a48ea48e-7ac3-4d6e-85ac-0542f8d13e2f",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "059ffbf6-7e5b-4947-a8ce-20865ecbc3d5",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Areas for training or improvement:"
+          }
+        ]
+      },
+      {
+        "id": "ff45fb38-869f-4b8f-ba46-e854626cf2be",
+        "type": "li",
+        "children": [
+          {
+            "id": "0aa70c68-2497-43c6-a324-094d911a7e4a",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "70606299-17dc-43b0-a744-7eeed1715c37",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "74f36697-b958-4104-8ed2-789a3daece77",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Further Comments:"
+          }
+        ]
+      },
+      {
+        "id": "66b9329b-0237-4fdc-94c1-c06112e73d39",
+        "type": "li",
+        "children": [
+          {
+            "id": "20515aff-5551-4fd7-a9ff-7874ecc02b85",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "4bb9ccad-fb0f-4266-a6a0-9539f6475aaa",
+        "type": "FIELD",
+        "fieldId": "065c693c-ef6d-44d5-9c3c-a7165ff008b6"
+      },
+      {
+        "id": "3b0bc3f6-17ae-49e2-9642-734d3faede25",
+        "type": "FIELD",
+        "fieldId": "b35599bb-982d-4503-9762-277e8419880d"
+      },
+      {
+        "id": "20f316a8-8669-4773-9e11-b0dd2396024b",
+        "type": "FIELD",
+        "fieldId": "61dc63d3-9abe-4829-9414-d74159c335cd"
+      }
+    ]
+  }
+}

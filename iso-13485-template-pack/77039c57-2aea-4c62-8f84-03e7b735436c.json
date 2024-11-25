@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "77039c57-2aea-4c62-8f84-03e7b735436c",
+  "title": "Supplier Details",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Document information related to supplier, such as the service/product.",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Contact": {
+        "id": "83f83859-f9f6-4679-b275-117576f36d49",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Supplier Name": {
+        "id": "2b95ef41-1a4a-4bfb-8e73-370f6de95c0e",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Supplier Services": {
+        "id": "ac547a22-dc22-4ceb-8cce-129d3a025089",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Website or Address": {
+        "id": "30794006-355d-435a-be27-12d1c8682333",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Additional Comments": {
+        "id": "dd5b65a5-56dc-4b18-88f7-d14ff45c682a",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "2446c798-6d7f-4a04-8a73-31a2a53ccfd0",
+        "type": "field",
+        "fieldId": "2b95ef41-1a4a-4bfb-8e73-370f6de95c0e",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "fe19ccf3-2820-4acc-ab78-9e2f4f5a05bc",
+        "type": "field",
+        "fieldId": "ac547a22-dc22-4ceb-8cce-129d3a025089",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6ef65d7f-c936-4d82-8edf-c5c03d6920f9",
+        "type": "field",
+        "fieldId": "83f83859-f9f6-4679-b275-117576f36d49",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "10bb0913-d293-4fb2-892c-a13e609c9057",
+        "type": "field",
+        "fieldId": "30794006-355d-435a-be27-12d1c8682333",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7cb07c00-7efa-47be-b7e0-99ebd835f616",
+        "type": "field",
+        "fieldId": "dd5b65a5-56dc-4b18-88f7-d14ff45c682a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c2fff6c3-2792-4ff1-b724-9454c80b6432",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "89ed9ec4-386f-44da-a529-f8434c3a005d",
+        "type": "FIELD",
+        "fieldId": "2b95ef41-1a4a-4bfb-8e73-370f6de95c0e"
+      },
+      {
+        "id": "33eef036-744d-4fd0-bebc-47a0e359f547",
+        "type": "FIELD",
+        "fieldId": "ac547a22-dc22-4ceb-8cce-129d3a025089"
+      },
+      {
+        "id": "c1406f75-e1c0-4f34-b022-f5c3af2b999d",
+        "type": "FIELD",
+        "fieldId": "83f83859-f9f6-4679-b275-117576f36d49"
+      },
+      {
+        "id": "848142de-d7e4-44ea-a207-3ad17e026510",
+        "type": "FIELD",
+        "fieldId": "30794006-355d-435a-be27-12d1c8682333"
+      },
+      {
+        "id": "6d24f38e-edb3-438a-92a2-c74aa1c02ccb",
+        "type": "FIELD",
+        "fieldId": "dd5b65a5-56dc-4b18-88f7-d14ff45c682a"
+      }
+    ]
+  }
+}

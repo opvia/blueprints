@@ -1,0 +1,1210 @@
+{
+  "id": "iso-13485-template-pack",
+  "version": 1,
+  "name": "ISO 13485 Template Pack",
+  "description": "",
+  "entities": [
+    {
+      "id": "29ae37ca-1554-44f0-850a-672ae0bac417",
+      "type": "PROCEDURE",
+      "title": "CAPA Creation",
+      "source": {
+        "id": "2ea8bff5-dd14-4aa4-a913-c5b647ee3a82",
+        "version": "2"
+      }
+    },
+    {
+      "id": "f92c4977-3458-463e-a470-947337a1a8f0",
+      "type": "PROCEDURE",
+      "title": "Change Control Forms",
+      "source": {
+        "id": "3ac8fb1f-e7a8-4e95-9a78-adc1c9416665",
+        "version": "3"
+      }
+    },
+    {
+      "id": "3a5997f1-6a41-4412-a888-bbc22db24958",
+      "type": "PROCEDURE",
+      "title": "Cleaning Procedure",
+      "source": {
+        "id": "c2a24042-ac34-4904-b068-095f28601440",
+        "version": "1"
+      }
+    },
+    {
+      "id": "a3e9bb20-9926-4629-adc7-8cb5402d6f01",
+      "type": "PROCEDURE",
+      "title": "COSHH Regulation",
+      "source": {
+        "id": "3f2e95b6-301b-4f7f-9984-49b4613e9213",
+        "version": "5"
+      }
+    },
+    {
+      "id": "f2bdd40a-c7e1-4c6e-8be3-d5463b105eef",
+      "type": "PROCEDURE",
+      "title": "Customer Complaints Form",
+      "source": {
+        "id": "9b01e89a-d062-45cf-bb39-edd31017e29e",
+        "version": "2"
+      }
+    },
+    {
+      "id": "09c45af1-435e-4a86-8752-37737b7c5684",
+      "type": "PROCEDURE",
+      "title": "Equipment Calibration Form",
+      "source": {
+        "id": "c037b3d7-c196-4733-bdaf-45e6b927ff74",
+        "version": "3"
+      }
+    },
+    {
+      "id": "31621e2d-63ef-43a6-ad1f-7b352c09163c",
+      "type": "PROCEDURE",
+      "title": "Equipment Installation Procedure",
+      "source": {
+        "id": "441de431-047f-4b7a-96b6-9a3665b8cfe2",
+        "version": "3"
+      }
+    },
+    {
+      "id": "f0266416-6d76-4b9a-82ab-769a4901da0d",
+      "type": "PROCEDURE",
+      "title": "Equipment Maintenance Form",
+      "source": {
+        "id": "fa02bd9a-2ccc-4710-b0c9-6d35a111edfb",
+        "version": "2"
+      }
+    },
+    {
+      "id": "2f929db7-369d-4fd9-b3ae-3d99cc4ebdcc",
+      "type": "PROCEDURE",
+      "title": "Equipment Registration Form",
+      "source": {
+        "id": "66e02cfd-c396-41d6-9fa8-7c7bf2324c49",
+        "version": "2"
+      }
+    },
+    {
+      "id": "9580ef96-3b68-49b3-84fe-e0e2536d5e52",
+      "type": "PROCEDURE",
+      "title": "Fire Incident Reporting Form",
+      "source": {
+        "id": "4c12f4e5-9c41-4abc-8f1f-2ad6d7f0f425",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b44acb79-d668-42dd-959d-468518c61e73",
+      "type": "PROCEDURE",
+      "title": "Goods Receipt Form",
+      "source": {
+        "id": "d2e86c67-6b3b-4178-a8f8-6f253bcaad60",
+        "version": "2"
+      }
+    },
+    {
+      "id": "59d3705f-cb30-487e-b104-11689ba9c308",
+      "type": "PROCEDURE",
+      "title": "Goods Release Form",
+      "source": {
+        "id": "8bd6b4b2-51c0-40b7-8705-8162982bbd65",
+        "version": "5"
+      }
+    },
+    {
+      "id": "ebe38066-35aa-4966-a0cd-836eacbbb26f",
+      "type": "PROCEDURE",
+      "title": "Incident Reporting Form",
+      "source": {
+        "id": "81f1e661-d426-4ab2-9526-07f330befabc",
+        "version": "2"
+      }
+    },
+    {
+      "id": "984e6f68-bb77-4335-8cdd-32fdf42ac24c",
+      "type": "PROCEDURE",
+      "title": "Internal Audit Forms",
+      "source": {
+        "id": "94094e1b-c3ec-49d1-a46d-76a0100d091c",
+        "version": "2"
+      }
+    },
+    {
+      "id": "f5c93665-97f7-472b-a011-a01083253a88",
+      "type": "PROCEDURE",
+      "title": "Non-Conformance Report",
+      "source": {
+        "id": "5f509b47-8016-40bc-a76a-eeae66fe7a81",
+        "version": "2"
+      }
+    },
+    {
+      "id": "b7f9c886-d7b0-4e57-85c8-98f69ec83af3",
+      "type": "PROCEDURE",
+      "title": "Periodic Review of the Quality Systems",
+      "source": {
+        "id": "a8793cbb-e7fd-4059-b623-f812cf57e63f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "6bbeaa05-dc9d-4f5d-bd8d-8fbc1ba6378b",
+      "type": "PROCEDURE",
+      "title": "Purchasing Form",
+      "source": {
+        "id": "74af0572-c379-4949-aa8d-ca3aed4ace71",
+        "version": "1"
+      }
+    },
+    {
+      "id": "12e9431a-1030-4b98-a527-0cd1fa4aeb96",
+      "type": "PROCEDURE",
+      "title": "Reagent Preparation and Storage Form",
+      "source": {
+        "id": "24fc893c-e580-4fb5-89b2-62a9bd34bae1",
+        "version": "20"
+      }
+    },
+    {
+      "id": "12849219-fed0-430e-a184-0d957b28776c",
+      "type": "DOCUMENT",
+      "title": "SOP -  Product Storage and Distribution",
+      "source": {
+        "id": "aa40fb6a-e61b-4115-bfa0-d20f9bf5fdb1",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2afa5892-33f6-48cc-82d0-7e92d1473a9b",
+      "type": "DOCUMENT",
+      "title": "SOP - Aseptic Techniques",
+      "source": {
+        "id": "db0a3cef-8f6c-4458-a859-059617952842",
+        "version": "1"
+      }
+    },
+    {
+      "id": "32103ab4-6ca2-454b-9e02-704dbf88de88",
+      "type": "DOCUMENT",
+      "title": "SOP - Biological Materials Handling",
+      "source": {
+        "id": "7267169d-28c2-4f24-9485-2f9a9f85fd5b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "eacdb941-890e-4f4d-9122-e9510d0d31e5",
+      "type": "DOCUMENT",
+      "title": "SOP - Calibration Procedures",
+      "source": {
+        "id": "95a765fd-3e85-4b5f-bee5-1860d274d04f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "f54331de-2352-4d3f-997a-666925a44275",
+      "type": "DOCUMENT",
+      "title": "SOP - Chemical Handling and Storage",
+      "source": {
+        "id": "b7e4d988-68d4-440a-8727-1f0e89c5beea",
+        "version": "1"
+      }
+    },
+    {
+      "id": "fa820307-1ca5-4da7-ac7c-40d75868b219",
+      "type": "DOCUMENT",
+      "title": "SOP - Complaint Handling",
+      "source": {
+        "id": "1fe1b3e0-f87d-4009-a372-5f1c8d4e8516",
+        "version": "1"
+      }
+    },
+    {
+      "id": "a2dd7d1d-98a0-48e8-b400-be4217199a46",
+      "type": "DOCUMENT",
+      "title": "SOP - Conducting Change Control",
+      "source": {
+        "id": "111132e7-7993-4e5c-8ee9-0d13f900bfdd",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c2c7b152-0202-4b2d-be40-c967569c83c6",
+      "type": "DOCUMENT",
+      "title": "SOP - Customer Communications and Requirements",
+      "source": {
+        "id": "b71733a9-e2c3-4231-93bc-b61cfb91dd4a",
+        "version": "1"
+      }
+    },
+    {
+      "id": "71420e8b-7c95-4802-9965-82fbd56ceb3d",
+      "type": "DOCUMENT",
+      "title": "SOP - Data Integrity and Electronic Records",
+      "source": {
+        "id": "6c861cc9-c888-4a20-865f-e9f133e6f28b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "4edadc1f-13bd-4f31-8b02-b4d42383695e",
+      "type": "DOCUMENT",
+      "title": "SOP - Design and Development Procedures",
+      "source": {
+        "id": "acb846d8-9c16-46f4-a55b-477a40f6e5e3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "87ec89f0-3714-4042-b614-2046ba648982",
+      "type": "DOCUMENT",
+      "title": "SOP - Document Control",
+      "source": {
+        "id": "4d421e92-5bc6-4e7b-b695-1ce78752c09c",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b13dee73-17a0-491a-837a-f209e0756187",
+      "type": "DOCUMENT",
+      "title": "SOP - Documentation and Record Keeping",
+      "source": {
+        "id": "5a81c1f3-a1eb-4795-801b-e4d1758b5bd6",
+        "version": "1"
+      }
+    },
+    {
+      "id": "a2c37e2b-194c-47bd-9009-30f798fdec03",
+      "type": "DOCUMENT",
+      "title": "SOP - Documenting External Audits",
+      "source": {
+        "id": "6d79b4f4-34b3-4a11-a460-f4ef788855da",
+        "version": "1"
+      }
+    },
+    {
+      "id": "6adf5254-cd15-454d-8504-8e47cdb96899",
+      "type": "DOCUMENT",
+      "title": "SOP - Electrical Safety",
+      "source": {
+        "id": "e842b5f3-c311-4069-9f5c-f0f6bb7b2a5d",
+        "version": "1"
+      }
+    },
+    {
+      "id": "08f81f63-56bd-4623-adb1-c083f42552d4",
+      "type": "DOCUMENT",
+      "title": "SOP - Emergency Response and Evacuation",
+      "source": {
+        "id": "2403d78d-adee-4f5e-bab9-8959363711e3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7dd6045b-8df1-443f-a623-02d6dfbd30df",
+      "type": "DOCUMENT",
+      "title": "SOP - Environmental Monitoring",
+      "source": {
+        "id": "1531a0d3-0b6a-4aea-a3da-c2cf90110f46",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9903845f-b0a5-4687-b166-454c2acf90d1",
+      "type": "DOCUMENT",
+      "title": "SOP - First Aid and Fire Safety",
+      "source": {
+        "id": "baceec5a-cdca-4723-adb0-43af1adae045",
+        "version": "1"
+      }
+    },
+    {
+      "id": "8aa0f8cf-e355-4d5c-b2d9-c0fbe5da7e78",
+      "type": "DOCUMENT",
+      "title": "SOP - General Laboratory Safety",
+      "source": {
+        "id": "55d1fe2a-e629-425f-9f65-37697609a418",
+        "version": "1"
+      }
+    },
+    {
+      "id": "81729e2f-ecc3-4121-89be-a875e7772b96",
+      "type": "DOCUMENT",
+      "title": "SOP - How to Conduct Change Controls",
+      "source": {
+        "id": "97f2d70c-bbc7-43db-81c4-23072707d8d5",
+        "version": "1"
+      }
+    },
+    {
+      "id": "980db283-ae05-4f37-b7a6-7eddf6b3765f",
+      "type": "DOCUMENT",
+      "title": "SOP - Incident Reporting and Investigation",
+      "source": {
+        "id": "35bc64f2-1792-480f-8aa0-f74257345cdc",
+        "version": "1"
+      }
+    },
+    {
+      "id": "edbbf124-c6db-4020-a0fa-497be87c47f4",
+      "type": "DOCUMENT",
+      "title": "SOP - Internal Audits",
+      "source": {
+        "id": "8808e2d6-a91a-4d4d-a9b5-5662adf7be5f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7fa52a96-0264-4a6b-ab2e-1f3d004d3320",
+      "type": "DOCUMENT",
+      "title": "SOP - Job Descriptions and Responsibilities",
+      "source": {
+        "id": "e9542ad1-b974-4c56-97b8-08499efefc4d",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c94e6e63-7ccf-4a74-b016-e465a96314a7",
+      "type": "DOCUMENT",
+      "title": "SOP - Laboratory Waste Management",
+      "source": {
+        "id": "b62e73e5-cb2f-4019-8e99-f749c25d8763",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b0af2d48-2b00-4caa-9865-2d9ab59ae864",
+      "type": "DOCUMENT",
+      "title": "SOP - Management Review",
+      "source": {
+        "id": "85476fa3-ecdf-46ce-92b1-e4da5880d24f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "32514bad-3a51-4b12-b1b7-04e4e44a9b91",
+      "type": "DOCUMENT",
+      "title": "SOP - Method Validation and Verification",
+      "source": {
+        "id": "65ceec6d-5fa3-467e-bfcf-e3bad8789859",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ca4ea109-d86f-4331-b187-09b6d4737234",
+      "type": "DOCUMENT",
+      "title": "SOP - Patient Confidentiality",
+      "source": {
+        "id": "ccac9950-887b-481c-9e4d-60d1e4b121d1",
+        "version": "1"
+      }
+    },
+    {
+      "id": "37be8c06-aaec-4602-abfb-ea4d1355806b",
+      "type": "DOCUMENT",
+      "title": "SOP - Personnel Records Management",
+      "source": {
+        "id": "03585c1b-df6c-4001-9d63-69a44fa2feec",
+        "version": "1"
+      }
+    },
+    {
+      "id": "98a10adc-b750-4ea8-a37d-cb475d683145",
+      "type": "DOCUMENT",
+      "title": "SOP - Post-Market Surveillance Procedures",
+      "source": {
+        "id": "c37ce6ce-3425-4f72-959f-fb2b8182d8bd",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c6cb421e-1eb6-454b-bb0e-c63463555c30",
+      "type": "DOCUMENT",
+      "title": "SOP - Procedure for Quality Control (QC) and Quality Assurance (QA)",
+      "source": {
+        "id": "3307d5fe-39d2-48f7-b28b-963058bef85f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "bbe0c1bf-d7ae-46e6-8443-a76a7ed724ee",
+      "type": "DOCUMENT",
+      "title": "SOP - Product Release and Distribution",
+      "source": {
+        "id": "099bc50d-ea65-43fb-820c-27e06a71a32d",
+        "version": "1"
+      }
+    },
+    {
+      "id": "4064d45b-d5ea-4d56-bf14-3a9152898bd3",
+      "type": "DOCUMENT",
+      "title": "SOP - Purchasing",
+      "source": {
+        "id": "e996cca1-3f33-4ac3-b7f7-cc6d82b5f56c",
+        "version": "1"
+      }
+    },
+    {
+      "id": "46595e97-d393-43c3-bde9-b4427f50de1a",
+      "type": "DOCUMENT",
+      "title": "SOP - Quality Manual",
+      "source": {
+        "id": "c2d49c95-f7e8-4968-90a7-30a7b1cd45c4",
+        "version": "1"
+      }
+    },
+    {
+      "id": "8090c374-4543-42c3-83a5-ddb12e8f8218",
+      "type": "DOCUMENT",
+      "title": "SOP - Reagent Preparation and Storage",
+      "source": {
+        "id": "ff1a6cb1-5d38-4e58-bbd3-99ea469f00f4",
+        "version": "2"
+      }
+    },
+    {
+      "id": "d2d80ceb-9d57-4ece-be89-ea289ffa69da",
+      "type": "DOCUMENT",
+      "title": "SOP - Reference Material Handling",
+      "source": {
+        "id": "c8dd8452-ae75-4700-b489-4a869328549a",
+        "version": "1"
+      }
+    },
+    {
+      "id": "5ff911b4-ef3b-4df3-bfa0-47d381f2fb17",
+      "type": "DOCUMENT",
+      "title": "SOP - Referral Testing",
+      "source": {
+        "id": "d3162871-2e88-47be-ae8e-a16a038da9c0",
+        "version": "1"
+      }
+    },
+    {
+      "id": "54f696bb-1dea-4830-8591-235bfb36e827",
+      "type": "DOCUMENT",
+      "title": "SOP - Reporting to Regulatory Authorities",
+      "source": {
+        "id": "c972f122-a782-4ce6-bd0d-8c8b7d9c9598",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9b34c6b1-0938-4f12-b1c9-925adc027ce9",
+      "type": "DOCUMENT",
+      "title": "SOP - Risk Management",
+      "source": {
+        "id": "e8433c30-056f-4c46-aaba-132f8bb79bde",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2721f64a-4fa8-4ab3-93b7-82b6b0948367",
+      "type": "DOCUMENT",
+      "title": "SOP - Sample Handling and Management",
+      "source": {
+        "id": "5a40c1b7-f8a7-4e02-aa15-4d4c858cfb2a",
+        "version": "1"
+      }
+    },
+    {
+      "id": "28348fde-2313-4ea6-8eeb-586bdd005d16",
+      "type": "DOCUMENT",
+      "title": "SOP - Staff Training and Competency Assessment",
+      "source": {
+        "id": "b5dc6c9d-24d4-41b2-992b-b8bfa612c0ae",
+        "version": "1"
+      }
+    },
+    {
+      "id": "29706563-5468-401b-b532-14ea0564639c",
+      "type": "DOCUMENT",
+      "title": "SOP - Supplier and Vendor Management",
+      "source": {
+        "id": "2901356e-1be5-49e3-9bef-fe51768e296e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "910f2c88-e973-4166-9bbb-b9593b230bb5",
+      "type": "DOCUMENT",
+      "title": "SOP - Test Methods SOPs",
+      "source": {
+        "id": "ba75f260-a5ae-415f-a9c7-89e5dc92eeec",
+        "version": "1"
+      }
+    },
+    {
+      "id": "384f7882-0bdd-4e09-844c-5dda85a31dee",
+      "type": "DOCUMENT",
+      "title": "SOP - Test Result Reporting",
+      "source": {
+        "id": "b9745b49-7e95-40b1-a3fb-c4ab0120144f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b2862d80-ac91-4813-a6c6-e5b9b7722f9e",
+      "type": "DOCUMENT",
+      "title": "SOP - Traceability Procedures",
+      "source": {
+        "id": "0f6bd002-7649-456a-832b-4e6969d7eceb",
+        "version": "1"
+      }
+    },
+    {
+      "id": "4d9a3e17-74cb-4fcd-bfbf-7e2c6a51fd0e",
+      "type": "DOCUMENT",
+      "title": "SOP - Using and Maintaining the Seal LIMS",
+      "source": {
+        "id": "3002ae78-8c30-4796-9fa2-f6d0ead27949",
+        "version": "1"
+      }
+    },
+    {
+      "id": "8cb721f7-0656-456e-b4ff-2393b46e3238",
+      "type": "DOCUMENT",
+      "title": "SOP - Validation of Software",
+      "source": {
+        "id": "f18152da-23ee-4f84-a826-f7ef5a96ac98",
+        "version": "1"
+      }
+    },
+    {
+      "id": "54ed2693-ae65-407d-8961-8d8d349a8004",
+      "type": "PROCEDURE",
+      "title": "Supplier Audit Evaluation",
+      "source": {
+        "id": "0a14ccb6-c71c-41d0-a6f7-437265871d36",
+        "version": "4"
+      }
+    },
+    {
+      "id": "0fa6a16b-cf0d-4559-a339-eb8be7d7fa19",
+      "type": "PROCEDURE",
+      "title": "Supplier Performance Evaluation",
+      "source": {
+        "id": "a8aac2bf-4a25-4ba3-b92e-d4f95a988d61",
+        "version": "2"
+      }
+    },
+    {
+      "id": "ffcc1e91-edf0-4e5b-aa88-bf58b4922b8c",
+      "type": "PROCEDURE",
+      "title": "Testing and Quarantine of Incoming Goods",
+      "source": {
+        "id": "2ce7a46b-5715-45ac-9297-597d973f0337",
+        "version": "5"
+      }
+    },
+    {
+      "id": "5bf9d496-903a-4b2d-9fce-11d3eec4917b",
+      "type": "PROCEDURE",
+      "title": "Toxicological Risk Assessment",
+      "source": {
+        "id": "56962f4c-275f-4068-b9e5-ce34482ede1a",
+        "version": "3"
+      }
+    },
+    {
+      "id": "f3a5a13d-1f0e-44e9-9a4a-17bc77b3884b",
+      "type": "PROCEDURE",
+      "title": "Verification of Effectiveness Form",
+      "source": {
+        "id": "08ebd139-ed30-4a79-83fd-8093d56f8170",
+        "version": "2"
+      }
+    },
+    {
+      "id": "ef0a6f09-dd26-446d-a882-7cb00c9e45e1",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "CAPA Information",
+      "source": {
+        "id": "7b468cd3-194c-4281-a4e8-3812a95e3eea",
+        "version": "2"
+      }
+    },
+    {
+      "id": "e412b68f-e434-4336-a58e-2ba863893708",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section A: Overview",
+      "source": {
+        "id": "af5ee032-6c56-40a7-b1f3-2df85bd8ad4e",
+        "version": "2"
+      }
+    },
+    {
+      "id": "11956cb4-e080-4ab9-b322-6c7b5f0e05cb",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section B: Action Plan",
+      "source": {
+        "id": "173b112a-93e1-4ba1-b836-e061d23e5125",
+        "version": "2"
+      }
+    },
+    {
+      "id": "55e3571d-a7e1-411d-b147-7843cce62e65",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section B.1: Action Items",
+      "source": {
+        "id": "7087568d-81c7-4de4-ab8e-9dbf084ac1ca",
+        "version": "2"
+      }
+    },
+    {
+      "id": "f83dc4ad-504a-4eb3-90ca-4ab119441553",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section C: Effectiveness Check",
+      "source": {
+        "id": "357b668f-c08d-4a6f-975e-61866602761b",
+        "version": "2"
+      }
+    },
+    {
+      "id": "070bd504-c57e-4c1c-827c-461e1e474d31",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Change Details",
+      "source": {
+        "id": "68b88020-9f9f-4301-9ee0-c534ecb67380",
+        "version": "2"
+      }
+    },
+    {
+      "id": "f39bb61e-2464-4115-bb20-6a2883b1f244",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Change Control Action Items",
+      "source": {
+        "id": "a104e17f-b8c2-41b6-8b4f-81cf73b3ce91",
+        "version": "2"
+      }
+    },
+    {
+      "id": "b79b9727-394f-43cf-b61b-b9fe4442920c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Change Control Implementation",
+      "source": {
+        "id": "754ae0f6-5c6a-4d4c-9da1-1e509e7ebd4d",
+        "version": "2"
+      }
+    },
+    {
+      "id": "6bb9f7ce-d523-45bd-84d7-726e0273a202",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Change Control Close Date",
+      "source": {
+        "id": "de9990b4-9478-432d-b4aa-9396f77b1ec0",
+        "version": "2"
+      }
+    },
+    {
+      "id": "4937c713-23ce-473f-b69b-62a9370955a6",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Verification of Effectiveness Check",
+      "source": {
+        "id": "607ccfc2-3ba5-4c17-b966-b7f6f8e4c0c7",
+        "version": "2"
+      }
+    },
+    {
+      "id": "fa1f18b6-5b83-42d2-b01a-2a80a145a3f2",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Cleaning Checklist",
+      "source": {
+        "id": "dcc3a8b7-a325-45c7-b658-bf2590a8a128",
+        "version": "1"
+      }
+    },
+    {
+      "id": "34657613-33e0-403d-9513-dcfceccfeeb9",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Cleaning Verification",
+      "source": {
+        "id": "0f9d4edc-b501-4de7-84b6-2413db9b827a",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2f2c9480-9e3c-4a6d-ac71-05e87a7175ca",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "COSHH Assessment",
+      "source": {
+        "id": "2a706f84-fcf3-4621-a19f-eaf7f404e517",
+        "version": "4"
+      }
+    },
+    {
+      "id": "be01d8f6-2853-477f-8a8d-f962d639c714",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Safety Data Sheet (SDS) Review",
+      "source": {
+        "id": "9d03863a-d625-4e11-81e7-39fe45acacdf",
+        "version": "3"
+      }
+    },
+    {
+      "id": "7b048c40-2236-412e-9654-49af6a1cd089",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Control Measure Implementation",
+      "source": {
+        "id": "530e4075-e80b-4f1e-b635-a6c0acf27d97",
+        "version": "3"
+      }
+    },
+    {
+      "id": "8eaf0ae7-292a-4ecd-bc28-9156aae7ec41",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Health Surveillance",
+      "source": {
+        "id": "f00adcd0-c088-447f-9671-8250ccf3ce2e",
+        "version": "3"
+      }
+    },
+    {
+      "id": "6ae5dd8a-2e6a-48a7-9fc9-e86146f691bf",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Exposure Monitoring",
+      "source": {
+        "id": "d6d4a9ab-62f4-4279-ac9b-c9f7c3b74885",
+        "version": "3"
+      }
+    },
+    {
+      "id": "8b8f3308-8c3d-4929-b934-28e588043681",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Customer Complaints",
+      "source": {
+        "id": "c82551e1-4088-495a-91f3-b1501d958278",
+        "version": "2"
+      }
+    },
+    {
+      "id": "73b3a990-8deb-4492-8d5b-1281806ac922",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Equipment Calibration",
+      "source": {
+        "id": "c0ad8b32-49ad-4d20-8a65-e7fac177f863",
+        "version": "1"
+      }
+    },
+    {
+      "id": "8a55f06c-df72-44a6-b828-79604d9849a4",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quality Review",
+      "source": {
+        "id": "2ee99dfd-4a8f-477d-8bed-7cd97ccaeb5d",
+        "version": "3"
+      }
+    },
+    {
+      "id": "1b3f78e9-151a-4a7d-97e7-25ca9bff4009",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Equipment Requirements and Utility Assessment",
+      "source": {
+        "id": "653475bd-f2f1-4777-b970-1b3db1728390",
+        "version": "2"
+      }
+    },
+    {
+      "id": "14289662-44d0-46a2-84ea-0d8b6403f757",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Installation Qualification (IQ) Protocol",
+      "source": {
+        "id": "8c3170f0-dee6-463b-bdeb-e32ec2a1a12f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "bb0caa97-29b4-48c9-8324-8d9bfa27cd4a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Installation of Equipment",
+      "source": {
+        "id": "b738a5a8-ff6a-4f61-819f-3cf5d2a3d676",
+        "version": "1"
+      }
+    },
+    {
+      "id": "bbc5dd66-1c48-49d2-92e7-fcf61697df5a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Operational Qualification (OQ)",
+      "source": {
+        "id": "f9adce25-284c-49d2-b5a8-c17b58b55f8e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c0ca0346-6a8e-4936-baae-548fc90aba48",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Performance Qualification (PQ)",
+      "source": {
+        "id": "702f41c4-907a-4b28-905b-0eac144674d9",
+        "version": "2"
+      }
+    },
+    {
+      "id": "8a8b93fd-4202-460c-bb5a-5ab62f6db06c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Pre-Maintenance Check",
+      "source": {
+        "id": "4fd60a2a-df09-4f4e-81f3-b46fb2f1dbd3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c40d1102-d1de-41ec-b572-962d3e0cb928",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Maintenance Activities",
+      "source": {
+        "id": "6ae4d22e-ad4c-4234-9e4d-40adcd301153",
+        "version": "1"
+      }
+    },
+    {
+      "id": "787f8d0f-0bcd-4c3b-b21f-e8d8aea1c960",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Post-Maintenance Checks",
+      "source": {
+        "id": "8e9e7ed4-691f-4c94-af62-92366e8c686b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "6a620af6-4ae3-4b15-94d9-4cc07d4bf195",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Issue Reporting",
+      "source": {
+        "id": "6e69e339-4a22-4bb2-80e7-f066d5b7af5b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c5b4ebac-24ef-4bb0-9e4d-93d48354cc97",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Register Equipment Information",
+      "source": {
+        "id": "e331fa45-1484-47a1-a0b7-f012051a0d25",
+        "version": "1"
+      }
+    },
+    {
+      "id": "37f722b3-2746-4d9a-8f01-aad15e9ab3d4",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Fire Incident Reporting",
+      "source": {
+        "id": "7eafb6f1-3cd4-42e8-b359-c4b19552a6de",
+        "version": "1"
+      }
+    },
+    {
+      "id": "645e176b-fe06-4ea3-82af-696c5d1db87b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Post-Incident Evaluation",
+      "source": {
+        "id": "d1f49720-3682-450d-a663-3edda291192b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "0573629b-badd-4dd2-b8e3-b9c52576c359",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Goods Receipt",
+      "source": {
+        "id": "1f38dd58-7773-4d7d-9713-6c62fa5ea545",
+        "version": "4"
+      }
+    },
+    {
+      "id": "edaaf45c-9951-4aca-9b10-d2f8713cdd23",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Product Verification",
+      "source": {
+        "id": "82ec8b8e-2856-47af-9674-f73df728687a",
+        "version": "3"
+      }
+    },
+    {
+      "id": "c95cf89f-492b-4414-85fe-3c8554c11970",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Release Authorisation",
+      "source": {
+        "id": "af7b2680-a362-4592-a73e-da9ac9585a79",
+        "version": "4"
+      }
+    },
+    {
+      "id": "b1bf38f4-8117-4c93-a2c8-b2a561a65df2",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Product Release",
+      "source": {
+        "id": "6f432ca2-ef2a-4820-b1f7-15d30d3feac3",
+        "version": "3"
+      }
+    },
+    {
+      "id": "7655a43f-0249-4b94-892b-1a81c0353f58",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Incident Report Form",
+      "source": {
+        "id": "65714943-2327-40b1-b103-2ea5935830a9",
+        "version": "1"
+      }
+    },
+    {
+      "id": "91f3bf4e-46e9-4fc5-8630-50cb7f50487a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Audit Information",
+      "source": {
+        "id": "aa5a0ef7-d989-467a-9abb-89aacc67c6eb",
+        "version": "1"
+      }
+    },
+    {
+      "id": "be7ead41-a033-4f1c-9a62-cdc0fece1a3c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Audit Findings and Actions",
+      "source": {
+        "id": "004bdf44-955e-4548-8558-916ff1d16379",
+        "version": "1"
+      }
+    },
+    {
+      "id": "eb48c953-a7b8-48b5-a963-d31ab2a055ba",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Audit Action Items",
+      "source": {
+        "id": "49c7e0e3-82ef-42ba-9492-ab854cb9e84a",
+        "version": "1"
+      }
+    },
+    {
+      "id": "3068ddd0-6716-4997-82b6-b2905c560399",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Non-Conformance Information",
+      "source": {
+        "id": "d91053ba-2c8d-4ab1-9af7-ed4f324cb96e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "459a0c32-f9c2-4a77-be2d-5e2f5cb66c4a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Non-Conformance Actions",
+      "source": {
+        "id": "a41f11b8-04f6-4f7d-a261-4d6f34ec7c94",
+        "version": "2"
+      }
+    },
+    {
+      "id": "24f3a3ad-086d-409b-a084-f1c86b73fa92",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Review Scope",
+      "source": {
+        "id": "8f4d573b-f56d-430f-b41c-2f773fb99d7e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b37cdfdb-d3ec-40da-8f8d-19bc64fd7efe",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Data Collection",
+      "source": {
+        "id": "065b6836-cdd1-4053-b7a5-911fad8f98e9",
+        "version": "1"
+      }
+    },
+    {
+      "id": "0c519ea7-e0a1-49f9-9e71-b268bfe2d279",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Non-Conformity Reporting",
+      "source": {
+        "id": "b8d2d0d4-0ce4-4308-8f0b-dfa28590cc9e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ce627454-f555-4826-9cab-57649cbae712",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Review Summary",
+      "source": {
+        "id": "8ac3621b-a5d6-49c8-accd-10c035369ea3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "38e4569f-9fa0-47ce-b7ff-8e2bbe96b296",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Purchase Request",
+      "source": {
+        "id": "fa89c1b3-a4bd-4517-80da-96468072c2e0",
+        "version": "1"
+      }
+    },
+    {
+      "id": "35bed522-b453-4f6c-8ed1-10f609126240",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Reagent Information",
+      "source": {
+        "id": "40f0d61a-9d8f-4e81-80c0-b9bab8c97440",
+        "version": "3"
+      }
+    },
+    {
+      "id": "f357a0dc-874e-4c05-a0eb-4ba2f7589b8a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Preparation Procedure",
+      "source": {
+        "id": "1754f365-f802-412f-a3e9-de713b5a01e3",
+        "version": "12"
+      }
+    },
+    {
+      "id": "cb2c2ec5-1906-4a02-8fe3-b5e87ef0f76c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quality Control (QC) Checks",
+      "source": {
+        "id": "58e8c767-6f88-42c4-a104-b8e9b7eb8ea4",
+        "version": "7"
+      }
+    },
+    {
+      "id": "eb334cc4-9015-4041-80ca-0977ba2f0acb",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Storage",
+      "source": {
+        "id": "90fb4026-1067-493b-9165-fa8fee6f8548",
+        "version": "7"
+      }
+    },
+    {
+      "id": "77039c57-2aea-4c62-8f84-03e7b735436c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Supplier Details",
+      "source": {
+        "id": "19f4553b-c528-4c09-8963-eb67beb96e00",
+        "version": "3"
+      }
+    },
+    {
+      "id": "277fcd7f-4500-4c25-9bf8-040a401554ba",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Supplier Evaluation",
+      "source": {
+        "id": "e0394086-c009-43db-82a5-05e38b3c3d7a",
+        "version": "2"
+      }
+    },
+    {
+      "id": "b7282ef8-2305-47b1-9561-03a166be2817",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quality Review",
+      "source": {
+        "id": "2ee99dfd-4a8f-477d-8bed-7cd97ccaeb5d",
+        "version": "2"
+      }
+    },
+    {
+      "id": "b482fbb5-9e85-4a9a-b838-63353bae48b9",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Supplier Performance Evaluation",
+      "source": {
+        "id": "c740c525-8d32-4c0b-aaf7-64b0906ae192",
+        "version": "2"
+      }
+    },
+    {
+      "id": "a5cc97f5-6f16-4d73-af80-c7962edc1a9a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quarantine of Incoming Goods",
+      "source": {
+        "id": "90a59ddb-187e-4b15-9c82-824f578c5396",
+        "version": "2"
+      }
+    },
+    {
+      "id": "e37c1ee3-0528-4bc4-a4cd-1b5facd18a9c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Testing Plan",
+      "source": {
+        "id": "34e312e7-4b81-4e99-885a-b894236cbfea",
+        "version": "2"
+      }
+    },
+    {
+      "id": "454dce28-fb0d-4e2a-b911-e264c7859506",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Risk Assessment for X",
+      "source": {
+        "id": "7c87c47e-6a08-4d17-a302-2da214e7cb8a",
+        "version": "2"
+      }
+    },
+    {
+      "id": "4d6a3739-d085-4d40-8c44-2e861dc39631",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Risk Management Measures",
+      "source": {
+        "id": "79623096-4657-4fd7-96b8-f05b84889763",
+        "version": "2"
+      }
+    }
+  ]
+}

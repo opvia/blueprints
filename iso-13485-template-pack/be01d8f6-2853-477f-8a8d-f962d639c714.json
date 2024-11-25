@@ -1,0 +1,243 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "be01d8f6-2853-477f-8a8d-f962d639c714",
+  "title": "Safety Data Sheet (SDS) Review",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "SDS Date": {
+        "id": "953d62ee-aaa1-4fa5-80ff-65a08c5a55d0",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Reference": {
+        "id": "f5a25a3a-7605-447b-bf76-5d6ceb47343c",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Substance Name": {
+        "id": "16790f3c-505c-4b35-9cf9-397ad1ac62c9",
+        "type": "LOOKUP",
+        "value": null,
+        "config": {
+          "refFieldId": "f5a25a3a-7605-447b-bf76-5d6ceb47343c",
+          "lookupFieldName": "Substance Name"
+        },
+        "dataType": "LOOKUP"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "7bd2d40e-b7e9-4531-98fb-5c05616cab08",
+        "type": "field",
+        "fieldId": "953d62ee-aaa1-4fa5-80ff-65a08c5a55d0",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "613466b9-9917-4161-ba24-c4648c4b51bf",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "70f75fc4-0947-498f-8e00-1f308b386feb",
+        "type": "field",
+        "fieldId": "16790f3c-505c-4b35-9cf9-397ad1ac62c9",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6973b974-3616-4b07-a5d0-ce2b8dba32d4",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "54faa56e-13ed-4e16-9592-fab2f2bd3055",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "What are the Key Hazards Associated with this Substance?"
+          }
+        ]
+      },
+      {
+        "id": "ec16148d-34b3-4d4a-bf41-16b5b8680d02",
+        "type": "li",
+        "children": [
+          {
+            "id": "fbebe329-85b5-439b-97d4-75eb71ef66f8",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11f7d875-7d0d-474f-be01-545c49315328",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c55b1efd-f778-4876-bf4e-9cd30e8c42c5",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "What are the Exposure Limits with this Substance?"
+          }
+        ]
+      },
+      {
+        "id": "7bc7a219-a900-4571-9b08-4f4d78af5060",
+        "type": "li",
+        "children": [
+          {
+            "id": "2c1e6621-a4ff-4e8b-9f22-b07674402d00",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3fba3fed-ee35-4f71-938f-b4c05a4e1c95",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "ac3b6ea8-6ca4-4f72-884c-8fb59a06fd9a",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Handling Precautions:"
+          }
+        ]
+      },
+      {
+        "id": "6258c0d1-16ac-4807-8f8d-75967fcef142",
+        "type": "li",
+        "children": [
+          {
+            "id": "691ad9a1-f961-461c-bba0-2a5c3faf47b7",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0825d4b2-240d-450f-936a-40a7c6469b38",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c8a65f9b-a3ac-4caa-9a79-02c519b82fe2",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Emergency Procedures:"
+          }
+        ]
+      },
+      {
+        "id": "6d137f7b-a299-4c74-a5dc-41c6b8d08e5d",
+        "type": "li",
+        "children": [
+          {
+            "id": "4d3fb548-8b56-496a-8343-2218ca87b433",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "86f68eae-92ce-43db-8bd4-18ae654e2372",
+        "type": "FIELD",
+        "fieldId": "16790f3c-505c-4b35-9cf9-397ad1ac62c9"
+      },
+      {
+        "id": "6ccb4a8d-3531-449c-8aa1-d9148cad57ea",
+        "type": "FIELD",
+        "fieldId": "f5a25a3a-7605-447b-bf76-5d6ceb47343c"
+      },
+      {
+        "id": "625d6384-6a7f-470a-8596-7810c5102358",
+        "type": "FIELD",
+        "fieldId": "953d62ee-aaa1-4fa5-80ff-65a08c5a55d0"
+      }
+    ]
+  }
+}

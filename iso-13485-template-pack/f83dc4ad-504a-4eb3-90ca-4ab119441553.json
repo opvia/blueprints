@@ -1,0 +1,387 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "f83dc4ad-504a-4eb3-90ca-4ab119441553",
+  "title": "Section C: Effectiveness Check",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "QA Date": {
+        "id": "393e849c-b9b8-43cd-a341-8bbf80d01c89",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Assigned QA": {
+        "id": "6143c024-aee0-4449-bf0e-9e43cee6cfd3",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Additional Comments": {
+        "id": "f0bf5fbd-ab9e-4efc-80c7-7f539df06fc8",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Details of Action Plan": {
+        "id": "6998306b-2217-443b-9cf8-74a83d6bfcb8",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Action Plan Implemented?": {
+        "id": "d0e40e39-1cab-47b6-9375-99676335be19",
+        "type": "BOOLEAN",
+        "value": false,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Follow-up Actions Needed?": {
+        "id": "ace485d2-ec0c-438f-a539-5ac590e49559",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Date of Effectiveness Check": {
+        "id": "d890d92a-3500-48ee-bb4b-6f0dd1aee2e2",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Details of Follow-up Actions": {
+        "id": "fffb13e7-aa61-424a-b0dd-52698349929e",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Follow-up Actions Completed?": {
+        "id": "fad4e384-4f5c-4e8f-819c-0de2d11dea6b",
+        "type": "BOOLEAN",
+        "value": false,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Follow-up Actions Completion Date": {
+        "id": "764cadf4-68b8-4459-a1cc-9311e11306ef",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "4410e5e9-1249-4d2e-bfe0-ec5918ac006a",
+        "type": "h3",
+        "align": "left",
+        "children": [
+          {
+            "text": "Action Plan"
+          }
+        ]
+      },
+      {
+        "id": "1e48e434-6171-4481-b7d3-8ac54b228471",
+        "type": "field",
+        "fieldId": "d890d92a-3500-48ee-bb4b-6f0dd1aee2e2",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "543e2736-716e-485d-a344-7b6fea471425",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Provide more details on the Action Plan below:"
+          }
+        ]
+      },
+      {
+        "id": "0354af9a-2f9b-40bc-81d4-a41232c46264",
+        "type": "li",
+        "children": [
+          {
+            "id": "01294f90-34b3-4e01-a2ec-c84b0b12a51f",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7c573584-7988-41d6-82ca-0217d209f477",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9e1f0b1c-3265-43b3-9aae-91ce1106df5f",
+        "type": "field",
+        "fieldId": "d0e40e39-1cab-47b6-9375-99676335be19",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "d221ea63-9d60-4ff4-9ad9-3a9d44caccd1",
+        "type": "h3",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "2c210c8b-85ac-4578-88b9-3e3b30de7bec",
+        "type": "h3",
+        "align": "left",
+        "children": [
+          {
+            "text": "Follow up Actions"
+          }
+        ]
+      },
+      {
+        "id": "817bc570-6add-4044-baef-68f23155e2c5",
+        "type": "field",
+        "fieldId": "ace485d2-ec0c-438f-a539-5ac590e49559",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "2ed9f9ca-4caa-4b09-b643-26b68ada7a73",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Provide more detail on the Action Plan below:"
+          }
+        ]
+      },
+      {
+        "id": "6424951c-59d9-496e-9643-5e83f412df5d",
+        "type": "li",
+        "children": [
+          {
+            "id": "a6449304-e476-454c-8de3-f831349d7d71",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "415c5a34-20c2-450d-80f0-588669799a96",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9cbd318c-f7f1-433e-a2d3-12d48c687273",
+        "type": "field",
+        "fieldId": "fad4e384-4f5c-4e8f-819c-0de2d11dea6b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "1953a289-7cd9-4f7a-bf09-043a72d9736d",
+        "type": "field",
+        "fieldId": "764cadf4-68b8-4459-a1cc-9311e11306ef",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6e0edd80-2ca1-4f4f-bf94-a2fccc12c09e",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "dc25303e-7415-4379-81fd-468667a3ed77",
+        "type": "h3",
+        "align": "left",
+        "children": [
+          {
+            "text": "Closure"
+          }
+        ]
+      },
+      {
+        "id": "2237419a-f5c1-4fbc-908f-9679253ccba6",
+        "type": "field",
+        "fieldId": "6143c024-aee0-4449-bf0e-9e43cee6cfd3",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "71ecfb31-541d-43bd-b999-0f272d7acaef",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Additional Comments:"
+          }
+        ]
+      },
+      {
+        "id": "4dc6d4ed-11c2-449c-b34f-17f6f21d1a0e",
+        "type": "li",
+        "children": [
+          {
+            "id": "20e41c81-ca26-47f9-9251-2d44dda392e5",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "33f7d633-4ceb-4933-a842-eeb57b4519c4",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "17a16940-8e15-4aa7-a437-6bf922862e9d",
+        "type": "field",
+        "fieldId": "393e849c-b9b8-43cd-a341-8bbf80d01c89",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "1e918f6b-c38e-4fbd-a729-13bb54c02d94",
+        "type": "FIELD",
+        "fieldId": "d890d92a-3500-48ee-bb4b-6f0dd1aee2e2"
+      },
+      {
+        "id": "d7f7d0ff-bbfb-4549-85c3-775a6d04f64c",
+        "type": "FIELD",
+        "fieldId": "6998306b-2217-443b-9cf8-74a83d6bfcb8"
+      },
+      {
+        "id": "1f25ed46-ff5e-4d0f-81b1-e9e1c6608b86",
+        "type": "FIELD",
+        "fieldId": "d0e40e39-1cab-47b6-9375-99676335be19"
+      },
+      {
+        "id": "b92d4a6e-fe86-4487-b517-ecabb0a95954",
+        "type": "FIELD",
+        "fieldId": "ace485d2-ec0c-438f-a539-5ac590e49559"
+      },
+      {
+        "id": "58badf48-d68a-4145-b4f9-c30e8ab58e92",
+        "type": "FIELD",
+        "fieldId": "fad4e384-4f5c-4e8f-819c-0de2d11dea6b"
+      },
+      {
+        "id": "e1f0fdb1-e591-449e-adc2-d6ae55453eb4",
+        "type": "FIELD",
+        "fieldId": "fffb13e7-aa61-424a-b0dd-52698349929e"
+      },
+      {
+        "id": "6c6731aa-9a04-42f6-8c28-8c0b80cf6854",
+        "type": "FIELD",
+        "fieldId": "764cadf4-68b8-4459-a1cc-9311e11306ef"
+      },
+      {
+        "id": "be62b705-f682-4e80-9103-4ca3ef5a64e5",
+        "type": "FIELD",
+        "fieldId": "6143c024-aee0-4449-bf0e-9e43cee6cfd3"
+      },
+      {
+        "id": "8f903a2a-0d0f-441a-b0a9-201132bda2f7",
+        "type": "FIELD",
+        "fieldId": "f0bf5fbd-ab9e-4efc-80c7-7f539df06fc8"
+      },
+      {
+        "id": "c4fea2f4-5126-4cf9-afd3-63f24b69f87b",
+        "type": "FIELD",
+        "fieldId": "393e849c-b9b8-43cd-a341-8bbf80d01c89"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1353 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c2c7b152-0202-4b2d-be40-c967569c83c6",
+  "title": "SOP - Customer Communications and Requirements",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "e210f9af-da60-4822-9bf8-455e99a2846e",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "038113f1-200f-4497-9764-9ffd875160bf",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "2e5f0e34-3024-45fa-a63c-147d53bd071a",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "0ec0175c-f000-4201-bf48-0d94f01dd75c",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "20568266-d8b1-4c5f-8287-81ea3d0c06de",
+      "type": "field",
+      "fieldId": "0ec0175c-f000-4201-bf48-0d94f01dd75c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ca863c1e-ce27-4205-a71b-2568e27f577a",
+      "type": "field",
+      "fieldId": "2e5f0e34-3024-45fa-a63c-147d53bd071a",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cf936ce6-3e5b-4f15-9ca6-81062e9a791d",
+      "type": "field",
+      "fieldId": "e210f9af-da60-4822-9bf8-455e99a2846e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5265bf63-8e93-4159-adf4-fa02d6095e23",
+      "type": "field",
+      "fieldId": "038113f1-200f-4497-9764-9ffd875160bf",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9f5adc16-4713-4db4-9047-ad4d76328530",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9a7cd7d7-ae97-4214-bd7f-07bd8b4856f1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "655fea57-127f-4a46-a9fa-af9695eb06dc",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to define the process for managing customer communications and requirements to ensure customer needs are accurately understood, documented, and met. This SOP supports compliance with ISO13485 and ensures that all customer-specified, implied, and organisational requirements are identified and fulfilled for safe and effective product use."
+        }
+      ]
+    },
+    {
+      "id": "8664075f-2012-4acc-b199-4f2430d93d02",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "33b6c51d-c252-490a-9c02-88261152d7fc",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "2ad7b416-7a98-491f-9d5e-3ba0ac1de53d",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all customer communications related to product requirements, including initial requirement gathering, user training, and ongoing support. It covers stated and implied requirements, as well as any additional organisational requirements to ensure the specified or intended use of the medical device."
+        }
+      ]
+    },
+    {
+      "id": "4ab71555-be5a-4308-b37f-9b6595125653",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "df1530a2-7f6d-4fa8-af11-54cf98e8350c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "c2be177f-8cf8-47d2-ab77-32e7f0372a69",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f0c79f74-218a-4bd3-898a-b8ed4dcf2607",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Customer Support Team"
+            },
+            {
+              "text": ": Serves as the primary point of contact for customers, gathers customer requirements, and communicates needs to relevant departments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0a3df95-6025-4606-8831-a299181ea785",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5e06f77a-e739-4a1c-8323-8cc531dc2299",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Ensures all customer requirements are documented and verified, and oversees compliance with regulatory and organisational standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e52f2bb1-380b-41d4-a030-27534dc18fac",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bc9bccb7-cd6d-4c70-909f-68ec89d0eacf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Product Development"
+            },
+            {
+              "text": ": Reviews customer requirements and incorporates them into product specifications and design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c44f6b80-b02c-4bcf-84d7-3a9352448b46",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "eace0836-fa03-452e-a424-c9a7d6f5ea76",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Department"
+            },
+            {
+              "text": ": Develops and delivers user training programs to support safe and effective device use, as required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91cf9d55-1423-4602-affc-8a2fc190ae25",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d58d12f5-24bb-44fe-b5c9-4c411469bcda",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management"
+            },
+            {
+              "text": ": Reviews and approves final requirements and customer communication processes to ensure compliance and customer satisfaction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec69f1c5-1831-4fd4-a9ac-0e53e66b2e7e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6cda7128-9421-4dfa-a7a7-315fc84621bf",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "5e6634e5-e124-47a6-ac59-3cc519546c86",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3d6524d8-51fa-4e21-92f7-cc02ebabbc94",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Customer Requirements"
+            },
+            {
+              "text": ": Specifications provided by the customer, either explicitly or implied, necessary to achieve the desired use and performance of the product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6f1a636-2d12-4128-8206-9ec610799704",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "efee362d-962e-4266-9157-b97fe308ff00",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Implied Requirements"
+            },
+            {
+              "text": ": Needs not explicitly stated by the customer but necessary for the product’s intended use and regulatory compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "524d5404-41e7-4b5b-8eda-8b45f2adf950",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d952e069-c671-49b3-a958-bf8329ef89ee",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "User Training"
+            },
+            {
+              "text": ": Training provided to customers to ensure safe and effective use of the medical device."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4df0ad24-666f-40ea-8c9f-361d3464c268",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8fabef67-288b-418d-88ea-01da3bff339e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "General Customer Communication Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "9454a232-4d0f-4253-a909-25ed42217d9c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "be2f9229-d298-4675-813e-dfaeebc80975",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Timeliness"
+            },
+            {
+              "text": ": Respond promptly to all customer inquiries and document communications accurately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc67f431-c44b-437c-beb2-1e4c9709610e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22d49550-cdb0-4252-b268-fab6a187e608",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Clarity"
+            },
+            {
+              "text": ": Ensure all requirements and commitments are communicated clearly to the customer to prevent misunderstandings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d517fd7-eb08-4c60-aa49-7bb3a4aff79b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7f70c45b-6f6b-4551-a0a9-7870464de75d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Record all customer requirements, communications, and agreements to support traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed323043-026b-46e2-a783-6bd078cbc696",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "242553e9-6b58-4dd5-b731-09724cfb40d8",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Customer Requirement Management Process"
+        }
+      ]
+    },
+    {
+      "id": "12b85fae-5f6c-4ca3-8eb9-774535258c26",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "451247c3-9960-4044-988b-6daf379c05f6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Initial Requirement Gathering"
+        }
+      ]
+    },
+    {
+      "id": "ebecb781-ebc3-4c48-ac48-35f29a180f1b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "92198883-7e9a-4185-b648-c4f39fd43341",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Requirement Documentation"
+            },
+            {
+              "text": ": The Customer Support Team documents all initial customer requirements, including specific functionality, performance, and any regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40a9d6ed-eeb3-48c0-9c7a-a0cd0d819dbe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0a2d2093-8eb1-49fc-a379-49585158a9c3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Confirmation with Customer"
+            },
+            {
+              "text": ": Provide a summary of documented requirements to the customer for confirmation and approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88a393d1-2cef-4695-b207-3a8be73e002b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5aaaf886-cd59-4247-8cbe-53120eb1308e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Requirement Log"
+            },
+            {
+              "text": ": Enter customer requirements into the Requirement Log for tracking and review by relevant departments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c132410-2c7d-4a5b-96f7-c4781f0f7f4a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0e854e43-d6c1-4c77-bf16-79c41196ec79",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Identifying Implied Requirements"
+        }
+      ]
+    },
+    {
+      "id": "ea65f9af-17c3-4683-b98c-7b3c26b81222",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "34a13c7a-b869-4429-8740-c831900729e6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Internal Review"
+            },
+            {
+              "text": ": Product Development and QA review customer requirements to identify any additional implied requirements essential for the intended use or regulatory compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "857443e4-1195-438f-961d-3bc0a236d6c4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3edc2d8f-98ef-4d63-b4e5-3bf09aa95197",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Document implied requirements in the Requirement Log and confirm alignment with ISO13485 standards and organisational policies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00e54ad7-4c44-4b03-bf45-62feff8e00d6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "96f30765-e538-469d-9c55-b0b4f2553509",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approval"
+            },
+            {
+              "text": ": Obtain approval for implied requirements from QA and Management to ensure they are addressed in product design and specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7edd962-ad8c-466e-9e34-b8d62be5ed43",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c5c7b38e-b3b2-4baa-b2e7-05caae9f93a7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3. Additional Organisational Requirements"
+        }
+      ]
+    },
+    {
+      "id": "d9ad8a53-c1ed-481e-84d4-3a4bcb5dd0dd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8344b583-0947-46aa-b9cc-403ddfeb96e3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Organisational Review"
+            },
+            {
+              "text": ": QA and Product Development assess if any additional requirements are needed to meet organisational quality and safety standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6c8f44d7-9488-4f0d-836e-ac45948c93cb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a7d77b2b-a0d2-4dc2-9b52-2ec4540a92c1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation and Communication"
+            },
+            {
+              "text": ": Document additional requirements in the Requirement Log and communicate these requirements to the customer as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e61ab3f2-147d-4231-91c4-6eb3ac4723f3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0ca859b9-9ac9-42f5-8f3f-3f2abc884f89",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Customer Confirmation"
+            },
+            {
+              "text": ": Confirm customer understanding and acceptance of additional requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e4ec85f-8575-467d-9d17-69e990d2bffb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8278e053-77de-4a08-a73e-7057ad75927d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.4. Finalising Requirements"
+        }
+      ]
+    },
+    {
+      "id": "2be412ba-d363-4af4-8ac3-4bfc728e1654",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "794f012d-bdd3-4a57-aa5f-2128739f00a4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Requirement Specification"
+            },
+            {
+              "text": ": QA and Product Development finalise all requirements, including customer-stated, implied, and organisational requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "900ecb31-6ed3-4478-83b2-8c2ec73f5d26",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3fa1ce7-fb8a-4976-9b5b-d24612d78bb9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approval and Distribution"
+            },
+            {
+              "text": ": Obtain final approval of requirements from Management, then distribute them to relevant departments for product development, production, and support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc032b4f-decb-44b3-8810-3186ffe5d03e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ac051f74-00f8-443a-ac8f-18bcbe713575",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "User Training for Specified Performance and Safe Use"
+        }
+      ]
+    },
+    {
+      "id": "97e9db1c-b474-4d0a-85c1-8325934b2801",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "52a7efed-bf58-4b80-a395-07165e9b762f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Training Needs Assessment"
+        }
+      ]
+    },
+    {
+      "id": "a6782f76-b631-498f-8aad-531bc6a3755c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c3876cf4-2e98-4794-8b7d-973b1cce8117",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Assessment"
+            },
+            {
+              "text": ": Based on the requirements and intended use, the Training Department assesses whether user training is necessary to ensure product performance and safety."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2171f942-b047-4d95-88fc-5a8ca0e7d466",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bdc673ca-9c5b-4955-859c-8fdad5f8a0a0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Plan"
+            },
+            {
+              "text": ": Develop a training plan detailing the content, format, and delivery method (e.g., on-site, virtual) for customer training sessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c17dcf39-535b-481c-b8b6-a06ad18e1984",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1718db7e-7d40-440d-886b-37d9c0f51870",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Customer Communication"
+            },
+            {
+              "text": ": Inform the customer of any training requirements, including scheduling, costs (if applicable), and expectations for participation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9abe9779-3f97-408b-894a-982bdd903130",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "58b733ac-14f4-4ee9-aa5e-6d5fe3facbf1",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Training Program Development"
+        }
+      ]
+    },
+    {
+      "id": "fe1b9e79-535c-41f2-ac5b-954b3a53821f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "34238f3f-1c1b-45c4-9b82-046c25dff3d0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Materials"
+            },
+            {
+              "text": ": Prepare training materials, including user manuals, presentations, and guides, tailored to the customer’s specific needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5a07fba-18f0-4875-833e-776f5ab56991",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5b137432-9020-4e70-a517-9977b96165bb",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Validation"
+            },
+            {
+              "text": ": QA reviews and approves all training materials to ensure accuracy and regulatory compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31a898ef-e3ef-4377-a950-e83e61b8a1b5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1250e0ad-2faf-46d9-9293-7d236331fada",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3. Training Delivery and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "bbc1e19c-fc79-4e8d-900c-81460b91fdc3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2ef43f66-cb36-4a00-bd86-b845909947ac",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Delivery"
+            },
+            {
+              "text": ": Conduct training sessions according to the agreed schedule, ensuring that all relevant customer personnel receive adequate training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc72bd26-747d-49e8-8021-b21335d8318f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c2d10bd7-09d0-4212-bb12-2c3a43a5c619",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Records"
+            },
+            {
+              "text": ": Document attendance, training content, and any assessments completed by customer personnel. Retain training records for audit and compliance purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c6fb1f7-a851-47ca-815d-b5a69334663d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "372b82f5-5c1b-49d4-bb41-cf1d98b220a1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Ongoing Customer Communication and Support"
+        }
+      ]
+    },
+    {
+      "id": "0898cf4e-9ed9-486d-bfcf-21fe2385e790",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fc05fcc2-44ee-4936-802a-f3dcebb319b6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Customer Feedback"
+        }
+      ]
+    },
+    {
+      "id": "93fbda43-d632-4771-ba01-ba25e5ac46d3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "94b348b3-85c1-45ea-9b50-3f8624f8b105",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Feedback Collection"
+            },
+            {
+              "text": ": Actively solicit feedback from customers post-training and post-implementation to ensure requirements have been met."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c02b8bb-a515-4ea4-b7e2-0b6ec3c7b48f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0c9746f0-8feb-4d88-997b-40d2fe090869",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Record feedback in the Customer Feedback Log and review it periodically to identify areas for improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3533f79e-d189-4654-9f68-5a39ad473f7c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9d73d609-2060-4aa8-8c8c-91264c300ef6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Issue Resolution"
+        }
+      ]
+    },
+    {
+      "id": "acc136b8-92e4-44b3-9168-230334654730",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5f935b5f-324c-449b-bef7-c3dd16a93be8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Issue Logging"
+            },
+            {
+              "text": ": Any issues reported by the customer related to product requirements are documented by the Customer Support Team."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da82d251-9c74-4cc7-a8b9-632cca14159c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "76710c25-e95d-4cc4-9925-8e450b35f6c8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective Actions"
+            },
+            {
+              "text": ": QA and relevant departments implement corrective actions as needed, documenting them in the CAPA log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af49ac0b-9505-4e46-a5e3-4d1eae68bfb8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2d6f4c17-8d16-4b22-b024-007b8ff347ac",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.3. Regular Communication"
+        }
+      ]
+    },
+    {
+      "id": "cee0c32d-0bd6-4ae7-8594-21dfb93b09e0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7346f08a-cc8f-4d4d-92a4-7bde8fdea489",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Updates"
+            },
+            {
+              "text": ": Provide customers with updates on product improvements, regulatory changes, or other relevant information to support ongoing compliance and satisfaction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4a468e7-42a7-4342-ad2f-58f0793e11e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "110de3b8-eb9c-459b-a7d8-bf9589683afe",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Record all communications to ensure a complete history of customer interactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf5fa577-a4b7-4bc6-be5f-df4ecdc2956b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "393e5507-b382-46a1-a4a8-a952a6cf7598",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Post-Communication Documentation and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "1bad7029-fd21-4e3a-9be4-832c64d3ab47",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d572d8fd-9130-4d34-b38e-e3a115ae1233",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Record Retention"
+            },
+            {
+              "text": ": Maintain records of all customer requirements, training documentation, and feedback logs as required by ISO13485."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38281929-bbf5-417d-a4f8-0f6157d285ef",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e02f1fa3-6c08-4247-9334-3bec6d95fcdd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accessibility"
+            },
+            {
+              "text": ": Ensure records are accessible for audits, management reviews, and regulatory inspections."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "645aeb4d-316a-45a7-b3c6-c269735e2ea1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "01a8b242-bbce-4092-946f-908fb533a7cf",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "dee73cf9-b865-4383-bd26-177f6ddea677",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1a2bcad0-14a1-455b-be79-97f33742838b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel involved in customer communications and requirement management must receive training on this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80f6d22f-bdf0-4b3e-885d-18874352cf50",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "45e6551b-e89b-4858-93ea-c54aa755a051",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual refresher training or when significant updates are made to the procedure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b62e31d1-e61f-417c-8590-c134140f6df8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b782670e-7401-40c3-8325-ee2bcbf58e3b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records for audit and compliance purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b14395e-f7ec-41cf-989c-434a53bff1a0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "126c4d71-679e-4769-b5a1-4a77c8bc4ee7",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "1915099a-173a-49ca-9737-df2b09ddc7cb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f3e856b6-ea60-454b-b92b-c8b3575f5bfc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 Quality Management Systems – Requirements for Regulatory Purposes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

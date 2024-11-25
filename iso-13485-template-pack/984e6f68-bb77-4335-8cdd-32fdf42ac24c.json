@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "984e6f68-bb77-4335-8cdd-32fdf42ac24c",
+  "title": "Internal Audit Forms",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "0dccc9c8-b065-47eb-8fc4-e4eb7e662e70",
+      "step": {
+        "id": "91f3bf4e-46e9-4fc5-8630-50cb7f50487a",
+        "version": null
+      }
+    },
+    {
+      "id": "2d5cafc4-c2ae-4b88-9298-c6ba9eed6f56",
+      "step": {
+        "id": "be7ead41-a033-4f1c-9a62-cdc0fece1a3c",
+        "version": null
+      }
+    },
+    {
+      "id": "fd578085-8669-44f9-91b3-a97c2074eaa5",
+      "step": {
+        "id": "eb48c953-a7b8-48b5-a963-d31ab2a055ba",
+        "version": null
+      }
+    }
+  ]
+}
