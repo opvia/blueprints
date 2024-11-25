@@ -1,0 +1,27 @@
+{
+  "id": "verification-of-effectiveness-form",
+  "version": 1,
+  "name": "Verification of Effectiveness Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "42f41635-2813-45cf-8337-6288eaf84c74",
+      "type": "PROCEDURE",
+      "title": "Verification of Effectiveness Form",
+      "source": {
+        "id": "08ebd139-ed30-4a79-83fd-8093d56f8170",
+        "version": "2"
+      }
+    },
+    {
+      "id": "829e946d-a194-41be-a44c-bb225d42e06e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Verification of Effectiveness Check",
+      "source": {
+        "id": "607ccfc2-3ba5-4c17-b966-b7f6f8e4c0c7",
+        "version": "2"
+      }
+    }
+  ]
+}
