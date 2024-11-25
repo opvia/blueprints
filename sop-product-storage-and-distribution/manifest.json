@@ -1,0 +1,17 @@
+{
+  "id": "sop-product-storage-and-distribution",
+  "version": 1,
+  "name": "SOP - Product Storage and Distribution",
+  "description": "",
+  "entities": [
+    {
+      "id": "b61f7bbd-4bcb-4e2d-ac7d-118a945cbf26",
+      "type": "DOCUMENT",
+      "title": "SOP -  Product Storage and Distribution",
+      "source": {
+        "id": "aa40fb6a-e61b-4115-bfa0-d20f9bf5fdb1",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sop-customer-communications-and-requirements",
+  "version": 1,
+  "name": "SOP - Customer Communications and Requirements",
+  "description": "",
+  "entities": [
+    {
+      "id": "fc8fdeda-170c-44af-a24b-e77fe31c34de",
+      "type": "DOCUMENT",
+      "title": "SOP - Customer Communications and Requirements",
+      "source": {
+        "id": "b71733a9-e2c3-4231-93bc-b61cfb91dd4a",
+        "version": "1"
+      }
+    }
+  ]
+}

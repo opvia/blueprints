@@ -1,0 +1,17 @@
+{
+  "id": "sop-staff-training-and-competency-assessment",
+  "version": 1,
+  "name": "SOP - Staff Training and Competency Assessment",
+  "description": "",
+  "entities": [
+    {
+      "id": "22a7236a-033c-426b-8673-0f36c4c95b6a",
+      "type": "DOCUMENT",
+      "title": "SOP - Staff Training and Competency Assessment",
+      "source": {
+        "id": "b5dc6c9d-24d4-41b2-992b-b8bfa612c0ae",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sop-job-descriptions-and-responsibilities",
+  "version": 1,
+  "name": "SOP - Job Descriptions and Responsibilities",
+  "description": "",
+  "entities": [
+    {
+      "id": "3579bf36-7776-48c2-be2a-ea187aed98f4",
+      "type": "DOCUMENT",
+      "title": "SOP - Job Descriptions and Responsibilities",
+      "source": {
+        "id": "e9542ad1-b974-4c56-97b8-08499efefc4d",
+        "version": "1"
+      }
+    }
+  ]
+}

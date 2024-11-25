@@ -1,0 +1,17 @@
+{
+  "id": "sop-internal-audits",
+  "version": 1,
+  "name": "SOP - Internal Audits",
+  "description": "",
+  "entities": [
+    {
+      "id": "423480bb-efe2-47ca-8c70-934c0bc323cf",
+      "type": "DOCUMENT",
+      "title": "SOP - Internal Audits",
+      "source": {
+        "id": "8808e2d6-a91a-4d4d-a9b5-5662adf7be5f",
+        "version": "1"
+      }
+    }
+  ]
+}

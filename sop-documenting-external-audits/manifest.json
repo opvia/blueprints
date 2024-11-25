@@ -1,0 +1,17 @@
+{
+  "id": "sop-documenting-external-audits",
+  "version": 1,
+  "name": "SOP - Documenting External Audits",
+  "description": "",
+  "entities": [
+    {
+      "id": "b9be451a-acb9-4c52-8401-3b85448c108a",
+      "type": "DOCUMENT",
+      "title": "SOP - Documenting External Audits",
+      "source": {
+        "id": "6d79b4f4-34b3-4a11-a460-f4ef788855da",
+        "version": "1"
+      }
+    }
+  ]
+}

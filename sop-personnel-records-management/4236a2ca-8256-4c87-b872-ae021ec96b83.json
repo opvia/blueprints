@@ -1,0 +1,1505 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4236a2ca-8256-4c87-b872-ae021ec96b83",
+  "title": "SOP - Personnel Records Management",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "feaa20ab-0cd9-4368-9f4d-f664b4290a1c",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "d3ec4d41-d580-4331-983e-fc68103c36cb",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "27008810-48ff-473b-bc26-6f4781fe3978",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "dca9875f-eb75-414d-b42d-07c5c52c8899",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "cf4354c9-9142-418a-8e29-7b652964898d",
+      "type": "field",
+      "fieldId": "dca9875f-eb75-414d-b42d-07c5c52c8899",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "45c00c30-58a0-407b-a1c1-9f1a4f59d5b1",
+      "type": "field",
+      "fieldId": "27008810-48ff-473b-bc26-6f4781fe3978",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2a8454ad-0930-46a4-8ef0-383363a0d723",
+      "type": "field",
+      "fieldId": "feaa20ab-0cd9-4368-9f4d-f664b4290a1c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5cc6e348-175e-41e9-9472-1c23b9bc11e0",
+      "type": "field",
+      "fieldId": "d3ec4d41-d580-4331-983e-fc68103c36cb",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "154d7a32-83f4-4761-9aba-2e5e684d168e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "75be636c-ac7b-433c-a114-baaa9867f1a5",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "2d2e752c-37b2-429a-a93c-8590eed6a12d",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) establishes procedures for maintaining and managing personnel records, including qualifications, training, certifications, and competency assessments. Proper management ensures records are accurate, secure, and accessible for compliance and audit purposes."
+        }
+      ]
+    },
+    {
+      "id": "5d3dea5b-15e6-4942-8d47-aa613eedd93e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "181d07dd-a6ef-4f7f-98e0-8564f837403a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "c9212b99-3c56-4a32-8990-52b7a5114464",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel involved in managing, updating, and accessing personnel records, including HR, QA officers, and lab managers. It includes guidelines on record types, storage, access, and retention."
+        }
+      ]
+    },
+    {
+      "id": "930fba63-a808-47c4-84c5-52cf8da0d015",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a496b5f9-150b-4971-a1a2-07ed6d63b2c6",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "0c6eb241-cf6d-4124-be52-4177f21e7ca3",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "45298295-35e1-42c0-bf26-bb07a40ac195",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "a8c36334-f3bb-421a-a78c-ac90a0694fb1",
+      "type": "p",
+      "children": [
+        {
+          "text": "Ensures personnel records are maintained per this SOP and assigns personnel to oversee record-keeping tasks."
+        }
+      ]
+    },
+    {
+      "id": "68628128-3ed3-41df-bb35-4839e6a5c83e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Human Resources (HR)"
+        }
+      ]
+    },
+    {
+      "id": "5510ed8b-b4f5-4b5b-971c-b8b85d045721",
+      "type": "p",
+      "children": [
+        {
+          "text": "Organises and securely stores personnel records, updates files, and provides access to authorised personnel."
+        }
+      ]
+    },
+    {
+      "id": "b9a6206f-3b86-44ef-9eb3-40af88caa49d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "05fc02e4-cf48-4720-a412-af66d4c0a495",
+      "type": "p",
+      "children": [
+        {
+          "text": "Reviews personnel records for regulatory compliance, manages audit readiness, and ensures accuracy."
+        }
+      ]
+    },
+    {
+      "id": "abf797da-e857-4204-8502-230d34e00217",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Laboratory Personnel"
+        }
+      ]
+    },
+    {
+      "id": "03edd87c-3296-43a2-82e4-f1a57d2efb67",
+      "type": "p",
+      "children": [
+        {
+          "text": "Provides all relevant documentation, including qualifications and certifications, to HR for inclusion in their personnel file."
+        }
+      ]
+    },
+    {
+      "id": "eed3d233-1a6d-4cb7-bb22-6be3764c4b59",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "98db2315-89b5-435c-8552-3ab59357ce60",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "aba878b7-1256-4f12-a67e-deeb526fe904",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3339a530-f6a0-4ad0-b3b2-74052dc8ff62",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Personnel Records"
+        }
+      ]
+    },
+    {
+      "id": "b161849c-27db-4ac6-80c5-1db69e0565ee",
+      "type": "p",
+      "children": [
+        {
+          "text": "Documents related to staff employment, qualifications, training, certifications, and competency assessments."
+        }
+      ]
+    },
+    {
+      "id": "8e5aba17-6354-40d5-9384-82fc203ad094",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Secure Access"
+        }
+      ]
+    },
+    {
+      "id": "3aaa02e9-214c-4c2b-b95b-d967fbfaef88",
+      "type": "p",
+      "children": [
+        {
+          "text": "Restricted access to personnel records granted only to authorised personnel."
+        }
+      ]
+    },
+    {
+      "id": "68744ac9-0f25-4461-9194-e557f27d8c95",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Record Retention"
+        }
+      ]
+    },
+    {
+      "id": "f3e2e473-cc51-479d-bfb3-dbf730a95b2a",
+      "type": "p",
+      "children": [
+        {
+          "text": "The duration for which personnel records are maintained to comply with institutional and regulatory policies."
+        }
+      ]
+    },
+    {
+      "id": "76930b83-5b97-47d7-a52b-ce55aad444fa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "36e2f998-ca23-40ee-93f0-1df42249135f",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Types of Personnel Records"
+        }
+      ]
+    },
+    {
+      "id": "943f5380-36a7-4331-b25f-fa4aea448316",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "14bb6b35-4dcd-4772-ae5f-a48d8bac9ea7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Qualifications and Certifications"
+        }
+      ]
+    },
+    {
+      "id": "e36959bc-fb55-4f6a-ac7d-c5db520b750d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3d5ab6ca-26ba-4dc5-a206-505e2496839e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Educational Qualifications"
+            },
+            {
+              "text": ": Copies of degrees, diplomas, and certifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdf143be-9da0-4e02-bc49-e9bfbd505a5d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd74990a-0629-49b9-a026-8a5b010d90f7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Professional Certifications"
+            },
+            {
+              "text": ": Licenses or certifications required for specific roles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e180c861-3ad2-4c4a-9663-61b5845dd9a1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "00117967-0f39-4319-b1e2-6a7a683e6f84",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "License Renewals"
+            },
+            {
+              "text": ": Track expiration dates and document renewals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59f8f106-7c24-4be2-b821-9ef42c32a27b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3391a3e5-1b6a-4e35-961c-268bebc8dcda",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. Training Records"
+        }
+      ]
+    },
+    {
+      "id": "56f7dad1-5872-4a64-94c8-1d57322494b5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1df663d2-03bb-4c47-9887-c1e279fa3d82",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Initial Training"
+            },
+            {
+              "text": ": Document onboarding training, including safety and regulatory compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a59ddba-ab55-4457-92f8-8830b8395c81",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3b9f4e61-5099-4d5b-9269-3078ab577676",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Refresher Training"
+            },
+            {
+              "text": ": Record all annual or periodic training sessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06af1ad6-9507-481a-bfea-a5de4e064de9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "590f495c-7d2c-45f4-ad1a-d862e7724762",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.3. Competency Assessment Records"
+        }
+      ]
+    },
+    {
+      "id": "262d2ebb-de82-460c-9cab-d3534727d6cd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ee00f451-a196-4453-8d12-f6e79e7c55a9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Initial and Annual Assessments"
+            },
+            {
+              "text": ": Include documentation of performance evaluations and follow-up training or corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f5dae6c-3773-4e89-ac5d-9e334aa2a27a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f474a285-bb47-4a1a-8a3b-f04d3ff8c0be",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.4. Performance and Disciplinary Records"
+        }
+      ]
+    },
+    {
+      "id": "7614e6ef-82e0-4745-9887-843e5f4372a8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "abbd1b92-e93d-4800-8107-1702dd94f0e1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Performance Reviews"
+            },
+            {
+              "text": ": Include feedback, goals, and areas for improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37e34208-1c2c-4c83-9a6f-e8651c9369de",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "202425e4-bf79-4932-af72-4172f7fdf6e2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Disciplinary Actions"
+            },
+            {
+              "text": ": Document warnings, corrective action plans, or suspensions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef10bed0-544c-4e3e-b084-27df744663af",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3bbb690f-4f1c-4d0d-9d4b-5344a50bb7b9",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Creation and Maintenance of Personnel Records"
+        }
+      ]
+    },
+    {
+      "id": "bb3bc9a8-8cce-422a-bff1-95ae7ee99729",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ec889f3d-e39d-4f13-bb61-509028e6420f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Record Creation Process"
+        }
+      ]
+    },
+    {
+      "id": "481917d4-0835-463a-bdc6-f780146ed592",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "53b265f8-1dd5-447b-a7c3-440d84d29dcf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Initial Documentation"
+            },
+            {
+              "text": ": Create a personnel file upon hiring, gathering required documents such as qualifications, certifications, and training records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a7f86e5-ab91-4461-a2c7-90b8c2a528a1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ebc20f2e-365e-480c-882d-f68b251439c6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Verification"
+            },
+            {
+              "text": ": Verify the authenticity of all documents before adding them to the personnel file."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cd5fdeb-9965-40bd-a2a5-3f6f0aa48e14",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8cca2abd-3584-4e0a-ae10-4218973243ff",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Updating Personnel Records"
+        }
+      ]
+    },
+    {
+      "id": "3887956f-1d18-4133-a0dd-a0c9489298c7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5fb6f8cb-f2a5-47a4-8729-d48ffca6adec",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regular Updates"
+            },
+            {
+              "text": ": HR is responsible for updating personnel records with new qualifications, certifications, or performance reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27ecc2ff-cfe9-4ec5-8c96-628d13c04dd0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4c701ed6-ca52-40d3-9683-071796367f64",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Employee Submissions"
+            },
+            {
+              "text": ": Employees must provide proof of new certifications, renewals, or completed training sessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0670c432-afd8-4941-a999-f96babcf8c57",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4a42f205-091c-4fee-84bd-b28bddbe9db2",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Access and Security of Personnel Records"
+        }
+      ]
+    },
+    {
+      "id": "347ee744-6c64-4541-ae74-42365f7064c7",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "85b7adae-97f4-4a2b-801d-23d8f4baae5c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Access Authorisation"
+        }
+      ]
+    },
+    {
+      "id": "3df2085e-f81d-431c-aac6-2b2ae8645c89",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "204aaf69-5416-4210-821f-6968b1114105",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Restricted Access"
+            },
+            {
+              "text": ": Only authorised personnel (HR, lab managers, QA officers) may access records based on job function."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "732bb004-5a85-493f-abf2-2998555837a3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fac13b9c-3f4e-4c12-910e-c0c890013cbe",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Confidentiality Protocols"
+        }
+      ]
+    },
+    {
+      "id": "f976422d-109d-430b-a87c-0a8000b67c0b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e0b74bee-4ba7-4f58-94d8-04d833297e57",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Confidentiality Requirements"
+            },
+            {
+              "text": ": Records must be handled confidentially, with unauthorised access strictly prohibited."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0719c0bf-fa7d-4cf2-b75c-d2e0dc622bff",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e25920fc-0ab9-4d77-9570-d9694eaddb9a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Non-Disclosure Agreement (NDA)"
+            },
+            {
+              "text": ": Personnel with access to records must sign an NDA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7d76528-199e-4924-9ff0-79e94aabaec1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9a2ef438-f958-49a5-886b-342937704f99",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3. Electronic and Physical Security"
+        }
+      ]
+    },
+    {
+      "id": "3af8aef5-5c7b-42b2-bf5b-2adc60e92e1d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5f9dbcee-c87b-441c-aa0a-611ea9aaea3d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Electronic Records"
+            },
+            {
+              "text": ": Use secure logins, passwords, and two-factor authentication."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8f1cb4d-b375-45d5-80f5-7f38bdc69422",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "be908f80-45fa-43d8-8496-0b4babe8e338",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Physical Records"
+            },
+            {
+              "text": ": Store in locked cabinets in a secure, access-controlled area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a81c0f3-ff31-4055-b756-bb52368560c1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ec168354-cf01-47a9-9b46-397b241c0c88",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Record Retention and Disposal"
+        }
+      ]
+    },
+    {
+      "id": "28aa63ca-2fbc-44cd-afe7-dd585e7da783",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d2c302c1-fbf0-458d-a59f-ce21e0845e84",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Retention Period"
+        }
+      ]
+    },
+    {
+      "id": "3d637a23-9124-4d36-b34a-0725ef3491eb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "efee0787-5ba3-4404-be27-328c3cfaee40",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Minimum Retention"
+            },
+            {
+              "text": ": Retain records for at least five years after an employee's departure or as required by regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "582335e2-fd93-4b07-85c3-152264eab07f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "378c938a-7313-45c3-8888-9a84baa4c540",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Secure Disposal"
+        }
+      ]
+    },
+    {
+      "id": "31079611-1dd6-4027-b3e2-2cb89aefa304",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9691cdd6-e885-4348-b464-352c971d6c7e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Methods"
+            },
+            {
+              "text": ": Use shredding or approved digital deletion methods for secure disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d221cf80-b057-4c6a-a2a6-0019fa45e6df",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "672a0013-85df-44b5-93c5-4170de5d2bca",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Record disposal in a Disposal Log, including date, method, and responsible personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3487d924-0380-4a12-8ec9-189431e78a96",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b8af991e-508f-41a8-ba32-8256a40a7949",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Documentation and Record-Keeping"
+        }
+      ]
+    },
+    {
+      "id": "3ac45e11-6e18-4c66-a490-aa18fb20a51b",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "83279440-db38-4846-9bc2-8f3aa5b6dcd3",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Required Logs and Records"
+        }
+      ]
+    },
+    {
+      "id": "5dd066ff-93ca-41b4-a810-5b90f89b2c92",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dc49a60c-dfcc-4df3-9266-281384c1e62c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Personnel Files"
+            },
+            {
+              "text": ": Maintain documents related to qualifications, training, certifications, and performance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0fecb7d2-3a67-49e2-a8c7-effec651311e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0cb58845-5b14-4251-8bd4-e3a95d1607ba",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Access Log"
+            },
+            {
+              "text": ": Track who accessed records and for what purpose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2eadbf0-c0ee-4c7e-a7c5-60cf8f35c7a4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "622fbf64-0580-4cf9-8204-cc4212353a01",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Disposal Log"
+            },
+            {
+              "text": ": Document record disposal for audit purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "598d94e9-6460-4a7a-bf16-1ca4ab87caba",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1a59c9a8-afd6-4a18-a857-32da093a0b87",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.2. Storage of Records"
+        }
+      ]
+    },
+    {
+      "id": "a26075e3-d4ef-4ebf-92ff-fa70a6a9a471",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "912b25a7-77b6-4fd3-8d5b-404327ab2b2c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Physical and Electronic Storage"
+            },
+            {
+              "text": ": Use secure filing systems for physical records and a secure database with regular backups for electronic records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e543781e-9467-487b-b3c4-203e5a87deca",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9b82fa37-054a-41df-a442-b57f7d82ecf7",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Periodic Review and Quality Assurance"
+        }
+      ]
+    },
+    {
+      "id": "99b64444-c425-4bb1-9421-b75d94926aa4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5a98681b-f526-4e1e-8969-d5aae85bc868",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. Periodic Review"
+        }
+      ]
+    },
+    {
+      "id": "b49329fc-1cef-4a39-a1a0-49ff5aa1ce38",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aee6a4ad-1808-4706-9d95-d5cfdc583da6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Annual Review"
+            },
+            {
+              "text": ": Verify all records are current, including certifications and training records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65c0248d-cd0e-40ab-9b36-55ac58c8bc46",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "64c9c6b6-e558-4777-b844-b7b4fa0e30e3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective Actions"
+            },
+            {
+              "text": ": Notify employees and supervisors if records are incomplete and document corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fd4335c-27de-4ffa-9d4b-2fc7c36285c2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3b4ddb21-081d-4fd3-bddf-13dc172ed79f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.2. Quality Assurance Audits"
+        }
+      ]
+    },
+    {
+      "id": "11aa6f31-693f-41a8-9f1f-5e8adf581290",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "44395a80-3eac-402a-a90a-d2601d2b36c0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Internal Audits"
+            },
+            {
+              "text": ": Conduct audits to verify compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2278da63-0400-45b3-a164-fe35284e856e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7a906d0e-99fa-4a35-bbf1-5448c79cd6a3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Findings"
+            },
+            {
+              "text": ": Document findings and implement improvements as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e13fe989-3fbd-485d-89f8-0978fcf6eaa4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4433509d-3a24-4aea-bad8-5a428cbddd4a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. Training and Competency for Record Management"
+        }
+      ]
+    },
+    {
+      "id": "23b05862-f5a3-48d6-af5c-c180eecdb7eb",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b87517ef-8618-4ef0-bf04-552dc0d00f27",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "bacba5ec-06f5-474e-ac96-7c49ccdf1072",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8c06e73c-aa38-4bb1-8aae-3c3453d1e806",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "HR and Authorised Personnel"
+            },
+            {
+              "text": ": Train staff on record creation, maintenance, access control, and secure disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41a149fe-d45e-45e3-a453-1d60cd8dba89",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d54a3c98-9a3c-4c36-97b7-896a0456e99b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Confidentiality Training"
+            },
+            {
+              "text": ": Reinforce the importance of protecting sensitive data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e82e6e4-39cb-4877-acd6-e48fee3f2565",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c9845577-9d71-4d7f-8df5-ae78efbe82ef",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.2. Ongoing Training and Refresher Courses"
+        }
+      ]
+    },
+    {
+      "id": "12489694-e446-423d-bd73-4604a8db6658",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c5f827b6-a5ba-4965-ab9b-1df6a7d75443",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Annual Training"
+            },
+            {
+              "text": ": Review updates in personnel record management, confidentiality protocols, and regulatory requirements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93d81acd-e5c0-405d-8774-32b3cbde310b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "de6253b0-a2cb-49eb-bf78-d9b7f420cd55",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "b0a3d842-2f0a-4dd1-a809-7abff119db3f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "be5b3550-61df-498c-bc24-36f1619d62fa",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "ISO 15189"
+            },
+            {
+              "text": ": Medical laboratories – Requirements for quality and competence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16bf38a3-433f-4d64-b39e-25f3cecfc769",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "becb0ddf-2385-4c3f-b871-b4b7e4b5a61b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Institutional HR and Data Protection Policies"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e326809-1181-4705-b989-ab380eb5b986",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b0e5a0c0-172d-453d-9381-293ca9490575",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

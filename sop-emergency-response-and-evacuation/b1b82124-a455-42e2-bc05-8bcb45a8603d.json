@@ -1,0 +1,1980 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "b1b82124-a455-42e2-bc05-8bcb45a8603d",
+  "title": "SOP - Emergency Response and Evacuation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "4132e0e6-a2bc-49c3-aa82-669ea7ad01f3",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "d63e14a6-04f4-49b1-8d55-37a4d4885d0f",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "88e00640-4710-498b-a697-ec65ece09d1c",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "b56eda3c-4419-4211-99be-fc2cc7c7f8b4",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "a076f294-9962-4408-a0d1-0c4ae15c82a3",
+      "type": "field",
+      "fieldId": "b56eda3c-4419-4211-99be-fc2cc7c7f8b4",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0ab1d784-171d-4ed7-92f3-dbbb84c965a9",
+      "type": "field",
+      "fieldId": "88e00640-4710-498b-a697-ec65ece09d1c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3367b8ff-7d7e-4a0a-939a-b19073b86da0",
+      "type": "field",
+      "fieldId": "4132e0e6-a2bc-49c3-aa82-669ea7ad01f3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c6d5bc59-9712-448d-8019-812421f30a02",
+      "type": "field",
+      "fieldId": "d63e14a6-04f4-49b1-8d55-37a4d4885d0f",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1e3d5600-d7f4-4b50-8450-bef1f7aaba3d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c203b850-b16b-4e59-964e-92f61df4f444",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "d4166dbe-ea5b-4e1d-9fb3-6ae9b08039ef",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines the procedures for responding to various emergency situations in the laboratory, including chemical spills, fires, medical emergencies, and evacuations. The goal is to minimise risks, ensure the safety of personnel, and protect lab property and the environment."
+        }
+      ]
+    },
+    {
+      "id": "afdc4f95-1a07-4f4f-ab2c-a54f45f85c19",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9d9e2c8b-3b50-4be6-965d-7231888e260b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "5d8877a4-e7b9-4d36-aca8-c8ac7298d644",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all personnel working in the laboratory, including researchers, technicians, students, and visitors. It provides guidance on handling emergencies such as spills, fires, accidents, and evacuations safely and efficiently."
+        }
+      ]
+    },
+    {
+      "id": "7e5c5c1a-26c2-4f2d-8be4-148d3a4784b3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e44ded2b-ccde-4b4e-afe0-53cf7ed8aaaf",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "b81b164b-66b0-497c-9656-360cab6d3476",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e87ff6b2-ce53-46ca-9e2d-a6c7ad2af6d5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "2d79df23-232b-4d6d-b635-36f58740ace8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f25ff7b1-77f1-4ae1-9762-46ab94785c59",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures the implementation of emergency response procedures and conducts regular drills."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37caa5f1-5a6c-43e6-9d45-ccc7e7ae8e79",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "c90c11d9-d87f-4ee6-818b-94daf6e46eae",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "74ffb8f1-4a77-4464-9bd7-abe9cc81e93a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follows emergency procedures and participates in drills."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c773d6d1-dcea-4eb9-8091-14f616a5e8b6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "641ca395-50e6-4e6e-b0b8-df1c5ffb90e1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Familiarises themselves with evacuation routes and emergency equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2833482-3923-49af-abd5-caf895867ef5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Emergency Response Team (if applicable)"
+        }
+      ]
+    },
+    {
+      "id": "b590b9a1-4fcb-4a89-8f98-888270648328",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7b33c168-50d5-4c00-b65b-1cd16d2db599",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Trained personnel responsible for coordinating and managing emergency situations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20de4850-e570-4dec-9301-1ad597f73d71",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Visitors"
+        }
+      ]
+    },
+    {
+      "id": "b1612d65-ba55-4579-8aaf-d0904b2918e7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "35c44603-c801-4352-9b73-84e6f35e5e59",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Must follow the instructions of lab personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91bfa207-6c34-41fc-994c-3e773e5a8ac1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "affb4ca3-4129-4cf0-9368-18eaf33891e9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Evacuate the area promptly in case of an emergency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b67f783e-f828-48e3-9d97-160bb811f047",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cf76b8f6-9da9-46e5-a6a6-5ce853cac5fc",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "c179c84d-3e1d-4801-b97b-53077d35a73b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "SDS"
+        }
+      ]
+    },
+    {
+      "id": "cc3763e0-3d70-4434-821d-aaf187838897",
+      "type": "p",
+      "children": [
+        {
+          "text": "Safety Data Sheet that provides information on chemical hazards and emergency response measures."
+        }
+      ]
+    },
+    {
+      "id": "27221bbb-8e49-4c87-94c7-4abde299ada0",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Spill Kit"
+        }
+      ]
+    },
+    {
+      "id": "f4ffc53a-6653-434e-a84c-8dc872eb8aca",
+      "type": "p",
+      "children": [
+        {
+          "text": "A set of tools and materials designed to handle chemical spills, including absorbents, neutralisers, and protective equipment."
+        }
+      ]
+    },
+    {
+      "id": "140f299f-fd53-45c2-b5ef-ad2c2876f591",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Emergency Assembly Point"
+        }
+      ]
+    },
+    {
+      "id": "c7449d29-f1da-4e02-8e25-ebe8a1b73d17",
+      "type": "p",
+      "children": [
+        {
+          "text": "A pre-designated safe location where personnel should gather after evacuation."
+        }
+      ]
+    },
+    {
+      "id": "95bbfb1b-9481-42d0-8541-38194db63bfc",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Fire Extinguisher Classifications"
+        }
+      ]
+    },
+    {
+      "id": "dfd33548-b849-4de1-92d2-e7564d6a2962",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dac4b5f5-ed07-4483-9003-68b7056beaed",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Class A"
+            },
+            {
+              "text": ": For ordinary combustibles (wood, paper)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d99daf71-6fef-40dd-b782-b409afa48624",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e3f62944-445f-4ac0-a1b3-163dbca528e8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Class B"
+            },
+            {
+              "text": ": For flammable liquids (grease, gasoline)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58cc6afb-0c59-4f35-831a-98b4a0a0d6ec",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "977b147d-c6e5-4bd3-bc18-5147eb531d78",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Class C"
+            },
+            {
+              "text": ": For electrical fires."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a009b7af-6387-4ab4-a210-cc2994ce5239",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "354ee521-90f3-45dd-bcfd-2d88feb22694",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Emergency Response Procedures"
+        }
+      ]
+    },
+    {
+      "id": "abe3a309-12f7-4e52-b5f3-2ede6c6d310d",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aa4c0409-cea5-48bf-bf25-7c7e03f30b52",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Chemical Spill Response"
+        }
+      ]
+    },
+    {
+      "id": "8c59a213-0273-4f81-9eb7-952b7ec6e760",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6d82efe8-1ed1-438c-aa4e-d4d5aa1b1e1a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1.1. Minor Chemical Spills"
+        }
+      ]
+    },
+    {
+      "id": "c58fdb72-a3bf-4bfa-84a3-184582b2be7c",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Definition"
+        },
+        {
+          "text": ": A spill that poses minimal hazard and can be safely cleaned up by trained lab personnel."
+        }
+      ]
+    },
+    {
+      "id": "f0b924ef-4bb5-484a-bf38-a8b8f94c16df",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Response"
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "id": "c25fa8d0-5d09-4454-b9e6-ddff75bceb91",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "55bcdd64-fde9-4493-93ec-fc045fa8d879",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Alert nearby personnel of the spill."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d6eadda-90c0-4fe1-9574-675d5c4de0f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "75a43571-8f5a-4751-b3e4-d0dd4ed7d3a9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Wear appropriate PPE (gloves, goggles, lab coat)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc423edc-ad27-42e6-bdba-cbb326be102a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9f9f70bf-3f62-4d4e-9dd2-d628244936cf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Contain the spill using absorbent materials from the spill kit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e63658a7-8277-4f10-8a3f-fda2b5a98f90",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e964a9b0-2a67-4d76-9070-774cc34c1d96",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Neutralise the chemical if necessary, following the instructions from the SDS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc07b07d-a73c-4166-969f-cb4e9e8201f6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0d498065-99e9-4196-9121-6191d2966d2f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Clean the area thoroughly and dispose of waste according to hazardous waste procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd2621e4-3d77-4cfb-bc86-cd4a6e52d348",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c13c0d82-743b-4fbd-ab82-5350e626123a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document the incident and notify the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8541539-6df8-4588-9b82-6d24f7629c33",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1.2. Major Chemical Spills"
+        }
+      ]
+    },
+    {
+      "id": "d8f4bcf0-0f71-4855-adae-47d62e88d86b",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Definition"
+        },
+        {
+          "text": ": A spill involving hazardous chemicals that poses significant health or environmental risks and cannot be safely managed by lab personnel."
+        }
+      ]
+    },
+    {
+      "id": "066f0641-fa94-4df5-b962-dbf879782ef5",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Response"
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "id": "bff5ab52-8793-403f-a9dd-3dbde0df51e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8d4fd2d9-eb70-41d5-be14-2b7155420422",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Immediately evacuate the area and alert nearby personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa396879-2595-4084-b346-4c3ec3a4a53b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "62ea6bec-c09e-4004-bc92-189fa24a3bf3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Activate the building’s fire alarm or emergency system if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d0c290e-ea71-402f-962c-f51dfd5d2e2d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ab7da9aa-5f2a-4a3f-9aaa-76047f55fa8f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Contact emergency services and inform them of the chemical involved, referring to the SDS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e31f53ea-cd30-45e1-a5e6-9c6410a0188f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bf593608-7ca6-4e7d-b9a3-5693d1e31566",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Seal off the area to prevent others from entering until emergency personnel arrive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad3dd369-7356-465a-bed7-5cdcf12a2df4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2114cce9-36d5-4e07-9b67-9c7f8b48ec26",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Move to the designated assembly point and provide information to emergency responders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "741ed41d-9ab0-4992-a147-967a9121123d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6b9e2ee5-ebf8-4c51-88fb-85c3a7a8bb85",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Do not attempt to clean up the spill."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a022934-0e9e-4656-ba6c-637dc42ac725",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ca1e3baf-649c-4d13-9c7b-b35ebbc64abe",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Fire Response"
+        }
+      ]
+    },
+    {
+      "id": "e36e8d73-adef-4a78-96df-e516f300c363",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f8527180-65e2-41bc-b78b-b63bd9017ce5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.1. Small Fire (Controllable)"
+        }
+      ]
+    },
+    {
+      "id": "b42e9998-b499-433d-a286-e4641fa952bf",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Definition"
+        },
+        {
+          "text": ": A fire that is small and can be managed using a fire extinguisher."
+        }
+      ]
+    },
+    {
+      "id": "09d735e1-22cb-4c36-a061-2263ab030f19",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Response"
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "id": "422356ca-0604-4117-a8c1-0283e1e5ea2d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a9ce29fc-fc7f-4eea-a195-302f3e0d3a56",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Alert nearby personnel of the fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10e9ef37-881d-4bf5-8e43-b81d38d7ea9e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e37a655d-d38a-4b79-b51b-f598da020ee4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If trained, use a fire extinguisher following the "
+            },
+            {
+              "bold": true,
+              "text": "PASS"
+            },
+            {
+              "text": " method:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92cf3fbb-b0b0-47da-a298-efa3d7b0fca5",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "ec0fb313-5aac-47d9-8443-339d64336dd0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Pull"
+            },
+            {
+              "text": " the pin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "201ef3e1-7da7-4381-98f3-b66ad6aa9d31",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "f65a4143-a498-46d0-bc29-d2cb3a46e442",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aim"
+            },
+            {
+              "text": " the nozzle at the base of the fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79f21254-aa60-4453-821e-4f95cbb1deed",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b4ba3c99-15fb-453d-9d49-c1e21cc8e54b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Squeeze"
+            },
+            {
+              "text": " the handle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13111c15-aefd-41ea-b145-2185256e95f1",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "84afee57-2aac-4029-9ab1-0fa43a341c20",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sweep"
+            },
+            {
+              "text": " from side to side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2f2ff3b-c383-4fca-bef8-eb9c8b5da664",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3710eeae-defa-442d-a6c7-2edd6399d6ef",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If the fire is not immediately controlled, evacuate the area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a15ed8a-8224-4887-a94c-f5c0806e2064",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b1169bf7-fa4f-458e-82f0-9ee2b1460f8a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Notify emergency services and evacuate to the assembly point."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e1877ea-b105-4407-a2bb-1baafe80736a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.2. Large Fire (Uncontrollable)"
+        }
+      ]
+    },
+    {
+      "id": "adb10d5e-28af-49b9-9796-0b7118f9193c",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Definition"
+        },
+        {
+          "text": ": A fire that cannot be safely extinguished by lab personnel."
+        }
+      ]
+    },
+    {
+      "id": "7e9ef787-9ecb-4a89-a7b3-0b882ccb6a41",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Response"
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "id": "078b363f-ddad-44be-a199-2cdd75c9e03a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4675ffc3-29cc-4df5-901e-c0530ce4434b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Pull the nearest fire alarm to activate the building's fire response system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4f00366-e728-4415-abbe-e24ae1f074cf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "60346b9b-de97-40bd-bde3-449b64dd3727",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Evacuate the laboratory immediately, ensuring all personnel are alerted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c63d0ba-620f-46e5-bc69-2e7947e07213",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "660960a0-6851-407b-93e3-f99534cd229a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Close doors behind you to contain the fire but do not lock them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4952047-0f98-464e-9e79-04fb917b1eb1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "26f238c1-a3bd-4c4a-a491-0737c1a14eb1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follow the designated evacuation route to the emergency assembly point."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9be4d59-52a3-4c04-9469-8a00f1b05567",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ca6423da-2eda-4177-9ec8-48305dd84d87",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Call emergency services and provide details about the fire, including any chemicals involved."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42b82452-3c34-4add-82d8-a2bb86354631",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d149df90-392d-49d4-882a-59b5299c4a19",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Do not re-enter the building until emergency personnel give the all-clear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eaa9a89b-1e14-4938-ac01-d807618effe9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d9ee676a-cb7e-4cda-846d-343cdb19e83b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. Medical Emergency Response"
+        }
+      ]
+    },
+    {
+      "id": "c3648511-6069-4b7e-8817-ced2e2cbb84e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Response"
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "id": "aa8de66f-dd6f-4a34-be19-7236763184c8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f9f19ace-e88a-422a-ae21-283c48be268c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Assess the Situation"
+            },
+            {
+              "text": ": Check if the person is responsive and breathing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72a838ef-c1a5-427e-ba58-2439fd1caeca",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "66e56816-6ac4-49c7-868c-0e86f1d8d5df",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Call Emergency Services"
+            },
+            {
+              "text": ": Provide details of the injury or medical emergency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f40f0a2-2ccf-4b4a-b823-567bf398ca20",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "48f5c141-6729-465f-8593-329fa60a0a4d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Provide First Aid"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e7b7402-e091-497a-86a7-8708d136895e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "9430689a-bf31-4d23-a414-8e4c4ce8498e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If trained, administer first aid such as CPR or use an Automated External Defibrillator (AED) if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85eb52f3-4132-4cd9-b670-ca464375388f",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e88659d7-8e50-4a78-b88e-8a9baad492de",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use the lab’s first aid kit for minor injuries like cuts or burns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b83f651-d699-41e7-b846-d24c40e51b97",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c88f4253-19e9-43e5-8782-d7f8f579ca97",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Stay with the Person"
+            },
+            {
+              "text": ": Remain with the injured individual until medical personnel arrive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad4c4e56-16f4-4d03-bab4-dc54acd486d6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b05485fd-12c9-42ff-b77b-b4ce332b3857",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Report the Incident"
+            },
+            {
+              "text": ": Notify the lab manager and complete an incident report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0246ff1e-f1a6-4a64-952f-69f25e18f810",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "806348fa-1542-4cac-a5dd-5f1bd3efedb9",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4. Evacuation Procedures"
+        }
+      ]
+    },
+    {
+      "id": "f12aee01-a5b6-4fda-8f6d-69b4e439d70b",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a0dd25fb-4a41-4d8b-be09-ac29a67dfd57",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4.1. Evacuation Triggers"
+        }
+      ]
+    },
+    {
+      "id": "9e97b1f4-38f0-48ae-8994-dfae7278fe8e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c7175e84-f7f4-466b-aea5-810dcd3834b1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Fire alarms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c34eebb4-d152-4be5-9215-813b0c01a5dd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8c1e5740-da9c-4647-b2e6-4ff4ff107708",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Large chemical spills or gas leaks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c34cae3-8771-42b9-8043-42b5284a581d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c3768249-e00f-4cfe-a047-febce5d7c1b5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Building-wide emergencies such as earthquakes, power failures, or explosions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fda83fbd-2a47-4739-90e0-5e87508c6dc5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4.2. Evacuation Process"
+        }
+      ]
+    },
+    {
+      "id": "91439e61-05ae-4bec-b506-2f763cb07192",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b31a1e3c-cac8-4c46-b3d7-42acb567d851",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Alert Personnel"
+            },
+            {
+              "text": ": Inform everyone in the lab about the need to evacuate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d488c934-035b-4aed-9e13-ea7efc74159c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea371cdf-5048-4650-850d-4e0e3f071987",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Follow the Evacuation Route"
+            },
+            {
+              "text": ": Use the designated evacuation routes posted in the laboratory. Avoid elevators."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29fbb15b-c925-4a40-9306-a2c7c3e753f1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "28e45eae-c76f-4993-a9e8-60055edb065e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Close Doors"
+            },
+            {
+              "text": ": Close doors as you leave to help contain hazards. Do not lock them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0d2f0e3-9c00-4bb8-bf32-c62f98d1006e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "96758dc7-bdcd-4530-86ed-c135a4039e96",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Proceed to the Assembly Point"
+            },
+            {
+              "text": ": Move to the designated emergency assembly point outside the building."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c014b56f-b922-477e-b69a-e8b1b705134c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "75c2f56f-85c1-4dd9-ab24-2215dc86b447",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Account for Personnel"
+            },
+            {
+              "text": ": Conduct a roll call to ensure all personnel have evacuated safely. Report any missing persons to emergency responders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5fa3a53b-198a-4c0c-b402-f07bc231f054",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "239201e8-091d-40b5-bec0-280d8ea0d2ca",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Do Not Re-enter"
+            },
+            {
+              "text": ": Stay outside until emergency personnel declare the area safe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a54a57b-8458-4ad6-8824-7c098e7cd9cf",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4c7e901d-98e7-4f1c-806f-01ec24624926",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Emergency Equipment"
+        }
+      ]
+    },
+    {
+      "id": "e1f2ec13-5372-46b8-9f89-46f64641a94b",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "73b14074-528f-4994-8531-824abe80dffb",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Spill Kits"
+        }
+      ]
+    },
+    {
+      "id": "b7b1d756-83c8-47ba-ba1c-1732af7f5304",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "111fa989-5bab-434a-966b-8d9e09c26688",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Located near chemical storage areas in the lab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "978aa51f-17d9-49b4-9de4-d910bd52fbf5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0aebe996-e03a-46bb-b347-229466f7d02c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly inspect to ensure they are fully stocked with absorbent materials, neutralisers, PPE, and disposal bags."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51b189e6-9f38-46ff-a662-2ec232b1d56f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b7e99dda-0561-425c-818a-e9900ff51cd2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Fire Extinguishers"
+        }
+      ]
+    },
+    {
+      "id": "dbae36e2-3c66-4659-baa6-91c32a7c80f1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5919141e-0a3c-4a27-b598-edc05fdb70ac",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure all personnel are trained in the use of fire extinguishers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "616e20ce-c59c-4531-a730-47ceb1058bf3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bdaa43c3-53b0-4d41-8d4c-a7c1e5793413",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Inspect fire extinguishers monthly and service them annually."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24db6155-ab77-4ea2-8964-91fc43859083",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ccfd429d-f712-41e6-b7f4-4a8a0bbdadc0",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Safety Showers and Eyewash Stations"
+        }
+      ]
+    },
+    {
+      "id": "fef5433a-9c79-4846-9e73-b2768fa56249",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8d1240aa-ef7d-4aff-a9f4-a34dd45a7eb1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Test safety showers and eyewash stations regularly to ensure proper functioning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e0e937b-04e5-4819-804c-a9a1911eedfb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4169f4b4-761b-4a8b-a91f-4df09fb8538b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Train personnel on how to use them in case of chemical exposure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af86924b-c70b-4309-aaee-6fda17d15326",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "034d2f41-d5b4-480b-bbfe-0fca60bc8b15",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.4. First Aid Kits"
+        }
+      ]
+    },
+    {
+      "id": "3a0fcce3-78db-42bf-82a9-dff97e1d7861",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "17935081-4bca-485d-95f8-cedde2784e7d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure first aid kits are stocked and accessible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4272ccb9-9805-477f-80b8-7085e9f3f125",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c4694bfb-623f-427e-b405-ae11caf3554e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly check for expired or missing items and restock as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "503ac498-f312-403f-84be-815742ffbe2c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Training and Drills"
+        }
+      ]
+    },
+    {
+      "id": "607ea874-866e-48e3-a075-e7ba8c913252",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3ca6dfa0-31b0-4afc-a9a7-b496ca5ca79e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Emergency Response Training"
+        }
+      ]
+    },
+    {
+      "id": "1a2cc2a0-1c35-4df6-a60c-81f2b95ba24d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "562e0aa6-9186-40e1-a365-92b0160f7c5a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must undergo training on emergency response procedures, including handling spills, fires, and medical emergencies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8492cc3-a470-4cce-abb8-ba22475c0418",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b89b64c1-b35d-4fc8-af61-b23de366c27e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide refresher training annually or when new hazards or personnel are introduced to the lab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17cf7f7d-2fee-4965-9b13-75796cc891a2",
+      "type": "h3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f015678f-b7cc-4c9d-b5f1-12c628833f4a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Fire and Evacuation Drills"
+        }
+      ]
+    },
+    {
+      "id": "cd5534de-17ff-438f-9716-d78193d7cf56",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "91b953a5-c7b7-4d61-b0dd-c2458136af41",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct fire and evacuation drills at least twice a year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a13acec7-f277-4553-b865-4fe73efca8fb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "579ef493-9bf7-4b11-9c2b-09a3bf22d796",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Drills should cover emergency responses for different scenarios, including spills, fires, and medical incidents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "499b6728-65d9-4f78-8604-4c29963a7b61",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "35a4494b-7c07-485f-9622-24eb507c62c1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review drill performance and update procedures as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a8a9bed-d5cf-4847-9b1d-07e152fafd8e",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "53164c3c-a23c-4178-9802-437b7d22c25f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Incident Reporting and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "d1a74bb9-dcca-46c5-9ec2-5cc5a77da314",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f786b0f4-d886-4c54-b1fa-33b7e1bc1519",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Incident Reports"
+            },
+            {
+              "text": ": Document all emergency incidents (e.g., spills, fires, medical emergencies) using an incident report form. Submit the completed form to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "950b290f-bd1e-42e9-a7e2-9f3358713a7a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "96b895f6-4f97-4b96-8768-d1b385bb2be0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "After-Action Review"
+            },
+            {
+              "text": ": Following any major emergency or evacuation, conduct a review with lab personnel to assess the response and identify areas for improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd862d3e-ee90-4f6b-9e22-c300beaa8077",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cf92bad0-3b15-4257-9d15-14574514946d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Emergency Equipment Logs"
+            },
+            {
+              "text": ": Maintain records of emergency equipment inspections and restocking activities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86de1a61-635e-409c-a637-61496572e28b",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "05eefd22-c48e-48c0-8ab3-7eb2235017b3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. References"
+        }
+      ]
+    },
+    {
+      "id": "73b4458c-92f9-4702-9428-c32ca295a596",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e71a82f6-02de-4434-bc50-c1608cbf2b89",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Occupational Safety and Health Administration (OSHA) Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98d962b8-50f6-468a-b29d-d2000834dd05",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d8caa38b-7ded-440f-ad8d-55f42c62e98b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "National Fire Protection Association (NFPA) Fire Safety Standards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7682ef5b-30b9-42f0-a88c-a06c52d434c4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "30bcf083-c21b-4df9-b5a6-5930836f4876",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Safety Data Sheets (SDS) for chemical spill response"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3d6eb0e-f60f-442e-ad46-b620347d3c54",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "53d25ebe-de80-46a4-b2f6-9902c15781e2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Emergency Response and Evacuation Plan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

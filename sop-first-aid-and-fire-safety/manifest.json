@@ -1,0 +1,17 @@
+{
+  "id": "sop-first-aid-and-fire-safety",
+  "version": 1,
+  "name": "SOP - First Aid and Fire Safety",
+  "description": "",
+  "entities": [
+    {
+      "id": "f7aeb765-a5b4-4cfa-bd8f-af4756d9d6e7",
+      "type": "DOCUMENT",
+      "title": "SOP - First Aid and Fire Safety",
+      "source": {
+        "id": "baceec5a-cdca-4723-adb0-43af1adae045",
+        "version": "1"
+      }
+    }
+  ]
+}

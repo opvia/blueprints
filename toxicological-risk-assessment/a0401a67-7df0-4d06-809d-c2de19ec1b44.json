@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "a0401a67-7df0-4d06-809d-c2de19ec1b44",
+  "title": "Toxicological Risk Assessment",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "175cc167-1c1b-4895-b889-c0472aadb3d9",
+      "step": {
+        "id": "3c2c6da5-282c-4902-ad25-a6855d5bd4ca",
+        "version": null
+      }
+    },
+    {
+      "id": "8c6b07e8-a05a-4db2-bfcf-09ee8113b398",
+      "step": {
+        "id": "ea00cc94-edcd-45cd-9b73-b545fb37cd1b",
+        "version": null
+      }
+    }
+  ]
+}

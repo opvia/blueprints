@@ -1,0 +1,17 @@
+{
+  "id": "sop-procedure-for-quality-control-qc-and-quality-assurance-qa",
+  "version": 1,
+  "name": "SOP - Procedure for Quality Control (QC) and Quality Assurance (QA)",
+  "description": "",
+  "entities": [
+    {
+      "id": "7f934246-0a2e-44dc-920c-c27599165a44",
+      "type": "DOCUMENT",
+      "title": "SOP - Procedure for Quality Control (QC) and Quality Assurance (QA)",
+      "source": {
+        "id": "3307d5fe-39d2-48f7-b28b-963058bef85f",
+        "version": "1"
+      }
+    }
+  ]
+}

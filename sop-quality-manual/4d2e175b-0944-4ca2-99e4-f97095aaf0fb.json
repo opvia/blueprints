@@ -1,0 +1,1534 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4d2e175b-0944-4ca2-99e4-f97095aaf0fb",
+  "title": "SOP - Quality Manual",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "35451e17-e946-4e1e-85a4-56de4f9f2e2a",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "0f081862-d6a9-47ba-846d-21c0229b8b43",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "0091d036-10e5-4162-b2b9-4148f5e07ad4",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "789bcf80-0062-4ef0-b087-28a8ee781797",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "950e4f0c-ecc4-4039-93c0-f3d03de56455",
+      "type": "field",
+      "fieldId": "789bcf80-0062-4ef0-b087-28a8ee781797",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d738f9da-3ee0-4b36-9f6d-8895cb6e0f6c",
+      "type": "field",
+      "fieldId": "0091d036-10e5-4162-b2b9-4148f5e07ad4",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bf58c63b-19ef-4778-bdac-048371a9841a",
+      "type": "field",
+      "fieldId": "35451e17-e946-4e1e-85a4-56de4f9f2e2a",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6a01f26b-2135-4e64-9f87-df2a4a275e80",
+      "type": "field",
+      "fieldId": "0f081862-d6a9-47ba-846d-21c0229b8b43",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "77a240e3-cc6d-48b9-b2cf-105f8b130c6b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c921f554-cf4b-4a2c-bc36-e166c20db25a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "17254259-d436-4da8-ad1a-0cd2ffc5888c",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to define the requirements and procedures for maintaining and managing the "
+        },
+        {
+          "bold": true,
+          "text": "Quality Manual (QM)"
+        },
+        {
+          "text": " in compliance with ISO 13485:2016. This document ensures that the Quality Manual appropriately reflects the organisation's Quality Management System (QMS), including the quality policy, objectives, and scope of application, and outlines how the QMS processes interact."
+        }
+      ]
+    },
+    {
+      "id": "d54f5e4a-4d9a-4a06-a2cd-34093ae4af3a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0d8c328a-e213-44a4-8059-77fafc7e604e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "ed844702-df77-4cf5-8cb5-732fc41b9ece",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to the development, maintenance, and management of the "
+        },
+        {
+          "bold": true,
+          "text": "Quality Manual"
+        },
+        {
+          "text": " at [Company Name]. It covers:"
+        }
+      ]
+    },
+    {
+      "id": "8cecf64a-36bd-442b-9018-816208d9e1e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c344e90f-07ae-4a26-ae7e-ed4f6bb7c145",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The formulation and implementation of the quality policy and objectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c73a286-8a17-457c-b035-5582550709b8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "968c72c9-c777-482a-ab3b-55e9084abccb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The roles and responsibilities within the organisation regarding the manufacturing, authorisation, importing, and distribution of medical devices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dcaab05c-5cf9-456b-8bfe-9abfe73d021e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "baaa2c11-4881-4948-9b41-9f7fb6e086ab",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The scope of the QMS and any exclusions or non-applications of the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f92c7e81-26c5-4b6a-9f6d-ca20e242d83e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "74e4ad1c-b137-47ae-9814-c549132e7687",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The documented procedures and instructions governing the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba3b054a-a8f5-43f5-aabc-1f82ee15e63c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b2f27067-57b3-42d6-b01a-711857e6655f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The description of how QMS processes interact to ensure conformity with regulatory and customer requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e818c418-a18a-44f1-a1f2-f5ac2360b487",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ae3966f1-7132-43bd-bdcc-78a27bfccaac",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "16cf52dd-c875-424a-a756-1eb7be5fca07",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f01baf8b-6e37-44e0-8bb7-42ebeea348c6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Top Management"
+            },
+            {
+              "text": ": Responsible for approving the Quality Manual, setting the quality policy and objectives, and ensuring the QMS meets regulatory requirements and organisational goals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae85a58e-dfda-47a1-81c4-f0590dc8feaa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "41e1ca8b-0ba1-482e-98ca-19374fd95fa4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Manager"
+            },
+            {
+              "text": ": Responsible for maintaining the Quality Manual, ensuring it is up to date and complies with ISO 13485:2016, and communicating any changes to relevant personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c4ee552-308e-492d-80a1-5c0dd299f4fa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a429dbd3-873d-48bb-be02-f977100a6d53",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Document Control Officer"
+            },
+            {
+              "text": ": Ensures proper version control and distribution of the Quality Manual and its related documents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "740179c2-f788-4af4-9220-702eaa0266f4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c61a6f96-a99c-43bc-aeac-8374b3bd4543",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "All Employees"
+            },
+            {
+              "text": ": Responsible for understanding and adhering to the requirements outlined in the Quality Manual and their specific roles in maintaining the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "411dba14-5b98-4cbe-bde2-de5bde8828fb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6bd6b9b5-07e8-4a4f-a84a-640fed37c5b3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "d29dd2a7-05c8-43ec-be73-7fd4bb153f11",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9808539c-c081-4760-af80-49dcb17dc2ba",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Manual"
+            },
+            {
+              "text": ": A document that outlines the organisation's Quality Management System (QMS), including the scope of the QMS, quality policy, objectives, roles, and the interaction of processes within the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09ec1933-8b15-48ee-a674-c51ebf8aa8c8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aa44d9f3-da04-4cf2-a822-0fdbcdac8313",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Policy"
+            },
+            {
+              "text": ": The overarching statement of the organisation’s commitment to meeting customer and regulatory requirements and continually improving the effectiveness of the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d40000e6-5e14-4979-a2b9-2f96462c3442",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3af38e5e-5178-42fd-a457-cba4abb8ef54",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Objectives"
+            },
+            {
+              "text": ": Specific, measurable goals that support the quality policy and drive continual improvement in the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b2d5d56-7b76-4693-bb15-3ffdc3f20d11",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6db3c317-d6d7-4ccb-9e88-5ec5b14964a7",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "Quality Policy and Objectives"
+        }
+      ]
+    },
+    {
+      "id": "fc274dbe-702e-4a45-b12c-9e8070b30d4c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c13423df-a3d4-49c4-9ec1-1f38ab17d3d4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1 "
+        },
+        {
+          "bold": true,
+          "text": "Quality Policy"
+        }
+      ]
+    },
+    {
+      "id": "26df8c0d-042d-4a08-8269-bce1d02116be",
+      "type": "p",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "bold": true,
+          "text": "Quality Policy"
+        },
+        {
+          "text": " provides the foundation for the QMS and must reflect the organisation's commitment to meeting customer expectations, regulatory requirements, and the continual improvement of the QMS. The policy shall:"
+        }
+      ]
+    },
+    {
+      "id": "bc35bc6b-8b0f-48f7-8104-16460f5669a8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ff71501a-cec7-45b9-af8d-d9ce362dad66",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Be aligned with the organisation's strategic direction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1de0536b-df71-4571-840b-b9af161ab5e2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7f30e297-099e-4ca4-b349-1be57eb9907c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Be communicated and understood at all levels of the organisation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "849848cd-391f-4318-9676-035e5c51b559",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "159d777d-961e-48b3-a84b-50166a79310f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Be reviewed for continuing suitability during management reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "558011bf-0bb9-4de9-93d7-9bbb86ea66f1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f95a1323-259b-472d-a399-503b5db05ade",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2 "
+        },
+        {
+          "bold": true,
+          "text": "Quality Objectives"
+        }
+      ]
+    },
+    {
+      "id": "41dfaf82-eb4c-4654-bb12-49992278fa34",
+      "type": "p",
+      "children": [
+        {
+          "text": "Quality objectives should be defined in alignment with the Quality Policy and be measurable, achievable, and time-bound. These objectives must be reviewed regularly to ensure their relevance. Examples include:"
+        }
+      ]
+    },
+    {
+      "id": "648c6901-2846-4e00-99fe-56416f86bcf5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4f3343aa-9006-46de-a7af-bd37be858b4d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reducing product non-conformance rates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c19c0891-372e-4191-a452-19e37805639e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "33b7b3a1-e3ab-4c34-9c2f-8f58418052ec",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Increasing customer satisfaction scores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a88c21b-54ff-4c68-98d4-1a84cd35b04d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bf04a39a-b970-4492-9992-dc1a0f363401",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Improving on-time delivery performance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "760c3ace-15c5-42d1-aafd-1459a6826a52",
+      "type": "p",
+      "children": [
+        {
+          "text": "The achievement of these objectives will be monitored through regular performance assessments, and corrective actions will be taken if targets are not met."
+        }
+      ]
+    },
+    {
+      "id": "42c118bb-ff63-49c9-b35a-a8a44fdc8aa6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d00ffcb5-c4d3-42da-bfe5-76622537389b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3 "
+        },
+        {
+          "bold": true,
+          "text": "Managing Quality Objectives"
+        }
+      ]
+    },
+    {
+      "id": "169efc63-2ac8-4ad7-996d-91384e2c7d24",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d288a191-108c-4ca8-86d6-80e9549a62ea",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Setting Objectives"
+            },
+            {
+              "text": ": Objectives should be established annually or as part of the strategic planning cycle, taking into account the organisation's goals, regulatory obligations, and customer expectations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1067f1dd-2ae6-4b76-a77c-488119b9908c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bf87d09c-111d-45d2-a773-38bf1355c5ea",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Monitoring and Review"
+            },
+            {
+              "text": ": Progress toward quality objectives should be tracked and reviewed during management reviews to ensure that corrective actions are taken as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26e44f99-35f7-471c-9a01-a8c7229292b5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c6f5eac3-2d7d-429d-bae0-35713f069438",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Roles and Responsibilities within the Organisation"
+        }
+      ]
+    },
+    {
+      "id": "a7f92d1a-f748-466c-bb05-6e5fa543137b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "daaf9150-274b-42cb-b28f-69f17fd04eeb",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1 "
+        },
+        {
+          "bold": true,
+          "text": "Manufacturer"
+        }
+      ]
+    },
+    {
+      "id": "486616a4-69ef-4213-83e5-4cd6a7cd70bf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "318c2727-e92a-4f66-9bc2-0f6950371f69",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Responsible for the design, development, manufacture, and quality control of medical devices. The manufacturer is accountable for ensuring the products comply with applicable regulations and standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e768a20-999c-4648-9346-28e5660ecba4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f5756981-724c-473d-9266-db3abb60a76c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2 "
+        },
+        {
+          "bold": true,
+          "text": "Authorised Representative"
+        }
+      ]
+    },
+    {
+      "id": "51663de8-0b97-43c4-ac16-9ef53bea32f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "221d8e05-51f0-4394-9300-d6b875a4a009",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For companies based outside the European Economic Area (EEA), the authorised representative ensures that the manufacturer’s QMS is in compliance with European regulatory requirements and is the point of contact with regulatory authorities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00bfd94f-3c85-4728-9808-b9dfdd739901",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3cdcbb23-bf2d-441b-addd-49ea222a2986",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3 "
+        },
+        {
+          "bold": true,
+          "text": "Importer"
+        }
+      ]
+    },
+    {
+      "id": "fc2496b2-822c-4c51-a592-bb2fa099e528",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "69706c44-18d9-44e1-a97a-85d6dca7e151",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Responsible for ensuring that medical devices imported into the country comply with local regulatory requirements and are properly stored, labelled, and distributed according to the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7590d43b-1bf0-4367-8cd4-72dc1b608e10",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7fc583bc-5f40-4568-b3e6-7a03c58ec195",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.4 "
+        },
+        {
+          "bold": true,
+          "text": "Distributor"
+        }
+      ]
+    },
+    {
+      "id": "64fb20b3-92e0-43bd-8a79-9e6ae89628f1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d5a5ea30-43ff-43d5-b633-07247ea352ca",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Responsible for the distribution of medical devices, ensuring they are stored and transported according to required conditions, and ensuring that any customer complaints or feedback are reported to the manufacturer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4aea0bac-a21d-43c7-9ab2-99520b034e66",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b8e42159-1aa3-4aa3-8563-5660757ab673",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Scope of the QMS"
+        }
+      ]
+    },
+    {
+      "id": "5c857cf5-e73f-4176-9287-09a0ce5aff9f",
+      "type": "p",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "bold": true,
+          "text": "scope of the QMS"
+        },
+        {
+          "text": " defines the boundaries within which the organisation’s QMS applies. The scope must be clearly documented in the Quality Manual and should cover:"
+        }
+      ]
+    },
+    {
+      "id": "8fc12095-8769-464e-809b-b55ed332df3d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "54d53c9d-7067-4733-a265-9f9b8c7ecbd5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The products or product categories manufactured, imported, or distributed by the organisation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ea409fb-4a07-4f96-8bdb-40ae209fc75d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "73094e2d-f12e-44a5-867d-4b554cd3c9db",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The locations or facilities involved in the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0ab42a7-8ab9-47ee-ac57-9c27896ca014",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e0e3ac00-317e-4bc8-b9c6-06488195f753",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The activities that are covered by the QMS, such as design, development, manufacturing, quality control, distribution, and customer service."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf8f3674-2931-4614-920d-d82457b27845",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "48066984-2d95-4acc-b8da-6d2d2a70d7c2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1 "
+        },
+        {
+          "bold": true,
+          "text": "Justification for Exclusions or Non-Application"
+        }
+      ]
+    },
+    {
+      "id": "112422ec-9ef5-4ae8-adf5-ed7225e55f76",
+      "type": "p",
+      "children": [
+        {
+          "text": "If any clauses of ISO 13485:2016 are deemed not applicable to the organisation, the justification must be documented in the Quality Manual. Common exclusions may include:"
+        }
+      ]
+    },
+    {
+      "id": "9bfce08f-b81a-42b6-904f-47e2f2928c6a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d15d904c-1db2-46fe-ae04-aa76b2df5c06",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Design and Development"
+            },
+            {
+              "text": ": If the organisation only distributes medical devices and does not engage in design or development, this clause may be excluded."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22405cae-c0c1-4899-bb66-303a2e764d5d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6a22a74e-4d07-4760-91a2-92ddabe98325",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sterilisation"
+            },
+            {
+              "text": ": If the organisation does not manufacture sterile devices, the sterilisation requirements may not apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d89f304-20b2-4179-aa6b-767f5c519167",
+      "type": "p",
+      "children": [
+        {
+          "text": "Exclusions must be justified, reviewed periodically, and documented as part of the QMS."
+        }
+      ]
+    },
+    {
+      "id": "20c5e486-1904-4945-93fd-72144cdf02b5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "79d45ec3-b68d-4215-98cd-5c8b3830ac5d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Documented Procedures for the QMS"
+        }
+      ]
+    },
+    {
+      "id": "db65a154-642f-4fb1-88d5-12a8ec187da5",
+      "type": "p",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "bold": true,
+          "text": "Quality Manual"
+        },
+        {
+          "text": " must reference all documented procedures and work instructions related to the QMS. These include, but are not limited to:"
+        }
+      ]
+    },
+    {
+      "id": "01a8b122-0c20-46cb-a8e6-96a103f55327",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "31452b09-dc26-4d4a-8dc0-233c9a79b4b4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Document Control Procedure"
+            },
+            {
+              "text": ": Outlines how documents and records are created, reviewed, approved, and maintained."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5498a979-bd6d-4b68-bf1c-c4b541a02d99",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9c35adb9-0adb-4495-9af3-c3ec7afeb8b7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Internal Audit Procedure"
+            },
+            {
+              "text": ": Defines the process for planning, conducting, and following up on internal audits to assess the effectiveness of the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b7b43c0-7826-4d46-b3d2-68786c790fa2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "80fb47cf-c41a-40ea-b9bb-81ba6c637e00",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective and Preventive Action Procedure"
+            },
+            {
+              "text": ": Describes the process for identifying non-conformances, investigating root causes, and implementing corrective or preventive actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45fa14c2-5552-4762-8faa-9484ffc658cf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "62c5426d-0ed1-493c-a68c-64dbade18aca",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Risk Management Procedure"
+            },
+            {
+              "text": ": Outlines how risks associated with the design, manufacturing, and distribution of medical devices are identified, assessed, and mitigated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc23ac19-c718-4e06-99a9-7525bcfdfcf0",
+      "type": "p",
+      "children": [
+        {
+          "text": "Each documented procedure should include:"
+        }
+      ]
+    },
+    {
+      "id": "f54e7122-e5da-48b8-b8e8-706e9ea58ca8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f6684b60-a590-43e5-9ef2-52003d2ac821",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Purpose"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6cdcefd5-21d6-4169-bd4e-fea4bc85ff3e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cf08f398-e593-490a-83ba-31da3aa1bbb7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Scope"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21088ef2-c075-46db-b5f1-6f978a55149e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a674dd0e-0603-4ce2-9c88-8145291b5355",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Roles and responsibilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d234f93-a8d4-417d-a04f-98cd8c087351",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "11ed6290-0475-4e23-95d2-13fbcfb7a836",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Step-by-step process description"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "134274dd-7f55-485a-9a0a-79fe8457dda9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5eef3942-4241-4b7a-98b3-c097d7f71aa8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "References to relevant standards or regulations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31c9c346-a71f-4cc6-a211-81f769cc2e91",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aab78251-ef8b-43da-a256-19e8cf117663",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Interaction Between the Processes of the QMS"
+        }
+      ]
+    },
+    {
+      "id": "08d2f7f8-a5d4-410d-9456-26bf26b2d65b",
+      "type": "p",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "bold": true,
+          "text": "Quality Manual"
+        },
+        {
+          "text": " must describe how the various processes within the QMS interact to achieve desired outcomes, such as product conformity, customer satisfaction, and regulatory compliance. This includes:"
+        }
+      ]
+    },
+    {
+      "id": "50ca9a16-a4a2-42dc-94fb-279fa3e576d2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fb1c35c6-194c-4170-91ca-185745d7806a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Design and Development"
+            },
+            {
+              "text": ": How design controls interact with manufacturing, quality assurance, and risk management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9557915-4997-4299-b415-03526c3d44ac",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d318be55-f30f-4985-a791-2a24bd7f49fe",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Procurement and Supplier Management"
+            },
+            {
+              "text": ": How suppliers are selected, evaluated, and monitored, and how this process feeds into production and final product quality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f978ea0-3f2c-4858-a8e6-e25196c55aa9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3d86eadb-688c-4923-bbeb-61ee988b7221",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Production and Process Controls"
+            },
+            {
+              "text": ": How manufacturing processes are controlled and monitored to ensure product quality and compliance with specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f849acc-848f-403e-b188-d262eda122a0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "09d97026-3037-40d6-b46f-f49e5fbf0ee8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Post-Market Surveillance and Feedback"
+            },
+            {
+              "text": ": How customer feedback, complaints, and post-market surveillance data are fed back into the QMS to drive continual improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c833d21f-6264-434d-a1ee-af3ba87bf8ec",
+      "type": "p",
+      "children": [
+        {
+          "text": "A flowchart or diagram may be used to visually represent the interactions between processes."
+        }
+      ]
+    },
+    {
+      "id": "3f9a988e-9b7d-46fa-ab36-54059057ef0a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "edf8aee7-e5f7-468f-b0b5-d88030f4d306",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "Records and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "9a4a7568-c054-41b6-8146-1ce8e8bd370f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2deb97d6-9a2d-4e68-a949-fc9678cc3ba9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The "
+            },
+            {
+              "bold": true,
+              "text": "Quality Manual"
+            },
+            {
+              "text": " shall be reviewed and updated regularly to ensure it reflects the current practices and regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2328cd73-00d1-4dd4-8dbb-b65912f87bc6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "21841dbf-fa4b-419f-8007-3553f29ef8af",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All documents referenced in the manual must be controlled in accordance with the organisation's Document Control Procedure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c527917-6648-4bff-a688-5dcb48971e03",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ec3cf829-213e-4c99-990c-459e10410620",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All records related to the implementation and effectiveness of the QMS must be maintained in a secure and retrievable format for the duration specified in regulatory requirements or internal policies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36374066-eb48-4c80-9a53-23a3a58b80e0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5925ef5f-cab3-4f13-bc19-22073d1000ad",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. "
+        },
+        {
+          "bold": true,
+          "text": "Review and Revision"
+        }
+      ]
+    },
+    {
+      "id": "ad28db8b-4a16-4381-9e30-8c29aa4fb4d0",
+      "type": "p",
+      "children": [
+        {
+          "text": "The Quality Manual must be reviewed and revised as necessary, at least annually, or whenever there are significant changes to the QMS or regulatory requirements. The revision history should be documented, and the updated manual must be communicated to all relevant personnel."
+        }
+      ]
+    },
+    {
+      "id": "f5eb441d-daa2-41a0-b42a-f94e3ff15068",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "51c293b8-c3e6-4727-a25d-8bf23c6b3d4e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "8c175a1c-6a62-4421-ba89-11019083182c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "110c8084-ee33-4683-b47e-4434dd0b0953",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 - Quality Management Systems – Requirements for Regulatory Purposes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85b03a4a-3542-4661-8e42-bc873027e754",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4fc6c905-e4e2-4cb7-bc59-1fb28b2c2047",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sop-traceability-procedures",
+  "version": 1,
+  "name": "SOP - Traceability Procedures",
+  "description": "",
+  "entities": [
+    {
+      "id": "d39b22aa-f247-4c78-b3ff-e17824c3b367",
+      "type": "DOCUMENT",
+      "title": "SOP - Traceability Procedures",
+      "source": {
+        "id": "0f6bd002-7649-456a-832b-4e6969d7eceb",
+        "version": "1"
+      }
+    }
+  ]
+}

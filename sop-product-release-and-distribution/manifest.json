@@ -1,0 +1,17 @@
+{
+  "id": "sop-product-release-and-distribution",
+  "version": 1,
+  "name": "SOP - Product Release and Distribution",
+  "description": "",
+  "entities": [
+    {
+      "id": "de2ebfa9-6928-4936-a458-f7b4e1b9cb84",
+      "type": "DOCUMENT",
+      "title": "SOP - Product Release and Distribution",
+      "source": {
+        "id": "099bc50d-ea65-43fb-820c-27e06a71a32d",
+        "version": "1"
+      }
+    }
+  ]
+}

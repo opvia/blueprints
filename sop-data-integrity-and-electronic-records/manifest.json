@@ -1,0 +1,17 @@
+{
+  "id": "sop-data-integrity-and-electronic-records",
+  "version": 1,
+  "name": "SOP - Data Integrity and Electronic Records",
+  "description": "",
+  "entities": [
+    {
+      "id": "9de6c5da-9406-4b73-a076-ab8e497bdcb9",
+      "type": "DOCUMENT",
+      "title": "SOP - Data Integrity and Electronic Records",
+      "source": {
+        "id": "6c861cc9-c888-4a20-865f-e9f133e6f28b",
+        "version": "1"
+      }
+    }
+  ]
+}

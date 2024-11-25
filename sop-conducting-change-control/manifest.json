@@ -1,0 +1,17 @@
+{
+  "id": "sop-conducting-change-control",
+  "version": 1,
+  "name": "SOP - Conducting Change Control",
+  "description": "",
+  "entities": [
+    {
+      "id": "db028ad7-82b9-44aa-b740-235050c8dbe5",
+      "type": "DOCUMENT",
+      "title": "SOP - Conducting Change Control",
+      "source": {
+        "id": "111132e7-7993-4e5c-8ee9-0d13f900bfdd",
+        "version": "1"
+      }
+    }
+  ]
+}

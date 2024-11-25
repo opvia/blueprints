@@ -1,0 +1,1893 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "f7aeb765-a5b4-4cfa-bd8f-af4756d9d6e7",
+  "title": "SOP - First Aid and Fire Safety",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "41737b53-17d4-4094-8bd2-90fba08f8926",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "248d219c-01ea-45e7-b33d-d535c4fec962",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "b3588195-a2f9-4a6d-953a-f89a9c93e488",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "2706f591-d365-4f53-a2dc-db968258204d",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "feb6f353-601b-484b-9053-54e454d38935",
+      "type": "field",
+      "fieldId": "2706f591-d365-4f53-a2dc-db968258204d",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dc83cbde-5434-48cb-a1d1-95b65777eb67",
+      "type": "field",
+      "fieldId": "b3588195-a2f9-4a6d-953a-f89a9c93e488",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "31da3a14-8c91-49eb-a963-4dbd85ab0d18",
+      "type": "field",
+      "fieldId": "41737b53-17d4-4094-8bd2-90fba08f8926",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5f00bd69-c9bc-4cc5-9d9d-6e34ff31b45a",
+      "type": "field",
+      "fieldId": "248d219c-01ea-45e7-b33d-d535c4fec962",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e47d47fe-e949-49bf-8b33-5cc774545aa7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ba0e8abb-5bd0-4df4-b603-fa59ba8d6ea9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "3378c186-fcfc-45e9-b86e-e67b24243ce5",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines the basic first aid and fire safety protocols specific to laboratory environments. It aims to ensure the safety of personnel and visitors, minimise injury, and prevent fire-related accidents by providing guidelines on fire prevention, emergency response, and first aid measures."
+        }
+      ]
+    },
+    {
+      "id": "83eea530-f508-48b3-ab0c-f15a7af075de",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bb58d9cd-4480-4b2f-b54e-7682ec75c572",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "3cf8ca04-8741-433f-9cfa-d63c5da7b2b8",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel, including researchers, technicians, students, and visitors. It covers first aid procedures for common laboratory injuries and fire prevention and response measures for handling emergencies in the laboratory."
+        }
+      ]
+    },
+    {
+      "id": "83731ce3-04ce-4b27-9c2e-a8bee613a5bf",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ce0ad7a9-bbd7-4200-9bbd-57a81d2307d1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "b1f65dda-88cf-4b01-b6c5-ac853fe6e055",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c76e9b4c-10da-4ff5-9166-145e9e794f5b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "1b8cf6bd-235d-47f8-8579-91b48653a0f0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f102a0d2-9d4b-4c8d-9f00-d8c55a3f72f1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures the laboratory is equipped with adequate first aid supplies and fire safety equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd75a716-5edf-475f-a153-e0e4bd033537",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "651fd434-b00b-46cb-b462-10da67878a00",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures all personnel are trained in first aid and fire emergency response."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9d98e4d-1c79-4122-81f4-2e83d7886a94",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "c17087d9-067d-4d08-ac0d-e7ef0c9ec6b3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e10bcbf1-13be-4025-bca1-1f4524cc65de",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follows first aid and fire safety procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4101ba13-1850-426d-a6b4-8298eea619a3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "385c4095-1d1d-40cb-89c4-ebba00901eaa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reports any injuries, fires, or unsafe conditions to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50c5ae7a-5d0e-4121-8285-cc7979b27fc8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "First Aid Officer"
+        }
+      ]
+    },
+    {
+      "id": "540394e1-fc7c-4e25-abab-cb947b7cf787",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d7762fc1-86d2-4cc0-b031-c603d89715f7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Designated individual(s) trained in first aid who will respond to injuries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c54e62ac-3ae6-4ade-bb30-08e78016ecc6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "87059c09-792e-4e9f-bd29-75d668764078",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures that first aid kits are fully stocked and up to date."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8adf37a5-6c30-4606-be55-4821293b5f71",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4afa9e71-b601-478d-b0f4-9b1cbc308bab",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "755dc270-c1bd-4934-b7cf-cc6e2b959201",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "34f1dce8-ba3f-44a4-9150-52e999f4276b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "PPE"
+        }
+      ]
+    },
+    {
+      "id": "0ee1e1b9-d71f-4579-8174-d99aa40709a8",
+      "type": "p",
+      "children": [
+        {
+          "text": "Personal Protective Equipment such as lab coats, gloves, and safety goggles."
+        }
+      ]
+    },
+    {
+      "id": "e97c340c-acb8-446e-8ea0-cfb01e92a78e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "First Aid Kit"
+        }
+      ]
+    },
+    {
+      "id": "1b564cb7-4006-494f-9ac4-a8876ef6cc8e",
+      "type": "p",
+      "children": [
+        {
+          "text": "A kit containing medical supplies for treating minor injuries."
+        }
+      ]
+    },
+    {
+      "id": "7378c337-daf4-4478-8000-db84760158c7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Fire Extinguisher"
+        }
+      ]
+    },
+    {
+      "id": "f24846ad-424c-4304-a5d2-e60cafd4a88d",
+      "type": "p",
+      "children": [
+        {
+          "text": "A device used to extinguish small fires, classified by the type of fire it can suppress (e.g., A, B, C)."
+        }
+      ]
+    },
+    {
+      "id": "0b733fb5-3ff0-42e5-a1b1-f51f6aa30816",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Safety Shower/Eyewash Station"
+        }
+      ]
+    },
+    {
+      "id": "6a022fe3-5d94-4af7-8e8d-ad34619328cc",
+      "type": "p",
+      "children": [
+        {
+          "text": "Emergency equipment used to rinse chemicals off the body or out of the eyes."
+        }
+      ]
+    },
+    {
+      "id": "bb704e58-9c03-4941-9099-43dd9b62fe4a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "46e5f0a7-e6b3-426a-b6b9-b66de8e1ca81",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. First Aid Procedures"
+        }
+      ]
+    },
+    {
+      "id": "39380110-88f6-44ab-90fc-941639ce163b",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5a12ad6c-32b8-4108-be54-6d0e621cb9ce",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. General Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "6883646d-dccd-42d6-9505-36a7281139e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8eb55706-356b-40be-b130-c808a6425f9f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "First Aid Kit Location"
+            },
+            {
+              "text": ": Ensure all personnel are aware of the location(s) of first aid kits and know how to use the supplies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "227a09fd-903d-463f-a4e0-1f8544cf12cd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "42de8b40-aadd-4442-a51e-690dddb964dc",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "First Aid Training"
+            },
+            {
+              "text": ": All personnel must be familiar with basic first aid techniques. Designated First Aid Officers must undergo formal training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d327a6ec-3e55-4e33-b002-58f94d8228cf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ad172697-8bb0-4102-9d05-244bab0f25f8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Incident Reporting"
+            },
+            {
+              "text": ": After any injury, no matter how minor, complete an incident report and submit it to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "235a91b3-178f-4ca1-98ed-40cd48264887",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7b08df20-8aa8-4e66-bfab-ddf95592cefd",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Common Laboratory Injuries and First Aid"
+        }
+      ]
+    },
+    {
+      "id": "125aa568-b9b7-4dbd-9c2f-12a9d6721770",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.1. Chemical Burns"
+        }
+      ]
+    },
+    {
+      "id": "a2004be3-cc4e-4bc8-9724-36dabeed205c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc67bac6-ac75-4412-bccc-7fcc639d54af",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Immediate Response"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebf39b98-15d9-4930-9597-bc7362c9d0b8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "6bfa8f98-4c24-43ba-87de-c4b0b9ef45cd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Rinse the affected area with water using a safety shower or eyewash station for at least 15 minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "829c8a57-fa6e-4c8d-99c5-03d6d305f3da",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "89c98599-c281-4ba7-8eba-7a2774a48d54",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Remove contaminated clothing carefully to avoid further exposure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abb198e6-85f4-4ea0-9dc9-16d67addb820",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "da35b1b0-1e29-405a-9aee-694bc4a9bc1c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Seek medical attention if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "863dc999-862d-47ff-8d12-c1c8df87813b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ce2673d4-2aff-4b9b-bbab-d6a76f90980a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aftercare"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5764968-f431-4e0d-bd7e-a36caaa3a2f5",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "22f100d8-265b-4ab1-8669-07a11682c7dc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report the incident and ensure it is documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12342cbb-9096-4fce-b76e-6d766d384d4c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "da1ead4d-a5c4-49e0-9a3f-72d44e3727a1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitor the affected area for signs of irritation or infection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1518791-bc2b-4778-a074-87660807294c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.2. Cuts and Lacerations"
+        }
+      ]
+    },
+    {
+      "id": "db75a633-38a9-4ee2-ae85-795eb859d69a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4a43dc42-00ed-4a43-83c1-f175213ed7a6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Immediate Response"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f770ea4b-886e-406d-973e-b804d328ad47",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "1bcd349b-4978-43b7-b0e6-c8e240a17a32",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Stop the bleeding by applying pressure to the wound with a sterile cloth or gauze."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52bb4315-ba50-4c90-b945-707ae08155da",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "8653ffa7-bf0a-48fd-b47e-fc18af546550",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Clean the wound with sterile water or saline solution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2025064-32c2-4d22-8895-07284ad6f569",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "fc87df19-703e-4457-a85b-056b3f4891e0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Cover the wound with a sterile bandage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f89180a0-c968-437b-8fbe-59fc4fbb324f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "08e450af-691a-4172-b41a-9c36997bd320",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aftercare"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3dfbfb3-dbd1-4729-876c-69813a0c69a8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "52d81494-1a69-4174-a8ef-ed29b106c0c5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Seek medical attention for deep cuts or those requiring stitches."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2322fe0c-ea7e-4ed0-8dd6-630acb57ab5e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "52be2f8c-05d6-4194-8104-2965988426cb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report the incident and ensure it is documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b198d031-0499-4450-8232-7f108cbd5291",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.3. Eye Exposure"
+        }
+      ]
+    },
+    {
+      "id": "1991baa5-658f-4a02-9dd4-dce1963f26a7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1601a4f1-408e-4538-961f-ad794ab7077f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Immediate Response"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66962a73-7fae-42a0-9e4f-0c5119e917c6",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "8cc5af78-6b11-4ad1-b55b-754ef07fbc62",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use the eyewash station immediately to rinse the eyes for at least 15 minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebefa598-113b-4ed0-a50c-a53a4a985978",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "8ae13c9b-7af4-42cd-8ae2-fe059b36bc8c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Hold the eyelids open to ensure thorough rinsing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "301a2988-62f5-46c4-9233-ae026740b866",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "4d93b74d-4843-4491-87e2-a62998b6a27b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Seek medical attention promptly after rinsing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef77ba28-1bdb-48a9-afe4-2a1ae5ae58a2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "038a7a22-6f28-4f5d-a106-5b7adeaa9068",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aftercare"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b2bd5f9-f302-4133-b71d-304ee814bb02",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "6db81ffa-2e79-419a-b285-be2384fa7cb1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report the incident and ensure it is documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e613ca39-79a2-41c6-a3f8-31a43098334f",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "73a39913-2cc0-4137-b0c0-a4fe19537338",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follow up with an eye examination if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4078bc4-a5ed-4f26-bfbb-5d22b745ea66",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.4. Burns (Thermal)"
+        }
+      ]
+    },
+    {
+      "id": "340d0d94-4c07-4320-b14f-ffd8f6e577f6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "977ddecc-c90c-46ec-8808-e67daca00ce2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Immediate Response"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ada0ce6-7cc3-4d65-8d33-2d7d2723017b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "25c387e3-1809-42f0-ae27-8e0b5393d4e7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Cool the burn under running water for at least 10 minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd64572f-7047-49b1-a5f2-39f4880304c8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b6ebe309-be52-41bb-a22b-1b37e61d8191",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Cover the burn with a sterile, non-stick dressing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7188059a-5400-4325-88d1-fac73c301740",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "cc9cf171-1e95-457c-831c-9af5e2bcd1b2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Do not apply creams or ointments unless directed by a healthcare professional."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3c6dbe2-102c-4e6b-989a-97690df847ed",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "daae4cfe-3d76-4777-b8ee-6a15590e33d7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aftercare"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9596759-d0a2-4b50-9cb4-923154f58728",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "36556b4e-a2b1-4cdd-a51a-ab905610e027",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Seek medical attention for severe burns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0fb5bce8-020e-423a-a29b-67a71b766191",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "80adcd4f-102b-4369-bbf7-48b5738e3296",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report the incident and ensure it is documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9375436-f774-4d47-8b88-211e2455df55",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2.5. Inhalation of Hazardous Substances"
+        }
+      ]
+    },
+    {
+      "id": "a7e42343-ed81-4e01-a050-c26ff4049c22",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8a251dab-168c-4f20-b08f-eb7757279f83",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Immediate Response"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9582f0fb-c4c8-4823-9941-335ade231664",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e78091db-c650-4c40-a689-643b81b95455",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Move the affected individual to fresh air immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebb53c73-da67-4f98-beee-cbeb2593bbd8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "81dd31bf-088d-4e98-a852-770dce549904",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If breathing is difficult, administer oxygen if available, and seek emergency medical attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a73de2b-cf81-405f-8f63-480fc769322f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd285d44-f600-4459-ab8c-195834c0c6cf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aftercare"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01e80183-1854-4561-88ae-410eaf0b259f",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "de220ce4-df51-4560-a73c-a00df3372f4b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report the incident and monitor the individual for delayed symptoms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f054d5a-9510-43cf-a586-30f334c790aa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1259b062-7ee3-4bdd-ba3d-ce68fffa494e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. First Aid Equipment"
+        }
+      ]
+    },
+    {
+      "id": "8d16b3d2-2e25-4517-87b1-7c532b85221a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "92d3a902-b357-44bd-aba1-ac189b2f4b5a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "First Aid Kits"
+            },
+            {
+              "text": ": Regularly inspect and ensure they are fully stocked and easily accessible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba63c6cd-6243-4ffd-ba8a-f26d76a26b90",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0c8f5cb6-811e-4a07-b296-f283b42aa45b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Eyewash Stations and Safety Showers"
+            },
+            {
+              "text": ": Test these regularly, and ensure personnel know how to use them in emergencies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8eede2e-9a16-458f-a5c0-61a87bc994dd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cb73ad6e-bc5a-42b9-a4cc-d83a92cd783d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Emergency Contact List"
+            },
+            {
+              "text": ": Post a list of emergency contact numbers (e.g., local medical services, poison control) near first aid kits and throughout the laboratory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ec1c114-c1cf-4306-a7c4-9507ec9675d4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5b9753cb-04f6-4beb-b845-52ac7d15764d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Fire Safety Procedures"
+        }
+      ]
+    },
+    {
+      "id": "364fc6dc-f808-4106-a820-a81903273e4a",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "538ae243-a081-4b7c-9b57-c3f5fdeaf49d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Fire Prevention"
+        }
+      ]
+    },
+    {
+      "id": "e0c1a5b0-d23a-4c69-a3ec-886e42ea8354",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5c6a1f73-8573-49a3-bfa5-0776c8d80bcf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "PPE Usage"
+            },
+            {
+              "text": ": Always wear appropriate PPE when handling flammable or reactive chemicals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2272d674-6ec7-4d75-898a-5aac675acc14",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1113976e-c71a-4e59-ab17-5d99061ef896",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Chemical Storage"
+            },
+            {
+              "text": ": Store flammable chemicals in flame-resistant cabinets, away from heat sources, open flames, and electrical equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a1473b3-55b5-43cf-a844-56f2658a30c8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "58d14d24-1aca-4763-8ccc-ab314722beb1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Ventilation"
+            },
+            {
+              "text": ": Ensure fume hoods and ventilation systems function properly to prevent the buildup of flammable vapours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02415105-0e37-401a-94d5-67dc3e945284",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "298c9d1e-725a-40cc-954e-d595bde62dda",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Electrical Safety"
+            },
+            {
+              "text": ": Inspect all electrical equipment regularly. Do not use frayed wires or damaged outlets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d403b209-b0f6-414c-86db-e496e120d396",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3aeb2fc4-0ccf-456e-9f3a-2608f22c3eeb",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Fire Response"
+        }
+      ]
+    },
+    {
+      "id": "693012a6-5bc7-466a-8c0a-e126889f51b1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e460c2d6-eb89-4bbf-b810-9d777fbecd58",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Fire Alarm"
+            },
+            {
+              "text": ": Know the location of fire alarms. In the event of a fire, activate the alarm immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acb64a83-440d-468b-b130-f72aa5490ca8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "38f5dd5e-f2b6-4129-888f-294b1ed6b507",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Fire Extinguishers"
+            },
+            {
+              "text": ": Ensure fire extinguishers are accessible and personnel are trained in their use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c31b3064-0715-4734-ad77-d5e37e59c572",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "eb63737c-7e81-415b-aa83-da691510a322",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use the "
+            },
+            {
+              "bold": true,
+              "text": "PASS"
+            },
+            {
+              "text": " method:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35970598-53a9-4295-a546-fcfac2b29896",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "4035e1b3-3e2e-49ce-b95c-6e45c155352a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Pull"
+            },
+            {
+              "text": " the pin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01a3865f-3499-4390-9816-7f7dab6a5c4a",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "ea11881b-329a-420c-99d1-6c0641931a70",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Aim"
+            },
+            {
+              "text": " the nozzle at the base of the fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e0159e0-c29f-4e91-9287-f7e469f0b8a3",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "1d50ec20-b4f7-414c-b6bc-083b0a67706d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Squeeze"
+            },
+            {
+              "text": " the handle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce49c70c-e332-40f0-b220-90ee087e74b2",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "c5980214-1030-452d-b56b-3645086e6dd0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sweep"
+            },
+            {
+              "text": " from side to side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa07dfd2-8131-4553-a318-142b1d9dcb4a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9a3078df-f52b-4761-ab08-404b4b9f44ea",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Emergency Evacuation"
+            },
+            {
+              "text": ": If the fire cannot be safely contained, evacuate immediately. Follow the designated evacuation route to the assembly point."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec8b07fd-0aae-4598-84d9-bc21e6fe139f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "32ee45d8-8a77-4766-aa11-a1cf55a88e9c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Emergency Equipment"
+        }
+      ]
+    },
+    {
+      "id": "6b93a9bc-d1a2-43fd-8daf-6c6d604a807d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "84e083c5-df0c-43f3-84d0-2d4620dab48f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Fire Extinguishers"
+            },
+            {
+              "text": ": Inspect and service regularly. Ensure personnel know the location and types (e.g., Class A, B, C)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae347543-0b17-4428-829d-09834aa58071",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7577832e-a92f-4973-b9d2-b43b475f7e0a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Fire Blankets"
+            },
+            {
+              "text": ": Use to smother small fires or to wrap around an individual whose clothing has caught fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f365a78-3481-4596-bce2-cb6d22c77436",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d374e857-8634-426a-ae4e-d0efe2e3ccf0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Emergency Evacuation Procedures"
+        }
+      ]
+    },
+    {
+      "id": "576680df-2730-4c19-b442-fb2399c1ca01",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "63b87732-1758-43fb-a8c7-9896ee3c2884",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Evacuation Routes"
+        }
+      ]
+    },
+    {
+      "id": "2fda6c5e-fbbf-4845-aeb0-6fb4acdbb7ea",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3f7ecd1-8408-4c81-960f-dd4037ea03a9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure all personnel know the location of emergency exits and that routes are free of obstacles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2bf3778f-1c88-417e-a692-3c9bbae5cfcd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d33bc563-e187-4d3f-acaf-a06594b75274",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Post evacuation maps throughout the laboratory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ac3d52d-a184-4ab2-8868-09ae17eed90e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f75cb92e-56e3-456b-861f-e5e550937918",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Assembly Point"
+        }
+      ]
+    },
+    {
+      "id": "f3bc6618-42e4-4c31-8967-73a56334eea7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6f34fe61-9973-4831-b425-0cda98d0fe1d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Proceed to the designated assembly point outside the lab after evacuation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86045c9d-5a0c-459a-9cde-a85897af97b0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c8d3e0fe-3288-4f30-a01b-b39d6a5dcf99",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Account for all personnel and notify emergency services of any missing individuals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45fd5a8c-bbd9-4890-a681-d46a6a11387c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6b14b8dd-f1d2-47f5-be36-3f5e4173eb7a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.3. Fire Drills"
+        }
+      ]
+    },
+    {
+      "id": "34c9b79c-d267-4666-862f-64847e8d6e36",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd90ecdf-452f-4e3e-b5f2-8c4fad3ae5ed",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct regular fire drills to familiarise personnel with evacuation routes and procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c8a6b80-949f-4a7a-9656-70a89539acfc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f0ddad1e-c023-42f9-99f8-7d5e268c61ff",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Training"
+        }
+      ]
+    },
+    {
+      "id": "1e422382-1a1e-4a71-8880-113a8dbcfbee",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0ff7b232-7169-4f32-bc17-bde9576565dc",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "First Aid Training"
+            },
+            {
+              "text": ": All personnel must complete basic first aid training, with refresher courses conducted annually or as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69964374-2d6c-4e23-a937-cd852a47480c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ed73f3f3-387a-478f-91c6-7b6427817155",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Fire Safety Training"
+            },
+            {
+              "text": ": All lab personnel must receive fire safety training, including how to use fire extinguishers and respond to emergencies. Repeat annually."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32b8702a-3960-4713-8c46-e9a19c728c5a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "81977449-6e36-4b1b-b1e1-5e5fb5b871d3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Documentation and Records"
+        }
+      ]
+    },
+    {
+      "id": "1f83631d-6191-40f2-a91e-ea486dd57ec2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3a1ecfa0-3da9-40c0-bc75-84f739761c8c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Incident Reports"
+            },
+            {
+              "text": ": Document all first aid and fire-related incidents, including the response and outcome. Submit reports to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a46d9d0e-b86c-4c9b-9081-25c4e95f50a8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f454cdb8-ca14-40a7-8937-8dcf69dbbea5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Inspection Logs"
+            },
+            {
+              "text": ": Maintain logs for first aid kits, fire extinguishers, safety showers, and eyewash stations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "039af21b-4be1-49e0-8921-e542e4e4bd19",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a5303f62-3065-4e08-a566-f7d4cf3c9a34",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. References"
+        }
+      ]
+    },
+    {
+      "id": "805e86d7-8c03-4773-a6b0-502891327300",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b627460b-1fd7-49c3-8017-3f7855df2e2c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Occupational Safety and Health Administration (OSHA) Laboratory Safety Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37c85695-50fe-46fb-bc65-4cce5761f220",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5b2b4bd5-247e-4c72-a7f5-12d38aa25c0c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Local Fire Department Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8b3ea87-6b68-42e1-a0df-4fd708fb05cc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "02067eec-e980-43cd-a5eb-e3bdfc74c27c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Emergency Response Plan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

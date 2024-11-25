@@ -1,0 +1,1126 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "a9c99b95-2da5-4d61-b402-6743cc4222a4",
+  "title": "SOP - Validation of Software",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "c14976d4-5ec6-4b89-b71a-23f8259de81c",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "aadbe6a0-e451-4905-94ba-b0c3d4820664",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "b252e34c-64e0-4213-9ab2-b0df1014eba9",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "6ce3451d-3caf-4619-af1d-8522a8d353ad",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "ff0abf3e-7291-4b83-96d7-e641c71af150",
+      "type": "field",
+      "fieldId": "6ce3451d-3caf-4619-af1d-8522a8d353ad",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e80bbf61-6ad9-479a-86e4-fd77fc04ce86",
+      "type": "field",
+      "fieldId": "b252e34c-64e0-4213-9ab2-b0df1014eba9",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cf42f10f-ea70-4753-bd1c-060c67ab5448",
+      "type": "field",
+      "fieldId": "c14976d4-5ec6-4b89-b71a-23f8259de81c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0247dfcb-6a89-430a-84ca-4fd218cfc1d1",
+      "type": "field",
+      "fieldId": "aadbe6a0-e451-4905-94ba-b0c3d4820664",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "352ad478-13ac-4ee2-8de6-ed7fe263f49e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "071420de-f9bf-49bb-8d79-d3564dbd621b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "d3bcb401-f474-438b-83f9-9a9411897a73",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to define the process for validating software used in quality management, production, and data handling to ensure compliance with ISO13485. This SOP ensures that all software is validated prior to initial use and re-validated after changes to confirm that it meets the required specifications for accuracy, reliability, and intended use."
+        }
+      ]
+    },
+    {
+      "id": "38465f0e-80aa-4728-86bc-51d6b36edbb2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1a0680ee-0f45-4494-bfba-581b709497d1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "839dce93-c48d-4fc5-832e-28f944ad2a26",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all software applications used within the organisation that impact product quality, data integrity, and regulatory compliance. This includes software for production equipment, quality management, laboratory testing, and data handling. It covers validation prior to initial use and re-validation after significant software changes."
+        }
+      ]
+    },
+    {
+      "id": "a37a9ae8-06ad-49e7-9323-859fbe8da747",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "27f62acb-c519-40c6-b3bc-8fcea67868d9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "b1a6effd-0af6-4f92-a990-e1eeeb00b954",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bcd10ecb-04d5-44bb-8f9e-bf0da95e5946",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Oversees software validation activities, ensures compliance with regulatory standards, and reviews validation documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baca009e-088d-454d-a056-7d49b5e69488",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "242c1537-a526-479f-ba1b-66ed051ec655",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "IT Department"
+            },
+            {
+              "text": ": Coordinates validation testing, performs software installations and updates, and assists in validating changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0548d452-8ef4-43be-9afb-1cdb5b025716",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6d92aaf1-e476-40d1-b519-d5741360a1ae",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Software Users"
+            },
+            {
+              "text": ": Participate in validation testing to confirm the software meets operational needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27ba1062-d7ca-4fc2-a1ce-04b9af1c818a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a6d0930f-5195-40b1-afd0-12655781ab95",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management"
+            },
+            {
+              "text": ": Reviews and approves validation plans, reports, and significant changes to software."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0af19de2-cb15-4d70-a14c-4f5900188984",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "331511ad-9075-41ad-bfda-5e7760d5988e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "43b29425-f77a-48ff-a4bb-66b63d4549e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2f81eb22-26c7-4710-96cb-875573475951",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Software Validation"
+            },
+            {
+              "text": ": The process of evaluating software to ensure it meets specified requirements and performs its intended functions in a reliable and compliant manner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f6819d8-c5d1-4bba-96a2-a5536edca0b8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5ab0125f-0192-47b6-b4cf-8007ac173099",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Re-Validation"
+            },
+            {
+              "text": ": Validation activities conducted after a software change to confirm the software continues to meet specified requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "219b41b1-8381-4f21-bbda-ab28880bcb20",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "66d8dbc3-8440-4625-9763-4e4931cd607e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Change Control"
+            },
+            {
+              "text": ": A process to manage modifications to software, including impact assessment and validation of changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d40a6f8c-c5ba-4d27-b6b8-e8b71a50ea25",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a297161c-b797-4980-920a-f18b24ebaea4",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "General Software Validation Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "b33e0f98-0f05-4011-a0d3-4606ea114e1d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c688919d-39dd-47e5-8775-8e5fe0c7b365",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": All validation activities must be documented to provide evidence of compliance with regulatory and organisational requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62d29ee8-0019-4afa-b4ff-97cfb657ded0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "02525895-6f9a-4762-8a71-691f170b8c35",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Testing Environment"
+            },
+            {
+              "text": ": Perform validation in a controlled testing environment that simulates the actual production or usage environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36516b28-4673-471f-9f15-163a439b03f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d03b9633-83aa-489a-9c58-a3ae38675339",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approval"
+            },
+            {
+              "text": ": Ensure all validation plans and reports are reviewed and approved by QA and Management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04676ba9-29c8-4209-9493-34ec56cf3961",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a0585da2-652a-4660-96b7-d13864d564c3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Software Validation Process"
+        }
+      ]
+    },
+    {
+      "id": "513b5f88-2084-4b80-9a70-e8a525b62b1b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "233696d1-e622-471a-8e17-8b881c52d1bb",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Validation Prior to Initial Use"
+        }
+      ]
+    },
+    {
+      "id": "58cca9e5-4c90-4c6f-b7d7-3a7b1972a339",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "33bb6edd-c21f-4120-8530-bdfe945ec4d2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Define Validation Requirements"
+            },
+            {
+              "text": ": QA and IT define validation requirements based on the software’s intended use, regulatory requirements, and risk impact."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14708e02-348c-44b0-ba04-a7500a135c72",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "27ff8d13-ce87-4af1-8733-d681211a8793",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Develop a Validation Plan"
+            },
+            {
+              "text": ": Create a Validation Plan that includes validation objectives, test cases, acceptance criteria, and roles and responsibilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d758d127-e1dd-4ede-a3f4-f283eede2329",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "db67a444-4a13-4d1f-89bc-6a256b1de226",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Conduct Installation Qualification (IQ)"
+            },
+            {
+              "text": ": Verify that the software is correctly installed and configured according to specified requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dfe1617-a303-4ee8-a91a-dde04f5b2d3c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7fb8add1-5f02-4331-b28b-5bb8c3ba6c06",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Conduct Operational Qualification (OQ)"
+            },
+            {
+              "text": ": Test the software’s functionality against operational requirements, confirming that each function performs as intended."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f37c6f85-0c0f-43d0-9a3c-04445dc49e81",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3f871380-0008-4c9a-813c-c8460a591152",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Conduct Performance Qualification (PQ)"
+            },
+            {
+              "text": ": Perform tests to confirm the software operates effectively within its intended environment, meeting performance and accuracy requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bd8f6d9-cea7-48aa-95cc-6663fb9ff973",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3e5468cd-89c4-467e-a1b1-a899ca7a7290",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation and Reporting"
+            },
+            {
+              "text": ": Document all test results and observations in a Validation Report. Obtain approval from QA and Management before software is released for operational use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06c747f3-b59f-43eb-a012-09b8f7ce8b73",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "811a3f83-5ff7-4a34-a2cb-ce139f58514d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Validation after Software Changes (Re-Validation)"
+        }
+      ]
+    },
+    {
+      "id": "4083ae3f-c4ed-4f62-acf7-0265ed37e28b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c88cdd58-e670-44e5-aebf-7b5f82023577",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Change Control Assessment"
+            },
+            {
+              "text": ": If a software change is requested, submit a Change Control Request to QA. QA, with IT, evaluates the change for potential impact on software performance and compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "599d405d-7eb5-4d89-8f1d-7d6263111bc1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "54328cfc-705a-4824-b218-8bd917983383",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Determine Scope of Re-Validation"
+            },
+            {
+              "text": ": Based on the change impact, QA and IT determine if full or partial re-validation is necessary, defining specific test cases and acceptance criteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e92f5b17-5952-4ff0-8dd6-5f84cc99168a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1a65a630-2a00-4885-a1d6-aa8e7760369b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Conduct Re-Validation Testing"
+            },
+            {
+              "text": ": Perform re-validation activities, repeating IQ, OQ, and PQ as necessary, to verify that the change does not compromise software functionality or compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71d01657-4ed4-4038-acaa-01c39c61a3e0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0181a312-67c9-4f5b-815c-ab8d954f889a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Document Re-Validation Results"
+            },
+            {
+              "text": ": Document all testing results and any observed issues in a Re-Validation Report. The report must be reviewed and approved by QA and Management before the software is re-deployed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c224f53d-2d27-44d8-8e00-22bd654aa39e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e0f489e8-a12a-40d7-bd27-64eb68fc0a08",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Documentation and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "4c92b1d9-896f-483c-82a6-e8cf6b37d0c5",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "afba2285-012f-48a7-95e8-fdfeca7fa1ec",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Validation Plan and Report"
+        }
+      ]
+    },
+    {
+      "id": "efdd52be-33f5-4027-9ef7-8e3e0fd9c52b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4bad1b23-5475-4859-be30-eae733664766",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Validation Plan"
+            },
+            {
+              "text": ": Include objectives, testing procedures, acceptance criteria, and personnel involved."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42e8f2df-d142-47b5-bc04-afc26f151876",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b77478f5-abe2-438e-98c9-76332e848c44",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Validation Report"
+            },
+            {
+              "text": ": Summarise validation activities, results, and approvals, and retain the report for future reference and audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "442f3bb4-15bd-40c8-8f13-17a944c780be",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dec8b76c-fd98-4dd6-b388-76cd4ff25c57",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Change Control and Re-Validation Documentation"
+        }
+      ]
+    },
+    {
+      "id": "db672edf-fa08-44af-9c6a-389368432d14",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1fa61750-3025-4b33-812f-fa13c50a66c8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Change Control Log"
+            },
+            {
+              "text": ": Maintain a log of all changes, including descriptions, justifications, and impact assessments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9800b5c-b259-465e-b85b-bc2c1a32c8e2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "80bc02ac-36fc-4010-a04e-a0fb2bc317c5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Re-Validation Report"
+            },
+            {
+              "text": ": Document re-validation activities for each significant software change, ensuring traceability of actions and approvals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "347d79e7-2f3f-4f05-8a89-2e74fcad1165",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a8742817-06a3-46c3-82eb-f102c0c809c3",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3. Record Retention"
+        }
+      ]
+    },
+    {
+      "id": "f8546fc7-3861-4495-9e82-dbc26e1c1a5e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d037dade-fb77-4900-9978-6f2502889172",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Retention Period"
+            },
+            {
+              "text": ": All validation records, including plans, reports, change control documents, and testing data, are retained as required by ISO13485."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6ac9a4a-9c03-4437-b670-f87d5f0aa2be",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3e89758a-65d5-4eb8-9dce-4ff901e7d78f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accessibility"
+            },
+            {
+              "text": ": Records must be accessible for internal audits, regulatory inspections, and management reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faa7f185-0565-4102-b386-bf27e5867dd2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ca8d5b64-2163-481d-b5c7-5c1623148c52",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Post-Validation Activities"
+        }
+      ]
+    },
+    {
+      "id": "43465fe3-a22c-449d-9b5a-d146a1921d8f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d222486b-5016-4029-a535-2c399916806a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Training of Users"
+        }
+      ]
+    },
+    {
+      "id": "3c2d0e43-4d49-4989-b849-199cbd35ebc1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f028300f-05cf-4afc-9202-f081b2feeec8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide training to software users post-validation to ensure they understand the software’s validated functions and any limitations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dfaf6407-ac49-490d-bde8-93783c30c83d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0f5913f9-8f00-4fef-97c9-6c999da46837",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records, including participant names, training content, and dates, in the training log for audit and compliance purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e939bfd2-d571-42c2-99e2-1795637e206a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "92ff785d-648d-4f12-8e3c-54b510431cdc",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Ongoing Monitoring and Maintenance"
+        }
+      ]
+    },
+    {
+      "id": "750dbb6b-340d-4ccf-8554-c21835777f3d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "00603fe8-8fdd-4c57-8151-1b940c9ab8b5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Periodic Review"
+            },
+            {
+              "text": ": QA and IT periodically review validated software to ensure continued compliance and performance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "187d275b-2b40-4b9c-9d1f-7a3eac61a628",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1962a15e-20a2-43e8-a792-bb31e1f65708",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Issue Reporting"
+            },
+            {
+              "text": ": Users must report any software issues to IT, who will coordinate with QA to assess and address any potential impact on compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76734643-73b5-48ba-af4e-25b568064d44",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c1722206-e8ee-4f73-a5f4-0b4a8b26da72",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "25669c63-e973-495c-be83-40e5b7ff6007",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "32bf91d6-63c8-4e5b-b5c2-8038baecd6bf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel involved in software validation and change management must receive training on this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc2ded42-6d9c-4364-bc44-05090f91692f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8cb40e69-874c-49ec-8cd9-e46b94e63ce8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct refresher training annually or when significant updates are made."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8f04e4f-6557-4058-a487-24318e78a309",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "42d6618e-cf92-4dd7-8514-ceac72dbdc57",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records for audit and compliance purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf57699f-7c7a-42b9-b446-4644a16871d9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dbaa1370-f083-43f5-a8e2-4ff4f4e70611",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "9af61266-de24-49c7-a1a9-34a264b3a507",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fd8f2ce8-dd49-4ddb-a651-6ce65b75e050",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 Quality Management Systems – Requirements for Regulatory Purposes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

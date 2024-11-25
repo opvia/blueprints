@@ -1,0 +1,17 @@
+{
+  "id": "sop-environmental-monitoring",
+  "version": 1,
+  "name": "SOP - Environmental Monitoring",
+  "description": "",
+  "entities": [
+    {
+      "id": "e84e9a71-4e63-4d63-998a-5da783692d69",
+      "type": "DOCUMENT",
+      "title": "SOP - Environmental Monitoring",
+      "source": {
+        "id": "1531a0d3-0b6a-4aea-a3da-c2cf90110f46",
+        "version": "1"
+      }
+    }
+  ]
+}

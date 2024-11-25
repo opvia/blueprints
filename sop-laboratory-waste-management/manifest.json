@@ -1,0 +1,17 @@
+{
+  "id": "sop-laboratory-waste-management",
+  "version": 1,
+  "name": "SOP - Laboratory Waste Management",
+  "description": "",
+  "entities": [
+    {
+      "id": "bfd80a8a-4cd1-4bba-a994-e6d045942ca8",
+      "type": "DOCUMENT",
+      "title": "SOP - Laboratory Waste Management",
+      "source": {
+        "id": "b62e73e5-cb2f-4019-8e99-f749c25d8763",
+        "version": "1"
+      }
+    }
+  ]
+}

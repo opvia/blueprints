@@ -1,0 +1,17 @@
+{
+  "id": "sop-purchasing",
+  "version": 1,
+  "name": "SOP - Purchasing",
+  "description": "",
+  "entities": [
+    {
+      "id": "6dd9c2f7-86f6-4f6a-bc8e-6cf39ef8b281",
+      "type": "DOCUMENT",
+      "title": "SOP - Purchasing",
+      "source": {
+        "id": "e996cca1-3f33-4ac3-b7f7-cc6d82b5f56c",
+        "version": "1"
+      }
+    }
+  ]
+}

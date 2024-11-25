@@ -1,0 +1,1101 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "0a4318e6-0151-4572-afd6-8dd29a967898",
+  "title": "SOP - Document Control",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "cc60258a-47c8-4f1e-b22c-b68154ce00f2",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "af28bb09-8078-480e-8820-47101cb5bb92",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "c90978ca-a022-4672-949d-0993ea22801d",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "217206d7-4f18-416f-b36b-6c4ceb4f07ca",
+      "type": "NUMBER",
+      "value": null,
+      "config": {},
+      "dataType": "NUMBER"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "dad67b78-e80d-4676-8a25-c64cf62dbb8d",
+      "type": "field",
+      "fieldId": "217206d7-4f18-416f-b36b-6c4ceb4f07ca",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "94ef2df1-6885-429e-a528-d70d2553f220",
+      "type": "field",
+      "fieldId": "c90978ca-a022-4672-949d-0993ea22801d",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "473cf13d-f776-4cbf-9e1f-726d040f9509",
+      "type": "field",
+      "fieldId": "cc60258a-47c8-4f1e-b22c-b68154ce00f2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5a6b484c-265b-4618-991d-65f498a46edf",
+      "type": "field",
+      "fieldId": "af28bb09-8078-480e-8820-47101cb5bb92",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "54224ee4-3a66-4254-9ff7-8707918106bf",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0ea03eee-1020-4879-88f8-42984ee85adb",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "a002ce12-f954-480c-8369-d7f67a7bb747",
+      "type": "p",
+      "children": [
+        {
+          "text": "To establish a standardised system for the creation, approval, revision, distribution, and archiving of controlled documents within the organization, ensuring compliance with regulatory requirements and maintaining the integrity of quality management documentation."
+        }
+      ]
+    },
+    {
+      "id": "07b80c59-6f17-4427-8016-af3d18e6e86c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c67e805c-c2e3-4a04-b37d-02ce69708f97",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "a8e88dbf-a40e-48be-8702-30975bb923fc",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all controlled documents, including standard operating procedures (SOPs), policies, work instructions, forms, templates, records, and any documentation essential to the organisation’s quality management system (QMS)."
+        }
+      ]
+    },
+    {
+      "id": "ebe5ca7e-0f4d-43c1-9620-98157f45c686",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "234289c6-8c66-42ed-b56c-a0dafef0c188",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "63ddc050-e556-4245-975b-b21089da2bf9",
+      "type": "li",
+      "children": [
+        {
+          "id": "871d4c84-41aa-4502-8a32-e5ae1b99b435",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Control Officer: Manages the creation, revision, approval, and archiving processes for controlled documents and maintains the document control system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fda7ce2e-125a-4512-9731-3ef3bb9a83a1",
+      "type": "li",
+      "children": [
+        {
+          "id": "566a3739-ab9b-412d-b5cf-8b4acae55d23",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Quality Assurance (QA) Team: Reviews all documents for accuracy, relevance, and compliance with regulatory standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c66291c-f29f-4db5-a9db-e022f5770e42",
+      "type": "li",
+      "children": [
+        {
+          "id": "de20d403-714a-406e-a586-02aefa9ab13c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Department Heads: Approve documents within their departments, oversee revisions, and ensure document accuracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ca6f9a2-b0ed-4390-ae3a-85708ba3c70e",
+      "type": "li",
+      "children": [
+        {
+          "id": "baa064a0-1557-4896-a652-767ef00180cc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All Employees: Use only the current, approved versions of documents in their work and report any issues with controlled documents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c97b951-daf4-4bcd-bb60-dc3dd2e3a8db",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "980c04d8-2f2e-4ad1-b3af-896b58daa0a3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "1dbec9bc-d160-4500-a526-cfed0acc20ed",
+      "type": "li",
+      "children": [
+        {
+          "id": "e1b99907-f5f9-4c2a-b31c-3e40006b26eb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Controlled Document: A document subject to review, approval, and controlled distribution, such as SOPs, policies, and forms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc51d3d-0de0-4f95-a4ac-fe4244d31978",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "157fab77-90a7-42b7-b128-94375971cf52",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Control Number (DCN): A unique identifier assigned to each controlled document for tracking."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc5a7448-f6c5-48a9-8165-a8ee6937f1e4",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "49cddbc3-1f1a-45e9-aae3-f6ec82faad36",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obsolete Document: A document no longer in active use; archived but retrievable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "586c1d4e-e01a-44f6-bf43-bf375691b342",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e24f0204-873e-441f-b2e4-1a4aa0ce1351",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Control Register: A log maintained by the Document Control Officer, recording all document details, statuses, and revisions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aaca5d9c-34ce-455c-ad1b-3e029c52695b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "14a7ddd2-0277-45a8-8561-2f6936c73d1f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Procedure"
+        }
+      ]
+    },
+    {
+      "id": "962e1447-1516-494c-9eed-f2ee05aa3e1d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d134b305-85e6-4ca1-bb56-494bd500d864",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1 Document Creation"
+        }
+      ]
+    },
+    {
+      "id": "99bf48f5-9f92-4885-9ad9-92263b1bd6a8",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Initiating Document Creation:"
+        }
+      ]
+    },
+    {
+      "id": "26553945-5e56-4e75-b900-b598a7521157",
+      "type": "li",
+      "children": [
+        {
+          "id": "bc2a098b-e788-4bdb-96ee-e23677fef910",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Any department needing a new controlled document submits a **Document Creation Request Form** to the Document Control Officer, including purpose, proposed title, and relevant background information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "197353df-b1c7-468d-a046-98fc974b286c",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Assigning a Document Control Number (DCN):"
+        }
+      ]
+    },
+    {
+      "id": "196d9f53-b93e-4a79-bba9-a64389ac41fc",
+      "type": "li",
+      "children": [
+        {
+          "id": "5f2515d9-cb2a-4d76-81d6-73ba8181d7c3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Upon receiving a request, the Document Control Officer assigns a unique DCN following a standardised format (e.g., SOP-###, WI-###)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf07fe0a-ec67-4330-b572-241fde1bf6a6",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Drafting the Document:"
+        }
+      ]
+    },
+    {
+      "id": "11602a6f-0000-46d6-a19c-87523844f8f6",
+      "type": "li",
+      "children": [
+        {
+          "id": "48e341f7-28b1-4446-ae01-b3228816e933",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The requesting department drafts the document using the appropriate template (e.g., SOP, work instruction) with standardized sections such as Title, Purpose, Scope, Responsibilities, Definitions, and Procedure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59f4e89b-3bee-4b23-a8a0-96e12cb2a7c6",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Initial Review:"
+        }
+      ]
+    },
+    {
+      "id": "5afe8b82-4805-480e-b6c0-e02ab8d1c8f6",
+      "type": "li",
+      "children": [
+        {
+          "id": "6cd5858b-d549-4627-b5a3-cc3258cd2092",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Departmental reviewers examine the draft for accuracy and completeness, providing feedback and refining content as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8beccf45-f525-4ea6-9aaf-8e7bb487a734",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Internal Departmental Approval:"
+        }
+      ]
+    },
+    {
+      "id": "f3251079-9090-461d-af7e-0d08d975b3bc",
+      "type": "li",
+      "children": [
+        {
+          "id": "ccf9cdac-0798-4890-962d-299da7b7370a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The finalized draft is reviewed within the department for preliminary approval before proceeding to formal review by QA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81344526-8e68-4faa-92bb-2dbb4532d8fc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f3c3af7d-2c26-4411-beba-0263811aa1a1",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2 Document Approval"
+        }
+      ]
+    },
+    {
+      "id": "03e8d9e6-3ceb-40e1-8042-24fb5a626d87",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Formal Review by QA:"
+        }
+      ]
+    },
+    {
+      "id": "ef418eec-d99f-418a-bd85-2c08ecd5be8d",
+      "type": "li",
+      "children": [
+        {
+          "id": "f6948467-c5d4-4a4f-a544-1961637d9291",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The finalised draft is submitted to the QA team for compliance, consistency, and regulatory alignment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aac1e730-9c27-47f0-9206-c4621d69fe2a",
+      "type": "li",
+      "children": [
+        {
+          "id": "4834c737-7b39-4698-b8fb-caed58e7fa14",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA provides feedback or requests revisions as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c6a85d4-e302-4910-b5ad-a7ba43dee500",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Approval by Relevant Authorities:"
+        }
+      ]
+    },
+    {
+      "id": "90b8c076-eeed-466a-a20a-dce0b3b3132b",
+      "type": "li",
+      "children": [
+        {
+          "id": "090ecc26-556f-4457-bacc-a58f30160135",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The document is submitted to relevant department heads or managers for their approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7711d1a5-680c-42db-8d58-dc88fad2d5e0",
+      "type": "li",
+      "children": [
+        {
+          "id": "d24b0bbf-daeb-4b7c-841b-cc3c1b47beb8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Approvers sign the Document Approval Form, confirming the document is accurate, complete, and ready for distribution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "261f2076-d6d9-4c75-aa76-a16d10508163",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Final Approval and Recording:"
+        }
+      ]
+    },
+    {
+      "id": "33e75c5e-d582-444b-8478-36de0c869305",
+      "type": "li",
+      "children": [
+        {
+          "id": "2f89b22b-78ac-45a3-8df2-04927a3618e5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Document Control Officer records the approved document’s details in the Document Control Register with its DCN, approval date, version number, and location."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "391ad5e4-d59d-4598-8c14-91237f006800",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6759e8d5-3e63-4c25-8737-b998bf34fe72",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3 Document Distribution and Access Control"
+        }
+      ]
+    },
+    {
+      "id": "d9b356ec-d9d5-4ef4-9265-87133cd2151e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Controlled Distribution:"
+        }
+      ]
+    },
+    {
+      "id": "a414a1d3-c078-4f91-b902-95ed00fd3b1f",
+      "type": "li",
+      "children": [
+        {
+          "id": "28866347-d8a0-4d7d-a81e-dee9c84031e8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Document Control Officer ensures controlled distribution by uploading digital versions to a secure document management system accessible to authorized users."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "314e1288-c4d1-40cf-ba46-5a8b4a9e6eed",
+      "type": "li",
+      "children": [
+        {
+          "id": "d631aefb-b909-46fb-aa58-6d67415a4119",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Physical copies, if needed, are stamped as “Controlled Copy” or “Master Copy” and placed in designated locations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ab9ae6f-de43-4fd7-94cf-f06c5006c015",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Access Restrictions:"
+        }
+      ]
+    },
+    {
+      "id": "d9f35395-0457-4dc1-8c22-3d77deb2d98d",
+      "type": "li",
+      "children": [
+        {
+          "id": "049bcd59-0bf3-49d9-be6d-6f85ebc4430c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Access to controlled documents is limited to authorized personnel based on roles and responsibilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13a7718c-0779-4e2c-ae27-ae0a59c4a109",
+      "type": "li",
+      "children": [
+        {
+          "id": "588bf6d4-32c5-4650-910e-3bab4a5e01b9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Outdated or superseded versions are removed from all active locations to prevent unintended use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d90e013c-cded-4d02-8509-0ef96260bff6",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Tracking and Acknowledgment:"
+        }
+      ]
+    },
+    {
+      "id": "cd974b08-dda3-4015-aeca-2f384cfd6d7e",
+      "type": "li",
+      "children": [
+        {
+          "id": "8ec3ee1b-d074-4a6d-8372-68912dc5943c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Employees must acknowledge receipt and understanding of the document, especially in departments where the document affects critical processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "556c5d7f-1d3b-42cc-bb38-b9f11156b8a0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9ecfa5aa-1a09-441b-9d28-e73a0874d2e5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4 Document Revision"
+        }
+      ]
+    },
+    {
+      "id": "ff51aaf9-4f43-4a5a-9ca4-e47a1466dc97",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Initiating a Revision:"
+        }
+      ]
+    },
+    {
+      "id": "b82caeee-f5da-4360-a92f-eb458130d446",
+      "type": "li",
+      "children": [
+        {
+          "id": "bfd8a33b-323e-43fa-b4d3-f734cbc2558e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document revisions may be initiated by any employee who identifies a need for updates. The initiator submits a Document Revision Request Form detailing the proposed changes and rationale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3603140-25dd-4210-80e3-2694fc8bf3c5",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Review and Revision Process:"
+        }
+      ]
+    },
+    {
+      "id": "31b931e1-e27e-4699-93f8-8d38a0b1765c",
+      "type": "li",
+      "children": [
+        {
+          "id": "4e3466de-e2ed-4f88-a247-8ee7e5979cc0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The document is reviewed by relevant stakeholders, including QA and the responsible department, to determine the necessity and impact of changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8042296a-4dd5-4b2c-9231-5fe82deb2869",
+      "type": "li",
+      "children": [
+        {
+          "id": "76d1e51a-52f1-4b80-acc5-d54e2ecf9caa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Once approved for revision, the Document Control Officer assigns a new version number (e.g., 1.1, 2.0) and revises the Revision History section of the document."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3a7006b-e2bc-4650-b10b-752dad393f6f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Approval of Revised Document:"
+        }
+      ]
+    },
+    {
+      "id": "d0d29f00-1223-431c-963f-2d550b890e08",
+      "type": "li",
+      "children": [
+        {
+          "id": "a8a8b17d-4741-4f14-bc10-98d6cb82ae01",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The revised document undergoes the same review and approval process as the original, including sign-offs from QA and department heads."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5af06d6-edd8-44f6-9b15-cc50850f8ce3",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Controlled Release of Revised Document:"
+        }
+      ]
+    },
+    {
+      "id": "7ca6763c-8d4d-400b-8ee8-ad85c45945fa",
+      "type": "li",
+      "children": [
+        {
+          "id": "46c2b2e6-5549-444b-b8b9-23b69842a5b5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Document Control Officer replaces outdated versions with the revised document in all active locations, ensuring only the current version is available for use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17b2fc97-7ea2-4d05-93a4-4b5859677dca",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bd38d3e6-afa1-4bad-ba81-8f455db95f39",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.5 Document Archiving and Retention"
+        }
+      ]
+    },
+    {
+      "id": "49f9be12-ae1b-4b39-aba8-697da5f97d66",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Archiving Obsolete Documents:"
+        }
+      ]
+    },
+    {
+      "id": "971628ef-5cb3-4e43-b879-e6ba6a748804",
+      "type": "li",
+      "children": [
+        {
+          "id": "1001616d-6934-45da-8c61-57d37112ae7c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Once a document is revised or no longer in use, it is marked as “Obsolete” and archived in a secure, retrievable format."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "290df6fe-649c-4eab-ae12-227d6ee35d59",
+      "type": "li",
+      "children": [
+        {
+          "id": "a8fc3fcf-cc5c-472b-96de-e214420d03da",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Document Control Officer maintains archived documents in the Document Archive for reference or regulatory audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e61332dd-e38a-4a55-b7e0-e14aea780763",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Retention Period:"
+        }
+      ]
+    },
+    {
+      "id": "0304960c-9f14-48c0-88e2-764e379ea70b",
+      "type": "li",
+      "children": [
+        {
+          "id": "c928c3bc-ac81-4e7e-bcd6-f4cf4a23417c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain obsolete documents according to company policy or regulatory requirements (typically 5-10 years, depending on document type and regulatory mandates)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db17b42c-7d02-442f-94d5-d6ffe2514a93",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Destruction of Archived Documents:"
+        }
+      ]
+    },
+    {
+      "id": "5d90d63e-1bee-401d-bcb3-7f4e0d000dab",
+      "type": "li",
+      "children": [
+        {
+          "id": "78551822-1cae-4db5-a489-e51e65cbf3c5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "After the retention period, obsolete documents may be securely destroyed, ensuring data protection and confidentiality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9176638e-5690-4464-950d-da6f70b99884",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bcf73849-bc21-4ab9-a657-68b8e16d7d1b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Documentation"
+        }
+      ]
+    },
+    {
+      "id": "da185aee-6990-431c-a069-e3c573642444",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "348b074d-6fd3-4037-9e18-a60ceca9f562",
+      "type": "li",
+      "children": [
+        {
+          "id": "e5b139a4-2682-4eb3-b091-36bc4cffaacd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Creation Request Form: Used to request the creation of a new document."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e825f328-5e98-4634-8d30-535be43c1429",
+      "type": "li",
+      "children": [
+        {
+          "id": "30d612fa-da2d-4fd8-8418-6a221d2da1e0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Approval Form: Records signatures from reviewers and approvers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3b393b15-c9e4-4705-b7ba-af9488214535",
+      "type": "li",
+      "children": [
+        {
+          "id": "ffdb2822-94a7-40ab-b3fd-f03858268905",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Control Register: A master log tracking document details, versions, and revision history."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19bbf40a-2ceb-40f5-987f-6ad52201df5c",
+      "type": "li",
+      "children": [
+        {
+          "id": "e2ac5b18-bce2-4340-8e60-457bb6380d4a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Revision Request Form: Used to initiate revisions to an existing document."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bad41cc6-d7fa-43b9-81cd-88b86652702a",
+      "type": "li",
+      "children": [
+        {
+          "id": "756da815-be56-4930-999a-a5a81e9d0990",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document Archive: Repository of all archived, obsolete documents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3992a34b-4765-4d04-a89d-127f390e1a13",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "204159d3-1a51-4ec6-a003-4b88f6bfca02",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. References"
+        }
+      ]
+    },
+    {
+      "id": "c6c909b8-eca9-427c-ae35-3edf2f8d6b8a",
+      "type": "li",
+      "children": [
+        {
+          "id": "491acec1-fa65-42c3-817c-3b433c596284",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485: Medical Devices — Quality Management Systems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "364c3830-0e3b-4321-aec0-c63e3c67c42d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

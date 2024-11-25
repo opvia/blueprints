@@ -1,0 +1,1387 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "aa88e087-9577-461f-984a-814f76f2f6c6",
+  "title": "SOP - Documentation and Record Keeping",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "7393723c-69d0-499f-a90a-41c5cef3368e",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "bb934e1c-1b82-4f24-bfe2-feb8a9c01946",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "3876888d-5ddd-4ca1-94b5-f4af53d1db05",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "760b9ff0-c4c6-4335-96c2-512ac4143940",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "8be2b247-d75c-4472-a4d7-0ffc0e45e43b",
+      "type": "field",
+      "fieldId": "760b9ff0-c4c6-4335-96c2-512ac4143940",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2331f6ef-f255-4e2c-9a23-4053d51eee81",
+      "type": "field",
+      "fieldId": "3876888d-5ddd-4ca1-94b5-f4af53d1db05",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "598d1fdf-abb3-4ae1-b818-f0c476ecf064",
+      "type": "field",
+      "fieldId": "7393723c-69d0-499f-a90a-41c5cef3368e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0533efea-80cd-4862-8cc4-3b9966395341",
+      "type": "field",
+      "fieldId": "bb934e1c-1b82-4f24-bfe2-feb8a9c01946",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4b045236-5b0a-49d0-bbf0-546bd939bf6f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bcc34720-b88b-4935-9ca8-2a6b59920935",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "76a90b6b-e8c5-406b-a40a-5f5cef065351",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) describes the proper documentation practices for recording and maintaining experimental data and quality control (QC) records in the laboratory. Ensuring accurate, consistent, and complete documentation is critical for regulatory compliance, data integrity, and reproducibility of laboratory work."
+        }
+      ]
+    },
+    {
+      "id": "09aee545-e862-4935-aa49-909af60bf648",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3b0a40a9-520c-4ca8-a51b-7549e4c5687b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "624e62ed-b36c-4109-981d-f65e942a97c3",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel involved in conducting experiments, quality control activities, and maintaining laboratory records. It covers the procedures for documenting experiments, data collection, and record-keeping for QC in a compliant and traceable manner."
+        }
+      ]
+    },
+    {
+      "id": "58621a3b-5933-4924-ac67-11b9f8cc3cf6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d8fb8d7d-7cfe-4036-8049-8627b4b49bf7",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "4762e38c-d652-4bc0-b4a7-73b84306c8e4",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d93f4f7a-7ac6-4e9d-a1aa-6c21384f04c3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "95ac9c3f-841f-4793-9133-0571b4d5cd7d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c9275690-844c-4c91-9526-bf4d88153941",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures all personnel comply with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72b5e5c8-45b6-4a45-8ca6-5e8b64b9eded",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1d8101ff-cdb8-4a01-8398-5a9db18c8020",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts periodic reviews of documentation and records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "befa8d21-60bf-47b8-a7e7-ecdb51656d31",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "dec5766d-a035-4d7a-8ed5-c522321556df",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ba620436-b8c0-4b7a-b88e-1e0807311c4b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures accurate and complete documentation of all experimental data and QC activities in accordance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6c63a286-9eee-4865-8bb1-5ea1f41e019b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Quality Control Officer"
+        }
+      ]
+    },
+    {
+      "id": "fe0d88bc-a53a-430a-9fa8-ffa1e3db5112",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3b64a95-6f23-4ee6-80e1-2dace4e2e89c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reviews and verifies that QC records are properly maintained and meet regulatory standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a14a661d-3f4f-4f9b-b2bb-bc2bf2d532aa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7771309c-bbf0-4661-abc7-5d301ce8f357",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "1f51fc37-f210-432f-a5c1-d12c1e9b9c27",
+      "type": "h3",
+      "children": [
+        {
+          "text": "QC (Quality Control)"
+        }
+      ]
+    },
+    {
+      "id": "a67616df-a828-4f96-8785-bc281b2bb81f",
+      "type": "p",
+      "children": [
+        {
+          "text": "A set of procedures used to ensure that the results of experiments meet predefined standards and are reliable."
+        }
+      ]
+    },
+    {
+      "id": "acbb6a14-784d-4c7d-9298-3d67cda3f920",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Data Integrity"
+        }
+      ]
+    },
+    {
+      "id": "a0d6125f-a8e9-4dcc-9e41-ed2ca3299279",
+      "type": "p",
+      "children": [
+        {
+          "text": "Ensuring data is accurate, complete, and consistent throughout its lifecycle."
+        }
+      ]
+    },
+    {
+      "id": "4277d020-02eb-4573-9dc3-55ca7deae0dd",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Audit Trail"
+        }
+      ]
+    },
+    {
+      "id": "0b07c50d-976a-4f1a-99d9-9e83d455d154",
+      "type": "p",
+      "children": [
+        {
+          "text": "A chronological record of data entries, modifications, and deletions to ensure traceability and accountability."
+        }
+      ]
+    },
+    {
+      "id": "f7a3b26b-eb8e-4a9a-bf68-86a4abe72b16",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "964cbe1c-ced0-48ba-92ff-6f0da487571f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Documentation and Record-Keeping Procedures"
+        }
+      ]
+    },
+    {
+      "id": "aa3d3ed6-2842-45f4-931f-257434963561",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "45fa33b3-d22a-4ced-b161-32b6de1b9e4e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. General Documentation Practices"
+        }
+      ]
+    },
+    {
+      "id": "13cbd47f-52a8-4883-bccb-84e156fb69ba",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aa059bb7-7bb7-406a-8005-c0a8b6c67e9e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Legibility"
+            },
+            {
+              "text": ": All entries must be written in clear, legible handwriting or typed if using an electronic system. Use black or blue ink for manual entries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56a3dad9-aabd-4ba4-91dd-07dcdd552675",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4ca97ace-7d1c-4510-bd97-ee6bdde1185d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Real-Time Recording"
+            },
+            {
+              "text": ": Document all data, observations, and notes immediately after the activity is performed to avoid retrospective data entry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91302d04-e98c-4162-ae8b-7f7ac87091b2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5a1c99ab-f4ea-48f7-a2f1-d6df6e79121c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accuracy"
+            },
+            {
+              "text": ": Double-check results and calculations for accuracy before finalising documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85c1c318-805c-4b75-9d84-46677a533de7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d59e50f9-1665-4c3c-af3b-a4e9aa5d64e8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrections"
+            },
+            {
+              "text": ": If an error is made, do not erase or obscure the original entry. Cross out errors with a single line, record the correction, and initial it. Ensure the change is logged in the audit trail."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be3cb42e-1efa-431c-a41f-1172af0cff80",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "999077de-2d99-41f8-be51-5b8165532aeb",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Signatures"
+            },
+            {
+              "text": ": Each entry must be signed or electronically signed by the responsible individual. If multiple personnel contribute, each must sign the sections they completed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5e8e79b-6e9d-4dc9-b489-5b04370a4241",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22af54a8-9004-4e04-9523-b9ab6189388c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Date/Time Stamps"
+            },
+            {
+              "text": ": All entries must be dated and, where applicable, time-stamped."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fac62401-dbe2-4c7a-8037-ba65671e5b54",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a2278f72-ec2f-4497-8adf-0b1c106732d5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Documenting Experimental Procedures"
+        }
+      ]
+    },
+    {
+      "id": "4079241b-9a58-41be-b683-97147aca428b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bb3eb1f7-a664-4f9b-8753-6b6c4a6e0a3b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Experimental Protocol"
+            },
+            {
+              "text": ": Begin each experiment with a description of the protocol used, including the protocol number, title, and version. Document any deviations and their justification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab1a096f-264d-4dc3-b3b3-decf69cbcb76",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "233fc27a-4907-467b-b00a-89f4afb6dca2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Materials and Reagents"
+            },
+            {
+              "text": ": Record materials and reagents used, including batch numbers, expiration dates, and storage conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e806e0ee-2244-4fc0-bc46-ee12590baa4f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4255d846-582f-450c-a7e4-35bbb59a27b2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Instrument Calibration and Settings"
+            },
+            {
+              "text": ": Document the calibration status of equipment used and instrument settings relevant to the experiment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f15c326-e471-4fa3-a4b8-9bce702fd268",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c3b07733-9c1e-4c6b-9de7-91593128bb41",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sample Information"
+            },
+            {
+              "text": ": Record details of the samples, including sample ID, type, source, and storage conditions. Document the chain of custody if samples are transferred between individuals or locations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "009465b4-b1fc-4fd7-acb2-385a8ba95c96",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3f18bc5d-6886-4562-a43b-93321857c7f0",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. Data Collection and Entry"
+        }
+      ]
+    },
+    {
+      "id": "5e8993a5-c4d8-492b-bc78-f507ab246ffb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "52105f2b-9981-4c43-b5e3-d802282a7758",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Raw Data"
+            },
+            {
+              "text": ": Capture raw data accurately, whether manually or electronically, directly onto data collection sheets or into the Laboratory Information Management System (LIMS)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edcf599b-a819-428c-8187-cb33ce326b57",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "47a3bdd8-06c0-44da-b58a-95975374cacd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Instrument Readings"
+            },
+            {
+              "text": ": Annotate instrument readouts with experiment details (e.g., name, number) and save or print electronic readouts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ed4d263-123c-40b6-b60e-e59a0cdbbb78",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3e86d30a-e1ac-453b-be90-9369dbdefd08",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Calculations"
+            },
+            {
+              "text": ": Record all calculations, including formulas and intermediate steps, for transparency. Verify and approve calculations where applicable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1bd0b2f-dd8a-4336-a96d-7716baf9828e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c853c6aa-d5d6-4807-8475-ee4dda83e856",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4. Quality Control (QC) Documentation"
+        }
+      ]
+    },
+    {
+      "id": "a46e1b1b-e3b3-4d36-9217-1e344119c7dc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "45cdef45-ffd7-4e90-8cea-51d589ec974e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Control Samples"
+            },
+            {
+              "text": ": Document the use of control samples (e.g., positive and negative controls) and record both expected and observed results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55d80073-d496-44e6-aa2f-faff37229257",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1524df93-3beb-4c08-9c0d-1a03fae8ab59",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Repeatability"
+            },
+            {
+              "text": ": Clearly document repeat measurements, including the reason for repeating tests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0ce26f1-ab3d-40d9-86a1-d8b709d0efd6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1c7967b9-f658-411f-8480-fac8a78ba37a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Acceptance Criteria"
+            },
+            {
+              "text": ": Define and document acceptance criteria, comparing results against these benchmarks. Document corrective actions for deviations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "068d3eb1-3bfc-4dcb-898d-b75319d798f1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "180ae509-5ba4-4738-acf9-b623a4deea80",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "QC Sign-Off"
+            },
+            {
+              "text": ": QC officers or designated personnel must review and sign off on QC data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7054eea-5b95-4019-8195-8100837ee471",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2a9ea20e-0e10-49e9-8f4e-96f01feb954e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Record Maintenance"
+        }
+      ]
+    },
+    {
+      "id": "ffa9c424-67c8-496a-affa-769298deb066",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c2a39d70-9760-4601-9505-11bdb0c5e248",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Storage of Paper Records"
+        }
+      ]
+    },
+    {
+      "id": "c7f69e9e-59dc-4b08-9470-f396411a5b40",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b6f7d2a8-e114-4f7b-8e47-fb835718ad98",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Laboratory Notebooks"
+            },
+            {
+              "text": ": Use bound notebooks with numbered pages. Keep them in good condition and store them securely when not in use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98b355eb-767e-400b-bc6e-13123e1326a2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ace94803-eae1-4a31-a084-d36d277e2510",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Filing"
+            },
+            {
+              "text": ": Store paper-based records in labelled, organised folders or binders. Use protective sleeves for printed instrument readouts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eaed54fb-c611-4389-9bef-a30c055d6d74",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fba4631b-81d2-44dd-bd3c-2876f7414326",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Electronic Records"
+        }
+      ]
+    },
+    {
+      "id": "1e8bca63-b89d-4699-a907-384ee0e719b9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9371f8a3-e2e3-44ef-885d-8f50c26b1882",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "LIMS or ELN"
+            },
+            {
+              "text": ": Use the Seal LIMS or ELN for electronic record storage. Enable audit trails and version control for traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f068c6d3-4a7c-49a9-84fc-3683d4668168",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dae32049-372d-40a1-b1da-9657458bbbc1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Data Backup"
+            },
+            {
+              "text": ": Back up electronic data regularly. Store backups securely and periodically test the restoration process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "855fa2cc-eb80-4120-884a-797400da839d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a2ef68a5-242f-409d-b03b-8bf9596cdf0f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "File Organisation"
+            },
+            {
+              "text": ": Follow consistent file naming conventions and organise files logically for easy retrieval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa4d0769-c174-4a3c-8662-07d464dadfc4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bd1595e7-becd-47d2-8171-9be62285c9b4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Record Retention"
+        }
+      ]
+    },
+    {
+      "id": "264af838-a865-472b-8951-db06db757ec2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "48a0c5a8-0c77-4d18-a245-b0d8980567ae",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Retention Period"
+            },
+            {
+              "text": ": Retain records for the duration specified by institutional or regulatory guidelines (typically five years or more)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26c85d4f-80c9-461b-8eb9-74540c2326a3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9c74e2de-7504-470c-95e0-38faccd7e3e8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Archiving"
+            },
+            {
+              "text": ": Archive completed project or experiment records in designated storage areas. Index archived records for easy retrieval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54666987-0620-4c59-b6bf-699f0287f357",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "43dc7211-213c-42b7-9015-4d30d16431a4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.4. Disposal of Records"
+        }
+      ]
+    },
+    {
+      "id": "73575afb-8845-4bfb-a4f3-c2d6710d2ff3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "63e92a8e-71d8-4f27-9cf1-fa91052332ee",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Secure Disposal"
+            },
+            {
+              "text": ": Dispose of records only after the retention period, with lab manager approval. Shred paper records and securely delete electronic files."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe44ea12-3297-49be-bbe0-acc124cc42d8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4c61d418-b2da-4ded-a726-90fa29162d50",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Destruction Logs"
+            },
+            {
+              "text": ": Maintain a log of disposed records, including type, disposal date, and method of destruction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a95d2f11-db7b-4134-8ded-eac13824d52d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3412e332-31f7-4fdb-976f-92c9c8bb2401",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Data Integrity and Security"
+        }
+      ]
+    },
+    {
+      "id": "2b0e6bd1-1e9a-4420-bcb5-ed1d9f4b515e",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1cd8f5bf-0c20-4c15-93c2-0a97a3936ac2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Data Integrity Controls"
+        }
+      ]
+    },
+    {
+      "id": "1c3c32ca-36c2-4e2b-9e94-ce7f286f3703",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bffdae1e-4c86-405e-b1c7-beee29a9d41d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Access Control"
+            },
+            {
+              "text": ": Restrict access to critical data based on user roles. Ensure only authorised personnel access QC records and experimental data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05ffc367-16b9-4530-ade0-9a594f22079d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "24dbf634-8b9b-4104-954f-0850cce7a488",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Trails"
+            },
+            {
+              "text": ": Enable audit trails in Seal systems to track all data entries, modifications, and deletions, including user identification and timestamps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1592d601-127f-4491-ab26-417a2ea75211",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "13b6ab7c-4d05-4280-abb8-9d9bd8bb2298",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Periodic Review"
+            },
+            {
+              "text": ": Regularly review data for consistency and completeness, investigating and documenting any discrepancies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30cec3a8-aa54-4e1e-bcbb-da60a0a98397",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "825aefb9-521e-41a8-a88a-048892dee64a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Data Security"
+        }
+      ]
+    },
+    {
+      "id": "056599b3-d1fc-433a-8da9-d273201a81d6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9fcd3451-fb25-4d9f-9cdb-206cf9c63619",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Password Protection"
+            },
+            {
+              "text": ": Use strong, unique passwords. Change passwords regularly and avoid sharing credentials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2237e71-3b40-4a89-86c7-e8893e46c21f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "698e3cf8-5cfa-4845-bf04-68e67e87ba51",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Data Encryption"
+            },
+            {
+              "text": ": Encrypt sensitive data in storage and during transmission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76eb82e6-329c-4ad9-aaca-2ce95681e7e5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4d477653-1876-4763-9184-751b229a7360",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Physical Security"
+            },
+            {
+              "text": ": Restrict physical access to records storage areas. Use locked cabinets for paper records and secure access points for electronic systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d44570d2-a68a-45e9-bb4f-24d60e8bfbdc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d6612ea2-c23e-4321-b2a4-f59845489cac",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Training"
+        }
+      ]
+    },
+    {
+      "id": "910e9193-c834-4f78-987e-1ab5a6b47448",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8d1f1de9-3401-4eec-9556-979abb1ed855",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must undergo training on proper documentation and record-keeping practices before starting laboratory work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fb2720f-70e8-4436-a2a1-2874d19a1420",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3e7e352-076e-43a7-88fb-f1438cfa40fa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct refresher training annually or when significant updates to procedures occur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ed87f43-a03a-4451-86d5-5ac5b303dcfe",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "85197d89-a60c-4a04-8466-50392cb4068d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Documentation and Records"
+        }
+      ]
+    },
+    {
+      "id": "1bbc7394-8b41-4dd3-93a6-d1e4265da17e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9ba45751-4f3c-4cee-b9ea-6a5ead74f36b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must sign the "
+            },
+            {
+              "bold": true,
+              "text": "Documentation and Record-Keeping Acknowledgement Form"
+            },
+            {
+              "text": " after completing training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4d78e16-cf66-440c-b9d2-86e3834cb36e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "55896e86-3ab4-4b3c-92ca-d0e7bdf788e7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The lab manager must maintain records of training and SOP compliance, updating them annually."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8a71d55-f0f8-48a3-a228-ff67c02bc3ea",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "63ee1acb-7076-4f05-b448-3d0a8cdb3732",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. References"
+        }
+      ]
+    },
+    {
+      "id": "632edd62-90bd-497d-99ed-5c2204b9b0f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "49021c92-56e1-4e5e-aaca-000b9dbc3647",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 17025: General Requirements for the Competence of Testing and Calibration Laboratories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce975a51-690e-4d30-b1cb-9dbe63e7e1f2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "30de64da-a16a-4815-a211-8b7a7a342d19",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Good Laboratory Practices (GLP)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a08dc1d7-dd18-4419-a9ba-46ad7392586e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "920cdf3f-7819-465d-9551-3f977563445d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Record Retention Guidelines"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

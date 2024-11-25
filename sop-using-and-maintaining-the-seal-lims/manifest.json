@@ -1,0 +1,17 @@
+{
+  "id": "sop-using-and-maintaining-the-seal-lims",
+  "version": 1,
+  "name": "SOP - Using and Maintaining the Seal LIMS",
+  "description": "",
+  "entities": [
+    {
+      "id": "d6698ad9-31ef-49ca-98f4-28a137c7db08",
+      "type": "DOCUMENT",
+      "title": "SOP - Using and Maintaining the Seal LIMS",
+      "source": {
+        "id": "3002ae78-8c30-4796-9fa2-f6d0ead27949",
+        "version": "1"
+      }
+    }
+  ]
+}

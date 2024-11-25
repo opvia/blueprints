@@ -1,0 +1,17 @@
+{
+  "id": "sop-aseptic-techniques",
+  "version": 1,
+  "name": "SOP - Aseptic Techniques",
+  "description": "",
+  "entities": [
+    {
+      "id": "11741f55-6039-49bb-9335-e9bc571356f8",
+      "type": "DOCUMENT",
+      "title": "SOP - Aseptic Techniques",
+      "source": {
+        "id": "db0a3cef-8f6c-4458-a859-059617952842",
+        "version": "1"
+      }
+    }
+  ]
+}

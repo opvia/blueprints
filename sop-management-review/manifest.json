@@ -1,0 +1,17 @@
+{
+  "id": "sop-management-review",
+  "version": 1,
+  "name": "SOP - Management Review",
+  "description": "",
+  "entities": [
+    {
+      "id": "713408b4-fcac-426b-931a-99d19d886749",
+      "type": "DOCUMENT",
+      "title": "SOP - Management Review",
+      "source": {
+        "id": "85476fa3-ecdf-46ce-92b1-e4da5880d24f",
+        "version": "1"
+      }
+    }
+  ]
+}

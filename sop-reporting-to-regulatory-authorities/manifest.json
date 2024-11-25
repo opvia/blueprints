@@ -1,0 +1,17 @@
+{
+  "id": "sop-reporting-to-regulatory-authorities",
+  "version": 1,
+  "name": "SOP - Reporting to Regulatory Authorities",
+  "description": "",
+  "entities": [
+    {
+      "id": "040d72d6-3e43-4b47-a50a-c3e4e35f24f2",
+      "type": "DOCUMENT",
+      "title": "SOP - Reporting to Regulatory Authorities",
+      "source": {
+        "id": "c972f122-a782-4ce6-bd0d-8c8b7d9c9598",
+        "version": "1"
+      }
+    }
+  ]
+}

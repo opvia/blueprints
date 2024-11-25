@@ -1,0 +1,17 @@
+{
+  "id": "sop-reference-material-handling",
+  "version": 1,
+  "name": "SOP - Reference Material Handling",
+  "description": "",
+  "entities": [
+    {
+      "id": "21ea8a20-cb23-4c79-87d2-337b08755864",
+      "type": "DOCUMENT",
+      "title": "SOP - Reference Material Handling",
+      "source": {
+        "id": "c8dd8452-ae75-4700-b489-4a869328549a",
+        "version": "1"
+      }
+    }
+  ]
+}

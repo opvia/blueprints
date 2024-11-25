@@ -1,0 +1,17 @@
+{
+  "id": "sop-validation-of-software",
+  "version": 1,
+  "name": "SOP - Validation of Software",
+  "description": "",
+  "entities": [
+    {
+      "id": "a9c99b95-2da5-4d61-b402-6743cc4222a4",
+      "type": "DOCUMENT",
+      "title": "SOP - Validation of Software",
+      "source": {
+        "id": "f18152da-23ee-4f84-a826-f7ef5a96ac98",
+        "version": "1"
+      }
+    }
+  ]
+}

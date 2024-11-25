@@ -1,0 +1,17 @@
+{
+  "id": "sop-how-to-conduct-change-controls",
+  "version": 1,
+  "name": "SOP - How to Conduct Change Controls",
+  "description": "",
+  "entities": [
+    {
+      "id": "cc865abe-a6ba-4c69-9849-1e77a36297c2",
+      "type": "DOCUMENT",
+      "title": "SOP - How to Conduct Change Controls",
+      "source": {
+        "id": "97f2d70c-bbc7-43db-81c4-23072707d8d5",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1714 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c24f130d-26bd-417c-849f-0cd7a743a7d1",
+  "title": "SOP - Chemical Handling and Storage",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "29936a30-a500-419b-91d1-83d8df9b938d",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "e964972f-c8bf-40dd-8ebc-a2c1ac01b9b0",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "68617247-c3df-461b-acb5-3af0b43d36db",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "5d55f321-3d69-4269-afd1-7a9129e9528c",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "13382c50-9b44-4eea-85a1-baf907797b48",
+      "type": "field",
+      "fieldId": "5d55f321-3d69-4269-afd1-7a9129e9528c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "98823f01-7278-4f47-83cc-926a9f8d01fd",
+      "type": "field",
+      "fieldId": "68617247-c3df-461b-acb5-3af0b43d36db",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e1ba8215-7499-4131-aeee-5b6ecc3f4f50",
+      "type": "field",
+      "fieldId": "29936a30-a500-419b-91d1-83d8df9b938d",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "60acdbc4-4e99-4127-9f46-76145c93745c",
+      "type": "field",
+      "fieldId": "e964972f-c8bf-40dd-8ebc-a2c1ac01b9b0",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d79372d3-b942-4c7c-837c-f717f58ca7f6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0f340ed1-3f4c-44fb-9fb6-315916995bd9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "2d102c6c-b358-48ba-a69e-e3600524926a",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines the necessary precautions and procedures for the safe handling, use, and storage of chemicals in the laboratory. It aims to ensure compliance with health and safety regulations and minimise the risk of chemical-related accidents or exposure."
+        }
+      ]
+    },
+    {
+      "id": "1cd01a33-3a83-47d9-b6d6-24b658e1465d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "56296728-ce55-4adf-be88-45eff56b401d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "9145ae37-d2cd-4590-97a5-28809f4b4880",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all personnel who handle or store chemicals in the laboratory, including researchers, technicians, and students. It covers general practices for handling, storing, and disposing of chemicals safely."
+        }
+      ]
+    },
+    {
+      "id": "f3d76c8d-033c-47d4-b15b-65fd54289e97",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "36acfd35-acc3-45e7-8f3a-37a34c449373",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "851be655-bd1d-457d-9b29-40bf293c6a0f",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "162e14ab-a2a4-4386-a2fe-4031c106df12",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "703f3220-2c09-459c-8374-72d97a3879cc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9067a935-3e3a-40b7-b75e-b2382c01a867",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures all personnel handling chemicals have received proper training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886bea9a-2612-474f-9a71-e1057336c33d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d95e1b60-9593-4950-ba49-7076113fd134",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures the laboratory complies with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "323bf305-5421-42ba-9b4a-17c89f53ac60",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "73c75f20-cb0f-4852-879a-44afd83a1c69",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f2de8055-b4bd-42ed-88c1-b0be02ab79fc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Adheres to the safety protocols outlined in this SOP when handling and storing chemicals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27ddc495-a221-402e-9ea7-4eeb6220b894",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Visitors"
+        }
+      ]
+    },
+    {
+      "id": "ea837950-31ae-4805-a366-0bb5c66a615b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cfc98e16-fdd4-49a4-abba-62b9cece50b2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Must be informed of and follow chemical safety practices if required to handle chemicals during their visit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92a292f7-71c2-47e5-a5dd-48fdd94dfd4f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "18a3dbcc-4b2c-428d-9c93-aa8d7b74ecc9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "78098568-8cf8-4862-bcb2-a2fbed821533",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7075ff97-0c6a-4b5f-acb6-349da8affe5c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "PPE"
+        }
+      ]
+    },
+    {
+      "id": "99156542-97f5-4e6c-a699-ab297a95550c",
+      "type": "p",
+      "children": [
+        {
+          "text": "Personal Protective Equipment, such as gloves, goggles, and lab coats, used to protect personnel from chemical exposure."
+        }
+      ]
+    },
+    {
+      "id": "42b67d62-a4b7-4398-8fff-cdcb6fba2c54",
+      "type": "h3",
+      "children": [
+        {
+          "text": "MSDS/SDS"
+        }
+      ]
+    },
+    {
+      "id": "434ebf62-1cd0-458b-b680-f2c4428a1237",
+      "type": "p",
+      "children": [
+        {
+          "text": "Material Safety Data Sheet/Safety Data Sheet, containing detailed information about the properties and handling of chemicals."
+        }
+      ]
+    },
+    {
+      "id": "46625037-e7a2-4b6e-ac16-e19b6b39450e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Fume Hood"
+        }
+      ]
+    },
+    {
+      "id": "63c27a6e-5abf-498a-bbb2-727249bd5b1a",
+      "type": "p",
+      "children": [
+        {
+          "text": "A ventilated enclosure used to limit exposure to hazardous fumes, vapours, and dust during chemical handling."
+        }
+      ]
+    },
+    {
+      "id": "5915c0fc-f869-4760-8f35-414b6ddb0ef9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b2dd374e-c8cb-4b4c-b6e0-0922abcc16f5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Chemical Handling Procedures"
+        }
+      ]
+    },
+    {
+      "id": "51bd38e2-125e-4648-9d05-25a1e3e2cadd",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "81f97781-51c3-48a8-9013-848ad99bb845",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Personal Protective Equipment (PPE)"
+        }
+      ]
+    },
+    {
+      "id": "90bbca75-8e53-4941-96b1-b270876c9114",
+      "type": "p",
+      "children": [
+        {
+          "text": "Always wear appropriate PPE in the laboratory, including:"
+        }
+      ]
+    },
+    {
+      "id": "be73a24a-37cf-4467-84ed-350326c2aac2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5b121850-ca1c-476f-92d5-c2357c4a17fe",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Lab coat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5bf045c-da15-4358-8763-298900a5c645",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b06bc559-96bb-423d-9b3d-b904eb842055",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Safety goggles or face shield"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16ae4d1f-0680-4a5a-9ec5-23f6195ad041",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cc491277-e6c4-484a-8cab-6f918083626a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Gloves suitable for the materials being handled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1bc46e75-ba2f-4933-a093-910aacd7f3a6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ecb0ef9a-55f4-46ef-beef-d2f4c5e46037",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Closed-toe shoes (no sandals or open footwear)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faa6e4ea-589f-46bf-aef5-14b3d8936293",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "993ae5bf-f599-4bb8-8576-9a24f04cd435",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Long trousers or skirts that fully cover the legs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffdd772d-065b-4e6b-a3c1-17871c1f6205",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ef7a27b8-38d9-4d1e-baf8-2e225f1813e3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Laboratory Attire"
+        }
+      ]
+    },
+    {
+      "id": "2335ed48-d17c-4999-9782-dbeecb5b32c5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0e89339f-41bc-47bd-a4b1-0bcdfe8eb381",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Long hair must be tied back to prevent entanglement in equipment or exposure to chemicals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e3d65c0-8baf-4b35-9dc7-90b85f14411f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5a519047-6874-4239-99db-7b0794b4b2f3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Loose clothing and accessories (e.g., scarves, jewellery) should not be worn, as they can pose safety hazards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5225e801-9d0f-4dbb-8d21-90968eeeb0c7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "516c57c4-ba3e-4447-b6b9-f707c634ac38",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. General Handling Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "4fd971a4-6704-4aef-b118-20b3c534ba59",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dc9a6cda-dfce-416d-bc22-eacbc1795f18",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Before using any chemical, refer to its MSDS/SDS for information on hazards, protective measures, and first aid instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14b24ea5-b49c-4a0f-89de-8ec9b7ce55f9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b5ae87ed-f900-4446-ad9d-04eeab11ba3b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Always label chemical containers with the chemical’s full name, concentration, hazard symbols, and date of receipt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b675aa16-729d-4cfa-9aef-992a489a9e5b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4f49c4ca-367b-4e88-b3e7-857f9a7242fb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Do not handle chemicals in large quantities without prior risk assessment and lab manager approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c738ede9-c2fb-4046-bc00-253d2f5c84dd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "788bf591-fa74-4b69-b45e-d9ba00c1155d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Never eat, drink, or apply cosmetics in areas where chemicals are handled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c546447d-7b97-481a-8db7-82d65efbba28",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3c8341f-508b-4769-b20e-3900acf0b024",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Work with chemicals in a well-ventilated area, preferably under a fume hood when handling volatile, flammable, or hazardous substances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53ab1e1c-cd30-416c-83a3-1e6a37f699f6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c224f382-7d36-435f-9558-e4cb31994fa1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Avoid direct contact with chemicals. If contact occurs, wash the affected area with plenty of water and seek medical attention if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3725a2f3-5335-4268-923a-573435a3878c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7e156142-0df0-4dd7-bf83-73a969841aee",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use mechanical aids or proper pipetting devices; never mouth-pipette any substances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3681984-c07c-46a0-b97f-756ffa63c5e0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "278ad544-bc40-40bf-8d26-ab6b60b3f84a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4. Transporting Chemicals"
+        }
+      ]
+    },
+    {
+      "id": "21440e6a-c72c-45ed-883f-3c60e8862fe5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "87138dd9-b449-4a66-8467-f38f77e421a5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Transport chemicals in properly sealed containers, and always use secondary containment (e.g., plastic tubs) when moving chemicals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12111845-8d91-4019-a185-285f7320f8d3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8cb2e762-404c-4809-b609-68a6b4091ba7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use a cart for large or heavy containers, ensuring they are secured to prevent tipping or breaking."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71a183ea-e74d-4e1b-b352-e701119198c2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "df1f1cba-f033-42b6-85a1-338b1bcc3896",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For highly hazardous chemicals, follow specific procedures outlined in the relevant MSDS/SDS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e09dc0b-7922-42f2-a9e4-bddd16b35039",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "04a65fb6-a453-4dc9-be3e-003e6f134010",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Chemical Storage Procedures"
+        }
+      ]
+    },
+    {
+      "id": "9d444ce7-0901-41ae-b024-f951d4429537",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bba0f252-4f6d-45bc-97d4-098e794c3f10",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. General Storage Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "d1106fc6-27f3-45ec-ac9f-fad03386fc92",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f9380437-9ded-4265-a2a7-77a1a47b315b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store chemicals according to their compatibility by segregating them into groups (e.g., acids, bases, flammables, oxidisers)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6be3fa0e-ad0b-46b5-bf43-a8f212a8d207",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "598a5bf0-9ed3-4e80-af89-f677d1cbc200",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure all containers are labelled with the chemical name, concentration, hazard symbols, and date of receipt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7660c01-d25f-400c-b614-e633cf928ff3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0b1864e8-5090-40f8-94b2-0de6a4463ceb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Keep storage areas clean, organised, and free of clutter. Do not store chemicals on the floor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1127f0a7-b1ea-455f-bba2-7b9a32662db5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "92f24707-f2c9-41db-9822-0357a6cfa2c8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly inspect storage areas for leaks, corrosion, or container damage. Report issues to the lab manager immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b7d50d9-e2d3-49ca-907a-8fffc2253917",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "feeb68ee-55e8-484a-9d54-4875d91e1ab2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Storage by Hazard Class"
+        }
+      ]
+    },
+    {
+      "id": "2adc36d4-c92b-45fc-8d0e-3ccddf674d20",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Acids and Bases"
+        }
+      ]
+    },
+    {
+      "id": "2bad73c3-647b-4013-bcb3-894a1f61febf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3e0222a-a3a4-4cbc-8758-b70b869e0fbe",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store acids and bases separately to prevent neutralisation reactions or dangerous chemical releases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "891a4242-9abe-4e89-a647-38428b75f3e7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc091207-e047-42ee-8e81-f8342d05a188",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use dedicated cabinets for acids and bases with tightly sealed containers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a931bf1-a325-4ba7-9c43-ce33749efed7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Flammable Chemicals"
+        }
+      ]
+    },
+    {
+      "id": "e6585387-a2c5-4f3b-b7ae-d41ec1b2b614",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c77c1ea3-e1cb-4261-9fe9-f87be6f40ecc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store flammable chemicals in a flame-resistant cabinet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a8fec3e-b569-498c-be54-de9f3a9c16e4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2dad7e86-6b44-4437-bdf5-7b949f7820fc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Avoid storing flammables near heat, sparks, or open flames."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e20c8c7-671e-4975-bfc9-1d77f2aeba56",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Oxidisers and Reactives"
+        }
+      ]
+    },
+    {
+      "id": "c8ad1629-6f39-4030-9da6-91de502e2e6a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8768880a-8cb8-419e-a075-f3ef59c11261",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store oxidising agents separately from flammable or combustible materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20ab08c0-4777-4561-bee7-1123b66e19ad",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0efc87df-158b-4995-9bb8-1b57cabf6712",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Highly reactive chemicals should be stored in explosion-proof cabinets or designated areas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b942d1ce-c01b-4a9e-b9c7-39fc2089a8e7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Toxins and Carcinogens"
+        }
+      ]
+    },
+    {
+      "id": "7c3a6003-82bf-4229-acfb-4252d6fdb345",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dfbbf36b-1a15-4c70-ad06-2fea1e35af45",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store toxic or carcinogenic chemicals in locked cabinets with access limited to authorised personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44388dfe-1013-46c8-b5d1-75c316f82479",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1a1e8ca6-0075-488b-8aa7-5f71cb5a5ee2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure proper ventilation in storage areas to minimise exposure to fumes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b44a969f-396f-4676-819b-c991bc50ab69",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bad13585-21f6-4c74-9729-94ce17cd36cc",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Refrigerated Chemical Storage"
+        }
+      ]
+    },
+    {
+      "id": "8e91a256-81e8-46c1-9069-5dcad621c068",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "80212ce5-4fb5-43f4-8861-80656f1df233",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store temperature-sensitive chemicals in lab refrigerators or freezers. Do not store food or drink in the same refrigerators."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8368e71b-5df8-4e93-a18f-30044e0ab0e7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dd9c3f8e-465a-439c-997d-2bb34aa71434",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Flammable chemicals must be stored in explosion-proof refrigerators to avoid ignition of vapours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c5cf3a5-8bc3-4913-9db0-455252c5c7b7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "12062669-43d2-4026-b6d4-6646c118bec7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.4. Chemical Inventory and Labelling"
+        }
+      ]
+    },
+    {
+      "id": "a7bed28c-f57b-4e77-afd3-8681f70d708c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d40e4e41-b4dd-4446-8f4f-fe9e5854f22d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain an up-to-date chemical inventory, including the name, quantity, and storage location of all chemicals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31d8a3c7-eb75-43e8-a797-8b826cf5aa8e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5dc8802b-2bc3-4087-b4a0-edeb209b4f35",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Label all containers with the chemical name, concentration, hazard pictograms, and date received. Avoid abbreviations or chemical formulas without full identification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "953e1c5c-7837-4c7b-bb7d-af94c9e8d413",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3c8621a6-9660-4238-be64-0d6ce6e92a65",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use colour-coded labels or stickers to identify specific hazards (e.g., flammable, toxic, corrosive)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7bdb17a-6543-423a-b7f5-094be284ede2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2dc53882-39d5-4c5c-98cd-d8387e371aec",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Spill Response and Cleanup"
+        }
+      ]
+    },
+    {
+      "id": "1ed32f07-c478-4b98-8222-eaf50651a891",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0eacad92-c747-40b2-9893-c57ee011d6b4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Minor Chemical Spill"
+        }
+      ]
+    },
+    {
+      "id": "8a7a63ff-7e57-4383-92b3-a1288455ae94",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f6e201bf-a95b-41dd-9505-4e728c40dbd6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Wear appropriate PPE and clean up immediately using a spill kit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31a19ea5-f9fa-49cc-94b4-758193844bfc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2021aa97-0268-4ace-ae36-d1b0635e7bc4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Dispose of chemical waste and contaminated materials per waste disposal procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69c8417f-80bb-4bc6-8c5f-9a0d50cf33c8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "255d2b18-63d0-43a2-a0cc-baf0ddf4aea4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Notify the lab manager of all spills, even minor ones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44eb15db-2445-4656-b16f-40bcd67ae326",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2a226ff1-8edb-4524-937a-8a699d72f0a4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Major Chemical Spill"
+        }
+      ]
+    },
+    {
+      "id": "20dc7fdc-699b-40e7-9616-2cf9945866fc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "229daac2-6619-4cab-8e2d-66479d4575a8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Evacuate the area immediately and alert all personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "438e4939-2417-4e15-abcf-ec7a117789d4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b9fac343-067a-4130-8c49-0991d78ffa02",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Contact emergency services and follow the laboratory's emergency response procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d339086c-088f-4412-aae8-e537c6f66df0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e254a1dc-b9ca-4ec5-95af-5c2706048fe1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Only trained personnel should handle major spills with the proper equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5250e8a-1594-41dd-8038-0819c15474d7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c1be5b64-ec26-4466-9eef-139634c2f6b8",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Waste Disposal"
+        }
+      ]
+    },
+    {
+      "id": "47e5119c-5863-4890-8962-cd53df1ac284",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6a26d7cb-5785-43fe-a41b-09de51fcfbeb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Dispose of chemical waste according to local, state, and federal regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02ef404d-8384-453d-a7ca-31aec18526bb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "158dc177-5c9d-42b3-b080-98ccb0a533ca",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Clearly label chemical waste containers with \"Hazardous Waste\" and specify the type of chemical waste inside."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1693288a-18d8-4008-99da-9821fb377b73",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2984743f-0783-4d5b-817a-c33a2af3103d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Do not mix incompatible waste (e.g., acids and bases, flammables and oxidisers)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8644d6d6-f00a-40f6-b1d9-e272629bf4fb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "20bc8ce0-4392-4a0a-851a-5c5b8db02db5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follow the laboratory’s procedures for the disposal of specific chemical waste types (e.g., solvents, toxic chemicals, sharps)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12fdbfee-1f1d-4649-a03f-e1e1fc04946e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aaa0cac6-ae32-4592-b0f7-92249357b905",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Emergency Procedures"
+        }
+      ]
+    },
+    {
+      "id": "1e18c796-dcb2-4785-a9b2-9483a54b418f",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ee9ce3cd-e2e3-4650-a306-91dea28610ed",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Chemical Exposure"
+        }
+      ]
+    },
+    {
+      "id": "763bb87f-12c3-465b-b7b0-cefd8cc10902",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "179e491c-ac0b-4552-a3d5-47b97f2fc6e1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Skin Contact"
+            },
+            {
+              "text": ": Remove contaminated clothing and wash affected areas with water for at least 15 minutes. Seek medical attention if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5235c62-0f97-4999-9bf3-94572b132b95",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "815e5e0f-fefc-427b-a7c4-eeda3980a7e2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Eye Contact"
+            },
+            {
+              "text": ": Flush eyes at an eyewash station for at least 15 minutes. Seek immediate medical attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d8eea98-5aec-45df-8686-15fe343d9232",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5cf62c11-49a1-4fef-bf7b-8d22256d7c01",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Inhalation"
+            },
+            {
+              "text": ": Move the person to fresh air. If breathing is difficult, administer oxygen and seek medical attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4be50bbd-4906-48c9-88dd-c39e943eaa32",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f55ae9d3-fa98-42b6-ae4b-83a85544ced4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Ingestion"
+            },
+            {
+              "text": ": Do not induce vomiting unless directed by medical personnel. Seek immediate medical attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e6356af-80e6-428b-97e1-395f2f623912",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fb2922b1-6697-4703-8011-d5a2c5209df3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Fire or Explosion"
+        }
+      ]
+    },
+    {
+      "id": "36361aad-de90-45a0-b5e6-d47e638ca863",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "decd3946-8804-482b-9d1b-cd981a4822f2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Evacuate the area and activate the nearest fire alarm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99abb53c-122f-42a4-8f78-c803ffe0b138",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b0301a21-6b4e-4e02-a7a6-da2bd2628b20",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use a fire extinguisher only for small, manageable fires; otherwise, leave firefighting to trained personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c54cb9c1-f5cd-457b-8a10-32807ac22f00",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "663aa561-797d-4270-9d1e-cc9f6d18d9d8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Notify emergency services immediately and report the incident to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd4ce10c-5119-4a8b-a257-20d222b0ba5e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b07a6a62-9255-4393-be67-3970b845123d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Training"
+        }
+      ]
+    },
+    {
+      "id": "d4503853-46ed-4a25-8a29-8b84a515687a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7a56aea4-e465-423e-b720-242063c26956",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel handling chemicals must complete chemical safety training before starting laboratory work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38936a3f-4459-4bfc-a902-69e4b748ff2c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "790d2560-af01-432e-8dae-356a1af99f03",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct refresher training annually or when updates to regulations or practices occur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c6350d5-b094-4ef8-b446-aa99e845f5c6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dfe399d2-e3dd-4a27-94f2-c33d661299a8",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. Documentation and Records"
+        }
+      ]
+    },
+    {
+      "id": "5a61cb6f-b4ab-4607-a915-9dabaa23f7c0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1606f641-0b1e-4600-b3a7-c6f03971d6ff",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update chemical inventory records regularly and maintain them for a minimum of five years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ff26df7-31a9-4d45-bb25-924e807c37bc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a2fb6333-a860-4fa0-bdee-bb4b0adaa57e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Complete incident reports for spills, accidents, or exposures and submit them to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3427cd40-e47c-4f94-b6d0-a0ff0475eede",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "40a2d402-6400-499f-99ba-b7a507903ec6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must sign the Chemical Handling and Storage Acknowledgement Form after reading and understanding this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19cb044c-eb38-4a2a-a54e-2d7ab2a9579d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ac9f48ec-fdab-41cc-b929-f2c8f15ea9c2",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "12598c4a-e498-45f2-b743-fd47d80e6b1e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "234c3a84-9f01-4297-b7b5-aae8ddd0db15",
+          "type": "lic",
+          "children": [
+            {
+              "text": "OSHA Laboratory Safety Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a95e6c1-f8ea-4d77-a8f7-0fbdabb1b402",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bde4c82f-bebd-4171-b608-89ab767fe653",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Material Safety Data Sheets (MSDS/SDS)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "301fccfb-1b97-4b94-8d21-bee363426ca9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "673f4028-4433-4919-9c29-a724f2ef1703",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Local and federal chemical safety regulations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1473 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "cc865abe-a6ba-4c69-9849-1e77a36297c2",
+  "title": "SOP - How to Conduct Change Controls",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "User": {
+      "id": "4382f53b-3d24-4010-b94e-d4831eb62654",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Review Date": {
+      "id": "6086106f-d9a8-4f0b-a102-b6dc4bb86a8b",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Effective Date": {
+      "id": "d3b7638b-8988-4108-bb16-e31e5befb27a",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "c08a9cb7-e784-43f0-92b1-b7da307e63f0",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "9d7b3bd8-aaee-426c-a995-3fae0f2ce99c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aee4ee01-a727-4c56-a761-5a6bd0663c6c",
+      "type": "field",
+      "fieldId": "c08a9cb7-e784-43f0-92b1-b7da307e63f0",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "47f19454-e354-469c-90f7-4a09ba39c979",
+      "type": "field",
+      "fieldId": "d3b7638b-8988-4108-bb16-e31e5befb27a",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1af8414a-d754-4b09-bf1b-947bb48890b4",
+      "type": "field",
+      "fieldId": "6086106f-d9a8-4f0b-a102-b6dc4bb86a8b",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e2f5878c-c183-4dc3-bd9e-1990a99ce6df",
+      "type": "field",
+      "fieldId": "4382f53b-3d24-4010-b94e-d4831eb62654",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ba819da5-5135-4b8b-99c2-989b76307318",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4f5893f3-e9c9-44b8-afe0-2ce0290b0a18",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "57ced087-1510-4917-a2b3-cbd7106d73cf",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this SOP is to define the process for managing and documenting changes to processes, products, systems, and documents within the organisation. This ensures all changes are properly evaluated, approved, implemented, and tracked to maintain quality, compliance, and operational integrity."
+        }
+      ]
+    },
+    {
+      "id": "56b9e2b1-bba7-4cf2-9bd5-09db0145b085",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e35ef8d9-0e7f-49a9-b8d3-c3173979f7ea",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "42a598fa-b52b-4e85-b016-8312f77635ce",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all personnel involved in initiating, reviewing, approving, and implementing changes within the Quality Management System (QMS), including changes to products, processes, equipment, software, and documentation."
+        }
+      ]
+    },
+    {
+      "id": "fd27d269-f6dd-4a25-99d9-158ca2c32474",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b7070b5b-db17-43f3-8f0c-49476a78a549",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "2bc24810-f509-47ad-896e-5120009e924f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "99891728-eb38-4a12-9502-fd8eebc04485",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Change Initiator"
+            },
+            {
+              "text": ": Completes the Change Control Form (CCF) with a detailed description and justification for the proposed change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbd5eb49-c9f7-426f-9f46-f2247c24b294",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "792c119c-43f6-4c2d-8716-19e03c442712",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Evaluates the change for compliance, risks, and impacts. Tracks changes and ensures appropriate documentation and closure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a316bf06-52d1-403e-b592-c14b6f7feec4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "07bc2d1f-c938-4c18-95be-1c2ebbd4bf83",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Department Heads"
+            },
+            {
+              "text": ": Review and approve changes relevant to their areas of responsibility."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acf4cf55-6500-4de3-a062-71f72c6a046d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cea88bd5-187f-4720-9bcc-cebffdbf37fa",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regulatory Affairs"
+            },
+            {
+              "text": ": Assesses the regulatory impact of the change and determines whether notification to regulatory bodies is required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05b83fcc-c481-4b1c-a8e8-26c7f61624d8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "371215cb-fd50-4cb8-8ea9-0e6436c49627",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management"
+            },
+            {
+              "text": ": Provides final approval for high-impact changes that affect quality, safety, or regulatory compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a57a9eb0-9563-4b70-9553-217a83185769",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b728190a-fa2c-478e-972f-ff412da88c47",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "168904f8-61c5-48d6-b44f-80b5b2ee679d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bbcbaf62-928c-4a01-b7ac-e18d8b87f09b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Change Control"
+            },
+            {
+              "text": ": A formal process used to manage changes to processes, systems, or products to ensure they do not negatively impact quality or compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce839fd4-039b-4ecf-bd00-5e5b71fe6ba2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "83387169-ec45-45b2-af65-daa8ebb03670",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Impact Assessment"
+            },
+            {
+              "text": ": Evaluation of the effects a proposed change may have on products, processes, or the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82b3c09c-ac85-40fd-b043-cf53bb850fdb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1cb43e21-a856-4e78-badf-4656503093ec",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "CCF (Change Control Form)"
+            },
+            {
+              "text": ": A document used to capture all details, approvals, and actions related to a change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c57db72f-0c70-45d3-9114-f5ddb81333c4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4fb5b141-ebcb-4488-bb0a-98e1eb8a545b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "Procedure"
+        }
+      ]
+    },
+    {
+      "id": "3240c5df-5744-4404-b51f-6a30b709d976",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d11e66c7-1af2-4e9e-9a42-3256fa95bc3a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Initiation of Change Control"
+        }
+      ]
+    },
+    {
+      "id": "20d1eb48-7ebd-4349-bf3f-d8fd2b076882",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c1da1749-ddf0-4755-aa89-c3bb0ea6f7c3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Identification of Need for Change"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57e7d63e-6a93-4ec8-a66a-0b47514bffff",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "32a183ec-5da4-41b4-8234-45efd70a532f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Any employee may identify the need for a change due to process improvements, non-conformances, audit findings, or regulatory updates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a785a54-6aa9-4d5f-9142-3c486a71e435",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7ce77147-bbf3-44b5-aae5-654a47af2785",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Complete a Change Control Form (CCF)"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9903a3aa-9aab-4519-8545-82bd8e9d8233",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "1b15eafa-11b9-4b63-bea4-412bb048a94e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Change Initiator completes the CCF with the following information:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d04aa30f-f909-4327-a0f8-096354e1169a",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "f7b2c887-f177-4878-a4af-72bbfdcea3f0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Description of the proposed change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8bc8479-d9fe-46b5-8c98-4402acb7b50f",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "e908a15e-5c6a-470f-bc7d-ecfdf8673583",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Justification and objectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7dd1d2f4-73c6-427f-a9be-f863c86374aa",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "6cfd759e-96d3-4c3b-92c9-0db17a17c3dd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Affected documents, products, or processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c09bd337-306f-435b-a452-e6f85eeed48d",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "8c7e4a14-03b4-4036-a73a-1af5f8368f13",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Proposed timeline for implementation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ddb4163-0656-47d2-b18c-c7c8e222b629",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dacda0f4-9f97-487c-b057-bf0435ee9c93",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. Initial Review"
+        }
+      ]
+    },
+    {
+      "id": "69ebd180-7a59-4578-82b4-95dd46800d38",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "71bc3dc8-d189-4c08-8a12-b3774eca8c32",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "QA Review"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47a9a675-a261-4e2e-a659-460e16f6554b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "f753a539-10c0-4081-839d-f41629f4a472",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA reviews the CCF to ensure it is complete and evaluates whether additional information is needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5739f6da-3d8a-440b-b707-7daa14c32d4a",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "ed269d15-37d2-45cc-ada1-3bbe153ab07b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Determines if the change requires an impact assessment, regulatory notification, or validation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa8ca21f-b53b-48fe-9b71-e1a426131d83",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fe09bdaf-d292-49b9-a42b-2383a99afb17",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Assign Change Control Number"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69d8a850-968b-418e-ad7b-84cd0314ab83",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "ae0aa824-5427-448d-bb7c-a8b9dc6a28e7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA assigns a unique change control number for tracking purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfd51523-2ed5-4219-8c2b-3450e3d86a2d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "74cf75a5-4486-4d01-9084-3877eb019fad",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.3. Impact Assessment"
+        }
+      ]
+    },
+    {
+      "id": "f406013d-3e81-4bd0-9025-be66c8280759",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "40150175-78a2-4371-817c-cf15deff90ae",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Evaluate Impact"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e284ed8b-df9d-4931-96e6-97090cf5a858",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "33669bd7-80a3-448f-9501-eec88c5a1c51",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA, in collaboration with relevant departments, conducts an impact assessment, considering:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9dea3c77-e56b-4c86-80e6-4cf0864874cf",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "6fed0a78-3882-4d87-8ff0-cfa69ab7331e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Impact on product quality, safety, and compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08e45007-f95a-4629-8dbb-afcbe0975755",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "62400d3b-fd96-4b8b-a575-e13daaa7b4d1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Risk to ongoing operations or customers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f763c09-c0bc-480e-b5a8-31fbd6fbef96",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "9f0698c1-757d-4bca-8471-bdfe4c3bd1b3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regulatory impact and notification requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "897b20de-1092-4f7b-bcb3-ace5ef2c4853",
+      "type": "li",
+      "indent": 2,
+      "children": [
+        {
+          "id": "72af6170-f772-403a-85c9-107f0f167d9e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training and resource needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d55e9931-41a2-48a6-8340-3ebe824e5662",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b59380b1-507c-47b9-bc54-1926450ad003",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Document Findings"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "774a150e-82f0-437e-9cb8-9e2e7f0ceb3d",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "6011a9c6-5205-47ea-81dc-dbc0dffb13cd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document the results of the impact assessment on the CCF."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9981757-c408-499e-8198-9bda06f0437c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7211770e-a6df-4162-b9db-6336f770bfaf",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.4. Approval Process"
+        }
+      ]
+    },
+    {
+      "id": "9a56cc2d-8487-4e95-98c0-39f2f41c34f8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d8e1f6ac-7d56-4646-914d-efc68df7b230",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Departmental Review"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "febfc69f-e40e-474f-920d-24edf1f52594",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a0b7041c-3dd5-4a24-9bb4-afad0de42a5d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The CCF is circulated to affected Department Heads for review and approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a14af721-ed19-40e1-aed2-ed1dc2df0fbd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7fbac068-7d55-43f3-b593-6cb4275a99af",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regulatory Affairs Review"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f618404-9cd5-4cca-b5fa-ea9f439ee5c4",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "ab62ab6b-745b-4442-a4ac-0220c5ce6daa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If the change impacts regulatory compliance, Regulatory Affairs assesses and provides recommendations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fa32b3c-a4e6-4515-b5bd-b77e65945352",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bd094068-9150-4042-8001-4fbb4d6ef4d9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management Approval"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0ab2755-9f99-4d70-8507-78797a0dc41e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "0d5da27a-69ae-4ba5-a2b8-1880298dce69",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For high-impact changes, obtain final approval from management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55995323-a1fa-42b7-9933-623d33f56f20",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2b01510b-4c20-47cf-af8e-d6d5aab5838f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.5. Implementation"
+        }
+      ]
+    },
+    {
+      "id": "fe278134-58cc-4d0c-9a29-6568837d931d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e8e7b1ca-96ca-430d-83b3-7a556ab83c75",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Develop an Implementation Plan"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e3bae09-5c0a-46be-97ab-d1ed39ac5279",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "484b9715-c239-4545-9970-a9fe5a36d6bc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define the steps required to implement the change, assign responsibilities, and set deadlines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7e20c4e-f6cf-44f4-bd00-e9786fc601ad",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a0adb9d5-5d88-42e5-b9c4-daa2095f5b4c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Notify Stakeholders"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "730d74a7-d9be-4681-840d-b9bbe5483be5",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "41d5ff2e-b929-47ee-875f-d4e7d7bffa93",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Communicate the approved change and implementation plan to all affected stakeholders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a1adb61-a5fc-4e8b-810b-373a67e46785",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea000a5d-0e29-4638-92e6-4ea70f6b67db",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training and Documentation Updates"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ebb8032-b013-4620-90cc-686cd3b8a022",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "75f5573c-3964-4d01-b74c-5ff3e852e1a3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide necessary training for personnel affected by the change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71a11def-d649-4754-9649-83fbf5276c78",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "aa46e923-4234-4028-8fb5-f2f3a2419547",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update any relevant documentation, including SOPs, work instructions, and records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6cee88c3-c809-4fd8-aff2-673c2c905d12",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ca94b1f4-a6d9-453f-ac76-6d1f703d53e5",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.6. Verification of Implementation"
+        }
+      ]
+    },
+    {
+      "id": "8f9bdaf0-6b20-42d0-b363-12bd0f61806b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "47464f88-2d3a-41c7-919e-1be5f0b7abd1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Validation"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bd9f39c-e8fe-4df9-a70a-36cf476482cf",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "1968f588-23a6-40ba-8a67-c0e19fcc7126",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If required, perform validation to confirm the change achieves its intended results without adverse impacts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95c29f56-9ff1-4efc-98e6-fd03dc716b0d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1f299b7e-78f2-4f0b-9ded-487a1d3ddda2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Effectiveness Check"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4598ffe5-470b-485c-b69a-e6fab065f945",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a3c65f69-5a12-4fc7-bf18-b45a33a2f3ea",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA verifies that the change has been implemented correctly and meets its objectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3b8d990-1d7b-4014-9ad2-a8c9985e5b7c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e53d633f-9d3d-427c-8170-137f3a6da331",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.7. Closure of Change Control"
+        }
+      ]
+    },
+    {
+      "id": "0fc3f024-4cbc-420b-97a3-8697bce183b3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8c369327-80bd-4abe-aa30-dd727d6fc41c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Final Review"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f2d228d-3f7c-42e3-8152-8bdef1946d31",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "433766b5-b7d1-4755-aa12-b1642c8fbb85",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA reviews all documentation and actions to confirm completeness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b0132fd-a26a-4c63-b820-955ab24a005b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "74cee6df-e75e-4180-a413-bba8efbf4ab2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Document Closure"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4be32a8-d678-4545-98af-58a8d502c939",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "33977ec5-67f4-40ce-97a8-7a1e03114783",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Close the change control by signing off on the CCF and updating the Change Control Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2fcbaa1c-568d-4e5b-8b01-ff22c5d65338",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "93c3e208-ce9e-41b2-a5cb-74c027493e35",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Documentation and Record Keeping"
+        }
+      ]
+    },
+    {
+      "id": "66420886-f9fb-4bb4-9371-7dc38362a35f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4228cdee-3830-43f4-a769-6ade5231a9dc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain the following records for all change controls:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fca6d81d-b428-444d-bf71-7c427a68547c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b531c7c3-3a34-4817-9a89-f6d0bf5294ba",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Completed Change Control Form (CCF)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b5dde24-c026-418a-abc5-385c865aef0a",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "fe64a1b3-0602-4a12-a312-08bc1e0ad3ca",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supporting documents, including impact assessments, validation results, and training records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6c329c43-c40a-4428-8eb6-79d0d48e59d7",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "d04b4863-6d3e-433b-8479-b84214940231",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Change Control Log with details of all initiated changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35728876-370e-4a03-83a7-a77e47457adc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1e21d186-79fc-4916-b14d-121879b4e382",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain records as per the organisation’s document retention policy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2e8d674-f075-4cca-b4d3-7e5dce54dbda",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c364fe64-a134-4b7b-85e1-8a7a5c0cebee",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "df92a250-91fb-42ec-a3a1-2840f5eb302e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "df6efc6a-5c38-4299-9f59-4e0555650bd1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All relevant personnel must be trained on this SOP before participating in the change control process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4208ca3-dcf4-4bec-95b6-7676b1b61ab3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "87e3dd98-f874-4410-8e86-646ecdb2da72",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct refresher training annually or when updates are made to this procedure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81df9523-db14-4525-8079-e1e8c5938cb9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9b4cd7ba-1480-48b3-9e42-75627f87d94b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records for audit purposes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3631d129-0730-4cf5-a510-764eee73c184",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6e713414-da1c-4094-b904-b7172ad20caa",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "6880f17b-d981-419b-8a80-18e608afc7e6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d67400d3-8f51-4a60-affe-abea45c6c67d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016 Quality Management Systems – Requirements for Regulatory Purposes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

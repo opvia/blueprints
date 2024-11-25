@@ -1,0 +1,17 @@
+{
+  "id": "sop-method-validation-and-verification",
+  "version": 1,
+  "name": "SOP - Method Validation and Verification",
+  "description": "",
+  "entities": [
+    {
+      "id": "52710a91-bc95-4dae-8bec-4f0ca00b1c1f",
+      "type": "DOCUMENT",
+      "title": "SOP - Method Validation and Verification",
+      "source": {
+        "id": "65ceec6d-5fa3-467e-bfcf-e3bad8789859",
+        "version": "1"
+      }
+    }
+  ]
+}

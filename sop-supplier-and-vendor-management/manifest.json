@@ -1,0 +1,17 @@
+{
+  "id": "sop-supplier-and-vendor-management",
+  "version": 1,
+  "name": "SOP - Supplier and Vendor Management",
+  "description": "",
+  "entities": [
+    {
+      "id": "283496a3-62e4-4748-bdd8-dc22156a1425",
+      "type": "DOCUMENT",
+      "title": "SOP - Supplier and Vendor Management",
+      "source": {
+        "id": "2901356e-1be5-49e3-9bef-fe51768e296e",
+        "version": "1"
+      }
+    }
+  ]
+}

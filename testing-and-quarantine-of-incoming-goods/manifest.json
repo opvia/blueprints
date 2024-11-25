@@ -1,0 +1,47 @@
+{
+  "id": "testing-and-quarantine-of-incoming-goods",
+  "version": 1,
+  "name": "Testing and Quarantine of Incoming Goods",
+  "description": "",
+  "entities": [
+    {
+      "id": "ecc4052f-9d3c-492d-b77b-a9ebd9af24bb",
+      "type": "PROCEDURE",
+      "title": "Testing and Quarantine of Incoming Goods",
+      "source": {
+        "id": "2ce7a46b-5715-45ac-9297-597d973f0337",
+        "version": "5"
+      }
+    },
+    {
+      "id": "a9b0efd8-6947-4824-b70b-4955ecbbdd9b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Goods Receipt",
+      "source": {
+        "id": "1f38dd58-7773-4d7d-9713-6c62fa5ea545",
+        "version": "4"
+      }
+    },
+    {
+      "id": "92ab4000-b0a7-45f9-8118-e384b73f7d31",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quarantine of Incoming Goods",
+      "source": {
+        "id": "90a59ddb-187e-4b15-9c82-824f578c5396",
+        "version": "2"
+      }
+    },
+    {
+      "id": "c468e3f9-4099-4e8e-8ddb-0bd9e20dd10f",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Testing Plan",
+      "source": {
+        "id": "34e312e7-4b81-4e99-885a-b894236cbfea",
+        "version": "2"
+      }
+    }
+  ]
+}

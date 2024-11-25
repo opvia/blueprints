@@ -1,0 +1,17 @@
+{
+  "id": "sop-document-control",
+  "version": 1,
+  "name": "SOP - Document Control",
+  "description": "",
+  "entities": [
+    {
+      "id": "0a4318e6-0151-4572-afd6-8dd29a967898",
+      "type": "DOCUMENT",
+      "title": "SOP - Document Control",
+      "source": {
+        "id": "4d421e92-5bc6-4e7b-b695-1ce78752c09c",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1839 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "21ea8a20-cb23-4c79-87d2-337b08755864",
+  "title": "SOP - Reference Material Handling",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "53bd545a-cef3-47bf-bac4-b1254aeb41ef",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "c5519ab6-91ed-4a4d-90ab-2338e5b4f508",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "b4381f67-ec84-4591-8c35-7d6afb732116",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "3469505f-f4e4-42ff-b3f1-fe46bd2e46cb",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "0dfa0dcb-39d1-4348-98a7-caa31048b49c",
+      "type": "field",
+      "fieldId": "3469505f-f4e4-42ff-b3f1-fe46bd2e46cb",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "751e5cbc-a5ff-4e52-ac7a-7922faff8801",
+      "type": "field",
+      "fieldId": "b4381f67-ec84-4591-8c35-7d6afb732116",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a9416ae1-3ea1-4099-a535-465456aebfd4",
+      "type": "field",
+      "fieldId": "53bd545a-cef3-47bf-bac4-b1254aeb41ef",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b94bac44-15d9-45c3-8334-0d1c9f62aeb0",
+      "type": "field",
+      "fieldId": "c5519ab6-91ed-4a4d-90ab-2338e5b4f508",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aa230a2b-2da4-44f0-a7f7-64da82348f43",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3961d74e-62ad-4585-b613-00c8613e84e5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "0b08b41f-290f-4c72-a7dc-91673696a6b1",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) provides guidelines for the proper use, handling, storage, and maintenance of reference materials and standards in the laboratory. Reference materials are essential for ensuring the accuracy and precision of laboratory analyses and quality control tests."
+        }
+      ]
+    },
+    {
+      "id": "c1141657-392f-4538-9658-4f6a5c007c5b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f32a076c-468b-4327-8f1d-06de89f3e661",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "8474d76b-49ab-40aa-8fa1-ae157989a6c4",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel who use, handle, store, and maintain reference materials and standards. It covers procedures for the preparation, labelling, storage, and documentation of reference materials to ensure their integrity and traceability."
+        }
+      ]
+    },
+    {
+      "id": "f3285f01-dae5-41fe-abf7-92e8b9508710",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "13b002af-5253-4077-82b0-6215505d0bf4",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "3d47c322-cae3-42ef-ae46-e6dc7c65e48a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "80711a91-b6bc-473d-accd-26ced82dd775",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b90d0414-c9aa-457e-9ecc-df890dd15b5f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures the availability of appropriate reference materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37f93b71-0643-4f1d-bacc-c9d05894091f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d1850115-a528-4514-8564-bba895475233",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintains inventory and oversees compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0d7ac11-3eaa-421c-9a4c-e4bd9bdfd820",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "454d484a-5142-40fe-8ae9-a46862b457e3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f12f8d14-96d5-404d-8018-0311d51a6ebb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Uses reference materials in accordance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0dfd1571-ce67-4498-b6dc-d2048462e119",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2a25840c-9ea9-467c-98b7-8eb78b868f78",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures proper storage and handling practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7ac54c0-017e-4306-a966-38251fe73ea3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Quality Control Officer"
+        }
+      ]
+    },
+    {
+      "id": "d88efe3d-e89f-4989-a0ba-2ac623d9e22e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a2973cc1-8b57-4293-b051-b0a1968eb225",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verifies the accuracy and traceability of reference materials used in quality control."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9374d009-cf06-4e46-bcd2-ca2f64c808ed",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7a7671ac-4cfc-4c95-ab84-acf57a865f2b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts audits of usage and records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f296fbe-5cfa-452c-9231-14535732d44f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f4f90f9b-e944-425c-848d-17aa5472489a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "374eee08-fb55-491c-b7dd-67c0dd1260fc",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Reference Material"
+        }
+      ]
+    },
+    {
+      "id": "5bc8ea99-4a8a-4381-8bef-99db6e235075",
+      "type": "p",
+      "children": [
+        {
+          "text": "A material with a known value of a property or characteristic, used as a standard to check the accuracy and precision of instruments or methods."
+        }
+      ]
+    },
+    {
+      "id": "c2010dd3-5224-4db4-a3b7-9099656a12b2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Certified Reference Material (CRM)"
+        }
+      ]
+    },
+    {
+      "id": "1f54759e-4781-43a9-80c3-03107da9b4a6",
+      "type": "p",
+      "children": [
+        {
+          "text": "A reference material characterised by a metrologically valid procedure and accompanied by a certificate providing the material's value and associated uncertainty."
+        }
+      ]
+    },
+    {
+      "id": "8e8dd2d6-62d3-4478-8e95-2ba84a385343",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Working Standard"
+        }
+      ]
+    },
+    {
+      "id": "5b9e5978-fb46-4e9a-8f70-8e07c0bc3cd3",
+      "type": "p",
+      "children": [
+        {
+          "text": "A reference material prepared in the laboratory from a certified reference material, used for routine testing and calibration."
+        }
+      ]
+    },
+    {
+      "id": "9ebf39b7-ea05-404d-8190-b3e99674fa1b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Traceability"
+        }
+      ]
+    },
+    {
+      "id": "1c35147f-fbca-46ee-bb51-f3c436331319",
+      "type": "p",
+      "children": [
+        {
+          "text": "The property of a measurement or standard that allows it to be related to a reference standard through an unbroken chain of comparisons."
+        }
+      ]
+    },
+    {
+      "id": "8f203f1b-34dd-4af4-8ef2-b47535657e1b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9a6e9254-d754-4e2c-80ca-eb9ab79a63e6",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Handling and Usage Procedures"
+        }
+      ]
+    },
+    {
+      "id": "e1d3c709-1f91-4eb6-9364-980c5e441082",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8d37928c-d941-4e68-aa5d-26536654ac68",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Selection of Reference Materials"
+        }
+      ]
+    },
+    {
+      "id": "17b3f284-f997-4d03-8f51-9de9ef9d1f8a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Certified Reference Materials (CRMs)"
+        }
+      ]
+    },
+    {
+      "id": "c67208fa-86b7-4068-9fb3-59fa05c7178b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aea39eac-3014-420c-b1f8-867bb8354135",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use CRMs for critical quality control processes, instrument calibration, method validation, and proficiency testing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6fb3d2f-c54f-49f1-bd67-d77a338da59a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0b4649ba-77c6-45ed-99ca-593992d7148c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Procure CRMs from accredited and reputable suppliers. Retain certificates verifying their properties."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f328c52-9fe2-4049-9877-04e9c3590d56",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Working Standards"
+        }
+      ]
+    },
+    {
+      "id": "bfbd46d3-a5ac-4ba4-8705-1325cbfbf286",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "924d0ab0-ad39-4a3d-8193-5de54bc1d742",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Prepare working standards from CRMs in a controlled environment following documented procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76e62221-daca-45ba-9389-850a523b9309",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d52a6ac6-8366-402a-bf60-1a7b826f8f55",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Label working standards with details including concentration, preparation date, and expiration date."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff32db2c-0b7c-49dc-82d8-9c1ffb0aeee6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "915fc88e-c3a9-4d63-9084-9313d17b5652",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Labelling of Reference Materials"
+        }
+      ]
+    },
+    {
+      "id": "ae942772-46f0-4479-9f1c-8a3334d3b4ec",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Labelling Requirements"
+        }
+      ]
+    },
+    {
+      "id": "d362bd31-2e99-41eb-9d5e-dbc43a2d5175",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "550dccc4-2582-41b2-8aa3-16d6092ac5ad",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Name of the material."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6a54030-1c6d-4f2d-92e1-92dde842f2e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3d1a6c9c-3973-4094-b931-ee4308b6fbee",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Concentration (if applicable)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8008f1bc-6c54-4d59-be82-7ef35a51110a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b52a89e1-62b9-4ca1-b9c4-b92562e5b975",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Lot or batch number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a12c46f6-07ca-4c77-be04-032877f4708b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1d99ed0e-09c1-4f81-9173-8ad3f5c1a2d4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Expiration date."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b44054f4-0298-4376-9668-5fccc12fa149",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "78bd8f91-1552-40c0-ae42-58c951ca44eb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Date of preparation (for working standards)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5b53c5d-fef4-4deb-87c1-54efc07ab17d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "61bc3568-1578-4677-8286-39f5eec8919a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Storage conditions (e.g., temperature requirements)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3857ec78-57a2-4ca4-83e4-95c0e7503684",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Additional Information"
+        }
+      ]
+    },
+    {
+      "id": "432f6c56-3065-4c63-9645-d1f1177a7aa3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5b5f9364-f7c2-40e2-9b93-11b1a8efe15b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For CRMs, retain the supplier-provided certificate of analysis (CoA) and attach it to the material. Store a copy with laboratory records for traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6d16ef91-30b5-417e-bee5-52d6b0ba02de",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0896715c-2aa3-48b7-a887-59bc00b7ec87",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. Documentation of Use"
+        }
+      ]
+    },
+    {
+      "id": "48070be1-c5a5-4007-a89d-c9c22a98f877",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Usage Log"
+        }
+      ]
+    },
+    {
+      "id": "f1cf9626-ef98-4f6a-9d6a-0fd6dd5afc27",
+      "type": "p",
+      "children": [
+        {
+          "text": "Maintain a Reference Material Usage Log including:"
+        }
+      ]
+    },
+    {
+      "id": "6ff6b0a2-ae33-4996-9747-a1c7b85fbd21",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1c818c13-c161-4ee4-ac23-7536d4d76234",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Date of use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5387107-4828-4014-947b-9f4fbbf6c97a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ba85092a-505a-4840-9997-72e4b9395c01",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Material name and lot/batch number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e2fcd8e-274d-4fe3-929b-99adddec0833",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8bcd400d-f944-4f3b-be8e-326f6a91fe2b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Purpose of use (e.g., calibration, quality control)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f35d838f-e288-43d4-80a0-1be6a7bac6e4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "876a8000-709d-4aba-83d1-694e1ae7d81f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Quantity used."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56cb37bb-ae53-4e32-9992-2c6bd8df2dac",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "235c30fc-9983-4b18-9fe6-e6d1de1a8269",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Initials of personnel using the material."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab29ca00-147d-4274-8a32-d78b31ae651b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Traceability Records"
+        }
+      ]
+    },
+    {
+      "id": "53a79b9d-536c-4ad8-ae9b-26922e26a6e6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "defcda5e-97f0-4d7e-bb87-c99d4cf32190",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure all reference material usage is traceable to its origin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c4e66e3-c080-4c29-9d33-cb7f3683fca3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "263bcfb5-a11d-4403-9a84-e07338140f51",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain CoAs and log all handling and preparation activities in the laboratory record system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eeb6586e-7aff-4671-acfa-cabf608acac4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d566461a-9503-40ae-a018-ef7c4a1a9f20",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Storage and Stability of Reference Materials"
+        }
+      ]
+    },
+    {
+      "id": "57ee25b3-836a-4193-890e-42afa7cd32fd",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fd33639e-a747-4ec4-bd18-98a8a1e31ef2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Storage Conditions"
+        }
+      ]
+    },
+    {
+      "id": "aa6cb1ba-be6f-4638-ab44-f1d4a0f36611",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Temperature Requirements"
+        }
+      ]
+    },
+    {
+      "id": "a5d30df8-6f0c-4738-8c0d-7c94f8ca7317",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "27f909c1-a5be-453e-9107-b642dd9350f6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store materials in conditions specified by the manufacturer:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c1a65b5-7e0f-42a1-acd6-510c3e2bc875",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e63d2c6d-3330-44d4-b326-2d780b9cd1bf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Room temperature (20–25°C)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff8c0485-72f6-4831-b505-501036c38ec4",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "5c1555a8-6281-4cf2-bf98-3a0c65827dd1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Refrigerated storage (2–8°C)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffa8b2c3-7b82-46fb-9767-9d23ab7128f8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a9a218c0-96a6-45a5-a8e5-c1e1ccc8df70",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Frozen storage (-20°C or below)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "893f86bc-bd98-49ad-ba9a-21712e98567d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Protection from Degradation"
+        }
+      ]
+    },
+    {
+      "id": "9aa73bd0-e2f8-4d85-a240-5c241556d5c9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ba898d8c-989b-4b92-ac37-924c25268313",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Protect materials from light, moisture, or other environmental factors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a11086b-1c76-48ee-9ca6-395c89678d14",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4d39f236-b897-42f6-82cc-e17c16940adf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use appropriate containers (e.g., amber bottles for light-sensitive materials) and ensure they are tightly sealed when not in use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24815fef-7ff1-4a89-8aff-d1ebed7e52cc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5556562a-6925-4272-96c9-ebcced6b07ac",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Expiration and Requalification"
+        }
+      ]
+    },
+    {
+      "id": "ab04da16-c7b5-4c9c-aefc-14b25a4cfaae",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Expiration Dates"
+        }
+      ]
+    },
+    {
+      "id": "5d385047-41b5-4bdd-a409-cfeab4eb8a5d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea26f17a-3360-4a86-a90a-8eeaecc2e6bd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Do not use materials beyond their expiration date unless requalification procedures have been performed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85191c51-4293-4578-a6e6-6b45d02a4090",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Requalification Procedure"
+        }
+      ]
+    },
+    {
+      "id": "019d6962-773e-40d3-851d-a7b6d7cc7144",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "abf5c1dc-6dbc-4437-b579-656dfce3c5e3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Requalify expired materials by testing them against a fresh batch of CRM or verifying their properties through independent analysis. Document requalification results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f909aaf7-7e02-4cf5-a92f-d63905a92a20",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "257ccb47-a71a-451b-8a86-56ee15825920",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Inventory Management"
+        }
+      ]
+    },
+    {
+      "id": "41170641-efe6-43a7-97cb-e7feffa3e9ad",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Inventory System"
+        }
+      ]
+    },
+    {
+      "id": "be56475b-6030-464c-b1f8-20f49a6561de",
+      "type": "p",
+      "children": [
+        {
+          "text": "Maintain an updated inventory including:"
+        }
+      ]
+    },
+    {
+      "id": "256d64e5-f53b-4256-9c67-bba3aeb59a3b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e0639dd9-bbdd-4185-b4de-4304bf77943a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Name and type of material."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5978b7e8-b2f2-453a-bd8c-8b1340e73381",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22246b86-1c28-49c1-9200-9fd134808549",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Lot/batch number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78a2cf2c-4aff-4a1c-8e41-61aa35c407e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f0e70cdc-2712-4775-9cbf-f6101c6f11fe",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Date of receipt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8756c43d-9ab9-422f-9921-5300180d301e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f56eb82d-ed80-4ef0-b755-1813377fad73",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Expiration date."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ccd23bc3-72e3-4a5d-a0af-65a234436776",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f4c17b77-c665-4dc0-a290-86f8dabf8072",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Current storage location."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a274e19-8166-4824-83d1-fdcbcabaa55a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b1a2119e-de41-499b-b21a-c7dc78470747",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Quantity on hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7704d89-9364-49dc-a877-bc53740f4e9a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Periodic Inventory Checks"
+        }
+      ]
+    },
+    {
+      "id": "777f4b8f-1689-4452-aa38-c66797201a8f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0474d5e0-e0fc-44bc-8b89-5f10721d2980",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct regular checks to ensure proper storage, availability, and removal of expired or degraded materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53089395-9a28-406f-b4b2-ba8cf66a14fa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7e0d476d-8628-413c-a2e4-0b6131e7af9d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Calibration and Verification"
+        }
+      ]
+    },
+    {
+      "id": "35588bc5-a88d-424d-9ae3-355e1adc5151",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "53a91a43-7596-4b46-b7a5-d5566b583b4b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Calibration with Reference Materials"
+        }
+      ]
+    },
+    {
+      "id": "e31b9e5c-b207-4a9a-9dce-e61d61310b64",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Instrument Calibration"
+        }
+      ]
+    },
+    {
+      "id": "bd2f0e8a-a0ca-4ecc-b4e1-c1a2e19c7802",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "44f2ed46-2168-4c59-bf70-483904af5347",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use reference materials to calibrate instruments as per standard operating procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7970e4f4-6cb3-4c0b-947f-1cfbf02b6756",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5238c4ad-3b82-46ce-bb08-ac962e3a656d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure proper concentration and conditions for calibration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8be43d2f-9f7e-4e17-873f-ec59410e9c64",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Calibration Log"
+        }
+      ]
+    },
+    {
+      "id": "257c20f9-5999-4e79-be67-d736cbaf0999",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "733277fa-7b9d-4598-9300-a7dd3b7343f2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record all calibration activities, including reference material used, lot number, expiration date, and results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cadb3397-dce0-4254-9f84-e07adf7875e6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5b5b6cb0-57b2-424e-81b6-70d4e1c26f4e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Verification of Reference Materials"
+        }
+      ]
+    },
+    {
+      "id": "16177df4-be44-47fc-88ec-fe013c03346a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Verification of New Batches"
+        }
+      ]
+    },
+    {
+      "id": "cbe2c6f4-3eb3-43c2-a363-f0d3d268287c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "89f1da27-fcd2-43c2-b1b1-38ef1e706c72",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify new batches by comparing them to an existing batch of material or CRM. Document results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29c05114-0637-43df-99f8-dbc83392e879",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Inter-Laboratory Comparison"
+        }
+      ]
+    },
+    {
+      "id": "3ff7cd78-4ace-49cb-bb61-7241e2a960f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "10f62781-674d-43b2-870c-406e10fad5ed",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Periodically participate in proficiency testing or inter-laboratory comparisons to confirm the accuracy of reference materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "242942fa-a212-4c51-9735-e32fdd40efb2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1e84162a-057e-4d8c-a3ab-49ea6ef87ea6",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Waste Disposal"
+        }
+      ]
+    },
+    {
+      "id": "9cdc0138-63c4-4359-9742-4c52c4592b05",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8122f3ad-0099-4d39-9c99-097390235a28",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.1. Disposal of Expired or Contaminated Materials"
+        }
+      ]
+    },
+    {
+      "id": "d64b02ff-38fd-40a3-b8e9-057e1402a825",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Disposal Procedures"
+        }
+      ]
+    },
+    {
+      "id": "b8e9e51a-9fa4-44ed-9a2b-6d28f5a0c37a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22dffcf4-f3ab-4ce7-a016-32a9187c3555",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Dispose of expired or contaminated materials according to laboratory waste disposal guidelines. Refer to MSDS/SDS for proper disposal methods."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b69df3e-46e5-4ae6-8e0f-1b3e0a52d205",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Disposal Documentation"
+        }
+      ]
+    },
+    {
+      "id": "d473cd9b-cdd9-4fd2-93d2-8092fd224689",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "54d13171-fb17-4645-bab9-369bffba97a9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document disposals in the Reference Material Usage Log, including name, lot number, reason for disposal, and disposal method"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f72dc426-212d-4d3f-8537-453511b8715f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d531e76c-6f24-48c1-b259-4900b367c326",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Quality Control and Auditing"
+        }
+      ]
+    },
+    {
+      "id": "408162b2-7f97-4c68-9767-2f46a89c9f12",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "12943215-38e0-4b84-a4d5-191c7d2bc7d9",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Internal Audits"
+        }
+      ]
+    },
+    {
+      "id": "80d1f0e9-a7f4-44a0-a765-951f9553d3f3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ee3b47a2-a052-4a89-88d0-72495a62aade",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct periodic audits to ensure compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "558b57e0-f083-456d-8cd8-15aed30193b5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "64432745-76af-4aaf-961b-e6e3320101fb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document corrective actions for non-compliance and verify improvements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36850f8e-310e-4c44-9a08-ad8fb8fa817d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1bfacea5-8e1d-4208-88b7-6d41a15e1bc9",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Supplier Audits"
+        }
+      ]
+    },
+    {
+      "id": "363fa459-6071-4045-8845-8d9e41930b1c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "465dd747-a81f-4ea1-9b82-13bb4b399ff2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure suppliers of CRMs are accredited and audited regularly to verify quality standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b83a490a-3923-4790-9992-c93333b205d2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b5446d9b-3e56-4de9-8e3d-04595a40717e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Training"
+        }
+      ]
+    },
+    {
+      "id": "5b27bae2-433f-4ecc-851f-f7b9a565ff6e",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f36ad168-c247-4bbe-b913-a8f18c241c28",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "086e5dbd-e483-4a63-8f5d-1fe69855b18a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5002c065-5851-4051-8791-d65f571e4983",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must receive training on proper handling, storage, and usage of reference materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98946564-c196-402f-bc67-d1296fd99a8e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e6593bfd-6f37-4f7f-82ad-1590867b713d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "f72707d0-36bc-479d-8325-7e0c915ddf4b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2f4bd70f-ce8a-45b2-975f-b3eb3bfed4a5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annually or when significant updates to this SOP occur. Maintain training records for audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b08b4b61-6314-4664-8fe5-bdb47be70f4e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d15e6c40-d8c7-4bd2-8aad-67e3ad0921d1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. Record-Keeping"
+        }
+      ]
+    },
+    {
+      "id": "ece68e97-ac6d-4f1b-8e07-45221f64ff83",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "30b764c8-6548-4e8e-ad1c-b8baa01ab006",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.1. Records to Maintain"
+        }
+      ]
+    },
+    {
+      "id": "0fbedafa-0706-410c-8512-bc027bd86ba4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1e0caac5-e3d0-4e3c-a935-75e5ac3cdc2c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reference Material Usage Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca359611-997f-4624-9bc9-4ed907a96256",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e0d743b2-b43b-40e7-8dfa-e371c65ee674",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Calibration Logs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49e00343-45c2-48c8-8170-57baa9fde6ae",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e9be7214-fcd8-4483-9f27-6cdbaf30a34a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "CoAs for all CRMs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ca70e07-0f7c-4ba1-b044-7f3e81dc47c3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b279c400-5816-42f6-af24-7dc38e290846",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Inventory of Reference Materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38f6d961-6c14-4fad-a0f4-11ddb14e06b7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c590dd0e-518f-47c0-90f0-5fc572373073",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Requalification and verification records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76137dc0-7b4c-495a-b45b-3b912ab136de",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "15348501-337c-4af2-9226-a628b66eded8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.2. Retention of Records"
+        }
+      ]
+    },
+    {
+      "id": "8700c86f-2f79-49ec-bc3e-e28a3494e75b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "095702a1-608c-4596-a138-2610d5163430",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain records for at least five years or as required by regulatory authorities and institutional policies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13b2af0f-f398-46b9-98ca-d2353b5f5ade",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d1871423-accd-4dbb-a9b4-38b686bc237f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "adef5ca8-6829-4178-a7c6-d061d6f54f40",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6d2a24d8-7de4-4804-8621-e72c982ee9ad",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO Guide 31: Reference Materials – Contents of Certificates, Labels, and Accompanying Documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b85fd96d-9fa6-432f-a673-7057cb80d747",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3ee100b1-2fbf-4e87-a46e-42990b3b0119",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 17025: General Requirements for the Competence of Testing and Calibration Laboratories."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73dfb0e2-fc28-43f5-8009-2ace35423c62",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d04325b2-0c75-4619-9faa-d7a2108650a9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Good Laboratory Practice (GLP) Guidelines."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

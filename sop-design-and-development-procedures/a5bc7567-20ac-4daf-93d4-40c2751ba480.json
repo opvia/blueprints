@@ -1,0 +1,1988 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "a5bc7567-20ac-4daf-93d4-40c2751ba480",
+  "title": "SOP - Design and Development Procedures",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "b299856e-4a97-4901-8b31-f055805a3dd4",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "7d098f16-859a-4add-8363-d609b86c0af9",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "3050c617-beac-41da-a360-60f6267158cc",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "cac2156b-6cff-4314-b6fb-6342bcbb2b83",
+      "type": "NUMBER",
+      "value": null,
+      "config": {},
+      "dataType": "NUMBER"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "2eb071fc-3983-477c-a16c-f59394ce1dc2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7f64cb47-cc22-4117-8ed9-5bbf965e5b90",
+      "type": "field",
+      "fieldId": "cac2156b-6cff-4314-b6fb-6342bcbb2b83",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "655578a4-9be8-489c-92b8-31339fdff75a",
+      "type": "field",
+      "fieldId": "3050c617-beac-41da-a360-60f6267158cc",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "367e5465-c97d-4393-acde-bda231978cc7",
+      "type": "field",
+      "fieldId": "b299856e-4a97-4901-8b31-f055805a3dd4",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "511e893e-a5a6-42fb-a1a8-1f3e7ea361bb",
+      "type": "field",
+      "fieldId": "7d098f16-859a-4add-8363-d609b86c0af9",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "60445fc8-d885-4f83-b001-98b97fbdbc29",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7c7a6632-e895-48eb-8e70-32d79538b10b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "5aad7590-a8fe-45d0-bb65-58cd2e4076cb",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this SOP is to establish a comprehensive, controlled process for designing and developing products. This ensures that products meet all user requirements, regulatory standards, and quality expectations."
+        }
+      ]
+    },
+    {
+      "id": "e785b306-cf1a-47b5-b918-63a97f94641b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3af09bf3-87df-4b83-8faa-77d3c24760b9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "f4f28dc9-53e5-4cfb-b195-dbdc3bd1135d",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all stages of product design and development, including new product development, major modifications, and updates to existing products. This SOP is intended to guide the team through design inputs, design outputs, verification, validation, design reviews, and the final design transfer."
+        }
+      ]
+    },
+    {
+      "id": "6ab68cd7-ee60-40e7-ab3a-14faeddf62bd",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bf05fb19-1f2b-4247-b0d3-0f55322aa379",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "8ee276e1-aedc-47c8-b6e5-a4ff765c0257",
+      "type": "li",
+      "children": [
+        {
+          "id": "9ca9af58-6a0e-494d-9697-49029604ad00",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Design Engineers:"
+            },
+            {
+              "text": " Develop product concepts, prototypes, specifications, and associated documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78f73d09-a014-4e8b-ad03-9e08120de063",
+      "type": "li",
+      "children": [
+        {
+          "id": "d25c609c-8de4-44e3-9492-fe3c9af49a2b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": " Project Managers: "
+            },
+            {
+              "text": "Oversee the design and development process, ensuring adherence to timelines and budgets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e413285-a0b0-43b7-933b-a91a7de00455",
+      "type": "li",
+      "children": [
+        {
+          "id": "803ac4ad-aef9-4787-8b61-24e3780fac3c",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA) Team: Verify design controls, validation, and documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40e41fe8-acd8-4104-ad59-03a0ac5c4e57",
+      "type": "li",
+      "children": [
+        {
+          "id": "e454b52f-78c4-4ca3-a414-785803b04181",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": " Regulatory Affairs:"
+            },
+            {
+              "text": " Ensure compliance with relevant regulatory standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa7ed647-1b93-4da1-978a-8386c9a8ff04",
+      "type": "li",
+      "children": [
+        {
+          "id": "47fb69ef-9240-4cb3-bd1f-d651939520cf",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Senior Management: "
+            },
+            {
+              "text": "Provide final approvals for design reviews and authorize the design transfer to production."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3facb179-d6ec-49d4-aacc-164a608ca3c2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "21a9a4ae-805b-46d5-97cd-93aabb936ee3",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "433d45f3-ba55-4bc6-b4c4-fba4f61de565",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c13d1bc1-25fc-4afc-9242-684fe02f98b1",
+      "type": "li",
+      "children": [
+        {
+          "id": "4bd58469-5370-48ae-9d08-f38c4cc71ac0",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Design Input:"
+            },
+            {
+              "text": " Requirements derived from customer needs, regulatory standards, and functional specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae8549f8-c450-4089-b208-a0277ba53419",
+      "type": "li",
+      "children": [
+        {
+          "id": "83e32a49-00d9-43f8-9ce0-a24fbeaee981",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Design Output: "
+            },
+            {
+              "text": "Specifications, drawings, and documented information that fully describe the product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4eb2abaa-5c9c-454b-a993-5e81a3e5c787",
+      "type": "li",
+      "children": [
+        {
+          "id": "a4f71740-fde9-4587-8c3b-9d47ccfa9fce",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": " Design Review: "
+            },
+            {
+              "text": "Systematic review conducted at various stages of development to verify progress and compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46736b83-88a6-4e6b-a9bc-62ee7a3812f9",
+      "type": "li",
+      "children": [
+        {
+          "id": "eb1beb5a-4b96-4419-aa49-0f89680b1d2a",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Design Verification: "
+            },
+            {
+              "text": "Testing and analyses to confirm outputs meet inputs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb191f61-be30-4722-bc06-4823f619eec4",
+      "type": "li",
+      "children": [
+        {
+          "id": "ebcc539e-fe11-4cff-8349-6e43cd3bc514",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": " Design Validation:"
+            },
+            {
+              "text": " Testing to ensure that the product fulfills its intended use under actual or simulated conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6789bfbd-19a1-43e9-ac77-be8409f69ba6",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "92fc724b-7c27-44b4-bdf5-a47ddc52f770",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Procedure"
+        }
+      ]
+    },
+    {
+      "id": "98b3ee9b-82e5-4553-a958-f6d88c87f986",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0a7add1b-b179-4f6d-8ad8-ba308c338d9a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1 Design and Development Planning"
+        }
+      ]
+    },
+    {
+      "id": "cb517626-0cec-40cc-84e0-c9046eff7223",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Initiate Design Project:"
+        }
+      ]
+    },
+    {
+      "id": "5876c069-7257-4b93-8c8d-cf18be182a7e",
+      "type": "li",
+      "children": [
+        {
+          "id": "b6c7d953-f588-492c-b926-12bc31b874ea",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Upon approval of the project, initiate the design process by drafting a "
+            },
+            {
+              "bold": true,
+              "text": "Design and Development Plan"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ba9ecfe-6765-4049-b4c4-9818af2a4269",
+      "type": "li",
+      "children": [
+        {
+          "id": "123d9792-baff-479a-afbb-0457550a7529",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define objectives, project phases, timelines, and responsibilities for each team member."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4964d8e-2d80-41c3-b7e1-1289c437a0e8",
+      "type": "p",
+      "children": [
+        {
+          "text": "Outline risk management procedures, including hazard identification, impact assessment, and mitigation strategies."
+        }
+      ]
+    },
+    {
+      "id": "55eaaa6c-4087-402e-a63f-e958da8e181f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Develop Timeline and Milestones:"
+        }
+      ]
+    },
+    {
+      "id": "ea2d5276-b0bf-4e0a-b642-7d9acadba534",
+      "type": "li",
+      "children": [
+        {
+          "id": "3c99baec-0e57-469c-a6fb-a592f73edca8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Break down the design process into clear stages (e.g., concept, prototyping, final design)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f6f6bc7-efeb-492e-a875-ab335579977f",
+      "type": "li",
+      "children": [
+        {
+          "id": "3e598431-82af-4568-9408-b69bcb061862",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Specify "
+            },
+            {
+              "bold": true,
+              "text": "Key Milestones"
+            },
+            {
+              "text": " and assign deadlines for each phase, including periodic reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b9faa0f-2a35-4b88-892d-62608c07c5ab",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Risk Management Planning:"
+        }
+      ]
+    },
+    {
+      "id": "fdb56413-6a5d-49c7-ac3f-6fc50264b2a2",
+      "type": "li",
+      "children": [
+        {
+          "id": "fc234289-ddbc-435f-9c68-c1172a0327dc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "   Establish a "
+            },
+            {
+              "bold": true,
+              "text": "Risk Management Plan"
+            },
+            {
+              "text": " in accordance with ISO 14971 (Risk Management for Medical Devices), detailing:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95744663-9121-4d3c-8f77-7dd709eeed41",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "ca91c248-5544-46a1-be27-e0f4852b6df4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Identified risks and potential hazards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "551a16b2-8c59-4922-a45c-750530b45528",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "3dd69d27-16fb-44fd-8b93-12a6f58d3624",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Risk assessment methodologies (e.g., FMEA)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "064f3473-01d4-4faf-b5c2-f1fcd31426bc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "68d4f1c8-65ab-42ce-9f2c-7e7d600ae9be",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Risk mitigation measures for identified risks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9c24744-c7bc-4ac9-b142-b40658eab954",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Approval of Plan:"
+        }
+      ]
+    },
+    {
+      "id": "e1a987cc-2f24-467b-9525-56c7e09e8bce",
+      "type": "li",
+      "children": [
+        {
+          "id": "15b4a0e6-6c5f-4042-880e-16ce221ec714",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain sign-off on the design and development plan from senior management, regulatory, and QA before beginning the project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57870a10-5863-457a-9cf7-bac88309bb48",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6a3aab85-8c13-4b7b-8847-e6b9fe3a6949",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2 Design Input"
+        }
+      ]
+    },
+    {
+      "id": "93074537-6e3a-4004-8f65-9f6479e6b588",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Requirement Gathering:"
+        }
+      ]
+    },
+    {
+      "id": "ab9c6fd5-a616-4280-8a57-762067d1b370",
+      "type": "li",
+      "children": [
+        {
+          "id": "675c6bdd-483f-4932-974c-05f72cb1454b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "   Collect and document all relevant information, including:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7dccb549-1b41-418f-963c-8249ca72cf38",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e93bc374-48fa-4001-bde5-4ab795d64d03",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "User Needs: "
+            },
+            {
+              "text": "Functional, performance, and usability requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed761c21-ea53-4daa-bbe1-f22ace97d545",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "990368d7-47c6-4a10-8a10-5ee4abf4aa10",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regulatory Standards:"
+            },
+            {
+              "text": " Local and international regulatory guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0698dc5-fbc7-4fcd-8ab6-7a7c9d4ba8fa",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "27cad71b-b7d8-42db-b048-e43565aab5ec",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Safety Standards:"
+            },
+            {
+              "text": " Compliance with safety and hazard requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b0988f7-933d-419c-b0c1-70f6abfed31f",
+      "type": "li",
+      "children": [
+        {
+          "id": "0b009bf7-b339-4bdb-8352-01e7073bce1f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Engage stakeholders (e.g., customers, QA, marketing) to ensure all requirements are accurately captured."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "339d39d3-cf57-4e4e-b2af-75489967a1dd",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Define Design Requirements:"
+        }
+      ]
+    },
+    {
+      "id": "48c324e1-e20b-4426-b7a9-2ed7d0a9e647",
+      "type": "li",
+      "children": [
+        {
+          "id": "75bed3bb-b085-4880-98df-7eabc16a601f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Compile a "
+            },
+            {
+              "bold": true,
+              "text": "Design Requirements Specification (DRS)"
+            },
+            {
+              "text": " document, outlining:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b7d0137-2d3e-463c-9110-403e8ac72e32",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "65dcbee1-9806-4cb8-b8b1-b207d90d2d7e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Functional performance specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f6a7293-5b88-4d05-ac94-eeb749702a97",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "93536544-210a-4fe6-9b0f-82a0802272d5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Materials, dimensions, tolerances, and environmental conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "577e416b-b936-4b17-a689-20670eb10f4b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "9d3ce685-bcff-4d86-ab2f-77b2e69067b4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Safety and regulatory compliance criteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e721b6d8-935f-432e-920d-94d06980613b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "16729916-3d5a-4244-a09d-4a68b959d841",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Any applicable software requirements (for software-integrated products)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "debc2784-b5c0-4314-b7ae-eb0a2f2d6acb",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Approval of Design Inputs:"
+        }
+      ]
+    },
+    {
+      "id": "85b4c645-55f4-4686-9c8e-89937129e7b9",
+      "type": "li",
+      "children": [
+        {
+          "id": "98376ffc-993f-4010-94b1-3e01fde2a8ba",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct a review meeting with QA, regulatory, and relevant teams."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c450143a-c7bb-479e-858a-44afbd997c57",
+      "type": "li",
+      "children": [
+        {
+          "id": "15c778ad-590b-427e-b341-8b9cdbb6f019",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain sign-off on the DRS before advancing to the design output phase."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bc9895e-f475-4802-9a80-4e449c016100",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1480f58d-25ec-48f1-b47f-82faa7553eb8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3 Design Output"
+        }
+      ]
+    },
+    {
+      "id": "bf4628e2-63d7-4b65-b29c-bccb1efebcae",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Develop Design Output Documentation:"
+        }
+      ]
+    },
+    {
+      "id": "b2476249-bcea-42db-8cf4-bf4b108d75c7",
+      "type": "li",
+      "children": [
+        {
+          "id": "e4e012cb-0edd-4efc-aa0a-ffc8e05fab12",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Develop design outputs that provide sufficient detail to confirm that they meet the input requirements. These may include:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b46d8d7-2d36-4fe6-bc16-90e98d1d82fe",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "03aa10aa-123f-41af-b4b1-373ae74ecc87",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Specifications, CAD drawings, schematics, process flow diagrams, and material lists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3043dcd-8195-4021-837f-313fb8f11ee0",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "34b8c7f4-5c51-4d25-9097-e4dff04af357",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Manufacturing Instructions:"
+            },
+            {
+              "text": " Instructions and procedures for assembly, testing, and quality control."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71c60dcc-f4fa-47e5-89f1-1a7f4db10e15",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "cca9994d-c819-4fe9-9b86-544b666631b5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Inspection Criteria: "
+            },
+            {
+              "text": "Define quality control metrics for each critical feature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9edba8d4-0bdb-4499-b4ab-0c32ad66a500",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Compile Design Output Specification (DOS):"
+        }
+      ]
+    },
+    {
+      "id": "c237a149-1618-434d-ab1f-fd19ecc1e117",
+      "type": "li",
+      "children": [
+        {
+          "id": "3f0739c8-1d0d-4965-9fe6-b115d41db0d0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assemble outputs in a "
+            },
+            {
+              "bold": true,
+              "text": "Design Output Specification (DOS)"
+            },
+            {
+              "text": " document."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c08d987b-bfbc-49cc-883b-8c15330f7d02",
+      "type": "li",
+      "children": [
+        {
+          "id": "56056060-b9d4-4744-add0-180e4988af39",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure that all outputs are traceable back to design inputs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3cfbfc4e-d33d-4516-86c5-40194cf531fd",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Internal Review:"
+        }
+      ]
+    },
+    {
+      "id": "f8d8c953-d510-400d-8bc2-adca417db749",
+      "type": "li",
+      "children": [
+        {
+          "id": "71d18f1a-c183-4d41-a11f-07efc3694fb2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct a preliminary review with project engineers, QA, and regulatory affairs to confirm the DOS accuracy and completeness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd85919b-fcb0-4228-9bf9-83ebb011db93",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a94ebec3-c677-4302-9c0f-cf6551f4affa",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4 Design Review"
+        }
+      ]
+    },
+    {
+      "id": "66c2e24a-2f6a-4c28-a56e-db8f56c0307f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Establish Review Milestones:"
+        }
+      ]
+    },
+    {
+      "id": "04d6b3ac-76ed-4b34-b03b-ed9df96a450e",
+      "type": "li",
+      "children": [
+        {
+          "id": "cdee6436-b884-4acd-bcc1-e588a48e2f7e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct formal design reviews at key milestones (e.g., concept review, prototype review, final design review)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "251bcefc-9916-4917-8c64-4cf96b89a4ef",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Execute Design Review:"
+        }
+      ]
+    },
+    {
+      "id": "444adeb3-f0ce-4493-b4cf-d8436905b572",
+      "type": "li",
+      "children": [
+        {
+          "id": "c498ae01-54f0-4e60-ab4f-7548eece9380",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use a structured "
+            },
+            {
+              "bold": true,
+              "text": "Design Review Checklist"
+            },
+            {
+              "text": " that covers:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79a66c29-3fe0-45b4-844d-399b43a08ed9",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "f5e39df9-3e99-44fb-beb4-ae67f869f533",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verification of design inputs against outputs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8988dc7f-b39b-4e0d-84ae-add9eb667126",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "10642bca-b2ec-4060-8ac7-586d7e8d7c90",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Assessment of risk mitigation and adherence to regulatory standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c66657fb-f785-475a-b530-0d131615cdcc",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "1761c6b1-b7bf-4aeb-9ba8-089851e08303",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Identifying any unresolved issues and documenting action items."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "332374a7-f2dd-45f1-baad-d6543f82a145",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Document Findings:"
+        }
+      ]
+    },
+    {
+      "id": "aa8b3877-8e23-4be9-a249-be5d9ac42aff",
+      "type": "li",
+      "children": [
+        {
+          "id": "82695abe-54d4-4ae2-b257-0d68fc822c1a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document all findings, action items, and recommendations from the review in a "
+            },
+            {
+              "bold": true,
+              "text": "Design Review Report"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bbf5e2e-7b81-46e2-808b-b94ba38eee76",
+      "type": "li",
+      "children": [
+        {
+          "id": "6dff433a-575e-4338-b6f8-7b9d1bfc5072",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assign responsibilities and deadlines for addressing any identified issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24179f6c-510e-4537-b5a0-258e3ca9236f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Approval and Follow-up:"
+        }
+      ]
+    },
+    {
+      "id": "3b793e28-f057-4c9f-ae6d-0e7086678c43",
+      "type": "li",
+      "children": [
+        {
+          "id": "e5c982c4-67a3-4d58-a5ae-aa1ab45a70aa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain signatures from design engineers, QA, regulatory, and management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec0aa1cb-7962-40eb-8ca9-2345a92dd375",
+      "type": "p",
+      "children": [
+        {
+          "text": "Ensure any required actions from the review are resolved before moving forward."
+        }
+      ]
+    },
+    {
+      "id": "4fb03142-9d84-4b22-b330-087a3497ffeb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e1868313-287c-438b-b6fd-e2655bf272d1",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.5 Design Verification"
+        }
+      ]
+    },
+    {
+      "id": "b520ad6f-fbb2-4e33-928f-5f7ac606ab7a",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Develop Verification Plan:"
+        }
+      ]
+    },
+    {
+      "id": "dc16dab5-819b-431d-bca7-ba187ae6f7fd",
+      "type": "li",
+      "children": [
+        {
+          "id": "96ccb064-a460-47e8-9ad0-21c9addf8eb6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Outline verification methods, tests, and acceptance criteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88798140-12fb-4d1e-a767-95eb9b3ba55d",
+      "type": "li",
+      "children": [
+        {
+          "id": "dd87b66f-78db-4037-b424-e1d900e4a2cc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document this plan in a "
+            },
+            {
+              "bold": true,
+              "text": "Verification Protocol"
+            },
+            {
+              "text": ", specifying required test equipment and methods."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b8e81cf-3c5d-4da9-a92b-d2478e5798da",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Conduct Verification Testing:"
+        }
+      ]
+    },
+    {
+      "id": "9186b7a0-aadb-4d18-93cb-caf3256a39b8",
+      "type": "li",
+      "children": [
+        {
+          "id": "83b3e5fa-1ec5-46d4-a239-7cee3b26a593",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform tests in accordance with the Verification Protocol, which may include:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa3c3d08-a2cc-4e14-9b27-dbf10f324377",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "da54dafa-945f-476a-9dcf-89fb70610324",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Functional testing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2960816f-ce45-4465-ad6b-49515268c845",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e9401326-d387-4c47-89e4-9b79fd54b482",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Durability and stress testing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a97708e4-5f18-4253-add0-ab0dd127e81b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "ea2310e9-5b76-4d40-b67d-3a077267f751",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Safety and regulatory compliance testing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12b6c803-9d0f-4366-8adb-18cc6fdbd884",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Document Results:"
+        }
+      ]
+    },
+    {
+      "id": "3672bab1-7ee9-4ccd-a33b-6b751f272259",
+      "type": "p",
+      "children": [
+        {
+          "text": "Record test results, including any deviations, in a "
+        },
+        {
+          "bold": true,
+          "text": "Design Verification Report."
+        }
+      ]
+    },
+    {
+      "id": "e5ed7c63-ee99-498d-8784-31b28376b3da",
+      "type": "li",
+      "children": [
+        {
+          "id": "e19ba94e-d92c-46c1-84da-b7122c535e72",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review findings to ensure outputs satisfy all design inputs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "721c6e65-84cd-4f19-b24a-57ab0f4a2568",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Approval of Verification:"
+        }
+      ]
+    },
+    {
+      "id": "fbaf9141-4f85-49ce-b359-f37de2dfdac0",
+      "type": "li",
+      "children": [
+        {
+          "id": "a432b804-b503-490d-8635-c6f3bde65aeb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain QA and regulatory sign-offs to confirm successful verification before proceeding to validation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82f83e1c-5d59-4f32-bc3e-c23595da1e5b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bc765534-3564-445d-af5a-96529ddaea37",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.6 Design Validation"
+        }
+      ]
+    },
+    {
+      "id": "e8c28a5f-f2d6-476a-988c-7e362019fa8c",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Develop Validation Protocol:"
+        }
+      ]
+    },
+    {
+      "id": "c6440e81-ce24-4885-ac4d-045d5c620c84",
+      "type": "li",
+      "children": [
+        {
+          "id": "acfc80a9-fa38-4b8d-b9c6-ef9bc38490e6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define test methods, acceptance criteria, and parameters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e3c5f06-3bc0-4859-937e-016103aa4c85",
+      "type": "li",
+      "children": [
+        {
+          "id": "945f3a6f-f7b8-4d94-b803-1ae0269fbe3a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Plan validation under actual or simulated end-user conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8080ed3-4d3f-47cb-83cf-8e6b3ee97e2a",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Conduct Validation Testing:"
+        }
+      ]
+    },
+    {
+      "id": "845fba74-1fa6-4846-ad4f-19544d8c85fa",
+      "type": "li",
+      "children": [
+        {
+          "id": "35959ac8-57b5-4871-9138-a0b4429ed51f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform tests according to the "
+            },
+            {
+              "bold": true,
+              "text": "Validation Protocol"
+            },
+            {
+              "text": ", focusing on real-world functionality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f2a7711-e059-4f92-9b81-8c001c379757",
+      "type": "li",
+      "children": [
+        {
+          "id": "a656dcbd-c7a1-4252-8e83-9e7af9982960",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Engage end-users in validation testing when applicable to capture usability feedback."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7557e01b-c297-4bf0-8df7-018c157bab9e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Document Validation Results:"
+        }
+      ]
+    },
+    {
+      "id": "f3d2b312-33a7-492e-a5d2-f5eb3ea4e291",
+      "type": "li",
+      "children": [
+        {
+          "id": "66120845-5f23-4a86-a9c3-afe7b20cdac2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Compile findings in a Design Validation Report, summarising test methods, results, deviations, and conclusions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b71d888-54b1-49e8-9166-7513914b0e3e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Approval of Validation:"
+        }
+      ]
+    },
+    {
+      "id": "1ceaa406-2230-4e91-9938-f2dfc563ab14",
+      "type": "li",
+      "children": [
+        {
+          "id": "bb1573fd-dbdc-4347-aaae-a9147d797938",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain final sign-off from management, QA, and regulatory to approve the validated design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cadd34c5-c1c3-42dc-bdda-6f698519f2d0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "53e43f90-f10b-424f-b086-07b7aef125dc",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.7 Design Changes"
+        }
+      ]
+    },
+    {
+      "id": "ede6ef84-6796-4a10-a633-a37067f742f1",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Identify and Document Changes:"
+        }
+      ]
+    },
+    {
+      "id": "fc2cbcfb-7b0c-45cc-b3f5-98254be0dfe7",
+      "type": "li",
+      "children": [
+        {
+          "id": "6d9fc7dd-602d-4383-9e53-3a67562e96d8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record any changes made to the design in a Design Change Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08fed377-e773-425a-a093-862672f871eb",
+      "type": "p",
+      "children": [
+        {
+          "text": "Include rationale, impact assessment, and sign-off requirements."
+        }
+      ]
+    },
+    {
+      "id": "b3b45243-d0e5-4472-add3-8589430fc068",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Review and Approve Changes:"
+        }
+      ]
+    },
+    {
+      "id": "1c5481c0-888a-462d-8581-cb80d8ab256d",
+      "type": "p",
+      "children": [
+        {
+          "text": "Conduct a review of the design change impact on inputs, outputs, and existing validations."
+        }
+      ]
+    },
+    {
+      "id": "165439bf-86af-47e4-8e13-e6c3821a754c",
+      "type": "li",
+      "children": [
+        {
+          "id": "0d42f0c8-f613-408b-8d2a-874acfbd9237",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain approvals from relevant stakeholders before implementing changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ba38a4c-dbb8-4343-8e08-d9dfd7a3bd2d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ba1342ef-9550-4f1f-8f9e-ee8ae37f8c15",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.8 Design Transfer"
+        }
+      ]
+    },
+    {
+      "id": "cd7cd859-5a05-4e84-9b65-b5d786e77272",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Prepare Design History File (DHF):"
+        }
+      ]
+    },
+    {
+      "id": "5412dc8c-b1bf-41b0-bb0f-85aa91fab45e",
+      "type": "li",
+      "children": [
+        {
+          "id": "459b8470-d19d-4518-a3b7-1be966d89952",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assemble all design documentation (e.g., DRS, DOS, reports) into a **Design History File (DHF)**."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8365ed8-15c4-49d0-9f45-9a782fb6e825",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Approval and Transfer to Production:"
+        }
+      ]
+    },
+    {
+      "id": "68385cf1-1da3-49a2-853c-4f43b20acbbd",
+      "type": "li",
+      "children": [
+        {
+          "id": "6685b98d-d042-485e-a93a-17b01634e73f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct a final design transfer review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd9678aa-397f-47f6-a931-1310c757ef5d",
+      "type": "li",
+      "children": [
+        {
+          "id": "477bcb5f-a112-4e10-a98d-cd8ef97b4cc5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Obtain management approval to transition to production."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb3a4263-c1f7-4d35-8d3d-4dc582493a45",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7d828c70-7677-45c5-813f-b3cf329f5169",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Documentation"
+        }
+      ]
+    },
+    {
+      "id": "2b170864-063f-4d6c-ac0b-073a6fb6d01e",
+      "type": "li",
+      "children": [
+        {
+          "id": "46ae0b23-e8ae-4255-9f7e-06f090f52e54",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design and Development Plan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28e28476-f7e0-4ebd-9dc8-00fb78e808c8",
+      "type": "li",
+      "children": [
+        {
+          "id": "97e2f60c-f14b-4fbd-9559-c4be2740fe48",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design Requirements Specification (DRS)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b811c051-1cb6-4140-b2ad-d682ab54d401",
+      "type": "li",
+      "children": [
+        {
+          "id": "d9c05ba1-c29b-489f-88cb-280103bbe577",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design Output Specification (DOS)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f327b58e-a645-4b19-914a-2975e3ffc4b2",
+      "type": "li",
+      "children": [
+        {
+          "id": "2827b634-ab6e-40d0-afd5-315df06379f1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design Review Checklist and Report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9cc1320c-6ad3-4f84-a5d1-47bffd331442",
+      "type": "li",
+      "children": [
+        {
+          "id": "cebbcf74-3cf4-43b8-a3ff-819c64acb31e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design Verification Protocol and Report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73efbca7-dfbd-4d21-b59c-cb68a3ea7015",
+      "type": "li",
+      "children": [
+        {
+          "id": "c669d44c-0560-496a-a733-1f5cd1b6d68b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design Validation Protocol and Report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f0ffa08-019d-44f7-9d8f-e23d34249c1f",
+      "type": "li",
+      "children": [
+        {
+          "id": "f2aa137b-a817-40df-bd09-72d5802d2076",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design Change Log"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "169224ac-8a2a-439d-8d8a-e517756a7d10",
+      "type": "li",
+      "children": [
+        {
+          "id": "64ce426f-b1ee-4a47-b932-d8afd321f231",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Design History File (DHF)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ede9918e-f01b-4b66-8dc9-451fbffe4bed",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b4d84a9c-ba3e-460b-9cf8-cf826b3e2b08",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. References"
+        }
+      ]
+    },
+    {
+      "id": "aa82a790-cb59-465d-a95e-67eebd724803",
+      "type": "li",
+      "children": [
+        {
+          "id": "0ad3a223-c857-4c5a-bcf0-595780c52152",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485: Medical Devices — Quality Management Systems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94299602-5c2e-414c-a3a1-25986a9081e0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

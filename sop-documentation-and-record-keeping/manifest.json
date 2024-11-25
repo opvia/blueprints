@@ -1,0 +1,17 @@
+{
+  "id": "sop-documentation-and-record-keeping",
+  "version": 1,
+  "name": "SOP - Documentation and Record Keeping",
+  "description": "",
+  "entities": [
+    {
+      "id": "aa88e087-9577-461f-984a-814f76f2f6c6",
+      "type": "DOCUMENT",
+      "title": "SOP - Documentation and Record Keeping",
+      "source": {
+        "id": "5a81c1f3-a1eb-4795-801b-e4d1758b5bd6",
+        "version": "1"
+      }
+    }
+  ]
+}

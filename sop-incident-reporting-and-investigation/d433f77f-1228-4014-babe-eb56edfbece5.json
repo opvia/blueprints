@@ -1,0 +1,1595 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "d433f77f-1228-4014-babe-eb56edfbece5",
+  "title": "SOP - Incident Reporting and Investigation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "6e19b363-77de-4e2f-b897-b8726bf95a0b",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "68d1ce3a-226d-4566-b917-86a701825bd9",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "9315f720-3af9-4d29-a0f2-9a2af585331e",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "b529e32b-0d6b-476d-b68f-31900aa1a875",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "08558cf6-ca6b-4a67-8226-0066beaab73c",
+      "type": "field",
+      "fieldId": "b529e32b-0d6b-476d-b68f-31900aa1a875",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "63344ec3-8027-4abc-b23a-296789ee6f3b",
+      "type": "field",
+      "fieldId": "9315f720-3af9-4d29-a0f2-9a2af585331e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "71b1f6fb-63d3-45a1-a86a-21a25f41ae2c",
+      "type": "field",
+      "fieldId": "6e19b363-77de-4e2f-b897-b8726bf95a0b",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "386df749-3f1a-462f-9d0c-6303e40498a5",
+      "type": "field",
+      "fieldId": "68d1ce3a-226d-4566-b917-86a701825bd9",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1f592fe5-4957-42c9-9a4b-963e4040a784",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b26cce36-3643-4bd5-8b81-9ee089862757",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "11b25a7d-6cc7-45a9-bbcd-9f4f2b4b7f7f",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines the procedures for promptly reporting, documenting, and investigating incidents in the laboratory to ensure safety, compliance, and continuous improvement of lab practices."
+        }
+      ]
+    },
+    {
+      "id": "ff3065e7-dc40-4b36-a20e-4377333c96b7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad5982a6-a8d7-4df4-9534-a2798f05de91",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "2824eb7e-27d4-42a1-a753-91f086419f14",
+      "type": "p",
+      "children": [
+        {
+          "text": "This procedure applies to all laboratory personnel and covers any incident or near-miss involving safety, equipment, chemicals, biological agents, or procedural breaches in the lab."
+        }
+      ]
+    },
+    {
+      "id": "d8c8be7a-64e7-4e37-a827-86973ef6254a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "95ed56c7-9296-454d-bbdc-f5e6635af37e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "336fada0-005a-4c9f-a1c0-6e005b2d8092",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e3b0b4b8-8d93-457b-b37d-db9e26b473d6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Incident"
+        }
+      ]
+    },
+    {
+      "id": "b5364308-349d-4373-8ee0-f92bf3fab607",
+      "type": "p",
+      "children": [
+        {
+          "text": "Any unplanned event that could lead to injury, illness, damage to property, environmental harm, or interruption of laboratory operations."
+        }
+      ]
+    },
+    {
+      "id": "08f48613-41dc-4fc5-9192-887d05edc19a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Near-Miss"
+        }
+      ]
+    },
+    {
+      "id": "33ef4a13-84cb-4b27-9607-576c0480b04d",
+      "type": "p",
+      "children": [
+        {
+          "text": "An event that could have resulted in an incident but did not, due to timely intervention or good fortune."
+        }
+      ]
+    },
+    {
+      "id": "0417381b-c7a3-478c-8de8-805daac783c5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Investigation"
+        }
+      ]
+    },
+    {
+      "id": "e7e99d1f-7bb8-4e48-8cd2-4ebad70eb33f",
+      "type": "p",
+      "children": [
+        {
+          "text": "A systematic approach to determining the root cause of an incident to prevent recurrence."
+        }
+      ]
+    },
+    {
+      "id": "05105483-8969-4148-8ad7-2063c874db73",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e0d052e1-08c5-4ee6-b5d0-54d4844bb22d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "c47c0d61-0779-4dd8-9f99-42bcb528a237",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Laboratory Personnel"
+        }
+      ]
+    },
+    {
+      "id": "ddd446c1-27f3-4f06-a97a-e0b79d6c3912",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ef4b04f3-8954-4734-bffa-73af7feadaa6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Immediately report all incidents and near-misses to the Lab Supervisor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28d71f2c-4ebe-419a-aab2-3a1fe073c0d3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c011d684-175c-442f-846f-d7f3d997985f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Complete the Incident Report Form."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76feb7d8-d35d-4c97-b820-c5e953c90455",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Supervisor"
+        }
+      ]
+    },
+    {
+      "id": "8e27a2b9-46ae-4e69-bd28-6b0e291b23f3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "690a5524-403c-407b-a2b7-65ae050a2740",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure incident reporting procedures are followed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18efc253-4e97-466b-bc35-c1b0ea5296d5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0664006b-7a39-47cc-acde-20ad61c12535",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Initiate investigations and implement corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdee5c9a-ff99-4723-a3de-6d1bf1ac32d8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Safety Officer"
+        }
+      ]
+    },
+    {
+      "id": "fe031b62-0cb6-4217-ba2a-64ea83858cf4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6d5faece-f660-40ce-9377-9d34092bf1e9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Oversee the investigation process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1dbee54-2f40-4348-b09a-d2102f3ca797",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cf83202f-7151-435e-b961-b66e698a4f61",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review all Incident Reports and ensure compliance with safety regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d24a97e2-716e-4c7b-87cb-a45a414348d6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Management"
+        }
+      ]
+    },
+    {
+      "id": "380ec39c-7e52-41fe-953a-5b148278f1f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc108cf0-8ed4-430f-bb88-96c40269a792",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Approve corrective actions and review investigations for necessary changes to lab policies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb9d2792-d109-484c-9684-c3ca01f06484",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6bd6319a-5365-4d4b-a654-df1bf2ace723",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Incident Reporting Procedures"
+        }
+      ]
+    },
+    {
+      "id": "21a34c33-022b-4fd3-9794-52a3011a4d8e",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1d728931-779a-441e-9281-1c6ad659ac55",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Immediate Actions Following an Incident"
+        }
+      ]
+    },
+    {
+      "id": "10732bf4-931d-4329-8802-3c35b0171854",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Ensure Safety First"
+        }
+      ]
+    },
+    {
+      "id": "6c2cfd43-5adc-4565-942e-077597ace5fb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d1c83d39-3673-4fd6-8f5d-16bc20f5f8dd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "In the event of an injury, accident, or hazardous exposure, ensure the immediate safety of all personnel. Use emergency equipment such as eyewash stations, safety showers, or first aid kits as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46428d31-2677-4241-b1a9-e63a94435131",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Evacuate if Necessary"
+        }
+      ]
+    },
+    {
+      "id": "8c52fa0f-5247-4ea9-853e-05c82af0efa5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0dde0093-2306-4dc9-8854-4066a6a1bf5b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For chemical spills, fires, or major equipment malfunctions, evacuate the lab and secure the area to prevent further harm. Alert others in the vicinity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e337f7e3-b6cc-42c1-8563-13ab003461c7",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Report the Incident"
+        }
+      ]
+    },
+    {
+      "id": "3425a7b6-2ccb-49dd-bee5-fd83fa07f361",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "76fd39a3-3cda-4444-b078-f0f418f4c525",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report all incidents, including accidents, near-misses, or equipment failures, to the Lab Manager or Safety Officer immediately, regardless of severity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45e86566-0a37-4334-bee2-bdd392af73bf",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2599fe88-78a2-4dd8-9464-82c094dff7da",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Completing the Incident Report Form"
+        }
+      ]
+    },
+    {
+      "id": "52a98463-18b2-4630-8e35-9777882265dc",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Incident Details"
+        }
+      ]
+    },
+    {
+      "id": "31991765-4f7d-4d04-bb5d-07d35055df08",
+      "type": "p",
+      "children": [
+        {
+          "text": "Include the following in the Incident Report Form:"
+        }
+      ]
+    },
+    {
+      "id": "ea870852-ef41-4160-8e6c-f8b4793fcaf9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "08012c55-10a0-4f8f-b319-1967bc6fe532",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Date and time of the incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b6a1e6f-e341-4be9-922e-ebf08a3625d8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c2a9aa73-b3ed-4dc8-9a30-ccbb9cc333e6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Location of the incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d6fc730-2fa4-4546-be63-6c9467fe9745",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3c82adc7-24eb-4609-bc8c-43d93eaf2c6a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Description of the incident, including what happened, equipment involved, and any substances or materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebad5c5c-af9a-4c82-baf0-3adce14d658f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0f69d1ad-eba7-419b-9edf-2b37a284ceb1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Names of affected personnel or witnesses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80780ff8-fd45-4992-a941-b825d464741f",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Immediate Response Actions"
+        }
+      ]
+    },
+    {
+      "id": "b4a28268-01f6-49c5-917d-1024452a3a03",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5b028402-0eb3-485b-a3e3-a4b409fa2e61",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document any immediate actions taken, such as first aid, equipment shutdown, or spill containment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc7d64fa-2433-4279-a85e-1d235eec20c6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Submission of Report"
+        }
+      ]
+    },
+    {
+      "id": "1e07372e-afb6-4cbe-8660-dd9d3e3e96af",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "206f4c73-1dac-47b4-8d48-9e794c0f0f72",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Submit the completed Incident Report Form to the Lab Manager or designated Safety Officer within 24 hours of the incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d978e736-8978-4ead-a916-06eb35185af0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "00838744-7655-481f-b560-96fa784fd160",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Incident Investigation Procedures"
+        }
+      ]
+    },
+    {
+      "id": "e72a6af1-3ec5-4d9c-8919-866898ecf036",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bb74646d-836d-4950-aa77-2867b0115db1",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Investigation Initiation"
+        }
+      ]
+    },
+    {
+      "id": "44c77f80-9749-4da2-bf39-e945e50702ff",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Assigning an Investigator"
+        }
+      ]
+    },
+    {
+      "id": "c6a5fce1-04e5-4672-a470-dac3e4794326",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3523e8b4-693d-4677-8424-58922c34f862",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Lab Manager or Safety Officer assigns an investigator (e.g., Lab Supervisor, Safety Officer, QA Officer) to lead the investigation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7cb6533-4a98-4a5c-ba5d-3795467a1715",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Investigation Timeline"
+        }
+      ]
+    },
+    {
+      "id": "8ce00cf5-fac4-48d4-951b-1823200c642b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6be5da80-7974-478c-a117-c846781c33a1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Begin the investigation within 48 hours of reporting to ensure accurate information collection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b097aaca-ac1a-408c-af8f-415ae37e6567",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1859f943-064f-43b5-8849-09e0724bc593",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Data Collection"
+        }
+      ]
+    },
+    {
+      "id": "20c2f582-0074-4af4-80e9-af8713002cfc",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Witness Statements"
+        }
+      ]
+    },
+    {
+      "id": "0264e4f8-3568-4e5d-8d39-db41758362eb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e0c33a1e-c02e-4613-85fe-b841d5ebc3d9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Interview personnel involved or witnessing the incident. Document statements about what they saw, heard, and did before, during, and after the incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e47bfe12-ad5d-4960-9930-8c6172c0f55c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Inspection of Incident Site"
+        }
+      ]
+    },
+    {
+      "id": "52d7b1a1-be5f-42ff-b805-e6e05293591d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bcb7ad62-0796-4cf0-b947-fc368a9ef077",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Inspect the incident site for environmental factors, equipment malfunctions, or procedural issues. Take photographs if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26bedb9b-9a74-4376-8bc3-a657790395f5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Document Review"
+        }
+      ]
+    },
+    {
+      "id": "a5a40e52-d604-4cf7-9882-0c9e2c6807f4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ca615359-8f51-42cb-8c95-3eb7bb9591e0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review relevant SOPs, training records, equipment maintenance logs, and safety data sheets (SDS) to identify potential procedural deviations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce5af70-335d-4648-8234-d727c15670ba",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1ed3de65-5a58-45bd-b057-07821e0c4a84",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Root Cause Analysis (RCA)"
+        }
+      ]
+    },
+    {
+      "id": "943b6881-45c4-4e0e-b0b4-0758bb656770",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Identify the Root Cause(s)"
+        }
+      ]
+    },
+    {
+      "id": "b51ea29b-e5ed-446a-a61f-df464c37b1b4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "306bda9a-eea3-43df-a37d-c5351b34c50b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use methods such as \"5 Whys\" or Fishbone Diagrams to determine underlying factors contributing to the incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cf62a7d-ae5e-4935-890c-d5dc371345ab",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Determining Contributing Factors"
+        }
+      ]
+    },
+    {
+      "id": "5cccb702-6df5-451b-a8df-e7ccb3ee2c87",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "563acb71-09e1-44ec-ab3a-9a3bbebffafe",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Identify contributing factors such as inadequate training, procedural failures, equipment malfunctions, or environmental conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4df10f5-be95-4f37-84dd-75980352a7a6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Record RCA Findings"
+        }
+      ]
+    },
+    {
+      "id": "946bd577-aa09-4e85-9c3e-ae93e963bb39",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0253aee0-3df8-4b3e-a6b2-95cc6c354867",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document findings in the Incident Investigation Report for a clear understanding of what led to the incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81f9f149-9b0d-44f9-b489-7fa25b811834",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "43c45f41-708a-4ed0-96b7-afea37830a21",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.4. Developing Corrective and Preventative Actions (CAPA)"
+        }
+      ]
+    },
+    {
+      "id": "812e4aec-3447-4961-9474-c16072558dde",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Corrective Actions (CA)"
+        }
+      ]
+    },
+    {
+      "id": "60fdb470-f040-4aaf-a768-68531ae278d7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6979959a-7c1a-4210-9033-41d77fa3e917",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Address immediate issues identified in the RCA, such as updating procedures, retraining personnel, or repairing equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f0b5089-4d12-4d0f-a920-729b83d2d9a6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Preventative Actions (PA)"
+        }
+      ]
+    },
+    {
+      "id": "9122994d-6a49-471c-97c2-15e4021cfcbb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "75e026a1-b1a2-461b-b611-938c584a7299",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Implement measures to prevent similar incidents, such as process modifications or regular maintenance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8f5b4d8-9a73-4823-960a-b7eb4516640f",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Action Plan Approval"
+        }
+      ]
+    },
+    {
+      "id": "6f812551-0945-44e9-9e93-d6698c3a89a3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aabc633d-f1c4-45fa-b8eb-294fed82fab9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Lab Manager or QA Officer must review and approve CAPA measures before implementation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "860378d1-66dd-4271-9e7a-8f281b016392",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7713ff03-3d70-4847-8389-7b360de5d42e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Implementation and Follow-Up"
+        }
+      ]
+    },
+    {
+      "id": "934552f4-f218-4576-8fa6-3726521c7e26",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "125c2f80-af84-491b-a57e-eb815c769f71",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Action Plan Implementation"
+        }
+      ]
+    },
+    {
+      "id": "497d0a89-f001-4f05-911e-24fbfc37fee6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Timeline for Completion"
+        }
+      ]
+    },
+    {
+      "id": "48016016-4a5b-4885-b894-1df7996884c1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7750b26b-2700-43d0-9251-dd82cb005e64",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assign personnel and establish timelines for completing each CAPA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58cb9efa-fb73-4fdb-8258-fb7dc9933b8f",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Implementation Verification"
+        }
+      ]
+    },
+    {
+      "id": "78ec18f4-4bc7-42ef-9286-839476e5beec",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bab085fa-517e-414f-8502-9d56c0d6d3e1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Lab Manager or QA Officer verifies completion and documents dates in the Incident Investigation Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5fa15e04-30df-4ab7-94c7-ab1bc568a634",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ece5aa2b-bfb5-4f30-b5f4-bfe8547b922c",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Follow-Up and Monitoring"
+        }
+      ]
+    },
+    {
+      "id": "72c90cb0-5145-4463-9d91-27bfb3ebc84e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Effectiveness Review"
+        }
+      ]
+    },
+    {
+      "id": "4e2b37ee-294d-4797-8639-214fdb39e749",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5774175b-da80-4ae7-b488-418b90696dc0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitor the effectiveness of CAPA over time, including follow-up inspections and audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ad0ea56-7df7-4fe8-97dc-f03444ed3c38",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Adjustments if Needed"
+        }
+      ]
+    },
+    {
+      "id": "5f8fffaa-18a7-412d-af62-26d4131a64e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b6284257-4df6-46a9-8a34-168833de46af",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Modify the action plan if initial measures are ineffective and continue monitoring improvements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0048d553-5292-46ed-bb5f-c63f8741effe",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4d31d1bf-c079-44a5-af35-7f5be3294e8c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Record-Keeping and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "85db9a72-b5f6-4aa3-a9e3-00b69c4114b9",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a6c17e37-4852-4820-ba42-b1f5c422013d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.1. Incident Reporting and Investigation Records"
+        }
+      ]
+    },
+    {
+      "id": "74598313-46f5-4ec7-8f01-33837d48d2b8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Incident Report Form"
+        }
+      ]
+    },
+    {
+      "id": "a4678b7f-07eb-4c92-95fb-6bb0d3de5d4b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9b155861-d212-4b95-a778-fc0b5fa77c24",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain a centralised file or electronic system for all Incident Report Forms, including near-misses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "003ebfa7-e9b9-4679-a848-5a883727c44b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Incident Investigation Report"
+        }
+      ]
+    },
+    {
+      "id": "574784f3-dd07-4ef5-8b6e-2f053633efc2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c3fe9baf-2e6a-42a6-a5b9-1d3a76625492",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain completed Investigation Reports, including all data collected, root cause analysis, and CAPA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0855fa18-40eb-4f21-b8c0-73a68c730ab8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c589539e-7534-4930-adb6-4a17c850d7c4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.2. Retention Period"
+        }
+      ]
+    },
+    {
+      "id": "cf0405e3-978d-41fa-b4c6-07702b8f49e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a0d4fb5f-dbd4-4587-b1a0-9f2ad6e872f8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain all records for at least five years or as required by institutional policies and regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f04d997c-83b1-4b90-8f13-a933cdfe5011",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1071c543-8f17-4a8e-b835-fca238593277",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Training"
+        }
+      ]
+    },
+    {
+      "id": "bdba3148-883b-4361-994c-2e6f6161ed18",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "744daff8-b240-40c8-b156-fe5cb162eb44",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "c0c25b62-7aa5-4e14-a5f2-2d3dfd80c776",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "24e3cc0a-96e0-4c07-985b-0e837aa9ff65",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Train all personnel on incident reporting and investigation procedures, including:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e563484-5df2-4e77-9d96-39c700a0e272",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "d1f57aac-1603-4beb-a204-40cc9201a2f5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Recognising and reporting incidents and near-misses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e98c5eb5-4e23-4c5f-8ac4-17c963ec3566",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "3a1316ec-9d24-4a3d-b504-114f549cfe89",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Completing the Incident Report Form."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e77f0d3f-b0e7-4988-b8e5-5433bdcb948d",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "fb7bd3cb-9dcf-4d0d-99bc-5aef15f423bf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The investigation process and individual roles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c25ade0e-2ea0-41bf-bebc-9e178654bf79",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "054cabda-0125-4bc2-b277-e03328a5d2a8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "57838587-5dba-4b4a-9b2e-f53adc55de51",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "94eced0f-5546-44c2-a314-03de269f1b94",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual refresher training and maintain training records for audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce9e47f1-505f-47a1-b66a-320d9b4596b1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4ecc4007-2b90-4261-89b9-cb372003114b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Confidentiality and Non-Retaliation"
+        }
+      ]
+    },
+    {
+      "id": "70dbfe05-b927-427e-a6f6-774246225f79",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "880ae5f9-db3f-4c33-8259-d2b954c04285",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. Confidentiality"
+        }
+      ]
+    },
+    {
+      "id": "8b7389bd-4de2-4b75-9db5-9c3e2e02c5ff",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Protected Information"
+        }
+      ]
+    },
+    {
+      "id": "7c2d602c-c6ca-49fa-8530-dc6ecf35e5f5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3632e19-f222-4db5-a090-5591d6607360",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Incident reports, investigation records, and findings must remain confidential and accessible only to authorised personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52a36590-4c8d-4e24-b2ee-c79437ab854a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f215273c-e0cf-4168-b2d0-40de5dace7d9",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. Non-Retaliation Policy"
+        }
+      ]
+    },
+    {
+      "id": "ddb31cd9-5a3f-4ac9-ad2c-f10b8e5fd802",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dd9c9956-32a5-4974-97d4-7a49bf21cf1f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Encourage personnel to report incidents and near-misses without fear of retaliation. Retaliation will result in disciplinary action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c316e6d4-ae7c-40ae-8330-fd45bcef1a90",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2dd67288-ec77-44d8-89fe-afaf27a2086c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. References"
+        }
+      ]
+    },
+    {
+      "id": "f7f8b64f-5fce-4acf-acd8-b9f3498ec48d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "138d7896-6aa3-42f4-bd24-2db59e8863f8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Occupational Safety and Health Administration (OSHA) Incident Reporting Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54b60e79-c986-41f7-8003-749c5bd38201",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "938d792d-8781-4200-919a-d380344a25f2",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Institutional Health and Safety Policies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f43c959-284c-481c-b698-238817d03dd0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b5bf6e22-cfc6-4ff5-8393-7d4b1b55f6b5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

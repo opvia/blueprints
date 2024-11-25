@@ -1,0 +1,17 @@
+{
+  "id": "sop-design-and-development-procedures",
+  "version": 1,
+  "name": "SOP - Design and Development Procedures",
+  "description": "",
+  "entities": [
+    {
+      "id": "a5bc7567-20ac-4daf-93d4-40c2751ba480",
+      "type": "DOCUMENT",
+      "title": "SOP - Design and Development Procedures",
+      "source": {
+        "id": "acb846d8-9c16-46f4-a55b-477a40f6e5e3",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ea00cc94-edcd-45cd-9b73-b545fb37cd1b",
+  "title": "Risk Management Measures",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Fill out the appropriate measure to manage risk of the article. Use Document view to fill out article details.",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Risk Quantified By": {
+        "id": "b0c993b4-7cf1-44bb-b5de-25bfa5712c24",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Risk Quantified on": {
+        "id": "ea1f836b-ade1-4269-b09d-f17f02c2a252",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Reference SOP if Applicable": {
+        "id": "32aea50d-2bae-448c-b6f0-c747b67f7f62",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Reference File if Applicable": {
+        "id": "4d4ee395-b3da-422c-a534-f13c84e2bb8b",
+        "type": "UPLOAD",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "UPLOAD"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "ffcc959e-7410-4999-868e-81f0ce5cf8a1",
+        "type": "field",
+        "fieldId": "32aea50d-2bae-448c-b6f0-c747b67f7f62",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "65c7e767-3d2b-4f42-bceb-8b1e6841b304",
+        "type": "field",
+        "fieldId": "b0c993b4-7cf1-44bb-b5de-25bfa5712c24",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "872fca34-fe0a-4a4f-82ca-934a2eb396de",
+        "type": "field",
+        "fieldId": "ea1f836b-ade1-4269-b09d-f17f02c2a252",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f1394e6e-4c88-49dc-81de-6fd5cfe9714d",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Risk management relating to human health (workers or consumers)"
+          }
+        ]
+      },
+      {
+        "id": "30e684d5-4152-47cc-a11c-6b56ff68c359",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Type and effectiveness of single options or combination of options on exposure."
+          }
+        ]
+      },
+      {
+        "id": "db0c7abe-5886-4edf-932b-4731eb9f1a7a",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "- Specify oral, inhalation and dermal routes"
+          }
+        ]
+      },
+      {
+        "id": "fb375ba9-cea9-4f49-b440-2faa0613d4a2",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c5b728fe-5899-4939-bf6c-815dab05c4c6",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "420a06f1-d7cd-4e7f-9e24-45bff9a692e7",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Risk management relating to the environment"
+          }
+        ]
+      },
+      {
+        "id": "2fe9ab4f-f61b-42d5-b4a5-9f34ab7a060a",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Type and effectiveness or single options of combination of options"
+          }
+        ]
+      },
+      {
+        "id": "7cbf1a72-3d74-48ba-aced-1fc9db801b88",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": " - Specify for waste gases, waste water, protection of the operating environment and natural resources (e.g. soil, rivers)"
+          }
+        ]
+      },
+      {
+        "id": "9adf5d17-f089-4302-a8bd-2745ed582a46",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "ceacb65a-e59e-43e8-bd9e-cf91d2f460e5",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "fc885d4b-be1b-4316-8a41-ae5f10434f3f",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Waste management measures"
+          }
+        ]
+      },
+      {
+        "id": "47d4cf34-0c87-4e59-9d86-0eca6ab9a42f",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Include details at different cycle stages of the substance"
+          }
+        ]
+      },
+      {
+        "id": "6c8711a4-8fb2-4253-8534-fa591031f50f",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "- Preparation and use of the article, as well as disposal of the products after use of the article"
+          }
+        ]
+      },
+      {
+        "id": "0d7f0da1-e90a-48dd-a41d-b22ddbf912d9",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f277bf53-ccd1-4516-8846-a67fa25ddc1b",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4e5987f0-a3c4-4276-bc60-fb402424c5fa",
+        "type": "field",
+        "fieldId": "4d4ee395-b3da-422c-a534-f13c84e2bb8b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "cee83d84-f9d4-40dd-b75c-bece147054dc",
+        "type": "FIELD",
+        "fieldId": "b0c993b4-7cf1-44bb-b5de-25bfa5712c24"
+      },
+      {
+        "id": "562922fb-6048-4722-b31f-702be5bcdde9",
+        "type": "FIELD",
+        "fieldId": "ea1f836b-ade1-4269-b09d-f17f02c2a252"
+      },
+      {
+        "id": "a6e215dd-05f4-42b7-9cc5-23240038093b",
+        "type": "FIELD",
+        "fieldId": "4d4ee395-b3da-422c-a534-f13c84e2bb8b"
+      },
+      {
+        "id": "5139b38d-e332-4550-a7ae-93010307fe8f",
+        "type": "FIELD",
+        "fieldId": "32aea50d-2bae-448c-b6f0-c747b67f7f62"
+      }
+    ]
+  }
+}

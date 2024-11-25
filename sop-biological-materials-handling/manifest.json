@@ -1,0 +1,17 @@
+{
+  "id": "sop-biological-materials-handling",
+  "version": 1,
+  "name": "SOP - Biological Materials Handling",
+  "description": "",
+  "entities": [
+    {
+      "id": "f8a2fd10-4015-4f7f-ae24-38f60bc4e1a7",
+      "type": "DOCUMENT",
+      "title": "SOP - Biological Materials Handling",
+      "source": {
+        "id": "7267169d-28c2-4f24-9485-2f9a9f85fd5b",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sop-electrical-safety",
+  "version": 1,
+  "name": "SOP - Electrical Safety",
+  "description": "",
+  "entities": [
+    {
+      "id": "b82c22cc-4532-4b0d-a4c4-61fa565c2d9f",
+      "type": "DOCUMENT",
+      "title": "SOP - Electrical Safety",
+      "source": {
+        "id": "e842b5f3-c311-4069-9f5c-f0f6bb7b2a5d",
+        "version": "1"
+      }
+    }
+  ]
+}

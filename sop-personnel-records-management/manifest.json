@@ -1,0 +1,17 @@
+{
+  "id": "sop-personnel-records-management",
+  "version": 1,
+  "name": "SOP - Personnel Records Management",
+  "description": "",
+  "entities": [
+    {
+      "id": "4236a2ca-8256-4c87-b872-ae021ec96b83",
+      "type": "DOCUMENT",
+      "title": "SOP - Personnel Records Management",
+      "source": {
+        "id": "03585c1b-df6c-4001-9d63-69a44fa2feec",
+        "version": "1"
+      }
+    }
+  ]
+}

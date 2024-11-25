@@ -1,0 +1,17 @@
+{
+  "id": "sop-risk-management",
+  "version": 1,
+  "name": "SOP - Risk Management",
+  "description": "",
+  "entities": [
+    {
+      "id": "b5d40ffc-bf3a-422d-a85f-f4bd5b4561d9",
+      "type": "DOCUMENT",
+      "title": "SOP - Risk Management",
+      "source": {
+        "id": "e8433c30-056f-4c46-aaba-132f8bb79bde",
+        "version": "1"
+      }
+    }
+  ]
+}

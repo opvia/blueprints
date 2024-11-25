@@ -1,0 +1,17 @@
+{
+  "id": "sop-complaint-handling",
+  "version": 1,
+  "name": "SOP - Complaint Handling",
+  "description": "",
+  "entities": [
+    {
+      "id": "74422c59-469f-468d-bf29-308a9ec8445d",
+      "type": "DOCUMENT",
+      "title": "SOP - Complaint Handling",
+      "source": {
+        "id": "1fe1b3e0-f87d-4009-a372-5f1c8d4e8516",
+        "version": "1"
+      }
+    }
+  ]
+}

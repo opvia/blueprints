@@ -1,0 +1,17 @@
+{
+  "id": "sop-quality-manual",
+  "version": 1,
+  "name": "SOP - Quality Manual",
+  "description": "",
+  "entities": [
+    {
+      "id": "4d2e175b-0944-4ca2-99e4-f97095aaf0fb",
+      "type": "DOCUMENT",
+      "title": "SOP - Quality Manual",
+      "source": {
+        "id": "c2d49c95-f7e8-4968-90a7-30a7b1cd45c4",
+        "version": "1"
+      }
+    }
+  ]
+}

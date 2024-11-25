@@ -1,0 +1,17 @@
+{
+  "id": "sop-reagent-preparation-and-storage",
+  "version": 1,
+  "name": "SOP - Reagent Preparation and Storage",
+  "description": "",
+  "entities": [
+    {
+      "id": "94c95bb4-f5d6-44e4-8677-6c5a18c84053",
+      "type": "DOCUMENT",
+      "title": "SOP - Reagent Preparation and Storage",
+      "source": {
+        "id": "ff1a6cb1-5d38-4e58-bbd3-99ea469f00f4",
+        "version": "2"
+      }
+    }
+  ]
+}

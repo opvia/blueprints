@@ -1,0 +1,17 @@
+{
+  "id": "sop-general-laboratory-safety",
+  "version": 1,
+  "name": "SOP - General Laboratory Safety",
+  "description": "",
+  "entities": [
+    {
+      "id": "af63e2db-fdae-4cc3-9b54-e5bcd386d6c3",
+      "type": "DOCUMENT",
+      "title": "SOP - General Laboratory Safety",
+      "source": {
+        "id": "55d1fe2a-e629-425f-9f65-37697609a418",
+        "version": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sop-patient-confidentiality",
+  "version": 1,
+  "name": "SOP - Patient Confidentiality",
+  "description": "",
+  "entities": [
+    {
+      "id": "2fafcdd9-7f9c-40f2-9715-d00a6b985525",
+      "type": "DOCUMENT",
+      "title": "SOP - Patient Confidentiality",
+      "source": {
+        "id": "ccac9950-887b-481c-9e4d-60d1e4b121d1",
+        "version": "1"
+      }
+    }
+  ]
+}
