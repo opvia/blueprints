@@ -1,0 +1,27 @@
+{
+  "id": "equipment-registration-form",
+  "version": 1,
+  "name": "Equipment Registration Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "e2b7a0ee-ae63-4ea9-9680-6dc80da58813",
+      "type": "PROCEDURE",
+      "title": "Equipment Registration Form",
+      "source": {
+        "id": "66e02cfd-c396-41d6-9fa8-7c7bf2324c49",
+        "version": "2"
+      }
+    },
+    {
+      "id": "b34124fb-b767-4429-ac31-298ff8544108",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Register Equipment Information",
+      "source": {
+        "id": "e331fa45-1484-47a1-a0b7-f012051a0d25",
+        "version": "1"
+      }
+    }
+  ]
+}

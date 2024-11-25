@@ -1,0 +1,57 @@
+{
+  "id": "equipment-maintenance-form",
+  "version": 1,
+  "name": "Equipment Maintenance Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "4067ecb4-532c-4421-bd7d-9d000d3448bd",
+      "type": "PROCEDURE",
+      "title": "Equipment Maintenance Form",
+      "source": {
+        "id": "fa02bd9a-2ccc-4710-b0c9-6d35a111edfb",
+        "version": "2"
+      }
+    },
+    {
+      "id": "6d4310fe-dc0e-4946-bcfe-467245680f94",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Pre-Maintenance Check",
+      "source": {
+        "id": "4fd60a2a-df09-4f4e-81f3-b46fb2f1dbd3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "39a89319-7968-4be2-96b0-f6b3eba993f1",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Maintenance Activities",
+      "source": {
+        "id": "6ae4d22e-ad4c-4234-9e4d-40adcd301153",
+        "version": "1"
+      }
+    },
+    {
+      "id": "328200a9-5291-405a-b137-d4f8bce90e73",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Post-Maintenance Checks",
+      "source": {
+        "id": "8e9e7ed4-691f-4c94-af62-92366e8c686b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "53013de2-2b8c-4379-8661-ac416261d97d",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Issue Reporting",
+      "source": {
+        "id": "6e69e339-4a22-4bb2-80e7-f066d5b7af5b",
+        "version": "1"
+      }
+    }
+  ]
+}

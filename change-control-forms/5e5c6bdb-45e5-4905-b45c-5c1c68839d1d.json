@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "5e5c6bdb-45e5-4905-b45c-5c1c68839d1d",
+  "title": "Change Control Forms",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "ed134c0c-9ee8-4489-94ae-f705f76e0f9c",
+      "step": {
+        "id": "d7e64fea-fbd8-450e-8b68-0bfb6b895b00",
+        "version": null
+      }
+    },
+    {
+      "id": "a2e4f7b3-97cb-4a37-8d38-143f5bb59607",
+      "step": {
+        "id": "5bf8c5ab-31ee-4d1a-bc6d-409d3beaef93",
+        "version": null
+      }
+    },
+    {
+      "id": "355fbc6a-bbbd-41f9-a96d-dbfd631c29a2",
+      "step": {
+        "id": "da9c1baf-976a-4e06-acce-743001e1e2c6",
+        "version": null
+      }
+    },
+    {
+      "id": "7fe519ab-409a-4f40-b291-5be895735058",
+      "step": {
+        "id": "e4d13e30-7b94-4956-82f5-d9683e39e2f3",
+        "version": null
+      }
+    },
+    {
+      "id": "a14ff3a4-c2e8-475c-911e-41229e927c6e",
+      "step": {
+        "id": "8fb0065a-623f-4c79-ad6f-19f65aedc8b9",
+        "version": null
+      }
+    }
+  ]
+}

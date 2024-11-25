@@ -1,0 +1,57 @@
+{
+  "id": "reagent-preparation-and-storage-form",
+  "version": 1,
+  "name": "Reagent Preparation and Storage Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "5bb07e7a-2720-4c19-84a0-6f871ebe579f",
+      "type": "PROCEDURE",
+      "title": "Reagent Preparation and Storage Form",
+      "source": {
+        "id": "24fc893c-e580-4fb5-89b2-62a9bd34bae1",
+        "version": "20"
+      }
+    },
+    {
+      "id": "761604f6-b0a0-4a86-92a5-d30d3183f081",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Reagent Information",
+      "source": {
+        "id": "40f0d61a-9d8f-4e81-80c0-b9bab8c97440",
+        "version": "3"
+      }
+    },
+    {
+      "id": "bdcb1b22-2ccb-4775-bc8c-66246be8f52e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Preparation Procedure",
+      "source": {
+        "id": "1754f365-f802-412f-a3e9-de713b5a01e3",
+        "version": "12"
+      }
+    },
+    {
+      "id": "10fc5e03-10f4-403c-a910-baa9d830e550",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quality Control (QC) Checks",
+      "source": {
+        "id": "58e8c767-6f88-42c4-a104-b8e9b7eb8ea4",
+        "version": "7"
+      }
+    },
+    {
+      "id": "90032d72-9c28-4491-8702-44116cc5ee3a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Storage",
+      "source": {
+        "id": "90fb4026-1067-493b-9165-fa8fee6f8548",
+        "version": "7"
+      }
+    }
+  ]
+}

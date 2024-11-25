@@ -1,0 +1,47 @@
+{
+  "id": "goods-release-form",
+  "version": 1,
+  "name": "Goods Release Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "af588f61-d839-4866-b3c7-aae316b70be9",
+      "type": "PROCEDURE",
+      "title": "Goods Release Form",
+      "source": {
+        "id": "8bd6b4b2-51c0-40b7-8705-8162982bbd65",
+        "version": "5"
+      }
+    },
+    {
+      "id": "2f991dba-8b98-4de6-987c-78cd3cb6d417",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Product Verification",
+      "source": {
+        "id": "82ec8b8e-2856-47af-9674-f73df728687a",
+        "version": "3"
+      }
+    },
+    {
+      "id": "7200ef28-7ad1-48bd-a9ea-c66b0c557861",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Release Authorisation",
+      "source": {
+        "id": "af7b2680-a362-4592-a73e-da9ac9585a79",
+        "version": "4"
+      }
+    },
+    {
+      "id": "19c75ec5-cdb2-49a8-92ca-e7e67c131d3f",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Product Release",
+      "source": {
+        "id": "6f432ca2-ef2a-4820-b1f7-15d30d3feac3",
+        "version": "3"
+      }
+    }
+  ]
+}

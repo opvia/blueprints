@@ -1,0 +1,67 @@
+{
+  "id": "coshh-regulation",
+  "version": 1,
+  "name": "COSHH Regulation",
+  "description": "",
+  "entities": [
+    {
+      "id": "389ed5c7-9be0-4a9f-8234-d13959187100",
+      "type": "PROCEDURE",
+      "title": "COSHH Regulation",
+      "source": {
+        "id": "3f2e95b6-301b-4f7f-9984-49b4613e9213",
+        "version": "5"
+      }
+    },
+    {
+      "id": "244de428-adf3-484c-a32e-ebb77f3cda64",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "COSHH Assessment",
+      "source": {
+        "id": "2a706f84-fcf3-4621-a19f-eaf7f404e517",
+        "version": "4"
+      }
+    },
+    {
+      "id": "722cfb69-2064-4ed8-aa40-a542fdf0359a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Safety Data Sheet (SDS) Review",
+      "source": {
+        "id": "9d03863a-d625-4e11-81e7-39fe45acacdf",
+        "version": "3"
+      }
+    },
+    {
+      "id": "6601eb2d-9fa6-415f-bf8d-a1a505df449a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Control Measure Implementation",
+      "source": {
+        "id": "530e4075-e80b-4f1e-b635-a6c0acf27d97",
+        "version": "3"
+      }
+    },
+    {
+      "id": "df7f7751-7ba1-4301-8724-11f61425bd82",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Health Surveillance",
+      "source": {
+        "id": "f00adcd0-c088-447f-9671-8250ccf3ce2e",
+        "version": "3"
+      }
+    },
+    {
+      "id": "ded38a92-a5c8-4e09-9210-dc000baf6cc8",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Exposure Monitoring",
+      "source": {
+        "id": "d6d4a9ab-62f4-4279-ac9b-c9f7c3b74885",
+        "version": "3"
+      }
+    }
+  ]
+}

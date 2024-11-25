@@ -1,0 +1,67 @@
+{
+  "id": "equipment-installation-procedure",
+  "version": 1,
+  "name": "Equipment Installation Procedure",
+  "description": "",
+  "entities": [
+    {
+      "id": "d89b1cbb-0527-42f8-99dd-6629cde26973",
+      "type": "PROCEDURE",
+      "title": "Equipment Installation Procedure",
+      "source": {
+        "id": "441de431-047f-4b7a-96b6-9a3665b8cfe2",
+        "version": "3"
+      }
+    },
+    {
+      "id": "85127030-6894-4b71-838d-f40eb0f291c7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Equipment Requirements and Utility Assessment",
+      "source": {
+        "id": "653475bd-f2f1-4777-b970-1b3db1728390",
+        "version": "2"
+      }
+    },
+    {
+      "id": "1073e16f-a471-40e1-9536-a1a95504b699",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Installation Qualification (IQ) Protocol",
+      "source": {
+        "id": "8c3170f0-dee6-463b-bdeb-e32ec2a1a12f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ba178526-5209-44b2-9f13-eec439e8f921",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Installation of Equipment",
+      "source": {
+        "id": "b738a5a8-ff6a-4f61-819f-3cf5d2a3d676",
+        "version": "1"
+      }
+    },
+    {
+      "id": "90b85b0e-ee91-4a3f-b91a-f75dcb745e85",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Operational Qualification (OQ)",
+      "source": {
+        "id": "f9adce25-284c-49d2-b5a8-c17b58b55f8e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "cdcc8ca3-e060-4f58-b3b8-d9bb03d64f3e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Performance Qualification (PQ)",
+      "source": {
+        "id": "702f41c4-907a-4b28-905b-0eac144674d9",
+        "version": "2"
+      }
+    }
+  ]
+}

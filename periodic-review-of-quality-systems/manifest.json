@@ -1,0 +1,57 @@
+{
+  "id": "periodic-review-of-quality-systems",
+  "version": 1,
+  "name": "Periodic Review of Quality Systems",
+  "description": "",
+  "entities": [
+    {
+      "id": "81cc2c73-d9d9-4b3d-86c2-1f04f45a13aa",
+      "type": "PROCEDURE",
+      "title": "Periodic Review of the Quality Systems",
+      "source": {
+        "id": "a8793cbb-e7fd-4059-b623-f812cf57e63f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "670587c0-fb98-4aab-b155-3b38b25065c8",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Review Scope",
+      "source": {
+        "id": "8f4d573b-f56d-430f-b41c-2f773fb99d7e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9a595236-d170-4ffe-bf7f-a1d6f9e1a4ce",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Data Collection",
+      "source": {
+        "id": "065b6836-cdd1-4053-b7a5-911fad8f98e9",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2c1915ab-26ed-43bb-a881-947e9b94425b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Non-Conformity Reporting",
+      "source": {
+        "id": "b8d2d0d4-0ce4-4308-8f0b-dfa28590cc9e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9f1276c4-ae67-4964-9c31-c7867a28048f",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Review Summary",
+      "source": {
+        "id": "8ac3621b-a5d6-49c8-accd-10c035369ea3",
+        "version": "1"
+      }
+    }
+  ]
+}

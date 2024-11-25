@@ -1,0 +1,67 @@
+{
+  "id": "capa-creation",
+  "version": 1,
+  "name": "CAPA Creation",
+  "description": "",
+  "entities": [
+    {
+      "id": "b1e67644-e3aa-480d-bc58-2b9d14211ced",
+      "type": "PROCEDURE",
+      "title": "CAPA Creation",
+      "source": {
+        "id": "2ea8bff5-dd14-4aa4-a913-c5b647ee3a82",
+        "version": "2"
+      }
+    },
+    {
+      "id": "9625838f-82b0-4f4c-be30-03cc94d23534",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "CAPA Information",
+      "source": {
+        "id": "7b468cd3-194c-4281-a4e8-3812a95e3eea",
+        "version": "2"
+      }
+    },
+    {
+      "id": "c6ebb4c0-9482-44d4-b5eb-e83dd6f2775f",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section A: Overview",
+      "source": {
+        "id": "af5ee032-6c56-40a7-b1f3-2df85bd8ad4e",
+        "version": "2"
+      }
+    },
+    {
+      "id": "132b73cb-9e48-411e-9a14-50e71efbf467",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section B: Action Plan",
+      "source": {
+        "id": "173b112a-93e1-4ba1-b836-e061d23e5125",
+        "version": "2"
+      }
+    },
+    {
+      "id": "17c9a576-1b98-40d6-9d37-17a7dd88ae63",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section B.1: Action Items",
+      "source": {
+        "id": "7087568d-81c7-4de4-ab8e-9dbf084ac1ca",
+        "version": "2"
+      }
+    },
+    {
+      "id": "3db46881-76d2-4cd9-b501-da1685d1f1d7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Section C: Effectiveness Check",
+      "source": {
+        "id": "357b668f-c08d-4a6f-975e-61866602761b",
+        "version": "2"
+      }
+    }
+  ]
+}

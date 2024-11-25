@@ -1,0 +1,37 @@
+{
+  "id": "cleaning-procedure",
+  "version": 1,
+  "name": "Cleaning Procedure",
+  "description": "",
+  "entities": [
+    {
+      "id": "355f6ad1-ed34-4652-8996-be2175006c05",
+      "type": "PROCEDURE",
+      "title": "Cleaning Procedure",
+      "source": {
+        "id": "c2a24042-ac34-4904-b068-095f28601440",
+        "version": "1"
+      }
+    },
+    {
+      "id": "bc6f78a8-99a4-4082-b932-050fef779ee6",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Cleaning Checklist",
+      "source": {
+        "id": "dcc3a8b7-a325-45c7-b658-bf2590a8a128",
+        "version": "1"
+      }
+    },
+    {
+      "id": "319595ae-dbb7-47ed-bf59-23c2d481a490",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Cleaning Verification",
+      "source": {
+        "id": "0f9d4edc-b501-4de7-84b6-2413db9b827a",
+        "version": "1"
+      }
+    }
+  ]
+}

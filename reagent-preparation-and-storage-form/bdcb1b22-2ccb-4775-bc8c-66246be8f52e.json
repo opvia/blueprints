@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bdcb1b22-2ccb-4775-bc8c-66246be8f52e",
+  "title": "Preparation Procedure",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Reference": {
+        "id": "2e367b3e-861f-4384-86f5-84ba406d79c6",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Reagent Name": {
+        "id": "67f0d71e-151d-41ce-b0c0-3ab504c4c48c",
+        "type": "LOOKUP",
+        "value": null,
+        "config": {
+          "refFieldId": "2e367b3e-861f-4384-86f5-84ba406d79c6",
+          "lookupFieldName": "Reagent Name"
+        },
+        "dataType": "LOOKUP"
+      },
+      "Upload Preparation Procedure": {
+        "id": "15caf79f-b13e-48eb-b5d1-6742c2ff7c2e",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "e85cde90-7e40-49c6-b548-f3b1b117dc4d",
+        "type": "field",
+        "fieldId": "67f0d71e-151d-41ce-b0c0-3ab504c4c48c",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "d771fa2d-cd66-49e7-b8bf-5742bf2b759d",
+        "type": "field",
+        "fieldId": "15caf79f-b13e-48eb-b5d1-6742c2ff7c2e",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "39d34710-8c02-4ab9-af2f-f0af47f4a321",
+        "type": "h2",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "92f18121-52de-4856-b96c-cb27aa0aeb25",
+        "type": "h2",
+        "children": [
+          {
+            "text": "If no procedure can be uploaded, describe the process below:"
+          }
+        ]
+      },
+      {
+        "id": "83c861ff-96fe-4b96-ac9d-0728f094d192",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3b247ac7-4e2a-4ea5-9e5b-800e38352972",
+        "type": "h3",
+        "children": [
+          {
+            "text": "1. Step 1"
+          }
+        ]
+      },
+      {
+        "id": "947d0c90-c095-49e5-a7a3-95b2ba9e7b40",
+        "type": "li",
+        "children": [
+          {
+            "id": "57970b62-eab2-49bb-8576-036d9967f804",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7d0ae376-a77d-4683-9123-f55cc04d45e3",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "56199f17-af08-41cb-8fb4-63be9afea228",
+        "type": "h3",
+        "children": [
+          {
+            "text": "2. Step 2"
+          }
+        ]
+      },
+      {
+        "id": "6db38ca9-f320-47fa-a80b-f438d2189070",
+        "type": "li",
+        "children": [
+          {
+            "id": "e2eea7b1-564e-4e14-8522-2ee9595cc103",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "bfbcb9a9-3751-40b8-a7f2-edb51c93aeaf",
+        "type": "FIELD",
+        "fieldId": "67f0d71e-151d-41ce-b0c0-3ab504c4c48c"
+      },
+      {
+        "id": "44de9f25-c961-4e54-9729-6b699328cd32",
+        "type": "FIELD",
+        "fieldId": "15caf79f-b13e-48eb-b5d1-6742c2ff7c2e"
+      }
+    ]
+  }
+}

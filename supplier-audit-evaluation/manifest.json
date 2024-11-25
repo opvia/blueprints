@@ -1,0 +1,47 @@
+{
+  "id": "supplier-audit-evaluation",
+  "version": 1,
+  "name": "Supplier Audit Evaluation",
+  "description": "",
+  "entities": [
+    {
+      "id": "f22fe30d-5c3a-4622-aba3-1602bd187533",
+      "type": "PROCEDURE",
+      "title": "Supplier Audit Evaluation",
+      "source": {
+        "id": "0a14ccb6-c71c-41d0-a6f7-437265871d36",
+        "version": "4"
+      }
+    },
+    {
+      "id": "ea06561c-15e9-4358-90e6-075defdf83b8",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Supplier Details",
+      "source": {
+        "id": "19f4553b-c528-4c09-8963-eb67beb96e00",
+        "version": "3"
+      }
+    },
+    {
+      "id": "01511ebf-74b1-46c0-880b-d59faac61958",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Supplier Evaluation",
+      "source": {
+        "id": "e0394086-c009-43db-82a5-05e38b3c3d7a",
+        "version": "2"
+      }
+    },
+    {
+      "id": "874c52e1-f396-401a-aaee-15a9a08f6582",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Quality Review",
+      "source": {
+        "id": "2ee99dfd-4a8f-477d-8bed-7cd97ccaeb5d",
+        "version": "2"
+      }
+    }
+  ]
+}

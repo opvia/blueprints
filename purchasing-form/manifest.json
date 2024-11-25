@@ -1,0 +1,27 @@
+{
+  "id": "purchasing-form",
+  "version": 1,
+  "name": "Purchasing Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "106a1780-e888-49ff-80f5-b2b11ff8345c",
+      "type": "PROCEDURE",
+      "title": "Purchasing Form",
+      "source": {
+        "id": "74af0572-c379-4949-aa8d-ca3aed4ace71",
+        "version": "1"
+      }
+    },
+    {
+      "id": "f45261d2-9de9-4682-a799-7a6cc13ac0c0",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Purchase Request",
+      "source": {
+        "id": "fa89c1b3-a4bd-4517-80da-96468072c2e0",
+        "version": "1"
+      }
+    }
+  ]
+}

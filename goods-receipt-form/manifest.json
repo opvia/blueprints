@@ -1,0 +1,27 @@
+{
+  "id": "goods-receipt-form",
+  "version": 1,
+  "name": "Goods Receipt Form",
+  "description": "",
+  "entities": [
+    {
+      "id": "21829607-045b-4ebd-b9ca-1f56ad5f1860",
+      "type": "PROCEDURE",
+      "title": "Goods Receipt Form",
+      "source": {
+        "id": "d2e86c67-6b3b-4178-a8f8-6f253bcaad60",
+        "version": "2"
+      }
+    },
+    {
+      "id": "467a64cf-58c4-4dc6-9996-03eba35906e5",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Goods Receipt",
+      "source": {
+        "id": "1f38dd58-7773-4d7d-9713-6c62fa5ea545",
+        "version": "4"
+      }
+    }
+  ]
+}

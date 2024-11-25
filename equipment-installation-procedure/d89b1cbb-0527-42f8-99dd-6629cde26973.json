@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "d89b1cbb-0527-42f8-99dd-6629cde26973",
+  "title": "Equipment Installation Procedure",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "db0b932f-3c46-4a08-a67d-ef69b5008679",
+      "step": {
+        "id": "85127030-6894-4b71-838d-f40eb0f291c7",
+        "version": null
+      }
+    },
+    {
+      "id": "77b57ada-f61f-4726-b654-40d23b868091",
+      "step": {
+        "id": "1073e16f-a471-40e1-9536-a1a95504b699",
+        "version": null
+      }
+    },
+    {
+      "id": "27b07c50-fa43-4cf9-b946-913a9cd8e809",
+      "step": {
+        "id": "ba178526-5209-44b2-9f13-eec439e8f921",
+        "version": null
+      }
+    },
+    {
+      "id": "f149f9ac-a16a-4144-86b6-cf1c61c7c79d",
+      "step": {
+        "id": "90b85b0e-ee91-4a3f-b91a-f75dcb745e85",
+        "version": null
+      }
+    },
+    {
+      "id": "f7177ff2-78ac-40e8-936a-086960b9096d",
+      "step": {
+        "id": "cdcc8ca3-e060-4f58-b3b8-d9bb03d64f3e",
+        "version": null
+      }
+    }
+  ]
+}
