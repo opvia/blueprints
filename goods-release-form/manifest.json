@@ -2,7 +2,7 @@
   "id": "goods-release-form",
   "version": 1,
   "name": "Goods Release Form",
-  "description": "",
+  "description": "The Goods Release Form authorises the release of products for use, sale, or distribution after successful quality control checks. This form ensures that all products meet compliance standards and specifications, reducing the risk of errors or defective items reaching customers.",
   "entities": [
     {
       "id": "af588f61-d839-4866-b3c7-aae316b70be9",
