@@ -2,7 +2,7 @@
   "id": "customer-complaints-form",
   "version": 1,
   "name": "Customer Complaints Form",
-  "description": "",
+  "description": "The Customer Complaints Form allows organisations to capture, track, and manage complaints effectively. This form facilitates the logging of customer concerns, root cause analysis, and resolution tracking while ensuring customer feedback is used for continuous improvement and regulatory compliance.",
   "entities": [
     {
       "id": "7e43e48e-4695-4bd6-ab58-57292184bb84",
