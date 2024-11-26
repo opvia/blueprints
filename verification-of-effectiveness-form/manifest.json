@@ -2,7 +2,7 @@
   "id": "verification-of-effectiveness-form",
   "version": 1,
   "name": "Verification of Effectiveness Form",
-  "description": "",
+  "description": "The Verification of Effectiveness Form is used to confirm the success of implemented corrective or preventive actions (CAPA). It provides a structured format for documenting tests, evaluations, and observations, ensuring that the actions taken effectively address the root causes and prevent recurrence of issues.",
   "entities": [
     {
       "id": "42f41635-2813-45cf-8337-6288eaf84c74",
