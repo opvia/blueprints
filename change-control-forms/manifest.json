@@ -2,7 +2,7 @@
   "id": "change-control-forms",
   "version": 1,
   "name": "Change Control Forms",
-  "description": "",
+  "description": "The Change Control Form ensures a systematic approach to documenting, assessing, and approving changes to processes, equipment, or documentation within the organization. This form helps mitigate risks associated with changes, maintain regulatory compliance, and track the implementation of modifications to ensure quality and consistency.",
   "entities": [
     {
       "id": "5e5c6bdb-45e5-4905-b45c-5c1c68839d1d",
