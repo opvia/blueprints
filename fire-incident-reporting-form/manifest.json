@@ -2,7 +2,7 @@
   "id": "fire-incident-reporting-form",
   "version": 1,
   "name": "Fire Incident Reporting Form",
-  "description": "",
+  "description": "The Fire Incident Reporting Form provides a detailed structure for recording fire-related incidents. It captures key information such as the time, location, cause, and immediate actions taken, supporting investigations and helping implement preventive measures to enhance workplace safety.",
   "entities": [
     {
       "id": "2991a221-226f-478d-9592-1289ce092db2",
