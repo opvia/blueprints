@@ -2,7 +2,7 @@
   "id": "toxicological-risk-assessment",
   "version": 1,
   "name": "Toxicological Risk Assessment",
-  "description": "",
+  "description": "The Toxicological Risk Assessment procedure provides a framework for identifying, evaluating, and mitigating toxicological risks associated with products, processes, or raw materials. It ensures compliance with safety standards by assessing the impact of hazardous substances and implementing risk control measures to safeguard health and safety.",
   "entities": [
     {
       "id": "a0401a67-7df0-4d06-809d-c2de19ec1b44",
