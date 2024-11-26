@@ -2,7 +2,7 @@
   "id": "cleaning-procedure",
   "version": 1,
   "name": "Cleaning Procedure",
-  "description": "",
+  "description": "The Cleaning Procedure outlines the necessary steps and protocols for cleaning equipment, workspaces, and facilities to maintain a hygienic and contamination-free environment. It ensures compliance with industry regulations, minimises risks to product quality, and provides clear guidance for frequency, materials, and methods used during cleaning.",
   "entities": [
     {
       "id": "355f6ad1-ed34-4652-8996-be2175006c05",
