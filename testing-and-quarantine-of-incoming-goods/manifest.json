@@ -2,7 +2,7 @@
   "id": "testing-and-quarantine-of-incoming-goods",
   "version": 1,
   "name": "Testing and Quarantine of Incoming Goods",
-  "description": "",
+  "description": "The Testing and Quarantine of Incoming Materials procedure ensures that all materials received are thoroughly inspected and tested before being approved for use. It provides detailed steps for quarantining non-compliant materials, verifying quality specifications, and maintaining traceability to prevent defective products from entering production processes.",
   "entities": [
     {
       "id": "ecc4052f-9d3c-492d-b77b-a9ebd9af24bb",
