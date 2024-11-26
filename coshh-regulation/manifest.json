@@ -2,7 +2,7 @@
   "id": "coshh-regulation",
   "version": 1,
   "name": "COSHH Regulation",
-  "description": "",
+  "description": "The COSHH Regulation form serves as a comprehensive guide to managing and safely handling hazardous substances in the workplace. It ensures compliance with the Control of Substances Hazardous to Health (COSHH) regulations by documenting risk assessments, safe usage protocols, and emergency measures to protect employees and the environment.",
   "entities": [
     {
       "id": "389ed5c7-9be0-4a9f-8234-d13959187100",
