@@ -2,7 +2,7 @@
   "id": "incident-reporting-form",
   "version": 1,
   "name": "Incident Reporting Form",
-  "description": "",
+  "description": "The Incident Reporting Form captures details of workplace incidents, such as accidents, near-misses, or equipment malfunctions. It provides a structured approach to logging the incident, identifying root causes, and implementing corrective actions to prevent recurrence and ensure regulatory compliance.",
   "entities": [
     {
       "id": "7a513aee-78ff-42e2-b0b6-a6e1b3e2b6c1",
