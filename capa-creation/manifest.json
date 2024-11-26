@@ -2,7 +2,9 @@
   "id": "capa-creation",
   "version": 1,
   "name": "CAPA Creation",
-  "description": "Procedures for identifying, investigating, and correcting issues to prevent recurrence and ensure continuous improvement.",
+  "description": "**CAPA Creation Form Description**  
+
+The CAPA (Corrective and Preventive Action) Creation Form on Seal provides a streamlined process for identifying, documenting, and resolving non-conformities or potential risks in compliance with international standards. This form allows users to log issues, analyze root causes, define corrective and preventive actions, assign responsibilities, and track progress to ensure continuous improvement. Simplify regulatory compliance and enhance quality assurance by ensuring all CAPA records are traceable and actionable.",
   "entities": [
     {
       "id": "b1e67644-e3aa-480d-bc58-2b9d14211ced",
