@@ -2,7 +2,7 @@
   "id": "reagent-preparation-and-storage-form",
   "version": 1,
   "name": "Reagent Preparation and Storage Form",
-  "description": "",
+  "description": "The Reagent Preparation and Storage procedure provides detailed instructions for preparing, labelling, and storing reagents used in laboratory and production environments. It ensures that reagents are handled safely, stored under appropriate conditions, and tracked for quality assurance purposes, minimising risks of contamination or degradation.",
   "entities": [
     {
       "id": "5bb07e7a-2720-4c19-84a0-6f871ebe579f",
