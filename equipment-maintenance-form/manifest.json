@@ -2,7 +2,7 @@
   "id": "equipment-maintenance-form",
   "version": 1,
   "name": "Equipment Maintenance Form",
-  "description": "",
+  "description": "The Equipment Maintenance Form facilitates the documentation of routine and corrective maintenance activities. It ensures proper tracking of maintenance schedules, tasks performed, and any necessary repairs, helping to maintain equipment performance, extend lifespan, and ensure safety.",
   "entities": [
     {
       "id": "4067ecb4-532c-4421-bd7d-9d000d3448bd",
