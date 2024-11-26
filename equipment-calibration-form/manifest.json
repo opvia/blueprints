@@ -2,7 +2,7 @@
   "id": "equipment-calibration-form",
   "version": 1,
   "name": "Equipment Calibration Form",
-  "description": "",
+  "description": "The Equipment Calibration Form is designed to document calibration activities, ensuring equipment operates within specified tolerances. It captures calibration dates, results, and any corrective actions required, supporting compliance with quality standards and maintaining equipment reliability.",
   "entities": [
     {
       "id": "c76a7d12-2d78-4130-84ae-b6fde075ed0d",
