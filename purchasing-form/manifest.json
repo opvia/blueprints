@@ -2,7 +2,7 @@
   "id": "purchasing-form",
   "version": 1,
   "name": "Purchasing Form",
-  "description": "",
+  "description": "The Purchasing Form facilitates the documentation of procurement activities, ensuring that all purchased goods and services meet predefined specifications and quality standards. It includes supplier details, item specifications, approvals, and verification steps to maintain traceability and compliance with supplier management policies.",
   "entities": [
     {
       "id": "106a1780-e888-49ff-80f5-b2b11ff8345c",
