@@ -2,7 +2,7 @@
   "id": "goods-receipt-form",
   "version": 1,
   "name": "Goods Receipt Form",
-  "description": "",
+  "description": "The Goods Receipt Form is used to document the receipt of goods, ensuring that deliveries match purchase orders in terms of quantity and quality. It records any discrepancies or damages, facilitating further actions such as supplier communication or product returns, and ensuring accurate inventory tracking.",
   "entities": [
     {
       "id": "21829607-045b-4ebd-b9ca-1f56ad5f1860",
