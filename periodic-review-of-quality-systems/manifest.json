@@ -2,7 +2,7 @@
   "id": "periodic-review-of-quality-systems",
   "version": 1,
   "name": "Periodic Review of Quality Systems",
-  "description": "",
+  "description": "The Periodic Review of Quality Systems procedure outlines the process for regularly evaluating the organisation's quality management systems. It ensures that all processes remain effective, up to date, and compliant with industry standards. This review includes assessing procedures, identifying areas for improvement, and implementing necessary updates to maintain operational excellence.",
   "entities": [
     {
       "id": "81cc2c73-d9d9-4b3d-86c2-1f04f45a13aa",
