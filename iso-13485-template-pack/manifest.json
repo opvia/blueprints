@@ -2,49 +2,7 @@
   "id": "iso-13485-template-pack",
   "version": 1,
   "name": "ISO 13485 Template Pack",
-  "description": "The ISO 13485 Template Pack provides a comprehensive collection of Procedures, Steps, and Standard Operating Procedures (SOPs) essential for achieving and maintaining compliance with **ISO 13485:2016 standards**. This pack is designed to streamline the development, implementation, and management of quality management systems (QMS) for medical device manufacturers and related industries.
-
-It includes clear, ready-to-use documentation covering all mandatory and recommended processes, ensuring regulatory compliance and reducing the time and effort required to establish a compliant QMS. Each template is **fully customisable** to align with your organisation's specific needs and includes detailed guidance on implementation.
-
-#### **Key Areas Covered in the Template Pack:**
-
-- **Document Control**  
-  Procedures for creating, approving, distributing, and maintaining controlled documents.
-
-- **Risk Management**  
-  Templates for risk assessment, mitigation, and management throughout the product lifecycle.
-
-- **Design and Development**  
-  Documentation to support compliant product design, verification, and validation processes.
-
-- **Supplier Management**  
-  SOPs for qualifying, auditing, and monitoring suppliers and vendors.
-
-- **Production and Process Control**  
-  Guidelines for process validation, production monitoring, and quality assurance.
-
-- **Non-Conformance and CAPA**  
-  Forms and workflows for managing non-conformities, root cause analysis, and corrective and preventive actions.
-
-- **Complaint Handling and Post-Market Surveillance**  
-  Tools for logging, investigating, and resolving complaints, and ensuring effective post-market activities.
-
-- **Internal Audits**  
-  Comprehensive internal audit checklists and reporting templates to assess compliance and identify areas for improvement.
-
-- **Training and Competency**  
-  Documentation to track staff training, qualifications, and competency assessments.
-
-- **Equipment and Calibration**  
-  Procedures for equipment maintenance, calibration, and validation.
-
-- **Traceability and Labelling**  
-  Guidelines for product identification, labelling, and traceability throughout the supply chain.
-
-- **Emergency Procedures**  
-  SOPs for handling emergencies, incidents, and recalls.
-
-This **ISO 13485 Template Pack** in Seal is key for organisations aiming to simplify the complexities of ISO 13485 compliance while ensuring robust quality management practices are in place.",
+  	"description": "The ISO 13485 Template Pack provides a comprehensive collection of Procedures, Steps, and Standard Operating Procedures (SOPs) essential for achieving and maintaining compliance with **ISO 13485:2016 standards**. This pack is designed to streamline the development, implementation, and management of quality management systems (QMS) for medical device manufacturers and related industries.\n\nIt includes clear, ready-to-use documentation covering all mandatory and recommended processes, ensuring regulatory compliance and reducing the time and effort required to establish a compliant QMS. Each template is **fully customisable** to align with your organisation's specific needs and includes detailed guidance on implementation.\n\n#### **Key Areas Covered in the Template Pack:**\n\n- **Document Control**  \n  Procedures for creating, approving, distributing, and maintaining controlled documents.\n\n- **Risk Management**  \n  Templates for risk assessment, mitigation, and management throughout the product lifecycle.\n\n- **Design and Development**  \n  Documentation to support compliant product design, verification, and validation processes.\n\n- **Supplier Management**  \n  SOPs for qualifying, auditing, and monitoring suppliers and vendors.\n\n- **Production and Process Control**  \n  Guidelines for process validation, production monitoring, and quality assurance.\n\n- **Non-Conformance and CAPA**  \n  Forms and workflows for managing non-conformities, root cause analysis, and corrective and preventive actions.\n\n- **Complaint Handling and Post-Market Surveillance**  \n  Tools for logging, investigating, and resolving complaints, and ensuring effective post-market activities.\n\n- **Internal Audits**  \n  Comprehensive internal audit checklists and reporting templates to assess compliance and identify areas for improvement.\n\n- **Training and Competency**  \n  Documentation to track staff training, qualifications, and competency assessments.\n\n- **Equipment and Calibration**  \n  Procedures for equipment maintenance, calibration, and validation.\n\n- **Traceability and Labelling**  \n  Guidelines for product identification, labelling, and traceability throughout the supply chain.\n\n- **Emergency Procedures**  \n  SOPs for handling emergencies, incidents, and recalls.\n\nThis **ISO 13485 Template Pack** in Seal is key for organisations aiming to simplify the complexities of ISO 13485 compliance while ensuring robust quality management practices are in place.",
   "entities": [
     {
       "id": "29ae37ca-1554-44f0-850a-672ae0bac417",
