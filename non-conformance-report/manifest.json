@@ -2,7 +2,7 @@
   "id": "non-conformance-report",
   "version": 1,
   "name": "Non-Conformance Report",
-  "description": "",
+  "description": "The Non-Conformance Report is a structured form used to document and manage instances where processes, products, or systems deviate from defined standards or specifications. This report captures detailed information about the non-conformance, including root cause analysis, corrective actions, and preventive measures, ensuring continuous improvement and compliance with quality management requirements.",
   "entities": [
     {
       "id": "7f015d93-b3bd-4de5-bf1d-76fbddc0ddda",
