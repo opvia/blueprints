@@ -2,7 +2,7 @@
   "id": "equipment-installation-procedure",
   "version": 1,
   "name": "Equipment Installation Procedure",
-  "description": "",
+  "description": "The Equipment Installation Procedure provides a structured framework for installing new equipment, ensuring proper setup and validation. It includes steps for pre-installation checks, installation activities, and post-installation testing to confirm functionality and compliance with regulatory requirements.",
   "entities": [
     {
       "id": "d89b1cbb-0527-42f8-99dd-6629cde26973",
