@@ -2,7 +2,7 @@
   "id": "equipment-registration-form",
   "version": 1,
   "name": "Equipment Registration Form",
-  "description": "",
+  "description": "The Equipment Registration Form is used to catalogue new equipment entering the organisation. It captures essential details such as model, serial number, calibration schedule, and maintenance requirements, ensuring traceability and compliance with asset management policies.",
   "entities": [
     {
       "id": "e2b7a0ee-ae63-4ea9-9680-6dc80da58813",
