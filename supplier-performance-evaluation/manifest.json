@@ -2,7 +2,7 @@
   "id": "supplier-performance-evaluation",
   "version": 1,
   "name": "Supplier Performance Evaluation",
-  "description": "",
+  "description": "The Supplier Performance Evaluation procedure outlines the process for monitoring and assessing supplier performance over time. It uses metrics such as delivery timelines, product quality, and responsiveness to ensure suppliers consistently meet contractual and regulatory requirements. This evaluation helps identify areas for improvement and fosters stronger supplier relationships.",
   "entities": [
     {
       "id": "7424510b-5a9c-45f6-bbcc-7e3630633e12",
