@@ -2,7 +2,7 @@
   "id": "internal-audit-forms",
   "version": 1,
   "name": "Internal Audit Forms",
-  "description": "",
+  "description": "The Internal Audit Form supports the planning, execution, and documentation of audits within the organisation. It includes checklists and reporting sections to assess compliance with quality management standards, identify gaps, and document findings, enabling continuous improvement of processes and systems.",
   "entities": [
     {
       "id": "e14e1fee-dd5e-4616-b6c7-aa4f681c6802",
