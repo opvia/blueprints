@@ -2,7 +2,7 @@
   "id": "iso-13485-template-pack",
   "version": 1,
   "name": "ISO 13485 Template Pack",
-  "description": "",
+  "description": "The ISO 13485 Template Pack provides a comprehensive collection of Procedures, Steps, and Standard Operating Procedures (SOPs) essential for achieving and maintaining compliance with **ISO 13485:2016 standards**. This pack is designed to streamline the development, implementation, and management of quality management systems (QMS) for medical device manufacturers and related industries.\n\nIt includes clear, ready-to-use documentation covering all mandatory and recommended processes, ensuring regulatory compliance and reducing the time and effort required to establish a compliant QMS. Each template is **fully customisable** to align with your organisation's specific needs and includes detailed guidance on implementation.\n",
   "entities": [
     {
       "id": "95ab4138-89a4-41fb-b3e8-f96b08248546",
