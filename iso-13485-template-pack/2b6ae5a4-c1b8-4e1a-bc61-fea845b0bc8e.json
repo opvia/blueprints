@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "2b6ae5a4-c1b8-4e1a-bc61-fea845b0bc8e",
+  "title": "Equipment Maintenance Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "ad115b57-3347-4178-a67d-bd03a1c257b9",
+      "step": {
+        "id": "e3994c7a-bf3d-414d-af30-5bdabfee0998",
+        "version": null
+      }
+    },
+    {
+      "id": "0bae58bb-4dca-4836-ae53-b217449e2d88",
+      "step": {
+        "id": "87595d93-47d6-463a-a6e4-6ccb28d928cf",
+        "version": null
+      }
+    },
+    {
+      "id": "258dd874-7485-45c5-ab89-206ef92becd2",
+      "step": {
+        "id": "8eb9fc22-63e5-47df-bf08-0535f37871a3",
+        "version": null
+      }
+    },
+    {
+      "id": "e686f897-db6e-441d-985c-d90098d6aa67",
+      "step": {
+        "id": "e3211b01-6d53-49cd-ae2b-4d00b4dbc70b",
+        "version": null
+      }
+    }
+  ]
+}

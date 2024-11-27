@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "b525ecf4-f4f4-497b-aa64-1418a1c1f3b6",
+  "title": "Supplier Performance Evaluation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "fc8e138f-d459-41fa-bb04-920fa8bdb8b0",
+      "step": {
+        "id": "d523b936-0703-454f-b18b-890ca3f71b72",
+        "version": null
+      }
+    }
+  ]
+}

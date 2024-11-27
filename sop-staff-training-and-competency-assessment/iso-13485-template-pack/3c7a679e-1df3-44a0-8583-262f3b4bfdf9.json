@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "3c7a679e-1df3-44a0-8583-262f3b4bfdf9",
+  "title": "COSHH Regulation",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "c09b34e0-021d-4775-a5ef-b97cdf3b1ea5",
+      "step": {
+        "id": "d0241a9a-cde9-4934-b796-6d510761ee1c",
+        "version": null
+      }
+    },
+    {
+      "id": "2655b788-0ed9-4316-9a29-6638b11e46ac",
+      "step": {
+        "id": "c0b97ae2-a5c2-4f2b-aabd-64638a508b86",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "c09b34e0-021d-4775-a5ef-b97cdf3b1ea5",
+        "refFieldName": "Reference"
+      }
+    },
+    {
+      "id": "1487419a-8792-4d0d-8b1a-f65b82fb18ef",
+      "step": {
+        "id": "fdec6795-63ea-4ed4-a5d4-83e347876833",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "c09b34e0-021d-4775-a5ef-b97cdf3b1ea5",
+        "refFieldName": "Reference"
+      }
+    },
+    {
+      "id": "e87d293b-0d69-4000-a96e-bdb7dc7f687d",
+      "step": {
+        "id": "10670b44-245b-4f70-b285-695d458c89fe",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "c09b34e0-021d-4775-a5ef-b97cdf3b1ea5",
+        "refFieldName": "Reference"
+      }
+    },
+    {
+      "id": "11064ce9-6143-4785-934a-39b0ad22c458",
+      "step": {
+        "id": "5afe6874-69c6-4de9-b9d5-e27bb9f0e8b7",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "c09b34e0-021d-4775-a5ef-b97cdf3b1ea5",
+        "refFieldName": "Reference"
+      }
+    }
+  ]
+}

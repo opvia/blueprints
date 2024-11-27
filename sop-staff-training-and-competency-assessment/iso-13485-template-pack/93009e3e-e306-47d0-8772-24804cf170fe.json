@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "93009e3e-e306-47d0-8772-24804cf170fe",
+  "title": "Testing and Quarantine of Incoming Goods",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "378fe174-8d45-4a36-a04e-bfac16d8ff1d",
+      "step": {
+        "id": "245de01b-bd0d-4f9d-be04-e59cd38f5e25",
+        "version": null
+      }
+    },
+    {
+      "id": "e199d8ac-482b-4e5a-8732-5ca48745d065",
+      "step": {
+        "id": "11d6c121-9c04-4ece-a775-9e544817ab47",
+        "version": null
+      }
+    },
+    {
+      "id": "8e9d217d-bf2d-4f59-85be-565bb495a367",
+      "step": {
+        "id": "e921a233-7412-4b5f-9393-f57048a2fff2",
+        "version": null
+      }
+    }
+  ]
+}
