@@ -1,0 +1,297 @@
+{
+  "id": "proa-protocol-fujifilm",
+  "version": 1,
+  "name": "ProA Protocol (Fujifilm)",
+  "description": "",
+  "entities": [
+    {
+      "id": "69d629a8-cff0-425e-b0b5-a1b00ced4a77",
+      "type": "PROCEDURE",
+      "title": "ProA Protocol",
+      "source": {
+        "id": "d493d9fd-5703-47a9-8eff-5934c438e82e",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b4b90f82-005c-4e34-9e15-620a94862e18",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Protein A Chromatography method",
+      "source": {
+        "id": "cb133c38-d405-498a-ab33-6da443198003",
+        "version": "1"
+      }
+    },
+    {
+      "id": "39fe6044-2c08-4291-b626-26e93ef29469",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 1",
+      "source": {
+        "id": "9eee1c7b-9428-4e5c-9eee-2b099a7069dc",
+        "version": "1"
+      }
+    },
+    {
+      "id": "e7c24f60-5371-44ce-8056-2cd1fe55806a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 2",
+      "source": {
+        "id": "c8c9fe27-4e39-4b4e-ac63-c058648e9576",
+        "version": "1"
+      }
+    },
+    {
+      "id": "8cc9fc0c-61b0-4dbc-a0ab-e82b210e1fd7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 3",
+      "source": {
+        "id": "e2b2364b-f546-457b-96bd-01af31130017",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c6303f05-8dc8-4977-a927-25cf396ee08c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 4",
+      "source": {
+        "id": "a9b75120-a218-4487-9572-1cbebb6fe098",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b05f70fb-a768-43c4-9d87-c9cb381028ed",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 5",
+      "source": {
+        "id": "613a7643-33e8-4fdd-9038-6c3d4247cf1d",
+        "version": "1"
+      }
+    },
+    {
+      "id": "735171dd-2b76-415a-a838-50197b2c3f40",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 6",
+      "source": {
+        "id": "5d7ea346-62c7-4cf9-a910-d25908c3f693",
+        "version": "1"
+      }
+    },
+    {
+      "id": "b22958c6-d198-4b5b-92e8-566fcba4e48c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 7",
+      "source": {
+        "id": "42f6894a-b29c-48c4-b71a-acd246d4c524",
+        "version": "1"
+      }
+    },
+    {
+      "id": "58cb3348-a85f-47f8-99fe-7f733c389308",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 8",
+      "source": {
+        "id": "cbcac887-e6cc-4fa8-8484-f119bf84b6a3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "988446b5-6e3b-43c7-8702-7a279aa8d9c7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 9",
+      "source": {
+        "id": "c953089a-612a-4ab6-ab97-20ba83b0991c",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ffe3576a-a3ac-4b94-9e53-74441ed88d13",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 10",
+      "source": {
+        "id": "4f1760fa-fb3b-411f-8433-98429e7f2ccb",
+        "version": "1"
+      }
+    },
+    {
+      "id": "02f81bc8-7538-4ef2-9870-7ca529934643",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 11",
+      "source": {
+        "id": "d5e203a5-4a21-43da-b2d2-8be911a5fbe0",
+        "version": "1"
+      }
+    },
+    {
+      "id": "31fae2b1-3031-409b-98a6-c3f2e157fb43",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 12",
+      "source": {
+        "id": "cdc0dddc-edbe-4357-b655-22463f449177",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ae5b6c7d-a3e5-4c73-937d-29837ce1ad26",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 13",
+      "source": {
+        "id": "c29e9f12-006b-4bee-8d6a-1e5ff0bc51a7",
+        "version": "1"
+      }
+    },
+    {
+      "id": "cd464880-e20f-4eac-9c9a-de0e5ca51d2b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 14",
+      "source": {
+        "id": "49c88189-8c7e-43eb-a00c-376b533d1060",
+        "version": "1"
+      }
+    },
+    {
+      "id": "d8c7c4dd-4ba8-4e00-b31d-fb2ff4200389",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 15",
+      "source": {
+        "id": "c6704783-6833-43c8-95f1-4622fa8366ae",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7b513828-4a27-414a-8022-c272fa08da86",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 16",
+      "source": {
+        "id": "7dbc4c65-a505-48b6-818e-e3c8ecf348f9",
+        "version": "1"
+      }
+    },
+    {
+      "id": "fc1a710d-dd5e-48e7-995d-eb51f7b1d204",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 17",
+      "source": {
+        "id": "35071c58-bb7c-46e1-86a7-5d786f62a39f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "caa3e8d2-9a56-46a1-8f3b-c5b3f381564b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 18",
+      "source": {
+        "id": "b228b27e-b62d-42e3-8254-d685028d46ce",
+        "version": "1"
+      }
+    },
+    {
+      "id": "4cdbd438-eec2-4733-86f9-ece1bc629f79",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 19 and 20",
+      "source": {
+        "id": "9b56b903-1def-42be-a06d-10bcd2dd9482",
+        "version": "1"
+      }
+    },
+    {
+      "id": "3b597dff-5d2a-4b40-8e12-b619725fb682",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 21",
+      "source": {
+        "id": "2ab61b37-2100-4a11-b2bf-a2be70192979",
+        "version": "1"
+      }
+    },
+    {
+      "id": "babce23c-2a6b-4945-88b0-ed54d0d48bd2",
+      "type": "STEP",
+      "subType": "SCRIPT",
+      "title": "ProA - Step 21 - Calculation",
+      "source": {
+        "id": "ff7b00fe-9eea-4eb4-b0ad-d5e4233e1f19",
+        "version": "1"
+      }
+    },
+    {
+      "id": "d5b495db-5a45-4bb3-bc2b-d84961c77410",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 22",
+      "source": {
+        "id": "4205fe76-d4d4-435f-a586-d3904fe7c0ea",
+        "version": "1"
+      }
+    },
+    {
+      "id": "3bcbcb91-4158-4d04-90c2-bea04ef50ae5",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 23",
+      "source": {
+        "id": "25fe26c8-5ce9-4879-be10-22d9c3888e75",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9e44952a-94e9-4dc3-b06b-723ead48f829",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 24",
+      "source": {
+        "id": "24701a1d-6f59-44af-8c19-f3a980d8c922",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9f3d5c02-fca6-448f-b460-bc2c1de38a84",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 25",
+      "source": {
+        "id": "cdac113d-52ba-4293-8af5-1ae49665a713",
+        "version": "1"
+      }
+    },
+    {
+      "id": "d4e8de71-6628-443b-a3fe-485dd04859e9",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 26",
+      "source": {
+        "id": "b7f0dfcc-ef88-4c9d-9aa6-1d73fb12f34b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "635ecf39-154d-4fec-b2b5-eed904512247",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "ProA - Step 27",
+      "source": {
+        "id": "9ca29fb1-9af2-4755-9877-3365c3674f26",
+        "version": "1"
+      }
+    }
+  ]
+}
