@@ -1,0 +1,208 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "8a1e40ac-bdd1-444b-987e-7561b4c8eda8",
+  "title": "AEX Protocol",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "cc79639e-fac7-48c6-bd84-e38cc7734a48",
+      "step": {
+        "id": "b448ce4f-133f-4340-8b8d-259607b1f7d5",
+        "version": null
+      }
+    },
+    {
+      "id": "e630b086-d9ac-4f53-a17a-35df57501aac",
+      "step": {
+        "id": "6a2ca4e0-06d6-42e7-b165-d53072d27e27",
+        "version": null
+      }
+    },
+    {
+      "id": "eff2da57-fa07-4e8f-9087-8b91e27f1fef",
+      "step": {
+        "id": "4f8a72b4-07be-4b02-b263-a3d8f8b589f3",
+        "version": null
+      }
+    },
+    {
+      "id": "03d5dad9-df21-42e5-843b-25dd560df9f3",
+      "step": {
+        "id": "5640e8fb-0298-41ba-b535-b77a3614aee3",
+        "version": null
+      }
+    },
+    {
+      "id": "5b0341d5-e44d-4902-a930-2ed3b0161276",
+      "step": {
+        "id": "1f9ff3b7-5e88-4c49-9745-6674ce9b07d4",
+        "version": null
+      }
+    },
+    {
+      "id": "4e487804-c418-43bf-8870-d42b427793d4",
+      "step": {
+        "id": "7cc4f5bb-0feb-4d63-9bd8-bdea746c3d7a",
+        "version": null
+      }
+    },
+    {
+      "id": "916aa334-c5f2-4b77-bf1c-10ab3017c6c1",
+      "step": {
+        "id": "b37a0562-5fae-4e82-a84d-7ce8e65f3363",
+        "version": null
+      }
+    },
+    {
+      "id": "cea7e4df-6786-4722-b974-44439cb97893",
+      "step": {
+        "id": "b3ff63ee-ce18-4704-aedc-b5d1dbd41cfa",
+        "version": null
+      }
+    },
+    {
+      "id": "8cf064fe-9b39-4557-b53c-59040ed45fe8",
+      "step": {
+        "id": "ab5cd3e3-7246-4439-ac9d-3bfde9686657",
+        "version": null
+      }
+    },
+    {
+      "id": "4d217b81-2f59-48cb-9e0e-3090573305a8",
+      "step": {
+        "id": "42d32c75-aeca-438f-9d66-ae9d11588c1c",
+        "version": null
+      }
+    },
+    {
+      "id": "d935fc7d-a66c-4c69-9cec-5d40af19dd18",
+      "step": {
+        "id": "f3093788-321e-4d9b-b895-d79e4176f7b0",
+        "version": null
+      }
+    },
+    {
+      "id": "c2afc886-3be1-42dd-8b70-b7ca00b71319",
+      "step": {
+        "id": "4542ace1-da14-4744-838c-0f9020c58a8c",
+        "version": null
+      }
+    },
+    {
+      "id": "6af6a640-c0f0-4417-8799-2ddfed64430d",
+      "step": {
+        "id": "dd4e3055-d810-4e5b-8426-2892140a9b0a",
+        "version": null
+      }
+    },
+    {
+      "id": "b918aeda-1337-49de-a6e4-7c5334873d6b",
+      "step": {
+        "id": "a441fdca-1bd9-46ef-bd63-036b3505ace5",
+        "version": null
+      }
+    },
+    {
+      "id": "bfeca0cf-d0cc-4fcd-8d66-f4026ca5947d",
+      "step": {
+        "id": "cf4932d5-8b32-4351-b8b8-439c6f89bb8c",
+        "version": null
+      }
+    },
+    {
+      "id": "5c37a159-2bda-4849-bd8f-d268eedc7b8a",
+      "step": {
+        "id": "d2f6f71f-3e43-45bf-8812-5b0cab1bbc3f",
+        "version": null
+      }
+    },
+    {
+      "id": "cd97e3ee-c4fe-49fa-ab39-d5ca3a1bf88f",
+      "step": {
+        "id": "14962392-378c-4161-a5c7-eaa98522be66",
+        "version": null
+      }
+    },
+    {
+      "id": "170688c1-9410-46ae-a5bb-fe4a58aa7608",
+      "step": {
+        "id": "176f7e23-bcf0-4079-bcdc-32031086f6b9",
+        "version": null
+      }
+    },
+    {
+      "id": "87f5d88b-5a20-46b0-b9c4-9cb4da0a6d43",
+      "step": {
+        "id": "a0a236c1-b8db-4fe0-9aaa-5658d483b004",
+        "version": null
+      }
+    },
+    {
+      "id": "ce68b433-f46d-4b99-9433-ce17c45773df",
+      "step": {
+        "id": "28b7de8f-aaab-44fe-b994-5322eb3e7a4a",
+        "version": null
+      }
+    },
+    {
+      "id": "1c33a6a8-534c-43b9-9960-9901575cfcd9",
+      "step": {
+        "id": "9bb5fba1-8198-4d6d-8317-1d242ed74433",
+        "version": null
+      }
+    },
+    {
+      "id": "f855a25a-9e4e-4c68-be18-2486339e8f19",
+      "step": {
+        "id": "696cc241-7ebe-4e2b-a115-afc876f87d5e",
+        "version": null
+      }
+    },
+    {
+      "id": "dc4afdbf-7e5b-4632-aeef-0215a5f84c11",
+      "step": {
+        "id": "8fb7c403-41e7-4166-b8b0-c597d7b648df",
+        "version": null
+      }
+    },
+    {
+      "id": "85bb7c5d-fb46-4e75-b0ba-9e1ae87ffe1b",
+      "step": {
+        "id": "26050638-6759-47fa-b54d-1599d98aa8a9",
+        "version": null
+      }
+    },
+    {
+      "id": "d176e530-ae21-4198-a24c-41e920739ecd",
+      "step": {
+        "id": "759630a8-d486-47c4-a061-403ca74bfa64",
+        "version": null
+      }
+    },
+    {
+      "id": "8934c09a-84d9-4d01-a469-b7d4ca2db743",
+      "step": {
+        "id": "e81e2540-8a8a-4b00-b9c2-3f9ea3bd72a6",
+        "version": null
+      }
+    }
+  ]
+}

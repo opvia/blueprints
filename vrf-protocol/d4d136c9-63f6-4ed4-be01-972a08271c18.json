@@ -1,0 +1,264 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "d4d136c9-63f6-4ed4-be01-972a08271c18",
+  "title": "VRF Protocol",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "e0aeb9c7-b025-418a-a427-acc6b444561d",
+      "step": {
+        "id": "d86fa546-fec4-41b7-ac0e-9d90333b36d7",
+        "version": null
+      }
+    },
+    {
+      "id": "f2bb1e7e-82d3-455b-8186-4eb28526a326",
+      "step": {
+        "id": "69a770a6-d190-4599-a093-65e9729f3664",
+        "version": null
+      }
+    },
+    {
+      "id": "d28d20a6-0fe7-485d-a515-79f8ceb8495b",
+      "step": {
+        "id": "cf3697fe-765d-4cde-a12a-f3d5f85d7b71",
+        "version": null
+      }
+    },
+    {
+      "id": "f2d49ee9-f724-4f3d-a59c-cc0d0f4d23f2",
+      "step": {
+        "id": "119f8980-febe-4eda-97db-d5ece96aafc0",
+        "version": null
+      }
+    },
+    {
+      "id": "806459ce-d2bb-406e-9513-4c3d6c7e8697",
+      "step": {
+        "id": "32ef68a8-5f5c-4126-849b-b2bbc434aeaf",
+        "version": null
+      }
+    },
+    {
+      "id": "0c30329f-32ea-4630-b017-7b45e9b0732e",
+      "step": {
+        "id": "babd4158-fe66-431e-9c42-7deefbc71f84",
+        "version": null
+      }
+    },
+    {
+      "id": "b371a088-7f4b-4db7-9bbc-6f7613867dc2",
+      "step": {
+        "id": "32873eaa-b941-4a08-8c42-4e0262e77dfa",
+        "version": null
+      }
+    },
+    {
+      "id": "33085d1d-8ebe-4d61-97d3-570a530b91f3",
+      "step": {
+        "id": "954f265e-e48a-4cc4-b57a-fc3cafc6d41a",
+        "version": null
+      }
+    },
+    {
+      "id": "7fcac8e7-b9ef-46ed-af88-a609c9fdf27e",
+      "step": {
+        "id": "23a027f2-54b4-4763-a190-e3a10f3eeb57",
+        "version": null
+      }
+    },
+    {
+      "id": "6eed38e5-0140-4987-a62b-87f55163fdd7",
+      "step": {
+        "id": "9ff1e2e1-39b5-4b05-bf6f-255c66bf761e",
+        "version": null
+      }
+    },
+    {
+      "id": "97244145-70d1-47c6-9ba2-67085eb1e576",
+      "step": {
+        "id": "735a4440-decd-487a-8054-f57f6c5ac10e",
+        "version": null
+      }
+    },
+    {
+      "id": "77fc9561-ac12-4501-85fb-8577537a7c7f",
+      "step": {
+        "id": "fc361c3e-da22-4fab-8634-0c00bd58086e",
+        "version": null
+      }
+    },
+    {
+      "id": "041768e6-53bd-4626-9fb1-157e5f18b911",
+      "step": {
+        "id": "1ff6edad-4181-4b12-97d5-e719d25cb0df",
+        "version": null
+      }
+    },
+    {
+      "id": "be9e88ba-ae86-43c6-a3b8-2bb51c5589ff",
+      "step": {
+        "id": "631f0d02-0e01-44a7-bf03-a3046338a21d",
+        "version": null
+      }
+    },
+    {
+      "id": "91191707-35e4-4503-86ee-8765331fd76a",
+      "step": {
+        "id": "c79eafb0-9fe0-4644-8e04-cc024a0986b7",
+        "version": null
+      }
+    },
+    {
+      "id": "88d57ff9-b658-4ecd-a8fd-981ddbaffd23",
+      "step": {
+        "id": "06266596-2270-4c4e-bf4b-14b6b516c1f4",
+        "version": null
+      }
+    },
+    {
+      "id": "d82d1bc4-10c2-4894-bf66-3f63a8f315a9",
+      "step": {
+        "id": "4776a8db-7c0d-4d7c-b552-f231ba6f67ed",
+        "version": null
+      }
+    },
+    {
+      "id": "79cd4f60-1122-4df0-8cb5-2828923ee399",
+      "step": {
+        "id": "08c2e470-e64f-4bd9-bf3c-dc3c8b9d044d",
+        "version": null
+      }
+    },
+    {
+      "id": "d2625e82-efe9-46b4-a752-a1c1e180db44",
+      "step": {
+        "id": "d25d6e2e-0d2b-45ff-b23b-5a883bb0ef27",
+        "version": null
+      }
+    },
+    {
+      "id": "7c05661b-6373-4b97-942f-105940661ba4",
+      "step": {
+        "id": "ed198b00-10bc-4c88-8d82-43ee20fbe02a",
+        "version": null
+      }
+    },
+    {
+      "id": "18a0ab16-f506-4501-8ed0-a2ab99edac98",
+      "step": {
+        "id": "c14bbcf0-ba87-44c1-8516-be7d549f83b0",
+        "version": null
+      }
+    },
+    {
+      "id": "df4e5c5a-aa06-4405-b523-8ab11acd79b2",
+      "step": {
+        "id": "2721c826-d304-4493-86f0-d4c9ede65e66",
+        "version": null
+      }
+    },
+    {
+      "id": "a93a254f-c297-41b1-9342-957ec2af73a0",
+      "step": {
+        "id": "723c2847-0015-4d88-81b9-5bfc9360a5ad",
+        "version": null
+      }
+    },
+    {
+      "id": "3197c19f-04db-408a-a80b-21d4bb778517",
+      "step": {
+        "id": "f082fdfa-8f18-4168-9363-3d0fe458adae",
+        "version": null
+      }
+    },
+    {
+      "id": "04f1bbb0-2bb9-4249-94b7-585f842e0b64",
+      "step": {
+        "id": "7f9757e0-b069-4ae5-b644-583a29b33528",
+        "version": null
+      }
+    },
+    {
+      "id": "be4a35ab-0fb1-4df0-8186-1a7485398ed1",
+      "step": {
+        "id": "2c52b224-ca42-40f6-8e7d-82dddac4e67b",
+        "version": null
+      }
+    },
+    {
+      "id": "955fbb3b-e8d0-48bd-b196-caab9971ed55",
+      "step": {
+        "id": "9b639e54-2667-49a2-a612-8637f18cf83d",
+        "version": null
+      }
+    },
+    {
+      "id": "896df291-a841-4f2c-8cbb-7a7f686bf9e6",
+      "step": {
+        "id": "34cc0f9b-a4ed-42cf-97e1-572d50d7d71c",
+        "version": null
+      }
+    },
+    {
+      "id": "9b462192-ae39-4059-b680-b33805457a83",
+      "step": {
+        "id": "ccc2aa83-a54d-4221-8373-1804430a3b5e",
+        "version": null
+      }
+    },
+    {
+      "id": "aebb9441-b84a-432f-94b9-e4736e966c85",
+      "step": {
+        "id": "a56194c1-3e54-452f-9cf9-a1e91ee75fe4",
+        "version": null
+      }
+    },
+    {
+      "id": "f6606870-fea0-4dd7-a157-28e06aae2204",
+      "step": {
+        "id": "7a084baf-b1fb-4d91-b2b6-fd1aeb675e75",
+        "version": null
+      }
+    },
+    {
+      "id": "17fe8821-95e6-46cc-bc5b-182efe77115e",
+      "step": {
+        "id": "60688f76-ffaa-4f0d-8c40-73ced49954bc",
+        "version": null
+      }
+    },
+    {
+      "id": "d78f8222-d99e-471b-a120-832a03eeb8f3",
+      "step": {
+        "id": "63a0948e-91c8-4991-a774-47ed70f3979c",
+        "version": null
+      }
+    },
+    {
+      "id": "ee4ba5c6-bf54-4670-bf46-93b39b7c5b9a",
+      "step": {
+        "id": "7db4b387-2cab-43f1-965b-516f5d3f9dda",
+        "version": null
+      }
+    }
+  ]
+}

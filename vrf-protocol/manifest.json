@@ -1,0 +1,357 @@
+{
+  "id": "vrf-protocol-fujifilm",
+  "version": 1,
+  "name": "VRF Protocol (Fujifilm)",
+  "description": "",
+  "entities": [
+    {
+      "id": "d4d136c9-63f6-4ed4-be01-972a08271c18",
+      "type": "PROCEDURE",
+      "title": "VRF Protocol",
+      "source": {
+        "id": "83b23aad-2076-4461-bc4f-b21a5670dd77",
+        "version": "2"
+      }
+    },
+    {
+      "id": "d86fa546-fec4-41b7-ac0e-9d90333b36d7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 1 & 2",
+      "source": {
+        "id": "783cecbd-3d38-440a-9867-212aea36397d",
+        "version": "1"
+      }
+    },
+    {
+      "id": "69a770a6-d190-4599-a093-65e9729f3664",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 3",
+      "source": {
+        "id": "582f76f3-3cba-4250-a8a0-2485f8f0b825",
+        "version": "1"
+      }
+    },
+    {
+      "id": "cf3697fe-765d-4cde-a12a-f3d5f85d7b71",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 4 & 5",
+      "source": {
+        "id": "58a9be69-70dd-4c90-aef3-5fdfe49a4853",
+        "version": "1"
+      }
+    },
+    {
+      "id": "119f8980-febe-4eda-97db-d5ece96aafc0",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 6",
+      "source": {
+        "id": "e0bf33e9-93bf-44e2-bee4-4ea98c671293",
+        "version": "1"
+      }
+    },
+    {
+      "id": "32ef68a8-5f5c-4126-849b-b2bbc434aeaf",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 7",
+      "source": {
+        "id": "b4ffef78-7b20-4dc8-b9f0-df8592b9d949",
+        "version": "2"
+      }
+    },
+    {
+      "id": "babd4158-fe66-431e-9c42-7deefbc71f84",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 8 & 9",
+      "source": {
+        "id": "736ff40c-1663-46da-9272-cdccc028fa17",
+        "version": "1"
+      }
+    },
+    {
+      "id": "32873eaa-b941-4a08-8c42-4e0262e77dfa",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 10 & 11",
+      "source": {
+        "id": "d2758f35-0352-4cd0-a021-01c5cd9511c5",
+        "version": "2"
+      }
+    },
+    {
+      "id": "954f265e-e48a-4cc4-b57a-fc3cafc6d41a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 12 & 13",
+      "source": {
+        "id": "94b8fc46-fbf1-4406-9071-bc9374553d97",
+        "version": "1"
+      }
+    },
+    {
+      "id": "23a027f2-54b4-4763-a190-e3a10f3eeb57",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 14",
+      "source": {
+        "id": "4d37119e-59df-45eb-af46-47d87ba454ce",
+        "version": "2"
+      }
+    },
+    {
+      "id": "9ff1e2e1-39b5-4b05-bf6f-255c66bf761e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 15",
+      "source": {
+        "id": "bf74bbc4-5548-4292-8afa-f8ad8466c355",
+        "version": "2"
+      }
+    },
+    {
+      "id": "735a4440-decd-487a-8054-f57f6c5ac10e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 16",
+      "source": {
+        "id": "a4dc01ca-2e4c-4c85-b2c2-35d131967efc",
+        "version": "1"
+      }
+    },
+    {
+      "id": "fc361c3e-da22-4fab-8634-0c00bd58086e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 17",
+      "source": {
+        "id": "39b79134-97f3-4499-a59d-681dd99c3843",
+        "version": "1"
+      }
+    },
+    {
+      "id": "1ff6edad-4181-4b12-97d5-e719d25cb0df",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 18",
+      "source": {
+        "id": "0958e9b7-bdd5-4a52-b522-b358bf7dc77b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "631f0d02-0e01-44a7-bf03-a3046338a21d",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 19",
+      "source": {
+        "id": "7fb916cd-aed4-4f0a-af0a-6fe285da83a0",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c79eafb0-9fe0-4644-8e04-cc024a0986b7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 20",
+      "source": {
+        "id": "dcf5cdf0-32e7-4ba9-a33c-ea1c195d2ef1",
+        "version": "1"
+      }
+    },
+    {
+      "id": "06266596-2270-4c4e-bf4b-14b6b516c1f4",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 21",
+      "source": {
+        "id": "b02c773c-195a-42f1-8c24-73e795bfc3ad",
+        "version": "1"
+      }
+    },
+    {
+      "id": "4776a8db-7c0d-4d7c-b552-f231ba6f67ed",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 22",
+      "source": {
+        "id": "11eecddf-e3e7-4587-959c-80ab54f2b2e2",
+        "version": "1"
+      }
+    },
+    {
+      "id": "08c2e470-e64f-4bd9-bf3c-dc3c8b9d044d",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 23",
+      "source": {
+        "id": "ac1a6ebb-9a45-4cba-bd88-681cb0183848",
+        "version": "1"
+      }
+    },
+    {
+      "id": "d25d6e2e-0d2b-45ff-b23b-5a883bb0ef27",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 24",
+      "source": {
+        "id": "130fb269-7c4d-4b4b-9009-e07570a0e4d9",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ed198b00-10bc-4c88-8d82-43ee20fbe02a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 25",
+      "source": {
+        "id": "d39c68bf-ad94-4f9f-a378-b7a19f635ab1",
+        "version": "1"
+      }
+    },
+    {
+      "id": "c14bbcf0-ba87-44c1-8516-be7d549f83b0",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 26",
+      "source": {
+        "id": "7026c3e8-ea49-401d-b7e3-0efa39b788f8",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2721c826-d304-4493-86f0-d4c9ede65e66",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 27",
+      "source": {
+        "id": "7cf6b34a-5ca7-437a-b0f0-a5702852ae47",
+        "version": "1"
+      }
+    },
+    {
+      "id": "723c2847-0015-4d88-81b9-5bfc9360a5ad",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 28",
+      "source": {
+        "id": "ccd4acdb-904b-492f-88c3-bc79e0c3dd31",
+        "version": "1"
+      }
+    },
+    {
+      "id": "f082fdfa-8f18-4168-9363-3d0fe458adae",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 29",
+      "source": {
+        "id": "c6f0b6e6-1f71-4e61-800c-05a3e9b26ad5",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7f9757e0-b069-4ae5-b644-583a29b33528",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 30",
+      "source": {
+        "id": "08f707e2-4429-4179-8687-95cecff71ec6",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2c52b224-ca42-40f6-8e7d-82dddac4e67b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 31",
+      "source": {
+        "id": "2a4287c7-74a8-488b-953c-0c21774b1039",
+        "version": "1"
+      }
+    },
+    {
+      "id": "9b639e54-2667-49a2-a612-8637f18cf83d",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 32",
+      "source": {
+        "id": "21f6ba25-7d42-47e5-9cfc-3dc985695f0f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "34cc0f9b-a4ed-42cf-97e1-572d50d7d71c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 33",
+      "source": {
+        "id": "5a9f5a3a-1721-4f96-b3db-3544e2746e2c",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ccc2aa83-a54d-4221-8373-1804430a3b5e",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 34",
+      "source": {
+        "id": "0c041ab0-bd23-468b-be21-ebaf9d7ef66b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "a56194c1-3e54-452f-9cf9-a1e91ee75fe4",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 35",
+      "source": {
+        "id": "7ac5494e-32bc-4cb3-bc9e-daab21dab605",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7a084baf-b1fb-4d91-b2b6-fd1aeb675e75",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 36",
+      "source": {
+        "id": "97b8249b-7da1-413e-bb96-b1687746f8df",
+        "version": "1"
+      }
+    },
+    {
+      "id": "60688f76-ffaa-4f0d-8c40-73ced49954bc",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 37",
+      "source": {
+        "id": "1573ea2e-fccf-424f-a77d-b40c2066dd0f",
+        "version": "1"
+      }
+    },
+    {
+      "id": "63a0948e-91c8-4991-a774-47ed70f3979c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 38",
+      "source": {
+        "id": "c5d04eba-58bd-44fb-b569-49767cd5edd1",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7db4b387-2cab-43f1-965b-516f5d3f9dda",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "VRF - Step 39",
+      "source": {
+        "id": "e150aa05-0405-42ba-ba70-bd1450af2ea6",
+        "version": "1"
+      }
+    }
+  ]
+}
