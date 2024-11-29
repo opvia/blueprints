@@ -1,0 +1,189 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "a7f9890d-cb4e-4ee6-94ca-ca02d667aa16",
+  "title": "AEX - Step 2",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "2 mm UV flow cell": {
+        "id": "4cfa070d-8dab-4853-a4c8-993ff1231453",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "1.4 mL mixing chamber": {
+        "id": "f6278ec3-9847-44fc-850a-732de25e3a71",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "2 bar flow restrictor on pH valve (Required for sanitisation step only)": {
+        "id": "a4d35813-dfe6-464e-b5be-d6f3e0e4c1c5",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "45d08f93-4515-4153-ba64-b46c32cdd937",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Prime the membrane with equilibration buffer with a syringe. Fill a 10-20 mL syringe and connect to the inlet of the Sartobind Q Nano capsule. Hold the capsule with the outlet pointing up so as to expel air from the capsule as it is filled with equilibration buffer from the syringe. If air bubbles can still be seen on the upstream side of the membrane, close the outlet of the capsule and move the syringe plunger up and down so that the air bubbles ascend into the syringe."
+          }
+        ]
+      },
+      {
+        "id": "f892d198-ad3f-41bf-a49e-d9be42758a93",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Ensure the filter is fully wetted before attaching the membrane to the AKTÄ."
+          }
+        ]
+      },
+      {
+        "id": "099814be-84aa-48d7-ae1a-179f24365030",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "01f7d709-4233-4732-954f-6d9450c527cc",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "AKTÄ ELN ID: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "031e8c17-b69a-4b67-bd43-53f8ddefeda2",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cfd48270-f6ce-4478-a3af-e5b9d64789a8",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Check the following required items are installed:"
+          }
+        ]
+      },
+      {
+        "id": "04addf23-a5f1-4265-9911-ae6bb4318584",
+        "type": "field",
+        "fieldId": "4cfa070d-8dab-4853-a4c8-993ff1231453",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "989361e0-3148-48a8-b93d-45891e037670",
+        "type": "field",
+        "fieldId": "f6278ec3-9847-44fc-850a-732de25e3a71",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3bc355c9-2a32-42da-95a2-e9a730147aba",
+        "type": "field",
+        "fieldId": "a4d35813-dfe6-464e-b5be-d6f3e0e4c1c5",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0c5b1295-c8bd-4839-98b2-ad0b35885208",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "16c4e3bd-01c2-46be-b662-7e77402513b1",
+        "type": "FIELD",
+        "fieldId": "4cfa070d-8dab-4853-a4c8-993ff1231453"
+      },
+      {
+        "id": "70a96c31-7359-4a98-85f0-008c20f75f83",
+        "type": "FIELD",
+        "fieldId": "f6278ec3-9847-44fc-850a-732de25e3a71"
+      },
+      {
+        "id": "4941b2c2-120b-4e59-abd4-9e82df370a7c",
+        "type": "FIELD",
+        "fieldId": "a4d35813-dfe6-464e-b5be-d6f3e0e4c1c5"
+      }
+    ]
+  }
+}

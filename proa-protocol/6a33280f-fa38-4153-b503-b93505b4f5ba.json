@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "6a33280f-fa38-4153-b503-b93505b4f5ba",
+  "title": "ProA - Step 1",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Resin lot": {
+        "id": "e9836359-95c8-4111-8ac2-8ddd70629c98",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Column Reference No. CP": {
+        "id": "0fdc2f35-12a8-48a2-b078-251681d71dcb",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Number of times resin has been previously used:": {
+        "id": "efe00675-2da7-456a-b689-7cb87f764855",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "1319d957-a12a-4057-bff2-8031d7f4a941",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Note AKTA set up and running method to equilibration can be performed concurrently with thawing of the Protein A Load."
+          }
+        ]
+      },
+      {
+        "id": "c0362bc3-aa24-478a-8e24-abd26095ac87",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5a64e80e-999d-4354-ba67-41ef4d8f937e",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Obtain the packed MabSelect SuRe LX™ column. Record the following details."
+          }
+        ]
+      },
+      {
+        "id": "e400ff6f-9c94-48dd-aacb-de2cf697d8ca",
+        "type": "p",
+        "children": [
+          {
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "id": "8895adc2-15ff-4a5d-904b-78e7f662dbb0",
+        "type": "field",
+        "fieldId": "0fdc2f35-12a8-48a2-b078-251681d71dcb",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "78e3033c-2308-4621-99d1-3cba9ab8fbf6",
+        "type": "field",
+        "fieldId": "e9836359-95c8-4111-8ac2-8ddd70629c98",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "efa16c84-3a95-4790-bd38-1d1a47ed8024",
+        "type": "field",
+        "fieldId": "efe00675-2da7-456a-b689-7cb87f764855",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "bd26de98-4684-401e-94bc-bdc3efc02cd9",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Confirm that the resin is visually free from cracks, dry spots or discolouration."
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "5141ce78-5d7c-4334-b324-f25d1be758f9",
+        "type": "FIELD",
+        "fieldId": "0fdc2f35-12a8-48a2-b078-251681d71dcb"
+      },
+      {
+        "id": "120f22df-b808-496e-943d-7a1c2ecff7e4",
+        "type": "FIELD",
+        "fieldId": "e9836359-95c8-4111-8ac2-8ddd70629c98"
+      },
+      {
+        "id": "a4f6088b-a0e1-4ccb-8bc6-2f4f3fd23aa7",
+        "type": "FIELD",
+        "fieldId": "efe00675-2da7-456a-b689-7cb87f764855"
+      }
+    ]
+  }
+}

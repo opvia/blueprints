@@ -1,0 +1,173 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ea1abb19-f4f6-4116-a20c-aa8803d3cbb4",
+  "title": "VRF - Step 6",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "VRF Load pH": {
+        "id": "18439064-61b9-430b-af86-f4445cd5d916",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "VRF Load Conductivity mS/cm": {
+        "id": "dadf4290-bef2-4cd6-a55a-b57289310ba7",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "VRF Load pH Temperature °C": {
+        "id": "6e4a3e06-9fdb-45ad-8656-d68a8a6c7ece",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "VRF Load Conductivity Temperature °C": {
+        "id": "f7f53c49-7171-46b6-ac4b-ea4636c8a21a",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "ca6158de-6228-4868-bff3-014099ed92a9",
+        "type": "p",
+        "children": [
+          {
+            "text": "Measure pH at 20 ± 2°C and conductivity at 20 ± 2°C of a sample of the thawed material. Ensure meter is calibrated on day of use. "
+          }
+        ]
+      },
+      {
+        "id": "a3b0c963-7cb0-4eeb-8671-68048f787ecf",
+        "type": "field",
+        "fieldId": "18439064-61b9-430b-af86-f4445cd5d916",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0b3f63a2-4d98-48ee-87bc-b49563d5eacb",
+        "type": "field",
+        "fieldId": "6e4a3e06-9fdb-45ad-8656-d68a8a6c7ece",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cf0052ae-12fa-41db-afc8-189ec54a5d88",
+        "type": "field",
+        "fieldId": "dadf4290-bef2-4cd6-a55a-b57289310ba7",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "44810d42-611c-4c72-aacd-8dc107805d77",
+        "type": "field",
+        "fieldId": "f7f53c49-7171-46b6-ac4b-ea4636c8a21a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "8b79bde8-aee5-4f68-8c15-8669825f6ba3",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "fb4b4dad-ea30-4d6e-8dae-0b46686b79ed",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "pH meter: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "8ae1f53d-b2c5-4b39-9cec-d0d276569024",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Conductivity meter: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "f8c94605-bcfa-4280-8831-ec5c3d0b1056",
+        "type": "p",
+        "children": [
+          {
+            "text": "Temp probe: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "5257b362-2fe6-45cf-87e3-0a43c6ba3622",
+        "type": "FIELD",
+        "fieldId": "18439064-61b9-430b-af86-f4445cd5d916"
+      },
+      {
+        "id": "745466a9-d995-4c53-be68-8ea9747d5406",
+        "type": "FIELD",
+        "fieldId": "6e4a3e06-9fdb-45ad-8656-d68a8a6c7ece"
+      },
+      {
+        "id": "9d72fa1e-9b02-463d-b0c5-42067a1881e8",
+        "type": "FIELD",
+        "fieldId": "f7f53c49-7171-46b6-ac4b-ea4636c8a21a"
+      },
+      {
+        "id": "5acb1479-6117-4b0b-a96f-d748e6d4f5fe",
+        "type": "FIELD",
+        "fieldId": "dadf4290-bef2-4cd6-a55a-b57289310ba7"
+      }
+    ]
+  }
+}

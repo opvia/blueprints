@@ -1,0 +1,202 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "1d6990f9-4883-4420-9f67-a4fcc9bfb343",
+  "title": "AEX - Step 8",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Time & date": {
+        "id": "6df1c897-b049-42fc-976d-6520e4ca7042",
+        "type": "DATETIME",
+        "value": "2024-11-27T16:31:21.000Z",
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Result File Name": {
+        "id": "b0ef5f8c-be25-487d-a5ad-4ed5f245b1d9",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Result File Location": {
+        "id": "8663e908-1511-40fb-a494-4301685b8841",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Room temperature °C": {
+        "id": "97d5d3f2-6ce6-4513-ae77-ea998a3f7064",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "71960d29-74d1-445d-935f-2e37382bce43",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Start method "
+          },
+          {
+            "bold": true,
+            "text": "Sartobind Q Scale Down Method."
+          }
+        ]
+      },
+      {
+        "id": "8d54d601-849c-45dc-88a9-4a7d39660a4b",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "2e7e5e57-5404-49e8-bbca-415b3b914f55",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Give the result a file name corresponding to the project number, experiment reference, step, date and operator e.g.:"
+          }
+        ]
+      },
+      {
+        "id": "3f107029-03a6-4dcb-82a5-f78233caaa72",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "B5046_ELN123456_Sartobind Q Run_X_DDMMMYY_XX"
+          }
+        ]
+      },
+      {
+        "id": "382bf3fd-0e32-4f5c-8d7f-d97a0844de8c",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "8de1d80d-012e-4936-9983-ccad233cd86b",
+        "type": "field",
+        "fieldId": "b0ef5f8c-be25-487d-a5ad-4ed5f245b1d9",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "85ad3247-2787-487b-95ab-01da19238986",
+        "type": "field",
+        "fieldId": "8663e908-1511-40fb-a494-4301685b8841",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "dafdb3cb-ead4-4a34-a491-c09fcc501a25",
+        "type": "field",
+        "fieldId": "97d5d3f2-6ce6-4513-ae77-ea998a3f7064",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "a9027589-9a20-48cf-8cf6-cede16b04770",
+        "type": "p",
+        "children": [
+          {
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "id": "f70ebd66-d330-40b9-95b2-74480e10a632",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Temp probe ID: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "cc2a22dd-51d9-495a-90f5-a357e5c00175",
+        "type": "p",
+        "children": [
+          {
+            "text": "\nNote: Firstly the membrane will be sanitised with 60 MV of 0.5 M NaOH at 1 MV/min equating to a 60 minute sanitisation ("
+          },
+          {
+            "bold": true,
+            "text": "2 bar flow restrictor required for the sanitisation step only"
+          },
+          {
+            "text": "). The membrane is then equilibrated with 100 MV 20 mM Tris Acetate pH 7.3 at 10 MV/min. After 85 MV, the effluent will be collected in a sample tube (from Outlet 1) and the method will pause after 95 MV."
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "523fa6b2-865b-48df-925d-6711ff047292",
+        "type": "FIELD",
+        "fieldId": "b0ef5f8c-be25-487d-a5ad-4ed5f245b1d9"
+      },
+      {
+        "id": "c5cda1ba-7c72-4a51-b57e-295f47cd0629",
+        "type": "FIELD",
+        "fieldId": "8663e908-1511-40fb-a494-4301685b8841"
+      },
+      {
+        "id": "10780b4d-3eef-48c3-ba31-205a4b478476",
+        "type": "FIELD",
+        "fieldId": "97d5d3f2-6ce6-4513-ae77-ea998a3f7064"
+      },
+      {
+        "id": "df0bcff5-ee55-4d47-bf9c-134a758ee552",
+        "type": "FIELD",
+        "fieldId": "6df1c897-b049-42fc-976d-6520e4ca7042"
+      }
+    ]
+  }
+}

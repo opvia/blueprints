@@ -1,0 +1,241 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "95f30ef1-ab7c-45c8-bb70-45349564c368",
+  "title": "AEX - Step 7",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {},
+    "pageContent": [
+      {
+        "id": "6d540292-626b-4d0e-b475-e68b6d314a47",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Once outlets are primed, obtain PETG bottles as detailed in the table below, or other suitably sized container, and label them appropriately. Place each AKTA outlet line into the appropriate container."
+          }
+        ]
+      },
+      {
+        "id": "72834f0e-b730-49c3-bfce-7be67ea9d94c",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cb9f55da-1b89-493b-8c2b-957db034ce35",
+        "type": "table",
+        "children": [
+          {
+            "id": "a9b6a9c0-f45e-40d2-9990-7120792089b2",
+            "type": "tr",
+            "children": [
+              {
+                "id": "3ad3d29a-6e04-490f-bb91-6f5a7fd053d4",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "0f582d86-4e00-4fb1-9523-d923c4171266",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Outlet"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "31effa31-2f85-4d15-baa3-67092b16485e",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "7d08a284-b46e-407b-86e6-2f0f3bc68f0c",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Required Volume (mL)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "dc07012a-c722-4f54-85fb-676b4df3ffd1",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "7c91a1fe-d0cd-42ea-8f27-7b9adfe1be5e",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Label"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "d650d27b-9ab4-488a-89c6-e18ba61ff377",
+            "type": "tr",
+            "children": [
+              {
+                "id": "34071762-5da9-4fca-a2a7-55a2900f74cd",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "3072c17c-a690-4430-b03a-4840c5ccefc2",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Outlet 1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "00e18c7f-d1f8-4fdb-9777-bfb32d1d9b5f",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "559da356-3389-4dc9-b60a-b07ec2490b18",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "20"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "3caba0b7-1800-4efc-87c8-722d56050abb",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "0b62c454-ecec-44e9-833e-bafe276cb2e7",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Equilibration check sample"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "4006fba5-e9d3-4c9a-9dfd-4922b83a0413",
+            "type": "tr",
+            "children": [
+              {
+                "id": "e9a379c4-06af-4a16-84e5-ca7f28c41dfc",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "ca142d56-b6a3-4fb9-82c1-92b791a09a32",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Outlet 2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "bb0c74aa-4166-434a-88c1-2df2f2267ade",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "0ca9ee46-bbca-4910-8de9-c62c688a5640",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "500"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "90c4e57e-f6b8-433c-a884-66e9746c3675",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "8bcb3ad1-9761-4906-a54c-92b9c8bf2045",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Sartobind Q Flow Through"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e225819d-fa62-4879-8b3f-6b2ee12fb0dc",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "1c95f1e9-3f27-46e4-b41c-c3f0daa29ee3",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Sanitisation and Equilibration can go to Outlet Waste. Transfer any unused lines into waste container."
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": []
+  }
+}

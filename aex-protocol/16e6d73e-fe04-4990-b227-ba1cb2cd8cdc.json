@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "16e6d73e-fe04-4990-b227-ba1cb2cd8cdc",
+  "title": "AEX - Step 19 - Calculations",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "SCRIPT",
+  "scriptCode": "# Get records from step 6 (\"ProA - Step 6\")\nstep_6_records = seal.get_previous_step_records(14)\n\n# Extract value of (A) - Correcting the field name\nempty_weight = step_6_records[0]['fields']['Empty weight of flowthrough collection vessel (A)']['value']\n\n# Get records from the previous step (\"ProA - Step 21\")\nprevious_records = seal.get_previous_step_records()\n\n# Extract value of (B)\nfilled_weight = previous_records[0]['fields']['Weight of filled collection vessel (B)']['value']\n\n# Calculate weight of eluate\neluate_weight = empty_weight - filled_weight\n\neluate_weight = round(eluate_weight, 2)\n\n# Create dataframe for output\nrecords_to_create = pd.DataFrame({'Weight of Eluate (G)': [eluate_weight]})"
+}

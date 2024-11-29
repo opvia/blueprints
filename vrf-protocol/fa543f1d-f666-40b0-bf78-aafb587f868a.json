@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "fa543f1d-f666-40b0-bf78-aafb587f868a",
+  "title": "VRF - Step 34",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {},
+    "pageContent": [
+      {
+        "id": "9d691f86-c3fc-4960-8b85-a5727b086bfc",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Charge the feed pressure vessel with the required 0.2 µm filtered VRF Load volume (minimum 175 mL)."
+          }
+        ]
+      },
+      {
+        "id": "e9668300-7ef7-454b-903f-bc4972d0b7df",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Note: The load material is to be transferred into the filtration vessel using single use sterile pipettes. Each sterile pipette should be discarded after a single use and not reused. "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": []
+  }
+}

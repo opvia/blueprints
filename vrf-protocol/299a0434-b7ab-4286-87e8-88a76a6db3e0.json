@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "299a0434-b7ab-4286-87e8-88a76a6db3e0",
+  "title": "VRF - Step 21",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Tare balance": {
+        "id": "326447fe-b287-4241-916e-e7b014b2c417",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Timer cleared ready for use": {
+        "id": "62e61054-cc87-4261-8fff-bd99439d9e55",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Air vent on the filtration vessel closed": {
+        "id": "704b73f6-5a0e-46a8-be54-6d67a45b77ad",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Feed valve between the vessel and the Shield filter open": {
+        "id": "939b998a-363a-4056-b106-b605d39dd31a",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "3258139f-d27b-4420-ae24-7d7565c537ff",
+        "type": "field",
+        "fieldId": "939b998a-363a-4056-b106-b605d39dd31a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9c877191-9d79-4e2b-ad47-399b2ab095a5",
+        "type": "field",
+        "fieldId": "704b73f6-5a0e-46a8-be54-6d67a45b77ad",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0a26c23a-3796-4cb6-b434-e3e41c30a55a",
+        "type": "field",
+        "fieldId": "326447fe-b287-4241-916e-e7b014b2c417",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "fcaf6edf-9bc3-4ece-9510-0f3be8b4d31e",
+        "type": "field",
+        "fieldId": "62e61054-cc87-4261-8fff-bd99439d9e55",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "8ea4dbcb-eb22-4e57-b0d9-0e8c2773d6d6",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "50f00caf-4552-4b83-8543-05a7d09597e2",
+        "type": "FIELD",
+        "fieldId": "939b998a-363a-4056-b106-b605d39dd31a"
+      },
+      {
+        "id": "87496761-214d-4281-93d5-4788874f3178",
+        "type": "FIELD",
+        "fieldId": "704b73f6-5a0e-46a8-be54-6d67a45b77ad"
+      },
+      {
+        "id": "ee4e0ce2-bf59-44fe-9a6a-ca6beefadd7f",
+        "type": "FIELD",
+        "fieldId": "326447fe-b287-4241-916e-e7b014b2c417"
+      },
+      {
+        "id": "adccdafb-928a-4b92-8cad-6d64848a185f",
+        "type": "FIELD",
+        "fieldId": "62e61054-cc87-4261-8fff-bd99439d9e55"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "02a83b35-1f69-479e-8b4e-8e2f7eb632e3",
+  "title": "ProA - Step 21",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Weight of filled collection vessel g (B)": {
+        "id": "0010bc37-d4b0-4df3-93e1-2fd61ea81517",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "cb8fc3ac-deac-4a26-9c08-b88ff196f9fd",
+        "type": "p",
+        "children": [
+          {
+            "text": "Once the elution collection has finished and before taking any samples, place the lid onto the elution collection vessel, record the filled weight of the elution collection vessel and calculate the weight of the collected product eluate. "
+          }
+        ]
+      },
+      {
+        "id": "e0e4a3cd-10d1-4edb-8bcb-ba1ada671e57",
+        "type": "field",
+        "fieldId": "0010bc37-d4b0-4df3-93e1-2fd61ea81517",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "d84d17ed-c768-4a31-a086-4032cd003751",
+        "type": "FIELD",
+        "fieldId": "0010bc37-d4b0-4df3-93e1-2fd61ea81517"
+      }
+    ]
+  }
+}

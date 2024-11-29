@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "8693d649-3e36-4675-bcab-614da0193f43",
+  "title": "AEX - Step 17",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "End Sartobind Q Load Temperature (°C)": {
+        "id": "1ac51299-7793-4248-afb4-17b62e6a9c1c",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Start Sartobind Q Load Temperature (°C)": {
+        "id": "951df832-c515-48ce-beb5-4d84a317b2c2",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "4ef4420a-2e01-4d43-9ded-db72129e04a2",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Record the Load temperature at the start and end of loading using a thermometer."
+          }
+        ]
+      },
+      {
+        "id": "43f60a17-55fd-4e96-b0d7-86577cbdc430",
+        "type": "field",
+        "fieldId": "951df832-c515-48ce-beb5-4d84a317b2c2",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0e641446-2ae9-4329-9529-8acbbb6c6cab",
+        "type": "field",
+        "fieldId": "1ac51299-7793-4248-afb4-17b62e6a9c1c",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "42579d25-24cc-4fd7-80ec-f9263fb9ebd1",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0f992603-60fd-416f-aca9-9f34177fc190",
+        "type": "p",
+        "children": [
+          {
+            "text": "Thermometer: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "9663dc9c-de78-445d-96f2-bbfa9d2e7e77",
+        "type": "FIELD",
+        "fieldId": "951df832-c515-48ce-beb5-4d84a317b2c2"
+      },
+      {
+        "id": "9c6cd158-fd20-45d7-afd5-a3597eb3f5a3",
+        "type": "FIELD",
+        "fieldId": "1ac51299-7793-4248-afb4-17b62e6a9c1c"
+      }
+    ]
+  }
+}

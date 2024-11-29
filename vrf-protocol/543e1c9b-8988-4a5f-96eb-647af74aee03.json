@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "543e1c9b-8988-4a5f-96eb-647af74aee03",
+  "title": "VRF - Step 25",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {},
+    "pageContent": [
+      {
+        "id": "b7370075-e87f-427e-82f1-4c4ef43354e2",
+        "type": "p",
+        "children": [
+          {
+            "text": "Close the feed vessel by securing the top plate with the clamp supplied and close the air vent on the feed vessel."
+          }
+        ]
+      },
+      {
+        "id": "6094c4cd-21bf-41a7-b07f-8466d2eb8284",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": []
+  }
+}

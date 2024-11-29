@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "b4e8e6f4-0fc1-45a3-8df8-9fc47617d386",
+  "title": "ProA - Step 18",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "End Protein A Load Temperature (°C)": {
+        "id": "d9bbb710-adb0-43d9-b19f-0ae2de19b442",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Start Protein A Load Temperature (°C)": {
+        "id": "4fc9ddec-4cec-4ffc-88c9-d36cb10d7fb4",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "aefd7933-6a2c-4ac3-b507-87a977ec28fb",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Record the Load temperature at the start and end of loading using a thermometer."
+          }
+        ]
+      },
+      {
+        "id": "45541f82-02b6-454f-ba2e-d6aca3fb040c",
+        "type": "field",
+        "fieldId": "4fc9ddec-4cec-4ffc-88c9-d36cb10d7fb4",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "393c4574-9c02-4707-8327-ad4535ef8ca5",
+        "type": "field",
+        "fieldId": "d9bbb710-adb0-43d9-b19f-0ae2de19b442",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "1577a403-bcb7-4aa7-83d7-999bed42acf8",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9aeedda5-518f-424c-b79c-705a82dd910c",
+        "type": "p",
+        "children": [
+          {
+            "text": "\nThermometer: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "60661c26-abdd-4816-b712-46038691f5a3",
+        "type": "FIELD",
+        "fieldId": "4fc9ddec-4cec-4ffc-88c9-d36cb10d7fb4"
+      },
+      {
+        "id": "5c2b4055-8888-4aa7-b00d-5aef1e7f4402",
+        "type": "FIELD",
+        "fieldId": "d9bbb710-adb0-43d9-b19f-0ae2de19b442"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "9c2efed9-3e06-4a53-80bc-2e10e0fd50ad",
+  "title": "VRF - Step 18",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {},
+    "pageContent": [
+      {
+        "id": "8697630b-1fba-4e95-be73-094e2929f95d",
+        "type": "p",
+        "children": [
+          {
+            "text": "Close the feed vessel air vent by changing the direction to downwards position."
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": []
+  }
+}

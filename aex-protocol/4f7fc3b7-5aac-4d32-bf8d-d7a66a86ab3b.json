@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4f7fc3b7-5aac-4d32-bf8d-d7a66a86ab3b",
+  "title": "AEX - Step 11",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Mixing End time": {
+        "id": "1caa5e48-ae1b-4946-b16e-15db1ecc328b",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Mixing Start time": {
+        "id": "0049ec34-a3b4-4226-b4ff-55edd9ce5e46",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "87bbbfd0-79ba-4c7b-b8ac-66c20b897c95",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Mix the thawed Sartobind Q Load for a minimum of 1 minute. Mix gently enough that foaming does not occur, but fast enough to ensure a homogenous mixture. "
+          }
+        ]
+      },
+      {
+        "id": "7e8ade36-6232-46ca-b719-e8b9f83443d5",
+        "type": "field",
+        "fieldId": "0049ec34-a3b4-4226-b4ff-55edd9ce5e46",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "d021888d-c866-4a93-83b0-c1db291d6c33",
+        "type": "field",
+        "fieldId": "1caa5e48-ae1b-4946-b16e-15db1ecc328b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "b4e55fbb-bdac-4d04-9163-e75be7849370",
+        "type": "FIELD",
+        "fieldId": "0049ec34-a3b4-4226-b4ff-55edd9ce5e46"
+      },
+      {
+        "id": "bc5bcaa0-35ec-4f46-8c16-7d3b65b9e4cb",
+        "type": "FIELD",
+        "fieldId": "1caa5e48-ae1b-4946-b16e-15db1ecc328b"
+      }
+    ]
+  }
+}

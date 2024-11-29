@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "05e916ac-142f-40ce-8e21-0af635c4b838",
+  "title": "AEX - Step 23",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Chromatogram profile as expected": {
+        "id": "40013921-7b4d-406f-bf61-05dc6f9401c4",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "325e88d9-7cf2-417b-ba79-9379e8156cd9",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Review the chromatogram to confirm the profile of the UV, pH and conductivity curves are as expected based on the example chromatogram from the 200 L demonstration run."
+          }
+        ]
+      },
+      {
+        "id": "973f821a-07f5-488b-b254-c83c917b6d9b",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b5df7ec4-318d-408b-9451-94c7f9ec7369",
+        "type": "field",
+        "fieldId": "40013921-7b4d-406f-bf61-05dc6f9401c4",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f5046243-3db5-45c5-aa69-b39eb9489386",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "If not, note down any observations in supplementary notes and seek technical advice. "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "836fd0fe-84ff-47ee-ab9f-9d16431eef6f",
+        "type": "FIELD",
+        "fieldId": "40013921-7b4d-406f-bf61-05dc6f9401c4"
+      }
+    ]
+  }
+}

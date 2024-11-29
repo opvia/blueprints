@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "95a77da0-73d9-44cb-9acd-42025ea53ca8",
+  "title": "VRF - Step 39",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "File name": {
+        "id": "3e5e6e53-c669-4645-a9f5-752914f701de",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "File save location": {
+        "id": "2ba9af32-40de-4dfc-9906-7c4254df8bea",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "2f0666f0-cfea-45b7-b91b-e9b946e5f90e",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Carefully pressurise the system to 0.2 bar to start filtration whilst observing for a droplet from the outlet of the Shield filter and start the timer."
+          }
+        ]
+      },
+      {
+        "id": "7bb1ad8f-932c-4586-bdac-ca190fe32e33",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Records the following details and monitor the filter pressure and filtrate weight."
+          }
+        ]
+      },
+      {
+        "id": "beb47370-7138-46a1-a89b-e9d42afc7330",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Note: Aim for a target flow rate through the Shield filter of approximately 2.0 mL/min. Stop the product filtration at target throughput (160 mL). "
+          }
+        ]
+      },
+      {
+        "id": "b8a63a51-fd2e-47c3-99c3-16a70827ef15",
+        "type": "p",
+        "children": [
+          {
+            "text": "Use the balance auto-logging to record the shield filtration. Check readings "
+          },
+          {
+            "bold": true,
+            "text": "every minute for the first 10 minutes to ensure a flow rate of ~2 mL/min"
+          }
+        ]
+      },
+      {
+        "id": "5af57bb5-045f-4a9e-ac47-b9484d0b5647",
+        "type": "field",
+        "fieldId": "2ba9af32-40de-4dfc-9906-7c4254df8bea",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c2e2e58c-4257-4e82-ad51-b7f91cdf5825",
+        "type": "field",
+        "fieldId": "3e5e6e53-c669-4645-a9f5-752914f701de",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "14b3adeb-49c7-42a7-af83-98c50c90f2eb",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "fda9eebd-20f8-4ba6-b51c-1c5eb1ed97c4",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Filtration details:"
+          }
+        ]
+      },
+      {
+        "id": "18d02eac-337c-4e7a-9b17-b90f6e75e53a",
+        "type": "p",
+        "children": [
+          {
+            "text": "\n"
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "fe99182c-3601-4acd-883e-e830bb2e6b84",
+        "type": "FIELD",
+        "fieldId": "2ba9af32-40de-4dfc-9906-7c4254df8bea"
+      },
+      {
+        "id": "138280cc-64da-4e00-9152-e966c0cd9072",
+        "type": "FIELD",
+        "fieldId": "3e5e6e53-c669-4645-a9f5-752914f701de"
+      }
+    ]
+  }
+}

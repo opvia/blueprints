@@ -1,0 +1,360 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "cde8ca92-d5ec-49aa-ad3a-456243ea0061",
+  "title": "AEX - Step 4",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Post priming ensure the minimum volume stated in Section 3 is available": {
+        "id": "a3dab26f-3a58-44ee-aa8a-15c42083dece",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Attach the pre primed Sartobind Q nano membrane device to the AKTA system": {
+        "id": "3d8e7fd9-b96c-4968-9ba1-190bd8f1f921",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "28ee1d8c-5922-4509-9918-baacf633835b",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Confirm that the appropriate volumes of the following buffers are available and that the buffers are within date. Record the buffer details in Section 3. "
+          }
+        ]
+      },
+      {
+        "id": "8518091e-c05e-4712-8ce1-4625a266d31b",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3836cfe9-9e9c-4473-b50f-0bb292b25e06",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Place the following AKTA inlet lines into the following buffers."
+          }
+        ]
+      },
+      {
+        "id": "e9567d42-1a7f-4511-ae5c-11c44d89f10e",
+        "type": "table",
+        "children": [
+          {
+            "id": "d5a540e7-897b-4c75-8b32-90b6cd49744b",
+            "type": "tr",
+            "children": [
+              {
+                "id": "e4b87411-c502-4b54-96a4-f411eaa44865",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "d6f88280-c819-4b75-9905-ec43b8fe88ba",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Priming Order"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "0b55bbd8-889d-4e3a-a84e-91d8a8e12d4d",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "a5a2b3ea-db14-4a18-ade1-70c4ad958e99",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Buffer"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cc0fa8d8-a307-47ce-a350-2fcc59d0c40d",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "841e9576-8ef1-4317-af19-2a15a9bdc368",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Inlet Line"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "b1338980-4821-4fb6-90f3-35869eced995",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "f46f7827-1d71-459d-8274-df747c5505ad",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Tick when primed"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "04574758-acf9-4116-bcf5-77e6d0b5160c",
+            "type": "tr",
+            "children": [
+              {
+                "id": "4477d0e2-67a5-4f5f-a173-4fbe79aa1456",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "9bf97db4-b477-4cbe-8cc4-27490ea6def3",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1d1023ff-4c63-41d0-9a15-6875421a7223",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "7e663174-4528-4405-9f7b-5220f713e297",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "Column Sanitisation"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "59a2474d-7ca3-4524-a5d8-91bd742b3384",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "(0.5 M NaOH)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "42b75710-4b3d-44c3-ad44-dcb405a7a0f4",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "cf67aca0-a746-443b-b382-3c565f5040e9",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "A2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "97775e40-cb6e-4941-84fd-2a79dd5678f0",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "e79a9681-6a1a-40d3-a935-1d1735419dc5",
+                    "type": "p",
+                    "children": [
+                      {
+                        "text": "\n"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0f29a45d-88d2-4102-a6a7-678a2adfe338",
+            "type": "tr",
+            "children": [
+              {
+                "id": "b280c04e-547e-454a-bf47-e14f40cdec8c",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "24f532b7-d1e5-4edc-9c98-5ea166101d47",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ae575cdf-36cc-48f9-ae05-512ab136ee6b",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "4bbce2ad-6653-4bb0-93b1-1007f7c936c2",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "AEX Equilibration"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "0a517a3b-83bc-41aa-870d-e2c4e5ac4667",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "(20 mM Tris Acetate pH 7.3)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "00824254-2b49-4b10-b264-5a55c3f62eaa",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "561027e3-83f2-45fc-a47d-0aba0abf23a8",
+                    "type": "p",
+                    "align": "center",
+                    "children": [
+                      {
+                        "text": "A1 + S1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "e1bc48ad-71d7-40c2-8af8-ed9bad1c9cda",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "1cce4b19-d885-43bd-99b0-7c4d0454d04c",
+                    "type": "p",
+                    "children": [
+                      {
+                        "text": "\n"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c3ae357a-a53f-4fdb-bed8-3475634398f3",
+        "type": "field",
+        "fieldId": "a3dab26f-3a58-44ee-aa8a-15c42083dece",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "8902c019-14fa-4fd5-bfa8-ca81ee22eee1",
+        "type": "field",
+        "fieldId": "3d8e7fd9-b96c-4968-9ba1-190bd8f1f921",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "5650196d-ede0-4ee3-b619-cfb10dc6b259",
+        "type": "FIELD",
+        "fieldId": "a3dab26f-3a58-44ee-aa8a-15c42083dece"
+      },
+      {
+        "id": "049cbe89-0ef9-433e-a971-3a5f74537de8",
+        "type": "FIELD",
+        "fieldId": "3d8e7fd9-b96c-4968-9ba1-190bd8f1f921"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ac5538f1-d853-4813-bbf2-2fa81c531eab",
+  "title": "AEX - Step 15",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {},
+    "pageContent": [
+      {
+        "id": "ef0497cd-6c0f-4f01-86ff-095e9dfcd994",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Membrane Loading Preparation",
+            "underline": true
+          }
+        ]
+      },
+      {
+        "id": "150060ec-bb5a-44b0-a93f-67fb064cefab",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4f5af8d3-1660-476b-8bbf-295bb247ba8d",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "The Sartobind Q Nano membrane should be loaded to a target of 0.15 g/cm"
+          },
+          {
+            "text": "2",
+            "superscript": true
+          },
+          {
+            "text": " "
+          }
+        ]
+      },
+      {
+        "id": "e594f136-d84e-49ca-bc1d-57caefae3ceb",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b881d253-a14c-430d-86ba-adb5dd6a4d16",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Concentration of Sartobind Q Load ="
+          },
+          {
+            "bold": true,
+            "text": " 13.9 mg/mL"
+          }
+        ]
+      },
+      {
+        "id": "e3161d23-a4af-4687-8406-a77cd9e9c567",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Volume of Sartobind Q Nano Load required = 0.1 x 36 =  "
+          },
+          {
+            "text": "____5.4_x 1000______",
+            "underline": true
+          }
+        ]
+      },
+      {
+        "id": "f88c8a48-4c33-464a-8ff8-88bebd325179",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "                                                           \t                                                 13.9"
+          }
+        ]
+      },
+      {
+        "id": "8a4b2d00-3808-4cfa-8a05-60f47a620a89",
+        "type": "p",
+        "children": [
+          {
+            "text": "Volume of Sartobind Q Nano load required = "
+          },
+          {
+            "bold": true,
+            "text": "388.5 mL "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": []
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "41adc906-9b92-4ed7-9ff6-b1e1f5969dea",
+  "title": "VRF - Step 1 & 2",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Viral Filtration Load MUST be handled gently.\n\nDo not agitate.",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Load Label details": {
+        "id": "1b9273f8-5227-4d0a-a739-bfdca4891bfb",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Waterbath Temperature °C": {
+        "id": "6e9cd101-42bf-4406-bce7-5ba87d887b42",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Thaw/Warm Start Time / Date": {
+        "id": "7c26c001-11c6-4b64-8644-34f21e18b83b",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Volume of Load material (mL)": {
+        "id": "fdbd9cea-68ed-4389-8e35-5e801a860477",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Temp of Load (°C (Range 17-23°C)": {
+        "id": "aceed50c-f38b-4ac5-847b-d922aa1d1fef",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Number Load Material Storage Conditions (°C)": {
+        "id": "5db967a2-d790-43d7-8a13-8368f58258d4",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "728e80b1-bf87-499e-b9d1-3636c313fa66",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "text": "Obtain the VRF Load and record the following information."
+          }
+        ]
+      },
+      {
+        "id": "ffad7273-43b5-491f-839c-0f40f445b2e9",
+        "type": "field",
+        "fieldId": "1b9273f8-5227-4d0a-a739-bfdca4891bfb",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7a7c917e-5ea4-44a4-ac21-bbae5bd01bbb",
+        "type": "field",
+        "fieldId": "5db967a2-d790-43d7-8a13-8368f58258d4",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "82f5b173-e3f2-4737-87b5-2706441af5d2",
+        "type": "p",
+        "children": [
+          {
+            "text": "Thaw in a recirculating waterbath set at 20°C."
+          }
+        ]
+      },
+      {
+        "id": "e463211e-c4be-4d4b-a600-e054a9eb6007",
+        "type": "field",
+        "fieldId": "7c26c001-11c6-4b64-8644-34f21e18b83b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3e3b32dd-7817-4960-8d42-c076e3f26bfa",
+        "type": "field",
+        "fieldId": "6e9cd101-42bf-4406-bce7-5ba87d887b42",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "48cd2829-92c1-4ad4-9ffe-5ede8fe0819b",
+        "type": "p",
+        "children": [
+          {
+            "text": "Waterbath: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "cd3a4215-5b41-4ac6-90a2-ff3e3ea8fb62",
+        "type": "field",
+        "fieldId": "fdbd9cea-68ed-4389-8e35-5e801a860477",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "e75a3383-9c6f-4ad8-9093-1b1ef9a9ba65",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "41ab0174-fda1-4992-a08d-82bfd7816485",
+        "type": "field",
+        "fieldId": "aceed50c-f38b-4ac5-847b-d922aa1d1fef",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cdb96038-28b7-4dd9-a319-ee3abf3bdd45",
+        "type": "p",
+        "children": [
+          {
+            "text": "Describe the appearance of load in the following table. "
+          }
+        ]
+      },
+      {
+        "id": "5a68b56a-f87a-4e28-956c-d935dc2a47ff",
+        "type": "table",
+        "children": [
+          {
+            "id": "fa4cc6d6-621b-4b3a-9c63-0bcf3cf72d06",
+            "type": "tr",
+            "children": [
+              {
+                "id": "0991c283-2940-4dab-a6f2-80bf5f5d1288",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "c8b9a00e-3856-425f-83c9-cb213f2c8581",
+                    "type": "p",
+                    "align": "justify",
+                    "children": [
+                      {
+                        "text": "Colour"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "713ff819-3707-44fa-ab76-53f280b14053",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "50cafddc-d3d9-4942-91d6-f2d5d489ade5",
+                    "type": "p",
+                    "children": [
+                      {
+                        "text": "\n"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "21d84115-7619-46fe-8415-e413223cd55e",
+            "type": "tr",
+            "children": [
+              {
+                "id": "22262007-3d9a-48dd-8b0e-78c16d4978c8",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "486c3372-5218-4aa0-b001-1404cb4728f9",
+                    "type": "p",
+                    "align": "justify",
+                    "children": [
+                      {
+                        "text": "Presence of particulates (Yes/No)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "44b888f6-6ead-4a3c-bafb-a2b567472627",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "a76e16b0-0295-463e-9b67-ed19946132bf",
+                    "type": "p",
+                    "children": [
+                      {
+                        "text": "\n"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7512398c-06df-46a6-b5f6-caae24c38f84",
+            "type": "tr",
+            "children": [
+              {
+                "id": "beb346a8-d65e-49ba-8732-1b79eea9c3a1",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "4fb1152d-4e2b-4023-90f6-becd2c015a3c",
+                    "type": "p",
+                    "align": "justify",
+                    "children": [
+                      {
+                        "text": "Clear or turbid"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "0ec149b8-0617-4f9a-b583-2e1c915cd99b",
+                "type": "td",
+                "children": [
+                  {
+                    "id": "50954733-9f43-455e-978f-b8eb34e7fffb",
+                    "type": "p",
+                    "children": [
+                      {
+                        "text": "\n"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "c6fe35ce-2938-432c-8961-d5a2724c79f6",
+        "type": "FIELD",
+        "fieldId": "1b9273f8-5227-4d0a-a739-bfdca4891bfb"
+      },
+      {
+        "id": "27a2f312-96cb-4ea7-85c9-f05a23eee380",
+        "type": "FIELD",
+        "fieldId": "5db967a2-d790-43d7-8a13-8368f58258d4"
+      },
+      {
+        "id": "d60d0a97-14ae-454b-a90d-0946039f19a0",
+        "type": "FIELD",
+        "fieldId": "7c26c001-11c6-4b64-8644-34f21e18b83b"
+      },
+      {
+        "id": "06d4a10d-8937-4d9c-bc2c-481e2ee020c2",
+        "type": "FIELD",
+        "fieldId": "6e9cd101-42bf-4406-bce7-5ba87d887b42"
+      },
+      {
+        "id": "4ad4de5f-22ca-4e65-8840-6f87bd53a563",
+        "type": "FIELD",
+        "fieldId": "fdbd9cea-68ed-4389-8e35-5e801a860477"
+      },
+      {
+        "id": "d89e4d5d-0098-480e-bfb9-d038ae3d35b4",
+        "type": "FIELD",
+        "fieldId": "aceed50c-f38b-4ac5-847b-d922aa1d1fef"
+      }
+    ]
+  }
+}

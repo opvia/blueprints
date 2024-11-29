@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4fe6ab6b-685e-431f-8f92-831bd46386da",
+  "title": "ProA - Step 15",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Protein A Load pH": {
+        "id": "815bcb2c-d7d8-4072-8ace-70dba68c5ac7",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Protein A Load Conductivity mS/cm": {
+        "id": "8fcac3b8-d406-4957-bfa7-a1a9030bd311",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Protein A Load pH Temperature °C": {
+        "id": "5456c12e-5575-40aa-a2b3-181e37bc2907",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Protein A Load Conductivity Temperature °C": {
+        "id": "ef1a7f4b-d794-40ff-8c24-e6d6ded19a86",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "cf545b37-5a57-45ec-b4de-60a37858ebe6",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Measure pH at 17 ± 3°C and conductivity at 17 ± 3°C of a sample of the thawed material. Ensure meter is calibrated on day of use. "
+          }
+        ]
+      },
+      {
+        "id": "8310bc5a-c67a-4223-bb72-5c24e825c283",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4d381ecb-af20-4c24-a3d0-9dc7a22192d4",
+        "type": "field",
+        "fieldId": "815bcb2c-d7d8-4072-8ace-70dba68c5ac7",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f86ea3cd-c158-4f90-be98-793953757481",
+        "type": "field",
+        "fieldId": "5456c12e-5575-40aa-a2b3-181e37bc2907",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c95d2d70-5d1c-439e-a315-b795605da092",
+        "type": "field",
+        "fieldId": "8fcac3b8-d406-4957-bfa7-a1a9030bd311",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "44d9bbc4-4bd7-4bbd-9896-fef9c0200a40",
+        "type": "field",
+        "fieldId": "ef1a7f4b-d794-40ff-8c24-e6d6ded19a86",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b1837566-2866-4365-aa35-94037acda61b",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "a86a99d7-247e-489e-b5a1-76e7e2150752",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "pH meter: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "a9ec7e6e-ff9c-45a9-8f33-451b789bba8f",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Conductivity meter: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "9dd847f0-4e0f-4ca2-b53f-2091de373e94",
+        "type": "p",
+        "children": [
+          {
+            "text": "Temp probe: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "cfdfae59-29e9-48e6-b2bb-4c981f44a70f",
+        "type": "FIELD",
+        "fieldId": "815bcb2c-d7d8-4072-8ace-70dba68c5ac7"
+      },
+      {
+        "id": "c92382da-b2ad-42dc-a04f-3f4163204818",
+        "type": "FIELD",
+        "fieldId": "8fcac3b8-d406-4957-bfa7-a1a9030bd311"
+      },
+      {
+        "id": "3b830187-e9ef-4673-ac78-c86c2b4ad235",
+        "type": "FIELD",
+        "fieldId": "ef1a7f4b-d794-40ff-8c24-e6d6ded19a86"
+      },
+      {
+        "id": "9ae6c49a-3594-49e6-abb7-c0906d683871",
+        "type": "FIELD",
+        "fieldId": "5456c12e-5575-40aa-a2b3-181e37bc2907"
+      }
+    ]
+  }
+}

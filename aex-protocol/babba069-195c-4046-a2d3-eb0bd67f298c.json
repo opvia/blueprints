@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "babba069-195c-4046-a2d3-eb0bd67f298c",
+  "title": "AEX - Step 12",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Record filtrate expiry time / date": {
+        "id": "d4fffe4e-f0b5-41be-bc10-983b0f2386b2",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "b496b893-9a68-4bf4-9ed1-90ced89baf9f",
+        "type": "p",
+        "children": [
+          {
+            "text": "Obtain a Millipore Stericup vacuum filter (or similar) and paste the filter record label below."
+          }
+        ]
+      },
+      {
+        "id": "f9a68142-e5ed-43be-bddb-739867e46df5",
+        "type": "p",
+        "children": [
+          {
+            "text": "Perform filtration of the Sartobind Q Load using a PES 0.22 µm membrane. "
+          }
+        ]
+      },
+      {
+        "id": "ba9517cc-4432-4a14-a32c-2d03af338be8",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "49930113-97c7-44de-9eb4-b859c19f91cc",
+        "type": "p",
+        "children": [
+          {
+            "text": "Note: Perform filtration as gently as possible by starting and stopping the vacuum pump and by tilting the filtration bottle so as the filtrate runs down the side of the collection bottle."
+          }
+        ]
+      },
+      {
+        "id": "827f32cc-9b3c-40c7-b8fe-e0493cd590f7",
+        "type": "img",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c374502d-3ac9-4a00-8162-aa649e8d38ab",
+        "type": "p",
+        "children": [
+          {
+            "text": "Filter ELN Reference: MA - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "5de54251-85d6-4086-b015-7dc8fe01b4b3",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3066625c-81fb-4812-81fd-26fed01e4c47",
+        "type": "p",
+        "children": [
+          {
+            "text": "The thawed material has an expiry of 2 days when kept at 2-8°C, aim to use on day of thawing."
+          }
+        ]
+      },
+      {
+        "id": "57e15baa-f242-4cd0-8832-2fcfdf8d4fc2",
+        "type": "field",
+        "fieldId": "d4fffe4e-f0b5-41be-bc10-983b0f2386b2",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "1cdde23f-1493-4c64-b03c-b8384ad8d343",
+        "type": "FIELD",
+        "fieldId": "d4fffe4e-f0b5-41be-bc10-983b0f2386b2"
+      }
+    ]
+  }
+}

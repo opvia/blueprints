@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "36df8470-c575-4719-8792-230c93c9c31d",
+  "title": "VRF - Step 10 & 11",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {},
+    "pageContent": [
+      {
+        "id": "d6938c07-a5fd-4716-bb0b-62f21329bd83",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Set up 3-way tap connections with the Shield prefilter. "
+          }
+        ]
+      },
+      {
+        "id": "e5c6774d-0a1c-4eca-bc3f-41dbb9c2a634",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": "Note: Cap the spare port of the 3 way with a second 3-way tap, and ensure all ports are closed with closures."
+          }
+        ]
+      },
+      {
+        "id": "4f7c1b8b-059b-4262-ba99-b96afd77b6d6",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c16d499c-0ff7-4fdf-a0d9-e7fbc1252230",
+        "type": "p",
+        "children": [
+          {
+            "text": "Whilst the feed pressure vessel is still open, fill the tank with ~150mL purified water and close the vessel. "
+          }
+        ]
+      },
+      {
+        "id": "378d9bdf-65e5-4fb2-93d2-780d65df19dc",
+        "type": "p",
+        "children": [
+          {
+            "text": "Water Source: MA - Scanned into ELN (Tick) "
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": []
+  }
+}

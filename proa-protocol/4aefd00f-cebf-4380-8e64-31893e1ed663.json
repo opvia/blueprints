@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "4aefd00f-cebf-4380-8e64-31893e1ed663",
+  "title": "ProA - Step 3",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Electrode Slope (%)": {
+        "id": "d9c87e9e-9d62-4448-adaa-097e363dfd7a",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Assymetry potential (mV)": {
+        "id": "f06d2e2d-3fc7-4a13-88d6-08a78facb75d",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "753969ee-b418-4ace-8f34-268e19aa409d",
+        "type": "p",
+        "children": [
+          {
+            "text": "Ensure the pH probe of the AKTA system is installed in the flow path and perform calibration using the following standards: "
+          }
+        ]
+      },
+      {
+        "id": "61748fb1-3774-46a4-8835-30936959893f",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Standard 1:"
+          },
+          {
+            "bold": true,
+            "text": " pH 7.00"
+          }
+        ]
+      },
+      {
+        "id": "edb26ebd-6e9e-44df-ba80-d4f99d97e6a5",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Standard 2: "
+          },
+          {
+            "bold": true,
+            "text": "pH 4.01"
+          }
+        ]
+      },
+      {
+        "id": "948bad0d-da3f-4607-9e11-34b1b85fa45f",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "bold": true,
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "eae5cd34-6df5-4af4-8fe0-40ecc70a447c",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Record the following from the calibration: "
+          }
+        ]
+      },
+      {
+        "id": "a7c6550f-05b2-4772-90a6-673b7b30eb64",
+        "type": "field",
+        "fieldId": "d9c87e9e-9d62-4448-adaa-097e363dfd7a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "dd0949a4-3ecf-4d07-8a2a-809e2a75fe36",
+        "type": "field",
+        "fieldId": "f06d2e2d-3fc7-4a13-88d6-08a78facb75d",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7f23602d-9165-4972-ab24-216b32269256",
+        "type": "p",
+        "children": [
+          {
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "id": "9428341e-30e3-4a5f-b58b-4df9acbca8c8",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Acceptable limits – Slope > 80%, asymmetry potential +/- 60 mV. If calibration not within this range seek technical advice. "
+          }
+        ]
+      },
+      {
+        "id": "f2f647ee-f9c3-4ebb-9958-6f9f628744f2",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "3bc0406f-9043-4450-bd15-a7d4b958223f",
+        "type": "FIELD",
+        "fieldId": "d9c87e9e-9d62-4448-adaa-097e363dfd7a"
+      },
+      {
+        "id": "182c3a37-09a5-48e7-b3a7-ca06d25bef4e",
+        "type": "FIELD",
+        "fieldId": "f06d2e2d-3fc7-4a13-88d6-08a78facb75d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "998f81e6-5117-4ccb-b0d2-cd49a3eaab1d",
+  "title": "ProA - Step 5",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "1. Outlets 6 and 7 should be flushed in Protein A Elution buffer": {
+        "id": "5637e1aa-566e-4e7e-bf37-0f277498891e",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "2. Outlets 1, 2, 3, 4, 5 and 8 should be flushed in Equilibration buffer": {
+        "id": "b43a681b-e002-420f-8dd8-53a504c28070",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Yes",
+            "No"
+          ]
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "fd73e35f-bbcf-4cb0-bac3-f4f804d31cbc",
+        "type": "p",
+        "children": [
+          {
+            "text": "Prior to setting up outlet bottles, the outlet lines need to be flushed in the appropriate buffer, according to Table 4, in the following order:"
+          }
+        ]
+      },
+      {
+        "id": "966b5929-4a48-47cf-8533-1119fe61ce86",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "8e22def8-e2a4-4d96-a388-d0c76f7217e3",
+        "type": "field",
+        "fieldId": "5637e1aa-566e-4e7e-bf37-0f277498891e",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "d2c98017-b8c3-4171-88ec-df32196ccfd6",
+        "type": "field",
+        "fieldId": "b43a681b-e002-420f-8dd8-53a504c28070",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "11f3c1f6-99de-460b-a493-3a9a1626c865",
+        "type": "FIELD",
+        "fieldId": "5637e1aa-566e-4e7e-bf37-0f277498891e"
+      },
+      {
+        "id": "bddc4fea-8186-417c-9961-d8916acd7161",
+        "type": "FIELD",
+        "fieldId": "b43a681b-e002-420f-8dd8-53a504c28070"
+      }
+    ]
+  }
+}

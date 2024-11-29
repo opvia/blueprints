@@ -1,0 +1,277 @@
+{
+  "id": "aex-protocol",
+  "version": 1,
+  "name": "aex protocol",
+  "description": "",
+  "entities": [
+    {
+      "id": "ee3383ac-75f3-49a2-bb2d-7538952f9f49",
+      "type": "PROCEDURE",
+      "title": "AEX Protocol",
+      "source": {
+        "id": "da94eefa-9dba-4bee-9697-51da99cb56dc",
+        "version": "1"
+      }
+    },
+    {
+      "id": "d0112d9e-fce8-448e-92ee-556d485fa999",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Sartobind Q Nano AEX Chromatography method",
+      "source": {
+        "id": "7c6fc9be-7ac4-4d5d-9893-cafcc73167ea",
+        "version": "1"
+      }
+    },
+    {
+      "id": "713da37d-f817-44ef-849e-cf31134aa7be",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 1",
+      "source": {
+        "id": "240c15cc-9764-46e4-8a64-b9cb13dc7023",
+        "version": "1"
+      }
+    },
+    {
+      "id": "a7f9890d-cb4e-4ee6-94ca-ca02d667aa16",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 2",
+      "source": {
+        "id": "9b7bdde9-c168-48df-823e-d2cdf51b51eb",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7e977a16-3b98-4cf7-9da7-3ffa2c73ed9a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 3",
+      "source": {
+        "id": "a394217d-06bd-4141-82dd-bab59ed737b0",
+        "version": "1"
+      }
+    },
+    {
+      "id": "cde8ca92-d5ec-49aa-ad3a-456243ea0061",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 4",
+      "source": {
+        "id": "837c008a-bd43-4bc9-9da2-ac328215e3eb",
+        "version": "1"
+      }
+    },
+    {
+      "id": "89182429-3a7e-44e5-aa70-f101982b362c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 5",
+      "source": {
+        "id": "1d78d7d5-186e-442a-93c1-b1df6a23b3ad",
+        "version": "1"
+      }
+    },
+    {
+      "id": "590c0ee2-ced8-40fb-9f3e-d9f550795278",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 6",
+      "source": {
+        "id": "3606f1c0-7489-4538-841c-850108894428",
+        "version": "1"
+      }
+    },
+    {
+      "id": "95f30ef1-ab7c-45c8-bb70-45349564c368",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 7",
+      "source": {
+        "id": "9d36cb6f-66b7-45fd-9c9c-ed613164777c",
+        "version": "1"
+      }
+    },
+    {
+      "id": "1d6990f9-4883-4420-9f67-a4fcc9bfb343",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 8",
+      "source": {
+        "id": "a2ee023f-662c-4ad9-88b6-f1b169d07811",
+        "version": "1"
+      }
+    },
+    {
+      "id": "2220906e-c334-4cea-8a04-78de2e3a0b85",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 9",
+      "source": {
+        "id": "eca2df7a-f0dd-4cd1-85c8-457533076194",
+        "version": "1"
+      }
+    },
+    {
+      "id": "0b69b010-b116-4938-ad7e-a50378739d3a",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 10",
+      "source": {
+        "id": "20e1414c-b48d-42ca-917c-e31bf51ea3b8",
+        "version": "1"
+      }
+    },
+    {
+      "id": "4f7fc3b7-5aac-4d32-bf8d-d7a66a86ab3b",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 11",
+      "source": {
+        "id": "e853214a-7c2d-4365-994b-ab393e932085",
+        "version": "1"
+      }
+    },
+    {
+      "id": "babba069-195c-4046-a2d3-eb0bd67f298c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 12",
+      "source": {
+        "id": "27341614-98cd-4166-8f3a-d54c425160ed",
+        "version": "1"
+      }
+    },
+    {
+      "id": "fc1926d1-1da9-4012-a714-9403acb5a512",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 13",
+      "source": {
+        "id": "c98f9e8f-4e29-404e-adee-1ab608e2e72d",
+        "version": "1"
+      }
+    },
+    {
+      "id": "299a5f67-d266-4b7a-95a5-89a7ac69120c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 14",
+      "source": {
+        "id": "4c943e7c-e0ca-4257-a8d2-14befee31ee3",
+        "version": "1"
+      }
+    },
+    {
+      "id": "ac5538f1-d853-4813-bbf2-2fa81c531eab",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 15",
+      "source": {
+        "id": "977230a2-5ded-4de7-bc74-b13693840815",
+        "version": "1"
+      }
+    },
+    {
+      "id": "52779c86-614a-4f13-a46b-4f9c06c57fe2",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 16",
+      "source": {
+        "id": "ad4c7f6b-c356-4ecf-8058-c11c56b5f362",
+        "version": "1"
+      }
+    },
+    {
+      "id": "8693d649-3e36-4675-bcab-614da0193f43",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 17",
+      "source": {
+        "id": "50035bed-a724-44d4-9396-5236be6bd734",
+        "version": "1"
+      }
+    },
+    {
+      "id": "7006a64e-fdf5-4669-98d0-59c0f3108b77",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 18",
+      "source": {
+        "id": "47662fc2-aad0-47bd-914b-188f1676b182",
+        "version": "1"
+      }
+    },
+    {
+      "id": "895c1dd2-fd7c-48b9-9f47-0ab56343ea4f",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 19",
+      "source": {
+        "id": "381bbd89-d875-4247-b5ac-eae4f3b516da",
+        "version": "1"
+      }
+    },
+    {
+      "id": "16e6d73e-fe04-4990-b227-ba1cb2cd8cdc",
+      "type": "STEP",
+      "subType": "SCRIPT",
+      "title": "AEX - Step 19 - Calculations",
+      "source": {
+        "id": "a66245bd-270b-4f33-98b3-c0fae10804da",
+        "version": "1"
+      }
+    },
+    {
+      "id": "03ebd77f-3dfd-4a6a-b207-7e979f9de3e3",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 20",
+      "source": {
+        "id": "6c79bd30-9225-4bc2-bb5e-bc8e1c2f517b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "443f5c40-bb67-4891-97bd-a9d9a065beeb",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 21",
+      "source": {
+        "id": "93c83cc2-63cd-44cc-bac2-b61548ce393b",
+        "version": "1"
+      }
+    },
+    {
+      "id": "357f8f35-5340-44ea-92f8-f960bc90240c",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 22",
+      "source": {
+        "id": "4031ff0d-d2b0-4596-b653-e283e483eac4",
+        "version": "1"
+      }
+    },
+    {
+      "id": "05e916ac-142f-40ce-8e21-0af635c4b838",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 23",
+      "source": {
+        "id": "8a6c7635-c028-4745-9a50-d482f2ab9cdc",
+        "version": "1"
+      }
+    },
+    {
+      "id": "d9fd2489-4f01-41d8-9dc8-21ab9342b304",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "AEX - Step 24",
+      "source": {
+        "id": "0cc46748-dd88-4541-b402-6d41b43eb69b",
+        "version": "1"
+      }
+    }
+  ]
+}

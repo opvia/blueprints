@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c726a4ce-3425-4d7b-9427-03a8f093d841",
+  "title": "VRF - Step 22",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "End Time/Date": {
+        "id": "fe76122b-b898-4785-a7f2-ca09f32953f8",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Pressure (bar)": {
+        "id": "18b96e81-62c2-4919-af42-fdbf4b601895",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Start Time/Date": {
+        "id": "aea84afa-2baa-43ff-992a-798dd74850bb",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Volume of Flush Collected (mL)": {
+        "id": "747e72f3-8032-438a-b09a-b781a7ec6111",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "f384da35-97ca-4a76-835e-c7fceddeba53",
+        "type": "p",
+        "children": [
+          {
+            "text": "Open the green tap on regulator 3, and slowly adjust feed pressure to 2.1 bar - to start the shield prefilter flush. "
+          },
+          {
+            "bold": true,
+            "text": "Start timer as soon as droplets emerge from the filter outlet, record the following details and collect "
+          },
+          {
+            "bold": true,
+            "text": ">",
+            "underline": true
+          },
+          {
+            "bold": true,
+            "text": " 15 mL of filtrate."
+          }
+        ]
+      },
+      {
+        "id": "d6a616c2-7443-4746-bae4-8869be3491d9",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "29ad5c36-5c93-4f1e-9180-14ee6b74845a",
+        "type": "field",
+        "fieldId": "aea84afa-2baa-43ff-992a-798dd74850bb",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "33d5007a-ee5b-4e3b-b060-de3b619b201f",
+        "type": "field",
+        "fieldId": "18b96e81-62c2-4919-af42-fdbf4b601895",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "dc260c0c-4ecc-42cb-9650-8cca9cc9d395",
+        "type": "field",
+        "fieldId": "fe76122b-b898-4785-a7f2-ca09f32953f8",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "73ca6c48-9c8e-4ef0-8ec7-ffefc3318170",
+        "type": "field",
+        "fieldId": "747e72f3-8032-438a-b09a-b781a7ec6111",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "80ad50a5-6c4f-4d24-97e7-8fc5f2c69fff",
+        "type": "FIELD",
+        "fieldId": "aea84afa-2baa-43ff-992a-798dd74850bb"
+      },
+      {
+        "id": "e47eff97-b076-4508-9b47-717e665cf438",
+        "type": "FIELD",
+        "fieldId": "18b96e81-62c2-4919-af42-fdbf4b601895"
+      },
+      {
+        "id": "208f4171-88af-440c-afcc-c48431263a05",
+        "type": "FIELD",
+        "fieldId": "fe76122b-b898-4785-a7f2-ca09f32953f8"
+      },
+      {
+        "id": "f39e4da0-e8f9-4fcd-b01e-b8e85a230734",
+        "type": "FIELD",
+        "fieldId": "747e72f3-8032-438a-b09a-b781a7ec6111"
+      }
+    ]
+  }
+}

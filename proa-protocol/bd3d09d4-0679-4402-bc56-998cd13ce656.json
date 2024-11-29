@@ -1,0 +1,257 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bd3d09d4-0679-4402-bc56-998cd13ce656",
+  "title": "ProA - Step 10",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Load Label Details": {
+        "id": "65a4f969-689e-4527-b344-8184e21bf6ca",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Thaw/Warm End Time / Date": {
+        "id": "9bae2551-c936-459b-aa82-16a8b2a47aac",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Waterbath Temperature °C": {
+        "id": "67662f40-06b1-4266-aee2-1f0247ed0baf",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Volume of Load material mL": {
+        "id": "f16ddef1-58e3-460f-be0c-ab278b5184ee",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Thaw/Warm Start Time / Date": {
+        "id": "17543033-54c3-45fb-b71a-1bc326765d13",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Temp of Load °C (Range 17-23°C)": {
+        "id": "6276421b-d0a3-4188-b366-abe2d14e81b8",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Load material storage conditions °C": {
+        "id": "b4877852-9089-4512-8b11-5f1752dac106",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "662634d0-a1f5-4c7a-9f17-68fa35e3abeb",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Obtain the Protein A Load and record the following information."
+          }
+        ]
+      },
+      {
+        "id": "0d4fc9a9-f598-49c3-8fdd-8203a2d83db8",
+        "type": "field",
+        "fieldId": "65a4f969-689e-4527-b344-8184e21bf6ca",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f2e995c5-a774-4a5a-9a90-a2cfb0a5ac6c",
+        "type": "p",
+        "children": [
+          {
+            "text": "Load Material Reference: MA - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "cc173748-70ef-410c-85e4-1d827b67d45a",
+        "type": "field",
+        "fieldId": "b4877852-9089-4512-8b11-5f1752dac106",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cf211efe-c2bd-4d98-b6de-6fb3fdd72c22",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "01ddd92f-b515-458c-9945-50465d088105",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Thaw in a recirculating waterbath set at 20°C."
+          }
+        ]
+      },
+      {
+        "id": "cb342c94-99ea-4e7b-97c4-da3f037da8f4",
+        "type": "p",
+        "children": [
+          {
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "id": "f91036a8-799e-4b19-ae99-84e77be68e1c",
+        "type": "field",
+        "fieldId": "17543033-54c3-45fb-b71a-1bc326765d13",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "80f1b4cf-c625-4599-a09a-da0f09b86df4",
+        "type": "field",
+        "fieldId": "67662f40-06b1-4266-aee2-1f0247ed0baf",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "97cd2ba9-3462-4ab7-b41d-946caa582241",
+        "type": "p",
+        "children": [
+          {
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "id": "1af6e778-95cc-43ec-944c-4ca62d0d3094",
+        "type": "field",
+        "fieldId": "9bae2551-c936-459b-aa82-16a8b2a47aac",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b9f873f0-6bf6-40c2-ab75-39359b08a4da",
+        "type": "field",
+        "fieldId": "6276421b-d0a3-4188-b366-abe2d14e81b8",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "df8865d3-de0d-4e2f-a981-38c58d4fb21a",
+        "type": "p",
+        "align": "justify",
+        "children": [
+          {
+            "text": "Thermometer: EQ - Scanned into ELN (Tick) "
+          }
+        ]
+      },
+      {
+        "id": "26d8b7fc-a811-4f69-8807-bc8f53053df0",
+        "type": "field",
+        "fieldId": "f16ddef1-58e3-460f-be0c-ab278b5184ee",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "ad534cff-608c-4da7-9a93-a4940886d72a",
+        "type": "FIELD",
+        "fieldId": "65a4f969-689e-4527-b344-8184e21bf6ca"
+      },
+      {
+        "id": "5b0a47e3-b4ea-4078-90f2-3e36f0530cb5",
+        "type": "FIELD",
+        "fieldId": "b4877852-9089-4512-8b11-5f1752dac106"
+      },
+      {
+        "id": "82e4637b-161f-496b-a8bc-ef6542209df0",
+        "type": "FIELD",
+        "fieldId": "17543033-54c3-45fb-b71a-1bc326765d13"
+      },
+      {
+        "id": "2395d4b3-9369-44f4-b6bc-84d1538874cf",
+        "type": "FIELD",
+        "fieldId": "67662f40-06b1-4266-aee2-1f0247ed0baf"
+      },
+      {
+        "id": "8aa5f201-7c6c-4ca4-9989-fee089c9fc80",
+        "type": "FIELD",
+        "fieldId": "9bae2551-c936-459b-aa82-16a8b2a47aac"
+      },
+      {
+        "id": "c6118754-c974-4add-9b33-b87e2c2804a8",
+        "type": "FIELD",
+        "fieldId": "6276421b-d0a3-4188-b366-abe2d14e81b8"
+      },
+      {
+        "id": "fe6fd7b1-7ed9-46ce-94b5-b860fb8a5b88",
+        "type": "FIELD",
+        "fieldId": "f16ddef1-58e3-460f-be0c-ab278b5184ee"
+      }
+    ]
+  }
+}
