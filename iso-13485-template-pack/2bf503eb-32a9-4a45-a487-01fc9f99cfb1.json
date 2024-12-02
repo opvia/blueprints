@@ -1,0 +1,326 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "2bf503eb-32a9-4a45-a487-01fc9f99cfb1",
+  "title": "Risk Assessment for X",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Fill out this Record for each chemical involved in the laboratory process. Use Document view to add extra details about the article.",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Chemical Name": {
+        "id": "555c83e8-fc20-41f8-904a-16a87e76d2e9",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "pH of Solution": {
+        "id": "b5e95d8e-71cd-4273-b74c-41e87cc5f77f",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Exposure Scenario": {
+        "id": "49d97544-a25a-4052-a140-2ca7a0df1348",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Frequency of use/day": {
+        "id": "684c0315-3792-4881-b4f5-972eb3fdab15",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Reference SOP if Applicable": {
+        "id": "72dd5b5b-621e-4460-b58f-f40ee555f73c",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Reference File if Applicable": {
+        "id": "45d4ad4b-9e01-4aed-b281-84866cec21d2",
+        "type": "UPLOAD",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "UPLOAD"
+      },
+      "Concentration of Substance in preparation or article": {
+        "id": "54e38ee0-3bfc-4811-ae3e-fffefa602cca",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "cc13dad0-0c78-4b9c-86a4-34f44be4d56c",
+        "type": "field",
+        "fieldId": "72dd5b5b-621e-4460-b58f-f40ee555f73c",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "e1daaa23-b11e-4dd7-8dbb-1671a291ee77",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b75293be-69bf-4b88-8317-e0b5c9f21afa",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Article Details"
+          }
+        ]
+      },
+      {
+        "id": "874ac5fb-9133-4320-be6e-a18350c5b354",
+        "type": "field",
+        "fieldId": "555c83e8-fc20-41f8-904a-16a87e76d2e9",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cf534462-b63e-4af0-a1e5-b87f127ba388",
+        "type": "field",
+        "fieldId": "49d97544-a25a-4052-a140-2ca7a0df1348",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b177e4fc-52a4-4a6e-94d1-9ef0b4e77810",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "507f050a-643d-4640-9fdc-f5f782b597ef",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Operational Conditions of Use:"
+          }
+        ]
+      },
+      {
+        "id": "72fe4303-d895-4570-8dca-0aac5499ac06",
+        "type": "field",
+        "fieldId": "684c0315-3792-4881-b4f5-972eb3fdab15",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "599dbf18-ea28-4333-a42b-ba45ae67e07b",
+        "type": "field",
+        "fieldId": "54e38ee0-3bfc-4811-ae3e-fffefa602cca",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "208db469-c4a5-4dfd-9e41-4c62f91c8571",
+        "type": "field",
+        "fieldId": "b5e95d8e-71cd-4273-b74c-41e87cc5f77f",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "33521566-0d2f-46ab-bf06-53556780b552",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5b0aef96-0c73-47aa-b79e-a257a605950c",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Other relevant operational conditions of use:"
+          }
+        ]
+      },
+      {
+        "id": "b442a8f6-dfbd-4d0b-99fb-cbe9f96ada5e",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Add extra details here about extra operational conditions:"
+          }
+        ]
+      },
+      {
+        "id": "0e9b1e59-4258-4725-91e0-ec4143256baf",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Examples:"
+          }
+        ]
+      },
+      {
+        "id": "347d7ac1-7866-49ac-ab09-1a34f76e251a",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "- Temperature, mechanical energy output"
+          }
+        ]
+      },
+      {
+        "id": "45da4997-5313-4e85-8c34-486a784db5aa",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "- Capacity of receiving environment (e.g. ventilation rate, environment, water flow)"
+          }
+        ]
+      },
+      {
+        "id": "f148e364-ff2b-4c94-b2c1-8b933084033a",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "- Wear and tear with regard to article (e.g. Service life-time of articles)"
+          }
+        ]
+      },
+      {
+        "id": "9416e716-7150-4bad-89c3-7a614af25b9a",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9336a1fd-4efc-40fc-bf43-abbdbdb598a0",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5ea8ce12-7405-4e24-83e2-ed9e60d367b5",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "e9d3cdd6-c51c-4e5e-bbf6-78e1489e55ec",
+        "type": "field",
+        "fieldId": "45d4ad4b-9e01-4aed-b281-84866cec21d2",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "893350dd-f182-4c44-9aba-4196d9db6aca",
+        "type": "FIELD",
+        "fieldId": "555c83e8-fc20-41f8-904a-16a87e76d2e9"
+      },
+      {
+        "id": "dd4d8edf-420f-49ec-b5dd-b48c86ca0981",
+        "type": "FIELD",
+        "fieldId": "49d97544-a25a-4052-a140-2ca7a0df1348"
+      },
+      {
+        "id": "408fd266-0b2b-43f0-bf29-57acb536c986",
+        "type": "FIELD",
+        "fieldId": "684c0315-3792-4881-b4f5-972eb3fdab15"
+      },
+      {
+        "id": "bd06ed46-5642-4803-a35d-83b1e7480801",
+        "type": "FIELD",
+        "fieldId": "54e38ee0-3bfc-4811-ae3e-fffefa602cca"
+      },
+      {
+        "id": "2483a71d-21ec-4a20-93d6-17286b2f238b",
+        "type": "FIELD",
+        "fieldId": "b5e95d8e-71cd-4273-b74c-41e87cc5f77f"
+      },
+      {
+        "id": "7360c3aa-5cf0-40de-9125-eda0f4d72e89",
+        "type": "FIELD",
+        "fieldId": "45d4ad4b-9e01-4aed-b281-84866cec21d2"
+      },
+      {
+        "id": "257e66b0-ab75-45b0-8fbc-a748bb6a448c",
+        "type": "FIELD",
+        "fieldId": "72dd5b5b-621e-4460-b58f-f40ee555f73c"
+      }
+    ]
+  }
+}

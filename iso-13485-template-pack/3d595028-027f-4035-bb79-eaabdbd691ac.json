@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "3d595028-027f-4035-bb79-eaabdbd691ac",
+  "title": "Equipment Calibration",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Detail equipment Calibration Information.",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Comments": {
+        "id": "9354b310-c35b-41f9-b457-617e7548c412",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Equipment": {
+        "id": "201b88cb-9818-481f-b488-77c213ea1f53",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Calibrator": {
+        "id": "b97c85ef-176d-4e39-b4a4-3e7d7f1fbccb",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Date of Calibration": {
+        "id": "bec7cdf9-b87b-41fd-868c-3ae5f534d49f",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Attach Relevant Files": {
+        "id": "b0f10388-19f6-4129-b9d3-6a72b12f2661",
+        "type": "UPLOAD",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "UPLOAD"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "ec95b095-5305-4eb6-b985-a443c34e0887",
+        "type": "field",
+        "fieldId": "201b88cb-9818-481f-b488-77c213ea1f53",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cee11e88-c5a6-40e0-83d3-6142a14c2fa0",
+        "type": "field",
+        "fieldId": "bec7cdf9-b87b-41fd-868c-3ae5f534d49f",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b47bc401-b5ed-4754-80fd-2823a53d3423",
+        "type": "field",
+        "fieldId": "b97c85ef-176d-4e39-b4a4-3e7d7f1fbccb",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "dc9709ec-ca97-4c74-9bbf-19a4c516a672",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "93dd6c20-fad2-4ebc-83d1-ac418a133614",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Describe calibration details below:"
+          }
+        ]
+      },
+      {
+        "id": "6e960e2e-101a-4576-8657-560a32437ba7",
+        "type": "li",
+        "children": [
+          {
+            "id": "4b4e98a7-d11d-4980-8cd1-26f9c2b77181",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3a312909-e1f2-4000-b658-d98fb2d45a16",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f191885d-0472-44a0-a43f-424830cd50ae",
+        "type": "field",
+        "fieldId": "b0f10388-19f6-4129-b9d3-6a72b12f2661",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "919e345e-baad-4135-9d6d-c2f33d070091",
+        "type": "FIELD",
+        "fieldId": "201b88cb-9818-481f-b488-77c213ea1f53"
+      },
+      {
+        "id": "419ccb7c-6aab-4376-8aaf-5e69182beb66",
+        "type": "FIELD",
+        "fieldId": "bec7cdf9-b87b-41fd-868c-3ae5f534d49f"
+      },
+      {
+        "id": "60a30f45-ccf5-4deb-b257-a1626842e872",
+        "type": "FIELD",
+        "fieldId": "b97c85ef-176d-4e39-b4a4-3e7d7f1fbccb"
+      },
+      {
+        "id": "729c596c-8c03-4f4d-9e2c-949fd3456087",
+        "type": "FIELD",
+        "fieldId": "b0f10388-19f6-4129-b9d3-6a72b12f2661"
+      },
+      {
+        "id": "781b885d-d7f5-4a37-8810-314dc1ddf8a8",
+        "type": "FIELD",
+        "fieldId": "9354b310-c35b-41f9-b457-617e7548c412"
+      }
+    ]
+  }
+}

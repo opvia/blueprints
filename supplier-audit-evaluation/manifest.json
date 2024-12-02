@@ -5,7 +5,7 @@
   "description": "The Supplier Audit Evaluation procedure provides a systematic approach to assessing suppliers’ compliance with quality and regulatory requirements. It includes guidelines for planning, conducting, and documenting supplier audits to ensure they meet the organisation’s standards for materials, services, and overall reliability.",
   "entities": [
     {
-      "id": "55f66b35-69d1-4344-9c5e-c94abbd2b7b2",
+      "id": "0f395ef2-8a75-48da-aff0-06f7eda6d89e",
       "type": "PROCEDURE",
       "title": "Supplier Audit Evaluation",
       "source": {
@@ -14,7 +14,7 @@
       }
     },
     {
-      "id": "f500856e-31f6-4514-bb9f-95afb46fd4d2",
+      "id": "10abeaf8-7144-4703-a886-a3e2d57e422b",
       "type": "STEP",
       "subType": "DATA",
       "title": "Supplier Details",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "fb4a9e03-d184-4250-b570-40e8797f0753",
+      "id": "bcd262c2-eafc-4c18-a811-9c030a69e1aa",
       "type": "STEP",
       "subType": "DATA",
       "title": "Supplier Evaluation",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": "ca6b643c-3d7c-4a30-98d5-bf4c4db9c0e1",
+      "id": "f886feb1-eae6-4b1e-a173-914066c61990",
       "type": "STEP",
       "subType": "DATA",
       "title": "Quality Review",

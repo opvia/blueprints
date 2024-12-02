@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "59a776ee-4423-4d81-918e-db25fe779a74",
+  "title": "Verification of Effectiveness Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "7d764c86-d11f-48ea-a129-a0b1d3c40915",
+      "step": {
+        "id": "7e47891c-e730-431c-8e4a-9da8b2094577",
+        "version": null
+      }
+    }
+  ]
+}

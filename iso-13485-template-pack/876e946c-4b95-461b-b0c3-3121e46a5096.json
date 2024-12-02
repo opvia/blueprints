@@ -1,0 +1,1665 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "876e946c-4b95-461b-b0c3-3121e46a5096",
+  "title": "SOP - Sample Handling and Management",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "18149e90-6f81-4ac0-a8ad-e02128bf02e9",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "1f4cc9b2-e50e-4585-897d-f9cf98410dda",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "eaf3574f-1c02-4dd8-a8cb-8230bb13b668",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "02fbb2a4-d20e-4129-acfb-0dc908b32c19",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "3d1968ca-0946-44be-a8c5-44d3cc00fbf3",
+      "type": "field",
+      "fieldId": "02fbb2a4-d20e-4129-acfb-0dc908b32c19",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d5f48b7a-578e-4cfc-9a7b-2ebbe16f1457",
+      "type": "field",
+      "fieldId": "eaf3574f-1c02-4dd8-a8cb-8230bb13b668",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6f745e3e-7515-4f6e-9e11-5936ea1001ed",
+      "type": "field",
+      "fieldId": "18149e90-6f81-4ac0-a8ad-e02128bf02e9",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "92152030-8a7b-46e7-81f0-2eb793902160",
+      "type": "field",
+      "fieldId": "1f4cc9b2-e50e-4585-897d-f9cf98410dda",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fab285d1-73c3-4ad4-88eb-0fda8681c885",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4935b99b-45b3-41aa-9060-eb9c8e6d479d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "c15c9740-1c4b-49ae-8375-9616391a3e5c",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines procedures for receiving, labelling, processing, storing, and disposing of samples in the laboratory. Adhering to these procedures ensures the integrity, traceability, and accuracy of laboratory analyses."
+        }
+      ]
+    },
+    {
+      "id": "37f39b65-94e5-48cd-9b10-8bc6bed7434d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "20e3cac1-3671-4fdc-b327-85b37b1dda37",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "5a687ae7-6deb-4a98-a1da-a7934e45d2ab",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel involved in handling, managing, and processing samples. It encompasses all stages of sample management, from receipt to disposal, for various sample types used in laboratory analyses."
+        }
+      ]
+    },
+    {
+      "id": "7fd5e24e-ac1e-43c7-af97-325709a5d4c2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bbad048c-cb82-4bd3-941a-5274ffa0f5f4",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "69465609-23d2-4dcd-9780-274af4a1f7d8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5d5c723c-5ba6-46c3-9ba6-c319d28f273c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Lab Manager"
+            },
+            {
+              "text": ": Oversees sample handling procedures, assigns roles for sample management, and ensures compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9dcae350-f58e-442a-959f-d7b660bf4ea8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f04d5a2e-b736-4bf7-8bd1-0ca0cbffb4e6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Lab Personnel"
+            },
+            {
+              "text": ": Follow sample handling and management protocols, including proper labeling, processing, and storage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75c0750c-7c15-44c3-9d01-5f648114afc2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "07c56f0c-5b19-45b0-92bd-af1246c38527",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA) Officer"
+            },
+            {
+              "text": ": Conducts periodic audits of sample handling practices to verify compliance and traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f59cc4ca-04ff-4601-a7f3-c133554517dd",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ce5206dc-1f8f-415e-8349-1e56bf9294fe",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "bbcde633-de69-4ac2-b1c8-3a7ace59cdfc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a7ceca39-a197-471b-9ac2-f1ce8fe5c4ce",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sample"
+            },
+            {
+              "text": ": Material or substance submitted to the laboratory for analysis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33739ea1-8965-41ea-98a7-7fdb9445f182",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "40ca1ca8-bd81-4d0f-a810-70644f4cab4a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Chain of Custody"
+            },
+            {
+              "text": ": Documentation that tracks the handling and storage of a sample from collection to disposal, ensuring traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055951df-f46f-40d2-a90d-19e270d91b0b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8145d2e9-4a4a-43e1-a645-6e80915099ae",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "LIMS (Laboratory Information Management System)"
+            },
+            {
+              "text": ": Software for tracking sample information, including identification, storage, processing, and disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec8d98b6-5c10-4761-8b29-b115c88c14e8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b4bca490-472a-45c6-82ad-ef82d3efff70",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "Sample Receipt and Chain of Custody"
+        }
+      ]
+    },
+    {
+      "id": "a1ed956c-b074-4706-860d-fcfa8522ac5a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "208e7ec1-b831-44c7-93e8-cdcf79d8ee4c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Sample Receipt"
+        }
+      ]
+    },
+    {
+      "id": "1bf98812-afb6-4590-b530-7c3e70b63dcd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0a0260b3-9a53-44f0-9bb9-44b31ae554d8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Verification"
+            },
+            {
+              "text": ": Confirm sample details against accompanying documentation, including sample ID, collection date, and special handling instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e32d899a-17e2-43ad-adc3-4b13e9870b3e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a6d3eaae-ae97-451d-b554-f923dc6ff5e9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Condition Check"
+            },
+            {
+              "text": ": Inspect for damage, leakage, or contamination. Record discrepancies in the Sample Receipt Log and notify the Lab Manager immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21c343a0-1b2f-4cea-9e0b-abaf909e0e7c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b9b08881-91cb-45b9-8970-59bfaf47d66d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. Chain of Custody Documentation"
+        }
+      ]
+    },
+    {
+      "id": "115a2f90-2164-4496-bfee-64f0d7b56469",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "821dc82d-a3ff-4147-a992-de76384bd368",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sample Receipt Log"
+            },
+            {
+              "text": ": Record the following:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66180f82-f92c-45dd-907f-fbf204b3047d",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "4757737f-5691-463f-977a-fed34ef04824",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46fade9e-76a4-45de-a761-4254b3c5f3aa",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "01840e3a-8898-4e1b-8b84-c1efcabf202c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Date and time of receipt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b180a1c1-597d-4ab7-8d9a-8ff251428c62",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "795847b5-3254-45cf-b738-b287b4022e3c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sender information"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c70db11-4660-4f0d-8c02-5a5ec4a597c5",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "85910613-817c-4d80-99b8-3451b31e7c9a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Condition upon arrival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9b06b14-a2c7-4acc-9c6d-e0710d68c0fc",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "9277a2ed-659a-4565-92e1-89e23d261a2a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Initials of receiving personnel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef6b05e7-829d-427c-9738-0ae4854cfb74",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "26c52925-a8ff-4538-a33c-00bdda0f3aaa",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "LIMS Tracking"
+            },
+            {
+              "text": ": Enter sample details into LIMS, including type, collection date, and any additional identifiers. Update chain of custody in LIMS with each transfer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5fc85ac-9ed6-4bde-8582-bf74517d4281",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8272d4af-f98a-4243-94f7-da4d288ac6b0",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Sample Labeling"
+        }
+      ]
+    },
+    {
+      "id": "8cfb7fd9-4056-441b-8520-18a1b83985e4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "74092597-130a-4022-bb2a-e9029abd102a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Label Requirements"
+        }
+      ]
+    },
+    {
+      "id": "3c125370-f181-4c7e-948d-59aba5096a88",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "25908fa5-94de-4212-a8a8-12a21ca81229",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Include:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6787b3d-5749-4f65-91f7-e96dcb890410",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e8e5ea9b-45e5-4567-b5c0-665c70cf2a2a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Unique Sample ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8bc74cc-4d43-4b4d-a06f-808d5b8a3551",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2467f09b-5528-4768-b783-eea489a4070f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Collection/receipt date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6363334a-bbb6-4af3-91b8-b77426f5cb69",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b19d3fd6-4a36-47cc-b47e-87f8254f24f5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample type (e.g., blood, tissue, soil)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88da0791-1b4c-4af2-bf4d-56843fe3d8ea",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "17114464-62d2-4d0f-938d-f9e3991732d1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Hazard warnings, if applicable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b369c57e-df90-4cde-9a64-ab0121f8afd8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "420344f5-1e6d-484e-b7b7-43624f03a4f6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use barcodes when feasible for easier tracking and integration with LIMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "470c138f-27e6-4e5f-a15a-6c79f6ced308",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d7feed52-16e9-445a-bc0d-b9344e64c33b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Verification of Labels"
+        }
+      ]
+    },
+    {
+      "id": "da815b17-b1e0-4027-987e-14ae1ce62b65",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ace0261a-14f6-472d-95f8-e4ffbcb682c9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Cross-check labels against the Sample Receipt Log or LIMS. Correct discrepancies immediately and document the incident in relevant logs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7617e279-484e-4e37-8a77-3c7583761f36",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fbc4fe99-928e-47e5-8f45-20351855d0a5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Sample Processing"
+        }
+      ]
+    },
+    {
+      "id": "31c4b989-9f23-4aea-bda5-28eb792cba9b",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ccd3c634-87fd-42c9-860f-5c06e6c054e4",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Preparation for Analysis"
+        }
+      ]
+    },
+    {
+      "id": "e5018a66-9971-44f6-bbc0-a9fa3b685454",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0dd20ae6-f5b9-467e-b270-ba0c45b26980",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follow specific SOPs for processing (e.g., homogenisation, dilution, aliquoting)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6efca748-ee0d-4761-bb00-cb938c050c6b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5787012c-ba2f-428c-80b0-d7bcfc0f57ec",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record steps in the Sample Processing Log or LIMS, including date, time, procedure, and personnel initials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abdfa375-403c-4539-9434-a8b6553fa2d1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "86f80ea6-089b-458c-a9a6-f1fd649f180d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. High-Risk Samples"
+        }
+      ]
+    },
+    {
+      "id": "3d0e9728-6c42-4adc-8feb-bdfa9e2c154b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0484efd2-bd05-42d7-891e-6c6599254ecd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Wear appropriate PPE and use designated biosafety cabinets or fume hoods for handling hazardous samples."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c298d3a-08e0-4771-b08c-a510ff210c9b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d6cdb959-8c2c-4992-aded-604e0b660e07",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Clearly label hazardous sample containers with applicable symbols."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "207378b2-4367-45fd-a3bf-eb7f7b9e8ee4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "911d0ba6-fc5b-44db-9036-6744f211cca7",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Sample Storage"
+        }
+      ]
+    },
+    {
+      "id": "c5ab2033-7409-4d72-8a7d-6bb0de1f004b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b169a78e-1f14-44f7-8bc1-74119d96335a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Storage Conditions"
+        }
+      ]
+    },
+    {
+      "id": "43835054-468b-47b6-8b44-55b502b67dd2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f53e4b7e-c912-412b-b6a3-7138b9a7409e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store samples as per handling instructions (e.g., room temperature, 2–8°C refrigeration, or -20°C/-80°C freezing)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f06e6409-490f-40f0-887b-611b922f10dd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "44dffc32-dd31-4130-8f9c-8eae42b2782a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Place samples in designated storage locations marked with type and temperature requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4718f9e9-6a71-4c83-b3ec-e144df3a071e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8eea31fa-605d-4efa-bcec-f425955b3928",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Record of Storage Location"
+        }
+      ]
+    },
+    {
+      "id": "2b318ad7-24d3-49b4-8cdd-755b68c105c9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ee61a4ed-2c1b-412d-982a-b148b07a7999",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Log storage location details in LIMS, including room number, storage unit, shelf, and drawer number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e921cf96-da9e-4b23-86a7-ae1c203a54f2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fe69035f-4b77-476d-b1c6-7583eed3d227",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct periodic storage audits to ensure proper conditions and update LIMS records if samples are relocated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15007b18-e1e0-4230-95d0-222bf09fc617",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "424e0cae-d49f-4266-ae9a-275eaf5aa93d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Sample Disposal"
+        }
+      ]
+    },
+    {
+      "id": "3595ea37-aed4-4518-8a49-9fd51c34865e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "76cb3d81-9b8d-49c4-8e78-94e0265e2329",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Disposal Protocols"
+        }
+      ]
+    },
+    {
+      "id": "60386920-8fb4-4f83-9c78-f3c97de127c5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "42aff22d-bcb4-4170-97f5-fdb1cb8b0d39",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Dispose of expired or unneeded samples following the retention schedule. Document disposal in the Sample Disposal Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2f2dde5-b5a6-4b2c-9399-167cbd2d0f91",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5ca78be8-b8ad-400b-a796-32dbae59d2db",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Handle hazardous samples per laboratory waste disposal guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43dcc6fd-b925-46fd-857b-d13c92e1ff5f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4f2940ef-73a8-446a-afc7-5ed34634699a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.2. Documentation of Disposal"
+        }
+      ]
+    },
+    {
+      "id": "914eac8d-7621-4a76-98c1-714732a065ef",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "492ee932-8f7d-49f7-a7f8-2bf38f6d854e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6da50d8e-c524-4281-b5a7-7b86ca519c6d",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "61fe781f-e894-42e7-81e6-e553bba7b8b5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05880b02-5eea-4b5c-bcf4-365a9f2cb137",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "18facb68-2d7d-4548-a28e-21b8175d4e0c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Disposal date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "251daf84-bf7a-4280-9d4f-cf8bd9518adb",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "bda7939e-2a3f-4d48-a021-43178d28eda3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Disposal method"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "814cd072-789d-40c1-ad39-3177bdcf7dd2",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "5de05162-a672-4e86-a57b-a0a4a32fc820",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Personnel initials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5bd2d9e-207a-4cae-8c0a-14e4e8da4262",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bb7843d9-102a-408d-ae8d-162afa372725",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update LIMS to reflect disposal status and archive records for traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0470276-c7f4-4f0e-b9df-4efea87d0c30",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a1712da4-69a2-4d04-97a9-de79deec230c",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "Data Integrity and Traceability"
+        }
+      ]
+    },
+    {
+      "id": "0f88cad9-1d55-45c1-a716-d6ee2be5d657",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d94ec2e6-ed96-4c15-b009-5c029ee780ae",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. Maintaining Accurate Records"
+        }
+      ]
+    },
+    {
+      "id": "32dbb699-5cf9-4654-a37a-78baf68b02ed",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4f3f6b11-49f3-455e-b45f-c265e626616b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Enter data in LIMS or logs in real-time to ensure traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d92e11b-f2ad-4ccc-a677-7b890fcd8c1b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "10d70d34-b9ea-45bc-b0a4-2b5f6ae259ec",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain an audit trail in LIMS that logs actions such as data entry, sample movement, and disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "714fb0b2-81da-481a-8c07-e1f7427e4068",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "26ae6fa0-8201-4dc5-8f6d-ddf3218942cd",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.2. Regular Record Review"
+        }
+      ]
+    },
+    {
+      "id": "6d14b06e-7a00-4e49-99ad-771e9c0a1dc2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "70f8fc48-9dd7-44e0-8116-9246121f873f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly review LIMS and log records to ensure accuracy and consistency. Report discrepancies to the Lab Manager for corrective action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d38890af-b10f-48e3-bfc0-0dda51ff3ea9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "680752a4-d58d-45d9-be05-e05e06a2c4de",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. "
+        },
+        {
+          "bold": true,
+          "text": "Incident Reporting"
+        }
+      ]
+    },
+    {
+      "id": "33164498-78d1-4912-bad9-8fa00734ef6d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "35c6774a-ef3e-4ce3-ab65-f6b74940857f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.1. Reporting Lost or Compromised Samples"
+        }
+      ]
+    },
+    {
+      "id": "7403d13a-0407-4bcb-b381-0c53efc4e51e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "922cf0d6-f0b3-4da9-9622-42acd521bdc4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Notify the Lab Manager immediately if a sample is lost, damaged, or compromised."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05b610b4-519e-4a59-aa78-5cb3f60c0d98",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9fad4d64-e8a4-4a13-aaec-66af2faebae2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Complete a Sample Incident Report and document the issue in LIMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0894b9bb-060f-48fd-af72-b22f6029d9e1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "696c94bf-1997-41b6-a421-8b5b21e407fe",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. "
+        },
+        {
+          "bold": true,
+          "text": "Staff Training and Competency"
+        }
+      ]
+    },
+    {
+      "id": "4db567d3-d439-41e3-bcf2-7a42d5582f0b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aa6c067f-80ee-4b89-aec9-b6f4751a10de",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "12.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "ff1caabe-e685-4ef4-8a97-44ba5f52329d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d326629d-98ab-4588-937c-e1c9d2ecdbb5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Train new staff on sample handling, labelling, processing, storage, and disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f84ff4f-d8b0-47b4-aa38-054b58d8ecc8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c4b31f0e-32f7-4fe3-befe-359e1146196e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Include LIMS functionality training for accurate data entry and traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f926af4-de60-44a4-90d2-0ea478707d02",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "12.2. Ongoing Training"
+        }
+      ]
+    },
+    {
+      "id": "494a03d8-b905-4aa7-ab26-767296670a36",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c7cb298f-1f37-4705-ade8-c7f527e898da",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide annual refresher training to ensure adherence to updated procedures and protocols."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c236a35c-ae4c-41b6-bc7f-ba6d6eb734c5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8a28b354-d2ee-4fc8-92bb-0d3e2d211ca7",
+      "type": "h2",
+      "children": [
+        {
+          "text": "13. "
+        },
+        {
+          "bold": true,
+          "text": "Record-Keeping and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "5921580b-d211-497f-9766-d3888ef8d471",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "085aa8e8-b9c5-466b-8a56-f3b0809405a7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "13.1. Required Documentation"
+        }
+      ]
+    },
+    {
+      "id": "32904992-815f-41fd-94bf-8774a745d2f5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d0320c2a-8c7b-419a-b2d9-2ba22e625128",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample Receipt Log"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d4b2b84-90c4-4c62-ba3b-ffcd68e1c926",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9b2db03e-b200-4511-ae57-f3795f31b4d1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample Processing Log"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2336354d-2cac-4502-9d76-be16fa37b80e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "583db3c2-8bad-415f-a869-bee6c781fd2d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample Disposal Log"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06d70d3e-7d37-409e-ad31-42071331785f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6f1866ff-a3e8-419d-98ee-3a7f469d9647",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Sample Incident Reports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74ea2341-e9e9-4bb0-8b38-38792176b18d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "98da1374-d36f-4688-b018-825100f381d8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Training Records"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d11c90fc-e250-49c2-a797-a385fdf4f67e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "320b2cd0-8a50-4ee0-bb80-af713fe015d6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "13.2. Retention"
+        }
+      ]
+    },
+    {
+      "id": "fa41c51e-9443-4e5a-93e6-1b343bebe43a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b4e5cfaa-6f4b-40c7-a1fd-c5b652265879",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain records for at least five years, or per institutional policies. Securely archive them for long-term storage and retrieval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5423dc88-d3cc-491b-b6c7-67a48ca550da",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c87e25e3-6ac6-4c90-8992-88733e0afcb5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "14. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "d027d2d4-436e-49f7-9ac6-19d4dccde8ed",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b0c49e97-0c32-498d-9307-69d8e3878f1f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14ace8ac-969c-4230-a8ee-126e26f805b1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "041cb0fb-ab75-412c-bce5-0922ea6070e1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 15189: Medical laboratories – Requirements for quality and competence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dea49c0c-d602-43b0-889b-2cf354773d97",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0eb0a33c-322d-4640-b4d9-a5f39adc32af",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Sample Management and Safety Policies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

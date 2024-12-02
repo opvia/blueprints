@@ -1,0 +1,27 @@
+{
+  "id": "supplier-performance-evaluation",
+  "version": 1,
+  "name": "Supplier Performance Evaluation",
+  "description": "The Supplier Performance Evaluation Form provides a systematic approach to assessing and documenting supplier performance against key criteria. It serves as a standardized tool to ensure suppliers consistently meet the organization’s requirements for quality, delivery, reliability, and compliance with contractual and regulatory obligations. The form includes guidelines for defining evaluation metrics, recording observations, and providing actionable feedback to support supplier improvement and alignment with organizational goals.",
+  "entities": [
+    {
+      "id": "a2bb5e3b-57e1-4f33-896f-e3d120612b4e",
+      "type": "PROCEDURE",
+      "title": "Supplier Performance Evaluation",
+      "source": {
+        "id": "a8aac2bf-4a25-4ba3-b92e-d4f95a988d61",
+        "version": "3"
+      }
+    },
+    {
+      "id": "cef91d58-e34b-4b19-8d43-2db4a1bf1cda",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Supplier Performance Evaluation Form",
+      "source": {
+        "id": "c740c525-8d32-4c0b-aaf7-64b0906ae192",
+        "version": "3"
+      }
+    }
+  ]
+}

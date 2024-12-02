@@ -1,0 +1,396 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "f7ad68ee-f61c-425d-a20f-86c7ee2fa91f",
+  "title": "Fire Incident Reporting",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Response Time": {
+        "id": "7f6831ec-1337-4ab7-ad23-46692f7ba9ef",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Evacuation Time": {
+        "id": "23978885-b791-4ad4-8f14-962621b9d209",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Detection Method": {
+        "id": "1d584c25-9e86-4e4d-998f-1872e3a13bb1",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Type of Incident": {
+        "id": "526bb6ac-1c9b-485d-a7d5-6eb4318e41d7",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "Fire",
+            "Smoke Incident",
+            "False Alarm"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Cause of Incident": {
+        "id": "202b59ae-423a-4096-b8d3-312e426cf40d",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Source of Ignition": {
+        "id": "8e661af2-3f3d-4cc6-b08b-39bf384a8924",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Injuries/Casualties": {
+        "id": "14e5b9ce-6939-4919-a742-4dfb2d552b01",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      },
+      "Location of Incident": {
+        "id": "be2ec327-5f75-43ab-a0ff-c92735c341e0",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Date and Time of Incident": {
+        "id": "b8c0d3be-c8c4-433d-9c52-0390a7693e10",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Number of people evacuated": {
+        "id": "da670d9a-e4dd-4f0f-940b-fd086aab2392",
+        "type": "NUMBER",
+        "value": null,
+        "config": {},
+        "dataType": "NUMBER"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "c7495878-975e-4286-9e54-e70d73de1023",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Incident Details"
+          }
+        ]
+      },
+      {
+        "id": "53547185-6c4d-42a1-983b-68117e79ab01",
+        "type": "h3",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "abb41416-306b-4248-baf9-95b44ebe002e",
+        "type": "field",
+        "fieldId": "b8c0d3be-c8c4-433d-9c52-0390a7693e10",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "79c51db2-84d0-4481-95c2-f7b0b2250003",
+        "type": "field",
+        "fieldId": "be2ec327-5f75-43ab-a0ff-c92735c341e0",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "4c5cbd63-0a67-47c4-8c1f-ea0e474be41d",
+        "type": "field",
+        "fieldId": "526bb6ac-1c9b-485d-a7d5-6eb4318e41d7",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6b021372-485e-476c-9e02-6080a8a00b3d",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "745856a1-7f2d-4b65-b9b1-72d2d505f01e",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Cause and Response"
+          }
+        ]
+      },
+      {
+        "id": "7786b446-0797-417a-969a-cb8b12a4a8c9",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0219ba78-a289-4a93-9acb-df1af3453605",
+        "type": "field",
+        "fieldId": "202b59ae-423a-4096-b8d3-312e426cf40d",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "924599e5-6b94-47e3-a548-d9f1b71aaad9",
+        "type": "field",
+        "fieldId": "8e661af2-3f3d-4cc6-b08b-39bf384a8924",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "12f4396c-7024-4aa1-aa1e-9f2057c685d4",
+        "type": "field",
+        "fieldId": "1d584c25-9e86-4e4d-998f-1872e3a13bb1",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "04cd97aa-407e-4c6e-b7ed-83b82c2f2173",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6054fb24-fc1c-4ab8-a93f-297e9a46c564",
+        "type": "field",
+        "fieldId": "7f6831ec-1337-4ab7-ad23-46692f7ba9ef",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "13023844-a970-49f8-a98f-b127825a8835",
+        "type": "field",
+        "fieldId": "23978885-b791-4ad4-8f14-962621b9d209",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "14f71847-6352-4924-aaae-c68d75371419",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cc01852d-4cae-4ae3-8840-961c8c59d2b2",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Outcome"
+          }
+        ]
+      },
+      {
+        "id": "84fd4c92-3c2e-426c-a563-e3228f81236f",
+        "type": "h3",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "d34b7f40-135a-4277-b18f-1c1f442a068b",
+        "type": "field",
+        "fieldId": "da670d9a-e4dd-4f0f-940b-fd086aab2392",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "38c82f5d-8e56-40e8-8fb1-0a3c2c056996",
+        "type": "field",
+        "fieldId": "14e5b9ce-6939-4919-a742-4dfb2d552b01",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "63382553-860c-42fd-8a8c-4122c72f2fc7",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6f2bdff9-55e9-4b92-8382-9399766311dd",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f63bc3c6-6bb3-4185-ad96-7914ca8a0ce4",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Upload any images regarding the incident, and add any extra comments/details:"
+          }
+        ]
+      },
+      {
+        "id": "559c0304-e3a0-42f5-afd7-3ff0b35a495c",
+        "type": "img",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c7967c35-8a0b-44e2-8749-4d3febd7f824",
+        "type": "li",
+        "children": [
+          {
+            "id": "7048f2dc-7f35-4173-bdb0-3af1d4ba7d5b",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "1d5d35ea-97b5-47d4-b3cd-a77581acc999",
+        "type": "FIELD",
+        "fieldId": "b8c0d3be-c8c4-433d-9c52-0390a7693e10"
+      },
+      {
+        "id": "81e9f92e-b4d0-4dcc-b609-02a41759404e",
+        "type": "FIELD",
+        "fieldId": "be2ec327-5f75-43ab-a0ff-c92735c341e0"
+      },
+      {
+        "id": "4380baf8-e8ee-4d36-9869-d86f567f1dfa",
+        "type": "FIELD",
+        "fieldId": "526bb6ac-1c9b-485d-a7d5-6eb4318e41d7"
+      },
+      {
+        "id": "1ddc89ab-6a83-423f-b7d6-0c8db4574c17",
+        "type": "FIELD",
+        "fieldId": "202b59ae-423a-4096-b8d3-312e426cf40d"
+      },
+      {
+        "id": "53a4d906-11bd-43e6-8100-0d7eede25237",
+        "type": "FIELD",
+        "fieldId": "8e661af2-3f3d-4cc6-b08b-39bf384a8924"
+      },
+      {
+        "id": "09ed19f5-48b3-4a02-8567-9204ec001741",
+        "type": "FIELD",
+        "fieldId": "1d584c25-9e86-4e4d-998f-1872e3a13bb1"
+      },
+      {
+        "id": "f3951bcf-f43f-4949-9d84-346705528d91",
+        "type": "FIELD",
+        "fieldId": "7f6831ec-1337-4ab7-ad23-46692f7ba9ef"
+      },
+      {
+        "id": "cb80e8b1-585e-4e31-bfbe-d5b2ff7870d4",
+        "type": "FIELD",
+        "fieldId": "23978885-b791-4ad4-8f14-962621b9d209"
+      },
+      {
+        "id": "2437dec2-9782-4596-84b5-4e41b283fd0c",
+        "type": "FIELD",
+        "fieldId": "da670d9a-e4dd-4f0f-940b-fd086aab2392"
+      },
+      {
+        "id": "22f9fa6b-9139-4eac-b5a3-cf341de03f4f",
+        "type": "FIELD",
+        "fieldId": "14e5b9ce-6939-4919-a742-4dfb2d552b01"
+      }
+    ]
+  }
+}

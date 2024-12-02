@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "7df152e7-af66-4764-be86-874c021f0164",
+  "title": "Maintenance Activities",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Successful": {
+        "id": "42625ccb-7dd8-4868-bb1c-d82c4c315e69",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Description": {
+        "id": "dce51b6b-8b39-48b9-a1d7-feb0c41c04a4",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Time & date": {
+        "id": "145870d5-2325-42c2-b5f0-5b16b68ed643",
+        "type": "DATETIME",
+        "value": null,
+        "config": {},
+        "dataType": "DATETIME"
+      },
+      "Conducted By": {
+        "id": "d77be11a-af42-4e42-8045-af2d7ad55052",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Maintenance Activity": {
+        "id": "bc211f68-04c4-4cf2-9317-3b429e280a9b",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "59ed4fe4-46c1-44e2-aee9-7e65d893c998",
+        "type": "field",
+        "fieldId": "bc211f68-04c4-4cf2-9317-3b429e280a9b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3e04f4a0-96e2-4fbc-b557-b71ab190f6c4",
+        "type": "field",
+        "fieldId": "145870d5-2325-42c2-b5f0-5b16b68ed643",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "13db2685-2f03-4f78-9161-beeb054eec23",
+        "type": "field",
+        "fieldId": "d77be11a-af42-4e42-8045-af2d7ad55052",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "5ccf79eb-dc5f-4763-a4da-268bffa09b53",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0a3dbafd-b960-45e2-b20d-9268873bf68a",
+        "type": "field",
+        "fieldId": "dce51b6b-8b39-48b9-a1d7-feb0c41c04a4",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "0c4caef2-5ec9-40ac-8ba4-bdc9dda974d8",
+        "type": "field",
+        "fieldId": "42625ccb-7dd8-4868-bb1c-d82c4c315e69",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "b32fd58b-90bc-48b8-9517-ab786e822975",
+        "type": "FIELD",
+        "fieldId": "bc211f68-04c4-4cf2-9317-3b429e280a9b"
+      },
+      {
+        "id": "a1dec15e-40cf-4911-b327-6f4a2bb70c58",
+        "type": "FIELD",
+        "fieldId": "145870d5-2325-42c2-b5f0-5b16b68ed643"
+      },
+      {
+        "id": "87157938-073c-48b5-8b95-190777161325",
+        "type": "FIELD",
+        "fieldId": "d77be11a-af42-4e42-8045-af2d7ad55052"
+      },
+      {
+        "id": "2ea6335c-6cd0-457f-a970-b7401fe691ba",
+        "type": "FIELD",
+        "fieldId": "dce51b6b-8b39-48b9-a1d7-feb0c41c04a4"
+      },
+      {
+        "id": "e19f15b8-3706-41e5-ba0b-21379a43c7c5",
+        "type": "FIELD",
+        "fieldId": "42625ccb-7dd8-4868-bb1c-d82c4c315e69"
+      }
+    ]
+  }
+}

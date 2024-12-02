@@ -1,0 +1,1511 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "be95a1d7-dbb2-4a11-b8a7-2dd440e9673c",
+  "title": "SOP - Traceability Procedures",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "5b8f11b3-dfd0-4e39-8848-b2614ea89a94",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "f5deed9c-43e3-4577-b4a1-936d9d100886",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "3b3d1cdf-16b3-4a18-809d-d9d9f694870f",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "c0141d91-caac-4a10-9c1b-f85db88db442",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "f64e5983-3f72-4df2-b5fb-bcbd326c9637",
+      "type": "field",
+      "fieldId": "c0141d91-caac-4a10-9c1b-f85db88db442",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dee08f64-cab0-4302-9344-296a4dd1c9cd",
+      "type": "field",
+      "fieldId": "3b3d1cdf-16b3-4a18-809d-d9d9f694870f",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6177a1d3-7931-47f2-b1b1-f9bde990f150",
+      "type": "field",
+      "fieldId": "5b8f11b3-dfd0-4e39-8848-b2614ea89a94",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5b26c0f4-7c26-405d-b8c5-1fedaec187c8",
+      "type": "field",
+      "fieldId": "f5deed9c-43e3-4577-b4a1-936d9d100886",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f4baf0c4-1d86-4955-8533-b53fdb5f46cb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d0d0abdc-9488-43b7-a6fd-0140689eac75",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "6160659c-0075-43b2-a775-378b5a4624b5",
+      "type": "p",
+      "children": [
+        {
+          "text": "To establish a standardised procedure for ensuring traceability of raw materials, components, and finished products throughout production, storage, and distribution. This procedure supports regulatory compliance and facilitates product recalls if necessary."
+        }
+      ]
+    },
+    {
+      "id": "7fc05431-9341-4345-9e10-7d2006625082",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b3a3877b-15a1-44d0-914b-dc5d11f2d923",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "63e02b5b-a3c9-4b37-9e17-8027ad233b3d",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all materials and products within the organisation, including raw materials, components, and finished products. It covers traceability from receipt through production, storage, and distribution, ensuring that all items can be accurately tracked in case of quality issues or recalls."
+        }
+      ]
+    },
+    {
+      "id": "aeb9fcb8-4da4-4ec7-ad0e-4d6d5d079ae3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "61322a58-6cf5-437e-9c41-4c7c81a5e80f",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "222c5ddd-4313-4a9f-aac1-31655628a004",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "98013eca-e0bd-4742-b1c4-23e7b65cf1f9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Warehouse Team"
+            },
+            {
+              "text": ": Logs all incoming materials and ensures traceability of inventory through proper documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b57bc4d2-6a74-4964-92fc-6bd5230f9f8e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2cf87143-36dc-481e-a4eb-14287af65124",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Production Team"
+            },
+            {
+              "text": ": Tracks materials and components used in production, maintaining batch records to ensure traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89853da2-efea-4d0e-87fa-214f4ca2da1d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2e770a59-8f75-41cc-81d0-0fe8b25030cf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA) Team"
+            },
+            {
+              "text": ": Monitors compliance with traceability requirements, conducts periodic audits, and manages traceability documentation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c6bd17b-a591-42d5-a5be-aa90a1e91336",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b4d427ea-8d18-4fb3-ade7-665b75c3c659",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regulatory Affairs"
+            },
+            {
+              "text": ": Ensures traceability practices align with regulatory requirements and coordinates communication in case of recalls."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb85b735-57a0-4dc4-b57e-acaa9c55cf2f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad1846ad-944e-45ef-a259-999096647a0a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "7a6f45b5-33cc-44c6-9480-74cbc91b0405",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e874c9d9-febc-42a6-8962-250dc27f5f07",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Traceability"
+            },
+            {
+              "text": ": The ability to track the history, application, or location of a product or material from receipt through production to final distribution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91346903-20e9-4b51-924d-c392d1f59711",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "04b3c34f-3ba8-427c-b545-b6ca9986c94a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Batch Record"
+            },
+            {
+              "text": ": Documentation detailing production activities and materials used for a specific batch of products."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5bafa8a0-2211-49f9-a8e4-8ffd38c5394f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "68ae501a-c218-49a9-b061-1e1fe43ca9d4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Recall"
+            },
+            {
+              "text": ": A process for retrieving distributed products due to quality or safety issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27170684-e974-4096-9e39-ed4570685497",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3e435c39-940a-4752-bf32-8f7115f0d966",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Procedure"
+        }
+      ]
+    },
+    {
+      "id": "675e1eff-4fa6-4677-af6a-47177bc1fc03",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5e9b8dac-441f-4603-bcb1-e320e6a5936d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1 Raw Material and Component Receipt"
+        }
+      ]
+    },
+    {
+      "id": "97142d69-73fd-497b-8c4f-a0eedf45da2e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6fd79d4d-dded-4ccf-a107-4ae6ba33019c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Material Identification and Labelling"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdc431c1-b2dd-4e61-893d-b37dd15d141d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "91bf53df-5db0-4ee1-835c-9e3d4bd3e5d7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Upon receipt, each raw material and component is assigned a unique "
+            },
+            {
+              "bold": true,
+              "text": "Lot/Batch Number"
+            },
+            {
+              "text": " by the Warehouse Team.Label each item with the assigned lot/batch number, supplier information, and date of receipt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5f3e7e8-7208-493e-9ba2-27f43694598f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ea8fff0d-84c0-42d2-9f64-26f4e3a77bca",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Logging into Inventory System"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46155465-5b63-4399-9365-554906ff365b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7c90d968-06a3-4411-bcee-23731f0dc494",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record all materials in the "
+            },
+            {
+              "bold": true,
+              "text": "Inventory Management System"
+            },
+            {
+              "text": ", noting:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0647db4-fd4d-450a-8d8a-ea073f8945be",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "8352bc6f-02fd-4fed-8620-aa36ad434499",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Lot/Batch Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39c07e7c-cf37-4cda-a018-87ad0f115bf2",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "f423f7bd-4b4c-4e0a-98de-61c333ed0515",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supplier details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca3f777e-2336-46fa-9ee0-adbce7d53f5b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "c3031584-3c7c-4c14-b600-dae0e7daa7f4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Date of receipt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2171177b-68f3-499e-a03d-e2ae199f9386",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a485ab22-d459-41a5-b590-ecc0eab23a8b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Storage location"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c8ec2ae-2911-4ed9-b4cc-dc1364ae0a6e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a9805be9-a3fb-4f4d-8604-f4f1561c3808",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Expiration date, if applicable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f63c922c-0e83-409e-a797-97278e80fa80",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5da2ddcd-672c-4dbf-86f5-b7c2e5ea71c3",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation Verification"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2a2a86a-50dc-4ed4-b364-b00e9c91afe2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a6dd537c-82c2-4572-b9dd-c8e635695092",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify that each received material or component meets specifications per the "
+            },
+            {
+              "bold": true,
+              "text": "Certificate of Analysis (CoA)"
+            },
+            {
+              "text": " or supplier documentation.Attach CoA copies or other relevant certificates to the corresponding entry in the Inventory Management System for future reference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16611952-8ce6-445e-a333-4fb75533cf3b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "12e67e5a-f605-4dbb-ad18-47f904c1a81b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2 Production Traceability"
+        }
+      ]
+    },
+    {
+      "id": "2757226b-0312-49de-83d2-573b94c2a295",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b2693ad7-602f-49bc-91cb-b9ea07988296",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Material and Component Tracking"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50a985b7-161d-46f9-a340-35aeff1c9f7e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9ed19a82-a52d-4e7e-a8fe-1ab1ca986cf2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Track each material or component used in production, documenting its lot/batch number in the "
+            },
+            {
+              "bold": true,
+              "text": "Batch Record"
+            },
+            {
+              "text": " for each production run.For each finished product batch, record:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c792e9d9-116c-42c3-be92-fe9f9e001dd4",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a248693f-918c-4bbf-afae-b54e207ca000",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Raw material/component lot/batch numbers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fadedabf-d668-441d-b4a4-a9e5f3995c57",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "176fd372-227d-443e-87b6-22cc0e1cebad",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Production date and batch number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84fb1531-05d7-4933-919c-0b56e7dfdbf1",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "6b22c70e-2e2f-4a2a-95f2-1453cf027e1b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Equipment used"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "006ead20-5b27-45fb-843c-b04513109fb0",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "98ef50e0-0d23-4fc8-9b92-b1d04accb886",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Names of personnel involved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9541f046-daff-4484-8711-22b9a71b22bd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4407b27f-e750-43cf-9898-cd868b3e9e93",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "In-Process Controls"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a9a1bee-2003-49b4-b6a5-d64741aca8b6",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "9931e99b-7e7e-45f9-8afe-3adcead7b694",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA conducts checks during production to verify that only approved and correctly identified materials are used.Record any deviations in the Batch Record, and document corrective actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d4d5965-0497-4c7c-875d-a823acabd8e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a23339af-e032-4318-abd1-51d116f664b5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Production Batch Number Assignment"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "064b4f49-6cc7-4583-a88b-36a0adc9a349",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "afe2e5a3-5100-4e7d-8a13-084a3700779e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assign a unique "
+            },
+            {
+              "bold": true,
+              "text": "Batch Number"
+            },
+            {
+              "text": " to each finished product batch, linking it to the lot/batch numbers of all materials and components used in production."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfb58e37-84a1-4e25-a497-6922773af8d0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6b4e49eb-8dbf-4336-9fb7-86c423d648bd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Batch Record Maintenance"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36c7e314-37e2-4ed6-97a6-f4ac1642f5ec",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "c835c985-c96a-417b-8ecb-e1dad858bb28",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store completed Batch Records in a secure and accessible location. Retain records for the duration specified by company policy and regulatory requirements, typically 5-10 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80a552c1-b1fc-4fdf-9a59-c96e33c05c13",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4b406315-93aa-4b94-ad6e-134599f0c6a6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.3 Finished Product Storage and Distribution"
+        }
+      ]
+    },
+    {
+      "id": "a27698e7-1ad7-4d96-b5bc-412160556a05",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1ed612a8-0387-4667-9085-4acf60a6be5b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Storage Labeling"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "467f08e4-a513-4487-8852-f5f0019ec455",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "750eb5cf-d300-4f66-bb26-2e243bfdae27",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Label each stored batch of finished products with the assigned batch number, expiration date, and storage requirements.Ensure that each batch remains segregated to avoid cross-contamination and maintain traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02f4d369-096d-4e60-9487-24624fc1218f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c39764cb-4790-410c-b06f-519e1200afcf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Distribution Tracking"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e13d7496-eea4-460c-9369-34f1e8be7878",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e47650d5-e854-42d9-bb92-d42fc6ff2df3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For each batch distributed, record:Update the "
+            },
+            {
+              "bold": true,
+              "text": "Distribution Log"
+            },
+            {
+              "text": " with this information for complete traceability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39d78890-127c-43ea-93f8-dabf97cf6f15",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "f9db6cee-521b-4458-b439-c06a06f2994a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Distribution date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "615e3f96-b401-4863-8d07-6725d2001c8c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "af5cd736-3209-4488-8527-8472d38d4cf0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Customer information (if applicable)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c264ab2b-3a9c-4ba2-90aa-8b73a7d60701",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "f17d1675-577f-4e9d-93ab-43fe500e234f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Quantity distributed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfca3153-f681-4ddb-9729-fb92853b7b15",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "d70fbb12-466b-4567-9f9c-113519be340f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Shipping details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8bede33e-194c-41c1-8615-2846224db8f5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e574c6e5-5b13-4d4c-9695-cb413a94cc79",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Inventory Updates"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7bc3901-3898-45d2-8fa3-2763b9a87a35",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "392125a4-abb3-4c6d-9415-4543b9545a77",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update the Inventory Management System to reflect the quantity of products distributed and remaining in stock. Perform periodic inventory audits to verify that records accurately reflect inventory levels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ca5c1d1-0d62-43a0-ade7-ed0d521ca720",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "09d54604-b522-4c7d-b518-2d1772ee3e2e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.4 Recall and Retrieval Procedure"
+        }
+      ]
+    },
+    {
+      "id": "705bc72e-68a8-4d95-b06c-e0db2c39294f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "87a0fe56-14ac-4c48-ad42-fa9d1ec67550",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Initiating a Recall"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b77d486b-5ac2-4ad4-9565-1862c3118700",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "02adebd1-d0f2-48be-b21e-d1ec62922089",
+          "type": "lic",
+          "children": [
+            {
+              "text": "In the event of a quality or safety issue, the QA Team consults with management to determine if a recall is necessary.Regulatory Affairs coordinates with QA to establish a recall plan and, if required, notifies relevant regulatory authorities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f056fba5-9c84-4d80-8757-2804c68c7034",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ae380a10-f5f7-49f7-8768-f93aead4fb10",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Identify Affected Batches"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e775ff80-b029-4240-9eae-24156595a6bd",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "5b39c98e-78ff-49ef-94e6-56aee9b3b254",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use the traceability system to identify all batches containing the affected materials or components. Cross-reference batch numbers with the Distribution Log to determine distribution details."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c285d30b-60cf-4695-b2ad-e258da376117",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "df91cc8b-674c-4f63-80cb-18be6b70e9ab",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Recall Communication"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc9e0419-42b8-468f-91ce-a09591e56fff",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "a950c305-0fea-467d-8a81-8d948640bd41",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Notify all customers, distributors, and regulatory authorities of the recall, providing instructions for product return or disposal.Document all communications in the "
+            },
+            {
+              "bold": true,
+              "text": "Recall Log"
+            },
+            {
+              "text": ", including customer names, batch numbers, and return instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "477a932e-5862-4ac4-bd05-d83c08192820",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fe005be7-ef44-493e-a5f9-1dcafaf913af",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Product Retrieval and Disposition"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7df5ee9-83d8-45a7-a13f-be9745baad81",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "9f34febc-09c4-4249-9685-1ffeef597b4d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Track returned products using batch numbers and verify that all affected batches are accounted for. Determine the disposition of recalled products (e.g., rework, disposal) and document actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa8dde9b-15da-4bec-82e7-1dcb86ccf417",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "549829ff-3b1c-4081-bea9-f7714b373dc0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Recall Effectiveness Check"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "becab1c9-b944-4392-ac22-9f689a24422c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "3ae15529-3619-4ac5-acef-64b3942e3288",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct a recall effectiveness check to verify that all affected products have been retrieved. Document the findings and close the recall in the Recall Log once all products have been accounted for and processed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9febfb8b-5a43-43f0-88c8-bf8b81e7d008",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b94372e4-58b7-4ecf-bac2-ceddbb61727f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.5 Traceability System Audits"
+        }
+      ]
+    },
+    {
+      "id": "3aa47c9c-e3db-4691-9c23-8fe3da44ee47",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "56e46775-b7c4-4e71-9822-06f2f534ae7c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Periodic Audits"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84fcac50-aa49-4d8c-83d7-32f13d7167e7",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "d4bfd862-9347-4db4-ac93-f28419b51817",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA conducts periodic audits of the traceability system, ensuring all materials and products are correctly labeled, documented, and stored. Document audit findings in an "
+            },
+            {
+              "bold": true,
+              "text": "Audit Report"
+            },
+            {
+              "text": ", noting any discrepancies and corrective actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e261ac3d-98af-4f32-a338-ed0e0a2e0b30",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b8e39c9d-77fb-40ec-82b6-68703c91dabe",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective and Preventive Actions (CAPA)"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "775bafc1-3254-45f9-ac71-af8ecbb1deb8",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "831b18c8-9560-41c8-99eb-c25b31456891",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If traceability issues are identified during audits, initiate a "
+            },
+            {
+              "bold": true,
+              "text": "CAPA"
+            },
+            {
+              "text": " to address root causes. Document CAPA actions and monitor for effectiveness, ensuring traceability system integrity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93a57a0a-46a0-4561-a963-7c464c5c074e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad47c8be-fbc8-47d3-82da-07f64d6ca1f2",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Documentation"
+        }
+      ]
+    },
+    {
+      "id": "0245f7c2-d0d8-4114-bbe3-1a54f9bc14b3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5240ac84-4017-44e0-ae7b-5cc99edb315c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Inventory Management System"
+            },
+            {
+              "text": ": Digital or physical record tracking lot/batch numbers, quantities, and locations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b22c00b-a35d-4ac0-a85f-85c0cecc1c0b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ebc2dbd9-6d20-436c-ba15-a8ba7eaf3419",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Batch Record"
+            },
+            {
+              "text": ": Comprehensive record of materials, production steps, and testing results for each batch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5058fe1e-7b24-4215-a317-ebcef74181aa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "23d7ef55-46db-4a01-a25a-b2f33340bce8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Distribution Log"
+            },
+            {
+              "text": ": Log of all distributed products, including batch numbers and customer information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40e729ef-cb68-4ce1-9b0d-1c8bac786e04",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "16a3222e-b59f-4cdc-92f9-2a3f03c9a920",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Recall Log"
+            },
+            {
+              "text": ": Record of recall actions, including notifications, product retrieval, and disposition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f7c2223-65a6-4a07-a0f4-9a27f4947510",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e1db5f60-b928-4d7c-b69e-1135884720ac",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Report"
+            },
+            {
+              "text": ": Documentation of periodic traceability audits and any findings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d4d24ac-616b-4905-a023-dabb4290f140",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "43219c56-e14e-4e64-871b-b78a68c3def1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "CAPA Documentation"
+            },
+            {
+              "text": ": Record of corrective and preventive actions for issues identified in traceability audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f92bc10-06e3-4581-bb1d-9744535ec715",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "21d75815-b924-4806-8a75-31d950f81e79",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. References"
+        }
+      ]
+    },
+    {
+      "id": "539bee2a-4e1c-4328-b8f6-d4dc5d4e6b9e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "da712aa3-0ca6-400b-9d7b-0126299d0895",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485: Medical Devices — Quality Management Systems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "352f02fb-8f15-4a8d-9492-aac499cab244",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
