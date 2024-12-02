@@ -1,0 +1,1455 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "00f647c3-4d85-4dad-82f6-4938e30f3ed0",
+  "title": "SOP - Management Review",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "9da7db5b-1071-45f9-a319-6ee8d2be5791",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "10c0cb57-528c-4ce3-86f2-915a2b63027e",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "ef92fd53-2384-4354-85fa-60405576466d",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "d7c8b1a4-3bdd-4c46-a1ef-d6b2a7303052",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "d7891983-dc1b-41e9-9e50-078e6f14ce07",
+      "type": "field",
+      "fieldId": "d7c8b1a4-3bdd-4c46-a1ef-d6b2a7303052",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2d17ca44-08bf-43d9-adda-973ab7abb8a6",
+      "type": "field",
+      "fieldId": "ef92fd53-2384-4354-85fa-60405576466d",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cc20b902-cfb3-4274-93ca-7a468e6d6786",
+      "type": "field",
+      "fieldId": "9da7db5b-1071-45f9-a319-6ee8d2be5791",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "74cb6baf-ebb8-43a8-8270-23ab5dd17f62",
+      "type": "field",
+      "fieldId": "10c0cb57-528c-4ce3-86f2-915a2b63027e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cc78e01b-68a4-41ff-96cb-27a8b62c51ff",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a6efd0aa-7a74-4c65-b3ca-f1372b994998",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. "
+        },
+        {
+          "bold": true,
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "a4c38c14-c489-4077-b00c-e577eec1e224",
+      "type": "p",
+      "children": [
+        {
+          "text": "The purpose of this Standard Operating Procedure (SOP) is to define the process for conducting Management Reviews in compliance with ISO 13485:2016. This procedure ensures that the Quality Management System (QMS) is effective, aligns with the company’s objectives, and continuously improves, in order to ensure compliance with regulatory requirements for medical device manufacturing."
+        }
+      ]
+    },
+    {
+      "id": "d0bab36a-b30a-4626-8f85-86022e51fbd8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "13f7de85-81b2-4fe8-a730-d0ac73c41d30",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. "
+        },
+        {
+          "bold": true,
+          "text": "Scope"
+        }
+      ]
+    },
+    {
+      "id": "c43dd68f-09b3-4d38-8a38-1693de0e3840",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all personnel involved in the management review process within the organisation. It covers the planning, execution, documentation, and follow-up of management reviews of the QMS, including the review of audit results, corrective and preventive actions, customer feedback, and resource requirements."
+        }
+      ]
+    },
+    {
+      "id": "c1a6e678-42d7-4321-947a-cf0d2ec7e474",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7f57b852-3df2-405d-a9bc-f4aa71ff12e5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. "
+        },
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "b909cbb0-4058-45cc-8750-24ae1a86128f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "be6c2a0a-feac-4e14-af4d-288150e5618b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Top Management"
+            },
+            {
+              "text": ": Responsible for overseeing the management review process, ensuring all necessary inputs are provided, and acting on the outcomes to improve the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c099608-c97a-4b44-9e96-60fdf5616d81",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "63a2f2d8-74a3-4ad4-a2cf-0291ddc49d59",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Manager"
+            },
+            {
+              "text": ": Responsible for coordinating and preparing the management review, presenting data, and ensuring that action items are followed up and documented."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b288ae23-b39b-400a-b261-83d951b65f5b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "53119402-761c-43fe-8ede-08858bc5b392",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Department Heads"
+            },
+            {
+              "text": ": Responsible for providing relevant data for the review, supporting corrective and preventive actions, and ensuring departmental compliance with QMS requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "606985ff-151f-46f4-b724-af9d7c730056",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fcce82fa-5938-4b10-8997-4cb8a74786ba",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "All Employees"
+            },
+            {
+              "text": ": Responsible for supporting the implementation of the QMS, providing feedback, and assisting in the identification of improvements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f30bfbf0-953a-44fb-b2cc-2cbe6f0c40dd",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "44fa9291-9ea3-44de-a0c8-54ff5fb33d3e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. "
+        },
+        {
+          "bold": true,
+          "text": "Definitions"
+        }
+      ]
+    },
+    {
+      "id": "2695b46c-d049-46fd-a6cf-0c0933aa70b8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "da09f351-25a4-499e-a042-e9c80a76089a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management Review"
+            },
+            {
+              "text": ": A formal evaluation process conducted by top management to assess the effectiveness, adequacy, and compliance of the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5a92d9c-dbb1-4998-8d87-b9f17f5788ff",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b3583d2f-145e-4558-be3f-3b8688d7ec63",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Management System (QMS)"
+            },
+            {
+              "text": ": A system that documents processes, procedures, and responsibilities for achieving quality policies and objectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfc10e83-efbd-439f-95f5-a5b66bbb3fd8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "314d58fc-999c-450c-aae5-055569849e1f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Top Management"
+            },
+            {
+              "text": ": The person or group of people who direct and control an organization at the highest level (e.g., CEO, Managing Director, or senior management)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a24689a0-3dbf-4848-a427-a4122814c624",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a46052d8-1bee-4de9-888a-7ebe05faeefb",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. "
+        },
+        {
+          "bold": true,
+          "text": "General Management Review Procedures"
+        }
+      ]
+    },
+    {
+      "id": "321f9001-e015-4fd2-9c1e-4c648b3453a3",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5c9e5ec8-c1fe-4627-93f4-886f1f552446",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. "
+        },
+        {
+          "bold": true,
+          "text": "Frequency of Management Review"
+        }
+      ]
+    },
+    {
+      "id": "bcae3955-a8ad-4b32-ada8-5eefe7ede5e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dea3a8ab-4344-4250-9e26-950ecea14f97",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The management review must be conducted at least annually. Additional reviews can be scheduled as needed based on significant changes in the QMS or external requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb451029-bc7d-4579-8ec9-404b9ef4fc37",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "32b0400e-acb7-4f54-ab42-6429f1399284",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. "
+        },
+        {
+          "bold": true,
+          "text": "Inputs for Management Review"
+        }
+      ]
+    },
+    {
+      "id": "3c808526-1d90-4cba-8755-d77b904a4b51",
+      "type": "p",
+      "children": [
+        {
+          "text": "The following inputs must be reviewed during the management review process:"
+        }
+      ]
+    },
+    {
+      "id": "a44feca9-c4ed-421c-bae3-6774a27afb54",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9f9005b2-f0f7-47db-b16b-3645f3c677de",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Results"
+            },
+            {
+              "text": ": Findings from internal and external audits, including non-conformities and corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2112094-9f22-45c3-854b-3f2b85735066",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "424fe014-1767-4ffe-8d45-d84cd0f11d64",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Customer Feedback"
+            },
+            {
+              "text": ": Customer complaints, feedback, and satisfaction survey results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfcf4886-3e8a-47d5-b438-e0876ec9121b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "56bd8a8f-41f0-43a2-8466-45031ce17e53",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Non-Conformances"
+            },
+            {
+              "text": ": A summary of non-conformances, corrective actions, and preventive actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e89441a-92c5-4af2-9318-09ce47ed3472",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cb02eb05-c26c-411a-98a2-7cce0a62c720",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Process Performance"
+            },
+            {
+              "text": ": Key performance indicators (KPIs) and metrics that measure the effectiveness of QMS processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3671d453-916f-4948-940c-f721ef8f29db",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ed264224-e989-49fb-b52d-66eb58293084",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Risk Management"
+            },
+            {
+              "text": ": Updates on risk assessments and actions taken to address identified risks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8696c3e4-4436-49f1-9a99-d0255899f4b9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6249aa57-0801-4e4b-991f-0816232112a5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regulatory Changes"
+            },
+            {
+              "text": ": Any updates to regulatory requirements impacting the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f75c9a92-1235-48c4-9f6e-992205d8a939",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f05659e4-9710-4a83-bb5e-b20f7590c09c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Objectives"
+            },
+            {
+              "text": ": Review of progress toward meeting quality objectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a66e7bcb-3837-47bb-91db-03476aaf8914",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "86c1110f-16ff-44ff-ad9c-9d1cb840adb1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Resource Needs"
+            },
+            {
+              "text": ": Review of resources needed for effective QMS implementation, including staffing, infrastructure, and training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "671ad343-06d7-4b50-9329-1f483c31b21a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f4293ae2-df29-4415-92ba-eed176888a02",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. "
+        },
+        {
+          "bold": true,
+          "text": "Conducting the Management Review"
+        }
+      ]
+    },
+    {
+      "id": "9aa35b9b-b3c4-42be-a459-d08602dbabe2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c4f2a5ca-31a5-4ecf-9a68-5740ca6e0151",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Quality Manager shall schedule the management review and prepare a presentation based on the input data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49fb087a-9de6-442f-9021-97528a954b78",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "49346f02-3d62-43e1-8339-f32191e8c2e2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The meeting shall be chaired by top management and attended by relevant department heads, including Quality, Production, Regulatory Affairs, and R&D."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b49e971b-18c1-4d51-b5ad-2a7f70936628",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "468867f3-fc55-4129-abf4-c5ea992b77a9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The review should include an assessment of the effectiveness of the QMS and the identification of any areas requiring improvement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31b9aef0-a971-432e-80cd-a2b9bd5a8c46",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a3e0b05c-38d9-4854-8e03-e6d758fa9095",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. "
+        },
+        {
+          "bold": true,
+          "text": "Management Review Process"
+        }
+      ]
+    },
+    {
+      "id": "66cd7d84-d903-4708-906e-ebe48d478357",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "feb803ed-9074-49d4-ae37-2a8cf984ab58",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. "
+        },
+        {
+          "bold": true,
+          "text": "Agenda for Management Review"
+        }
+      ]
+    },
+    {
+      "id": "6da8b4a1-efbb-42f7-8750-f36ba30ea551",
+      "type": "p",
+      "children": [
+        {
+          "text": "The management review meeting shall follow a structured agenda:"
+        }
+      ]
+    },
+    {
+      "id": "299e2abf-5332-424e-b76e-45a06b07130e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fd07dda0-f2f7-4b57-9291-2989e349acce",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Opening Remarks"
+            },
+            {
+              "text": ": Introduction by the chairperson, review of the agenda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa98d304-f0d5-4341-ac1d-c934df4399a5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4afd53a5-e5d2-4591-ba42-ae4ac4cb5657",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Review of Previous Management Review Actions"
+            },
+            {
+              "text": ": Status update on action items from the previous management review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64aa794f-ab40-47ae-9360-05e1fc815ba1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2be8d936-1752-4625-a3a2-cecb4dc455fd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Audit Results"
+            },
+            {
+              "text": ": Review findings from internal and external audits, including non-conformities and corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "626a8cdf-441d-4c18-a1d0-afdaf33b7ce9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "13d9e99b-e0d4-4fd3-9b5b-0a5cbf6974cd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Customer Feedback"
+            },
+            {
+              "text": ": Review of customer complaints, product returns, and satisfaction surveys."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1875332b-2158-414b-be47-b563ab93e5c1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7d8c1efa-3f16-4563-9be0-3641fadd5b84",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Non-Conformances and Corrective Actions"
+            },
+            {
+              "text": ": Evaluation of actions taken to address non-conformances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98ed7868-b2b0-4b97-9973-652667014043",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a4efa870-44f1-461d-b6c4-b50e9034cb30",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Process Performance"
+            },
+            {
+              "text": ": Review of KPIs and performance data for the QMS processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04777679-0f1e-4959-ae80-6c0c267243cc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0493c832-5aa9-422c-a9f0-2686823ed9d7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Risk Management"
+            },
+            {
+              "text": ": Assessment of risk mitigation actions and review of new risks or opportunities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42b2d787-4a71-4a2b-8545-d1d4b8cfc25a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0f10df34-7db4-4e18-a396-7c7aa7fcbc3a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Regulatory Compliance"
+            },
+            {
+              "text": ": Review of regulatory updates and compliance status."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "402ae4eb-2fb6-4c98-81f3-b25e0a96253e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9acac0d4-a37e-4ffb-bbda-f677fc82447f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Objectives"
+            },
+            {
+              "text": ": Evaluation of progress against the set quality objectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8647c0f3-24bf-453c-9966-b23916dab1f2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1726fb9b-e6eb-4e75-bb8f-c624c1504491",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Resource Requirements"
+            },
+            {
+              "text": ": Review of the adequacy of resources to maintain the QMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "593cc7ce-daf7-4c45-ab73-4af12edf51e7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2d612db5-791b-4fd3-bc70-e8b78f14af32",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Other Topics"
+            },
+            {
+              "text": ": Any other issues or concerns identified during the review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe105d6c-0385-4ed6-ab0c-d480c5a83765",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "202bfe5f-15d0-4b2b-ad53-e4a5e36cdce9",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. "
+        },
+        {
+          "bold": true,
+          "text": "Action Items and Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "81dd6ce6-05b0-4c4a-a96c-67cd9ab5a2a8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d940f9af-e3e5-48ee-be27-95b250ad6ab4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "During the meeting, specific action items will be assigned to relevant personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4546513-8fd5-4c5c-b884-f6d280062c68",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a90686fe-c959-46d8-90a8-c520ac77a2e5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Each action item must have a clear owner, a target date for completion, and a mechanism for tracking progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d66a8881-3c92-4600-8342-74ba299cddd5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9a2b66b8-7806-4f70-93ca-97afb44ed184",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Quality Manager shall ensure that actions are followed up on and that results are presented at the next management review meeting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2882a740-fc44-45ef-84d3-e1f5cc9f0db4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3f2c238b-9ef0-4703-9802-ae450e3dec69",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. "
+        },
+        {
+          "bold": true,
+          "text": "Outputs of the Management Review"
+        }
+      ]
+    },
+    {
+      "id": "53cbd297-5f5c-4043-9cff-bbb0cb0f93b1",
+      "type": "p",
+      "children": [
+        {
+          "text": "The following outputs shall be documented and communicated:"
+        }
+      ]
+    },
+    {
+      "id": "dbccaa4e-d293-400a-9e31-97a553e91f6c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "404afe29-744b-4923-ba47-b8972ad869fd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management Review Report"
+            },
+            {
+              "text": ": A summary of the discussions, decisions, and action items from the review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "375ca973-2b0b-4385-ad54-eb9de2acd40e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7e074183-e4f6-4cf2-a118-878fa0e9e8ed",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Action Item List"
+            },
+            {
+              "text": ": A list of actions, responsible individuals, and deadlines for completion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6accf65e-b3b8-4707-9fed-2775a51f6166",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "90373b2a-491b-4918-b99a-22666e26e4cf",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "QMS Improvements"
+            },
+            {
+              "text": ": Any changes or updates to the QMS, quality objectives, or resources required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "099b754a-5dc3-46d2-ae7b-a96876b00f80",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "66e01e9b-063f-4d03-9d60-cff10e79a35b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. "
+        },
+        {
+          "bold": true,
+          "text": "Records"
+        }
+      ]
+    },
+    {
+      "id": "eaeeebe5-c4b6-4a46-8612-1a7bc162c564",
+      "type": "p",
+      "children": [
+        {
+          "text": "The following records shall be maintained as part of the management review process:"
+        }
+      ]
+    },
+    {
+      "id": "b59ea9a3-b1b6-43ac-821f-fad04d6e5e39",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4a9c52f8-8df0-4b17-b94a-e360a8ff36eb",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Management Review Minutes"
+            },
+            {
+              "text": ": Detailed documentation of the discussions and decisions made during the meeting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4780731-b0fc-4513-9a6a-08d6b88f4221",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5093a8de-d921-4b7a-b9c7-307293f1a08e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Action Item Log"
+            },
+            {
+              "text": ": A log of all action items, including completion dates and responsible parties."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c7e6375-fd76-4fda-adc7-77ac4449798c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fbbfa2c0-81f8-4bed-a8b5-7ce112931df1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "QMS Reports"
+            },
+            {
+              "text": ": Data and reports used as inputs for the management review, including audit reports, process performance data, and customer feedback."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44f45359-7bea-4358-999e-ded26d5d7400",
+      "type": "p",
+      "children": [
+        {
+          "text": "These records must be retained for a minimum of 5 years, or as required by applicable regulatory or legal requirements."
+        }
+      ]
+    },
+    {
+      "id": "40e92831-c34d-4f56-9545-48bbad78cbe9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "559fe819-48e9-476f-b5f2-270409941716",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. "
+        },
+        {
+          "bold": true,
+          "text": "Follow-up and Monitoring"
+        }
+      ]
+    },
+    {
+      "id": "dd81fff4-c87b-4247-aad2-6f559949b599",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "121de2c2-de5a-47da-be8d-affd64fa4bf7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The Quality Manager is responsible for monitoring the progress of action items resulting from the management review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c815386e-9d39-4e0c-8870-8f084efe0424",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2a7e4f8f-5780-4a0a-8c9c-f89f5c418ad9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "A follow-up meeting or report may be scheduled if necessary to ensure that corrective actions are completed in a timely manner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ded55c2-b894-4010-b84b-7718e8ef3bcc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "02950dd8-52df-4bcd-923d-221963e89fc2",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. "
+        },
+        {
+          "bold": true,
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "a6da99fe-0d38-4cb0-9c63-12a21ac8797a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a09094b9-0eb9-4cd9-ac78-f6ccc3fc7188",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. "
+        },
+        {
+          "bold": true,
+          "text": "Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "c0a7f5fe-84e4-434a-ab97-62fd5096a747",
+      "type": "p",
+      "children": [
+        {
+          "text": "All personnel involved in the management review process shall be trained on this procedure. The training should cover:"
+        }
+      ]
+    },
+    {
+      "id": "5d9bddfb-ca68-4160-9843-f6b4f9232b8a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "53ffef72-0f3b-48a6-b87e-99a0ae77abfa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "The purpose and importance of management reviews"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e398d2c2-8c1d-4de4-bade-d3ab792e56e2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ff90b3c1-4f59-474c-819d-147e67e6f18e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Roles and responsibilities during the review process"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04ac1ae5-3372-4cd2-8d0f-6e877104192e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "05f577f6-f619-45ce-b355-89a8a14583e9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "How to interpret and use data collected for the review"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e860b2f-9dab-460c-93f7-9279b2523ac1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "91dc9ad7-0721-4cf8-ae49-fb07b5f2f46b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. "
+        },
+        {
+          "bold": true,
+          "text": "Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "9cef1cc8-0a88-402e-ae5a-d688758bf58c",
+      "type": "p",
+      "children": [
+        {
+          "text": "Refresher training shall be provided annually or whenever significant changes are made to the process or the QMS."
+        }
+      ]
+    },
+    {
+      "id": "092a906c-ac77-4952-a233-324b3174f617",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c7d4a8af-541d-4218-a0b4-f0a4658fe5af",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. "
+        },
+        {
+          "bold": true,
+          "text": "Review and Revision"
+        }
+      ]
+    },
+    {
+      "id": "8d3e0a6c-79a1-46fa-8375-ac703a181ed2",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP shall be reviewed at least annually to ensure that it remains aligned with ISO 13485:2016 requirements. Any changes to the procedure shall be documented and communicated to all relevant personnel."
+        }
+      ]
+    },
+    {
+      "id": "e7b2ce77-f885-4570-bf00-9da282e52539",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7501c0b1-9233-4302-a75f-92e9e10f47de",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. "
+        },
+        {
+          "bold": true,
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "id": "d95fac3d-2b31-473f-8913-18f98d42640e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "98b67b10-43fd-4fde-a77a-4a4cf3129da0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485:2016, Clause 9.3 - Management Review"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

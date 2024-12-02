@@ -1,0 +1,1749 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c84cc137-2259-4e08-b2e3-111e62516479",
+  "title": "SOP - Job Descriptions and Responsibilities",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Reference": {
+      "id": "2a72a7dd-7024-4934-8326-ddbe7ec81583",
+      "type": "REFERENCE",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ENTITY"
+    },
+    "Review Date": {
+      "id": "b47dc795-f69a-4682-a193-a2d5211605a2",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "c08e579f-f47d-4c8d-964a-adf702ec2378",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "bbe3fdde-8dc5-480b-9291-f1bec5855d42",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "b412cb9e-eb1b-499e-b734-2175056a1d8e",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "a3bc729d-eeae-4574-a8d0-69af185ddf7a",
+      "type": "field",
+      "fieldId": "b412cb9e-eb1b-499e-b734-2175056a1d8e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4d4b8308-5434-47e0-999d-aab094657b0e",
+      "type": "field",
+      "fieldId": "bbe3fdde-8dc5-480b-9291-f1bec5855d42",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "486fdb67-981c-4e6f-bc74-9c9155a6b932",
+      "type": "field",
+      "fieldId": "b47dc795-f69a-4682-a193-a2d5211605a2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c38fe98c-0d8b-4b2a-97a8-041a6ef4ea5e",
+      "type": "field",
+      "fieldId": "c08e579f-f47d-4c8d-964a-adf702ec2378",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "40fea972-5ea5-4999-96aa-8bc3295a58ef",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b3b7c39d-f4bf-4b87-8b2f-ca0cb0cf9c59",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "6f48ccdb-ecd8-4957-ba3b-0388afad7969",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) defines the roles and responsibilities of laboratory personnel, ensuring clarity in job functions, accountability, enhanced performance, and compliance with laboratory standards."
+        }
+      ]
+    },
+    {
+      "id": "05da667a-19fd-4e5b-8dd9-fa9703d6bfb3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a916ec22-4479-4a3d-915f-710a45442cdc",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "a96da514-2526-494a-a1e4-227d844b7c9d",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel, including full-time, part-time, and temporary employees. It outlines job descriptions, core responsibilities, and expectations for each role in the laboratory."
+        }
+      ]
+    },
+    {
+      "id": "0e548fca-f7bc-4637-9f16-34689af50a19",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ccb69c9a-da3a-429b-8c68-b408da8021a3",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "bfa27b36-c286-425e-9404-afdea2f06a12",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4a9f4c50-2837-4065-89c3-7adbe7a30cd1",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "3.1. Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "f8df888f-ddef-4d7a-bdd0-33d147263d59",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f4fe8835-2984-4ad7-87cd-67ec3d4a7264",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures job descriptions are accurate, updated, and aligned with laboratory needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5278dcec-744b-49de-a48e-9cfd8013e851",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "639a9f2d-f0c4-42d5-a861-101d7a18e68a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Oversees role assignment and approves updates to job descriptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "301260e4-b864-4e90-858c-28eb281cefd4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d64fe712-0e50-43e2-958f-c1baa7af6724",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "3.2. Human Resources (HR)"
+        }
+      ]
+    },
+    {
+      "id": "9c1dfaa4-4ecf-446b-aa28-0cba60dbb972",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4f43cb81-9650-4add-a5e3-f9bd01c1740f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Develops and documents job descriptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43b2420e-29c6-4fd0-b844-3d8b1ae4822e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8d15de09-648c-4da0-948c-d1cf0b31cb31",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supports recruitment and manages personnel records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e389c2be-045e-4872-8f1f-bb47cd714f4b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c519d8cf-abb6-4ad9-95d8-b0d1a62f6e83",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "3.3. Laboratory Personnel"
+        }
+      ]
+    },
+    {
+      "id": "6167b13e-b954-4285-ace0-109880163bfa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2a293de4-d01c-45f3-8e99-4d243a08ec6a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Understands and performs duties as per job descriptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6f57f88-9e1f-4ae8-b4f6-9844a4200825",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3b5f07a9-0995-4893-b5c8-ce12c730648a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reports role-related issues to the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8430088-f986-4e71-b643-c0f0467c2e86",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c4d2a4f6-32ca-4c8d-a42a-534faa9a1da9",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "3.4. Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "72102c25-0d35-49f7-9618-350b24ffc351",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b1d84087-a5a3-445c-9645-5c8bf36c4bad",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures job descriptions align with regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e858d7f-93a0-4095-942f-328cd24e27f3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "79c51b60-1501-4f90-af77-5d87c080caeb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts periodic reviews of job descriptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ecd3f3c9-48e0-45c2-890c-074074ebe80f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1437600c-3de6-490d-af4d-a477dc8c0028",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "7de91fb0-5136-44ba-8eab-af5406d291bc",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c8e3773b-59da-4cca-b3e4-8fc18438c6a4",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Job Description"
+        }
+      ]
+    },
+    {
+      "id": "63e41ebf-befe-44af-8527-212f407d1f60",
+      "type": "p",
+      "children": [
+        {
+          "text": "A document outlining responsibilities, required qualifications, and performance expectations for a specific role."
+        }
+      ]
+    },
+    {
+      "id": "cc8249c4-2c71-44e5-ab62-d90fc913c06f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "464cde68-ecba-4a62-9d73-4b5e4ed82167",
+      "type": "p",
+      "children": [
+        {
+          "text": "Tasks expected of staff to contribute to laboratory operations."
+        }
+      ]
+    },
+    {
+      "id": "2000b1d2-2588-414a-ad28-cd248fc3a486",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Competency"
+        }
+      ]
+    },
+    {
+      "id": "61e60c26-c3ba-47d2-8bfa-047ec8390aab",
+      "type": "p",
+      "children": [
+        {
+          "text": "An employee’s ability to perform tasks to acceptable standards as defined in their job description."
+        }
+      ]
+    },
+    {
+      "id": "dc84f35c-ee3e-4df3-b322-54c7b600a88f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b4f1af20-bbd6-4734-8c7a-2db26027d384",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Procedure for Developing Job Descriptions"
+        }
+      ]
+    },
+    {
+      "id": "c2f3faa4-8825-4a2c-af02-2b031f4ab3b0",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "893d70b4-afde-40c9-b767-1ea10c5f480a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Job Description Components"
+        }
+      ]
+    },
+    {
+      "id": "95eaa8a5-00b2-49be-b819-c013b55a2afa",
+      "type": "p",
+      "children": [
+        {
+          "text": "Each job description should include:"
+        }
+      ]
+    },
+    {
+      "id": "f542cc67-33b0-4f53-aaec-665ebd7c43f0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "28bab830-9965-4ab0-b6fa-960642bf2421",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Job Title"
+            },
+            {
+              "text": ": Position name (e.g., Laboratory Technician, QA Officer)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "237f3e20-104a-4065-87c1-6d5d49336fd1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6c620568-8cd4-496d-9b61-ca722c89928d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Department"
+            },
+            {
+              "text": ": Area of operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "271241bb-3e6a-4449-852f-3140297e7b20",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9878ec39-a278-4610-998b-4dce6195ee45",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Reports To"
+            },
+            {
+              "text": ": Manager or supervisor (e.g., Lab Manager, QA Officer)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75f274e6-0a6c-4df5-9ada-a9e9617e28d3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cca46c15-bbe4-4655-9138-3b80f5f32fcd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Job Summary"
+            },
+            {
+              "text": ": Overview of role, purpose, and main responsibilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "519f881a-ecba-4a2d-b8ef-00b25db3af43",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1dfad9f8-2149-40d4-8292-c88396ca94cc",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Duties and Responsibilities"
+            },
+            {
+              "text": ": Specific tasks, including safety, QC, or compliance responsibilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f2b7bb7-bd55-45c4-9f5b-b30cfa5e36d6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ce496c2e-0609-4776-8b48-eb4a52f1e645",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Qualifications"
+            },
+            {
+              "text": ": Required education, certifications, and experience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5c45ec9-b90e-49cc-aa20-d0f14bf95f58",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c0bb1bdf-5916-47e2-92fc-0f0efb22c4ee",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Skills and Competencies"
+            },
+            {
+              "text": ": Necessary skills, such as technical knowledge and communication."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a5ea9a6-55da-4427-8731-2e122eb93414",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ff0582f6-e178-403f-bf83-a529276a9694",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Physical Requirements (if applicable)"
+            },
+            {
+              "text": ": Physical demands of the role, such as lifting or standing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30a2e11a-1ed5-48b1-b0eb-25666c9f0ff4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "acf8e9b2-8da5-4376-8d1b-5c2d9b0d084c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. Development and Approval"
+        }
+      ]
+    },
+    {
+      "id": "6f95511d-adf8-4ddf-a9e4-a528f13e0c52",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3855df0b-12d7-4a29-ad77-5cccc7722214",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Drafting"
+            },
+            {
+              "text": ": Collaborate with the lab manager, QA officer, and HR to develop job descriptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "180f50a0-3ef4-4599-8be7-71f8a8a3b8e0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d7762aff-765c-4b68-b22f-6fdb60919b5d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Review and Approval"
+            },
+            {
+              "text": ": Lab manager reviews for alignment with operational and compliance needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68d91155-efb1-41e3-a73e-1afc727579fe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e2458292-2f05-4b70-b977-5972325507e9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Final Approval"
+            },
+            {
+              "text": ": Finalised job descriptions are signed off by the lab manager and filed with HR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5887ee5-db3b-4361-bf7a-60f7a24b7533",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "302e51f8-3f34-4027-92a8-4d31d39bd842",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Responsibilities by Role"
+        }
+      ]
+    },
+    {
+      "id": "6db2e496-db66-49b5-a92d-b8e198293db4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "eb133017-1360-4006-bd68-fd6b8e3020e8",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Laboratory Manager"
+        }
+      ]
+    },
+    {
+      "id": "fed53e52-90db-463b-8b25-45a68a07f62f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5ab1d423-6bec-4608-9507-614345b49c4d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Overview"
+            },
+            {
+              "text": ": Oversees laboratory operations, ensuring compliance with SOPs and regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81d0359a-2aa2-44e2-8494-165aa00a5e86",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1a7fc838-e023-48d5-8d86-db34d1f41ad6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Key Responsibilities"
+            },
+            {
+              "text": ": Staffing, resource allocation, SOP approvals, and performance evaluations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "627d3769-c005-46fb-9993-52a617f1d475",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "35128bcd-0ae4-43b6-b361-d4d04824e48e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Qualifications and Competencies"
+            },
+            {
+              "text": ": Bachelor’s degree or higher in a relevant field, 5+ years of experience, and leadership skills."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffb67801-6d2a-4a0a-a719-15e61f7931f3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "339792b0-72de-47a5-be07-592dc599bed7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. Laboratory Technician"
+        }
+      ]
+    },
+    {
+      "id": "5dd96e00-1f65-41ad-ab71-1f9eac70c656",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4c4983e4-8862-4728-a93b-c7da02783450",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Overview"
+            },
+            {
+              "text": ": Conducts routine tests, prepares samples, and maintains equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a777e3a4-1e3d-4e2d-964b-a784000c8eb7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "de077b48-34ec-4a29-ba99-c11383c3ada0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Key Responsibilities"
+            },
+            {
+              "text": ": Perform tests, handle samples, maintain cleanliness, and conduct QC checks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7b4e345-17ca-49ba-934d-94d6387ad878",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6397f8b0-52dd-40d1-b9e4-76996cf66e98",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Qualifications and Competencies"
+            },
+            {
+              "text": ": Associate’s degree, basic lab skills, and attention to detail."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52a57a14-5e37-4598-96a9-b6c7394e2456",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d22695ad-df6a-406c-a077-f80ea60e1ee2",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3. Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "000538c2-8355-47b3-a4f2-29b43731c94f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "00991a3e-91b7-4137-8ea2-fe56b5a078b1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Overview"
+            },
+            {
+              "text": ": Ensures compliance with quality standards and manages audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "037f5ca7-8bbc-4c13-88db-5e5d970a320a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "677737c6-0d28-4764-b9ff-c0a13d37ac86",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Key Responsibilities"
+            },
+            {
+              "text": ": Oversee QA processes, document non-conformances, and coordinate EQAs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47ce6e32-5005-4ac3-8b75-328ff20789e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "52101526-e367-4f06-a231-7ac20dc292b5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Qualifications and Competencies"
+            },
+            {
+              "text": ": Bachelor’s degree, 3+ years of QA experience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64f19208-a996-442e-8fbb-8775025e71c1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a7213456-aa57-4398-988b-700a9e322382",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.4. Laboratory Assistant"
+        }
+      ]
+    },
+    {
+      "id": "09445ed6-7f61-441c-a15c-85e4605854ce",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "58e8436f-a9cd-4c9a-8c9e-aac4cfd8667a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Overview"
+            },
+            {
+              "text": ": Assists with sample preparation, cleaning, and inventory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8cc3abe6-ac81-46a1-9927-fe9df3182385",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "18efad0c-115e-4924-8b3a-88b3d11bd277",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Key Responsibilities"
+            },
+            {
+              "text": ": Clean equipment, assist with sample handling, and restock supplies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75df8a6d-8394-4450-8f13-dc56e80bbebe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ce664980-2fc2-49ca-933d-8e59207f801e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Qualifications and Competencies"
+            },
+            {
+              "text": ": High school diploma, organisational skills, and basic lab safety understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae727ab5-9dd9-48d5-a5a7-38976813dbe8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "39569b5c-f297-45c5-946e-a77c2204aab9",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Updating Job Descriptions"
+        }
+      ]
+    },
+    {
+      "id": "83006cdb-a253-460c-afc1-565e555c630e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "14d545fe-233b-41bb-924d-4c353395ec4f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Periodic Review"
+        }
+      ]
+    },
+    {
+      "id": "801309da-1ded-4f5e-8f72-e96650496c65",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ff2f90de-348d-46d8-8e5f-c80d6024f7aa",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Annual Review"
+            },
+            {
+              "text": ": Job descriptions should be reviewed annually by the lab manager and QA officer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a998a2ae-d2b9-449b-a969-af2a2ee5dcde",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1d5dc305-0efb-46f5-895e-5d041f555c09",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Revision Process"
+        }
+      ]
+    },
+    {
+      "id": "52225eca-94e0-4501-a5ef-93ab53e90037",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f6514e04-038c-4ef6-a1d9-3cdee95ba0be",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation of Changes"
+            },
+            {
+              "text": ": Note revision dates, reasons, and responsible personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59ae6c7b-1246-4f85-a9ec-df66aa097f53",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ebe696cd-3256-435d-9486-ac3d978f695b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approval"
+            },
+            {
+              "text": ": Revisions must be approved by the lab manager and HR and communicated to staff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c23e2d80-6c31-4326-87f7-5d3a908cef7c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "62568391-d44f-4187-ae79-6cac0c5e12ab",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3. Staff Notification"
+        }
+      ]
+    },
+    {
+      "id": "f0a8d25a-27b7-4fb9-ad20-fa598569b524",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fcff5821-9671-4e28-9033-5ea28b03e275",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Acknowledgment"
+            },
+            {
+              "text": ": Employees must acknowledge changes to their job description. Keep acknowledgment records in personnel files."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5d49fa4-30a7-433a-9bfd-924e9ab4cb10",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7bdea353-4090-4146-98f3-80282078911a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Employee Training and Competency Assessment"
+        }
+      ]
+    },
+    {
+      "id": "7896a852-1bcf-4bc6-b3b9-70df85058c95",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7fef6c40-19af-45a2-99e0-7c80c857f93f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Initial Training on Job Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "c04c15e7-35a2-4e35-9b30-54599a7fb458",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "63002375-6b76-46e5-babd-9364cf69ba5d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training"
+            },
+            {
+              "text": ": New employees receive initial training on job-specific functions before performing tasks independently."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ac2d4b1-3108-4b9c-9211-62e50c10d82a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0c2c4fa8-f4bc-481c-88a4-5e2076a4a24b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Record training details in personnel files."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6692d537-6077-487d-954f-1f82283a6b1c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "eae02ea0-58ff-475e-a1fb-ab9e1bc5fc07",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Ongoing Competency Training"
+        }
+      ]
+    },
+    {
+      "id": "8c8d2d56-2284-444f-8c79-466270222de7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "184a6072-5467-44a5-b068-bde1cec8542b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Annual Assessments"
+            },
+            {
+              "text": ": Evaluate proficiency through observation and performance reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79135c88-fd70-494c-81fd-cf6506e2f24d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3717a79f-30ff-486f-9155-8b7667730d19",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Maintain records of assessments and corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5270a2a5-5340-40c5-9e68-f64a8a701291",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "23d17b8b-9d1e-41cb-b5d4-e2aa3f90e982",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Record-Keeping and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "f7598b7a-1578-4c7b-aa52-760e108d948e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a3b0fe80-0487-49f7-9827-e72db097f950",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Required Records"
+        }
+      ]
+    },
+    {
+      "id": "5763b75b-64a6-43c7-9c24-4782bc7a3839",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "35cf9031-4e7d-4f39-b495-666eecc1e9a4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Job Descriptions"
+            },
+            {
+              "text": ": Maintain a master file of current descriptions in HR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a67b0ec0-a1e0-4a66-a232-c64c69e6af12",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "97b2e900-202b-459d-8c88-8479023571c7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Training Records"
+            },
+            {
+              "text": ": Keep detailed records of all training sessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bf248c9-4e9f-4b5c-813a-a70c4473bd16",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3030895-0d7d-4d85-ab9f-56dde27e9eac",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Competency Assessments"
+            },
+            {
+              "text": ": Document results and follow-up actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "172c658e-4702-4f3c-8dd7-3bb244a1fa57",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "402c6f0c-e1eb-43aa-8aa0-6f4135f97d3a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.2. Retention of Records"
+        }
+      ]
+    },
+    {
+      "id": "fcc3e068-5b56-429c-923c-97e4025ab45f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8523d679-5eb9-4c72-86ed-e6c8a2c0d300",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain job descriptions, training records, and competency assessments for at least five years or as required by regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0aeefac9-2714-4cec-bb38-f67915496941",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "295fe307-8850-4898-999c-ee1dd2589514",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Monitoring and Quality Assurance"
+        }
+      ]
+    },
+    {
+      "id": "01340f31-c274-4e23-9aeb-fbb5b60bf2a2",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "13f8fd96-fd54-4323-bb43-6555b6015e87",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. QA Oversight"
+        }
+      ]
+    },
+    {
+      "id": "b4e93d7c-541b-49bd-853b-1e4c564ff26e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bd8f3f95-c21c-484b-9c95-91ef18176b97",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Review"
+            },
+            {
+              "text": ": QA officer reviews job descriptions for alignment with regulations and standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c37575f-bdcc-49d5-817c-f65e743c414d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1b27b0d3-b41d-4571-8e4c-03f38923c3a1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ": Document findings in internal review reports."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c68e700e-a853-4731-97a7-766ca7258590",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "50ce5cef-fe37-4f4e-b69e-9d60794a80fe",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.2. Continuous Improvement"
+        }
+      ]
+    },
+    {
+      "id": "e14fe73e-89ec-45b6-b863-c55e79407479",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aea23726-09f3-4ccb-8806-8dc4b2939f2b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Feedback"
+            },
+            {
+              "text": ": Gather feedback from staff to refine responsibilities and improve efficiency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cde02f2-caa7-4d9c-8b3b-cdd4d678ab33",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a7d4ecf3-bfe9-4aac-a5fd-05725e2f8609",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Updates"
+            },
+            {
+              "text": ": Adjust job descriptions and this SOP as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3e5e5ed-f88e-453a-b0b7-b4bde68e8eb5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ce043bfd-46f8-4f5b-b797-d6cf09216760",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. References"
+        }
+      ]
+    },
+    {
+      "id": "be1531fe-8736-456f-a70d-1b0f6051283b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8b58c6d3-76b1-4a0d-aec3-2c2839251f1a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "ISO 15189"
+            },
+            {
+              "text": ": Medical laboratories – Requirements for quality and competence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcce2b43-7c1c-475d-be22-72895e629ff6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "feb2d873-dd61-4bd6-9af7-86beb9be28ef",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Institutional HR Policies"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62fd644e-21ac-4431-8782-934d1b25bab8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d17bfd1f-5c85-414e-9c9d-d35fcccd88d9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f2c2ee8-f67d-4465-9bb2-6b5e87265311",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

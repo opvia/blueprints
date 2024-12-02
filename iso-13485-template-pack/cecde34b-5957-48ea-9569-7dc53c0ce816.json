@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "cecde34b-5957-48ea-9569-7dc53c0ce816",
+  "title": "Cleaning Procedure",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "0914e585-cd81-4eac-89fa-0e1edc42c009",
+      "step": {
+        "id": "8e6591c1-ddcd-4307-bbda-6ed5309aea9e",
+        "version": null
+      }
+    },
+    {
+      "id": "f15aaf3b-09dc-410c-9646-cee0cfc21257",
+      "step": {
+        "id": "5eec6d6b-22b5-41f7-a9ef-8729e65342f0",
+        "version": null
+      }
+    }
+  ]
+}

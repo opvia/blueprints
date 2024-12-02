@@ -1,0 +1,1499 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "fe655661-fc16-4526-acdf-ed7b19e8356a",
+  "title": "SOP - Patient Confidentiality",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "a5da5276-863f-44aa-abb0-fa673fe164c9",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "f7a5a45d-074a-490f-b09d-4421f373eff6",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "d1a06423-5371-4121-8874-d17e6e2db094",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "a548f79f-2dcc-4a64-a6dd-3f187a90e0fe",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "bf4c3e0e-cd6a-4eef-9803-13015641824d",
+      "type": "field",
+      "fieldId": "a548f79f-2dcc-4a64-a6dd-3f187a90e0fe",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3f184e0f-1f77-4085-8ba3-384a646198eb",
+      "type": "field",
+      "fieldId": "d1a06423-5371-4121-8874-d17e6e2db094",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0be31bf2-e849-4069-9ce8-cbe2c8a2e728",
+      "type": "field",
+      "fieldId": "a5da5276-863f-44aa-abb0-fa673fe164c9",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "479982c6-3f1b-417e-928e-9bbb4402e927",
+      "type": "field",
+      "fieldId": "f7a5a45d-074a-490f-b09d-4421f373eff6",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1e9bb218-2b5c-4e9e-953c-769dee599ce5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e3ffe493-2e11-4dc4-9268-b0cb2f6b94fc",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "63b7acff-2e43-42cf-995c-2747a8f828ac",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP establishes procedures for safeguarding patient confidentiality and ensuring that patient data privacy is protected in compliance with HIPAA guidelines and ISO 15189 requirements. Proper handling of patient information is essential for maintaining trust, ensuring compliance, and upholding ethical standards in laboratory operations."
+        }
+      ]
+    },
+    {
+      "id": "f9d711ec-2981-4b36-ac49-62f932be8bbf",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0eb9d409-8808-4c75-a3f4-0995f605fb35",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "3f29df07-0c76-4e97-aa7b-f765ab4756bb",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel who have access to patient data. It covers the collection, storage, access, transmission, and disposal of patient information to ensure its confidentiality and security."
+        }
+      ]
+    },
+    {
+      "id": "17caebd3-5135-4621-8052-65a53f8dc889",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9485221e-21cd-4a87-9fcc-b2d7b58224b5",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "20c98924-1002-4079-93ef-f47fd0ec92d6",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5ea0f5f6-cacf-4a04-880c-b40b282c2b7d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "b42e2559-3d1f-4208-aabc-81c197cf2cec",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0e7c626d-0787-4890-83ff-ad1f5da6bedf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures compliance with patient confidentiality protocols."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8bb1e7e1-4502-4518-a649-224d93929c72",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aa2bdcb9-de50-4d30-9656-a5ac2a48d918",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assigns access levels and conducts regular reviews of confidentiality practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "947ad576-851a-47a2-ba06-2acbf5a50566",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "fe49fb5c-55e6-4f9f-bc0c-2ecae7eb4f8b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6b7bc62e-4f21-4282-8f08-7f782a21b6a6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Handles patient information with care."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "264bfe10-64c4-46dd-8ff1-fcda86ade2d4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "05029729-8142-437c-87b8-40d7634df38b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follows confidentiality procedures and reports any potential breaches."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c43deb30-8dff-49e3-aa3c-c9df88bf2453",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "faf959e6-fe96-446a-b8f1-7eeaaa4e77d6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3faea06e-eb03-4bb9-9192-640edb933e65",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitors compliance with confidentiality standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56fdf5c7-6184-4284-ba45-d410d46247aa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6aa7e0aa-d3b9-48d4-84bf-a18d1848e2fe",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts audits and maintains documentation for internal and external reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07525d08-eb86-49ad-8c5f-ce595c330535",
+      "type": "h3",
+      "children": [
+        {
+          "text": "IT Support"
+        }
+      ]
+    },
+    {
+      "id": "2a338f4f-26a9-4e5d-a725-fd7e116cdd1c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6b1f728e-8dcb-46f5-b2e2-b55686eb09fc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures data security measures for electronic patient records, including access controls, encryption, and secure storage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4b67b2e-3ad7-453b-bf2b-4208a072d6d7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "791ca034-3fd7-4306-b896-66fc23697a89",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "659b68ea-fc8a-469b-a969-ce3d1b1b55d5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bc57f89c-bf8d-474f-a3e0-dbf720020e59",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Patient Confidentiality"
+            },
+            {
+              "text": ": The ethical and legal obligation to protect patients’ personal health information (PHI) and ensure it is accessible only to authorised personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41013b28-0aa6-46f0-8c79-8e0908adf661",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4eb95d1b-991b-4257-b475-23850e0af7cb",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "PHI (Protected Health Information)"
+            },
+            {
+              "text": ": Any information that can identify a patient and relates to their health, treatment, or payment for services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11703e23-5b0b-47d2-8cdc-2759c5e1d7eb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b8d559cf-ad62-4012-a322-a7410f8c070d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "HIPAA"
+            },
+            {
+              "text": ": The Health Insurance Portability and Accountability Act, establishing standards for the protection of patient health information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a52332b0-4625-4b05-a6a6-1fddc0465fc9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bb5d3d6d-40c9-4bb7-8f96-ae9965793cc1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Confidentiality Principles"
+        }
+      ]
+    },
+    {
+      "id": "6c2a3f99-9423-4b71-ad08-d1885ae77913",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2c4666d2-e726-489b-84e2-be4f2179d4fb",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Minimum Necessary Principle"
+        }
+      ]
+    },
+    {
+      "id": "546fbff3-30e0-4cfe-9b1a-fe8c8c82e6b4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "66e6a639-1be5-477e-a722-76f07fda744e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Access to PHI should be limited to the minimum information necessary to accomplish the intended purpose of access or disclosure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02fdc98c-e899-43ea-8cc5-7a5d6408c82d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "16400a9a-49a1-4f0d-836e-2286e80b9684",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Role-Based Access Control"
+        }
+      ]
+    },
+    {
+      "id": "c3963255-7569-4640-b460-8ec7ba896e10",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "67bc0472-7727-4df6-8a75-db82e23fd17f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Access to patient information is granted based on job function. Only authorised personnel with a legitimate need may access patient records. Access levels are assigned by the lab manager and reviewed periodically."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16d30bb5-3b55-4c6c-896e-905cbcf0756d",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "daed6ce7-f900-4000-ab90-06c5f424cb99",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Patient Data Collection and Entry"
+        }
+      ]
+    },
+    {
+      "id": "95bbab13-68a3-4332-bd8c-71c27e4e14c2",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d9d0d1e7-b425-4442-95a5-7097c2035119",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Collection of Patient Data"
+        }
+      ]
+    },
+    {
+      "id": "ac0aad0f-91ac-4386-a757-bf60832fbb7d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5296683e-e1cf-41e2-8e86-e7fa5792df28",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Collect patient information only if necessary for testing, reporting, and treatment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0740967e-6a0c-472c-a1b4-f3f71017daed",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "56d16075-286d-4fe2-918e-466518fa5f2c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify patient identity before collecting or inputting any information using unique identifiers (e.g., medical record numbers)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2a5d8fc-1fa5-47de-945c-80097d43208e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b8529dbe-d380-4bf5-9255-eebf8f0e454a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Data Entry Into Systems"
+        }
+      ]
+    },
+    {
+      "id": "4a5cee22-3731-4c9a-b8e8-bc9b1b803a07",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "22948e74-b268-4edb-8988-6c9b40ad243e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Enter patient information directly into the designated electronic systems, such as Seal's Laboratory Information Management System (LIMS)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af97cc08-08fa-4615-a256-6f6354bf79f1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6542868d-f16d-43aa-bfd5-7b7a3f354f9e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify all entries for accuracy to prevent errors that could compromise confidentiality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21d76b08-4808-4e75-adbd-bfe8523c43fd",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "16f4f43a-1194-4155-8e19-f081a025c264",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Data Access and Transmission"
+        }
+      ]
+    },
+    {
+      "id": "24e2934e-acb6-4ec6-84d1-f612aec53489",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0c8d1ae6-020f-44f1-94a1-f81bf148ab6d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Access to Patient Data"
+        }
+      ]
+    },
+    {
+      "id": "f17be04f-5d7b-4e55-87e0-d9e278a75afa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "41ad968f-e0b0-4058-829e-a2acd8066504",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Restrict access to PHI based on job functions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e54ee8f3-15a4-45ec-a614-f73926a6cd56",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3201e6c1-5399-434c-904d-41fd150a0588",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Systems must require secure login credentials, including two-factor authentication where possible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "604a5860-516c-40d2-a954-34bb1bf01e38",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1e64b6fc-fd35-4d4b-afdf-13c0db7b149a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Data Transmission"
+        }
+      ]
+    },
+    {
+      "id": "afd9a8fe-f595-490d-b8a9-5d572e16ea56",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "976ea3ac-ba89-42f7-b3d7-c72618daaae4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Encrypt patient data during electronic transmission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b726d2a-7d7e-49d1-bd8e-9823fe3fbb37",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5add797c-84c6-45fa-a8ba-8c4f89282b08",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For faxing or secure messaging, verify recipients and use cover sheets or secure messaging platforms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dba48fea-21eb-4bf1-92d0-e1533090e635",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e2d1daea-5415-43ce-a9b7-446d231529ee",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.3. Physical Handling of Records"
+        }
+      ]
+    },
+    {
+      "id": "f2582286-5da5-4771-ae30-7a3de4eb74ce",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a5bfc43f-1f6c-424c-bce4-c26c78514cb4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Minimise the use of printed patient information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1879cc7-e890-402f-9df3-6bdf05ba7905",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9d8d7b42-683a-4e3a-bb2e-f2a63b4112aa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store paper records in locked cabinets and shred them securely when no longer needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b496318b-32d4-4d62-ba46-269cffc849dc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5fa62d81-f525-466a-9fe9-423f050dd5a1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Data Storage and Security"
+        }
+      ]
+    },
+    {
+      "id": "dc30e64a-1abf-4778-a4d7-95701cf9f657",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d3dd406a-0d9b-4d1e-b301-1580be799af4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.1. Electronic Data Storage"
+        }
+      ]
+    },
+    {
+      "id": "7118ce05-7d34-45e2-8811-065eeffc9d74",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "11e22acb-9695-4098-8665-aea70b9c56bf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store data on secure, access-controlled servers with regular security updates and antivirus protection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c38fb59-37a4-4a67-bd8f-a44518f4d237",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aea065c7-3ce0-4432-8652-87ae8b2dcd23",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Implement disaster recovery plans and regular data backups to a secure location."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c457d76-0fde-4857-877f-e970b670882b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cf7b207a-531c-4efb-a7cc-49fe4de245ab",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.2. Physical Security"
+        }
+      ]
+    },
+    {
+      "id": "05e50281-841e-49b4-aa40-d00043e7c97f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f7d1ca7b-f0c5-49b8-aa7b-09a8800eefc8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Restrict access to areas containing PHI to authorised personnel only."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64f181ca-a538-4457-9e57-d1bc19834dbe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "12bfec0a-0536-404c-8dbc-d1a6f0431315",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use signage to reinforce confidentiality practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b619bd7-12c5-46dd-9ccc-6ed1cc1c6e02",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6f6f3d74-6c07-49b4-b371-edb2ee4c1b3e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Data Integrity and Audit Trails"
+        }
+      ]
+    },
+    {
+      "id": "9c7b6a8f-483e-4ee3-8514-c9d542f2e228",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3195c4b2-8d7b-405e-870c-28830712fd79",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Data Integrity Controls"
+        }
+      ]
+    },
+    {
+      "id": "09cd7bcd-7c99-4514-9722-953ec539904d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d99dc9a0-10fe-46d4-a420-5bedc5c5333e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Enable audit trails to track access, edits, and deletions of records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb337377-4d96-4a6f-9061-48fe8099ecd0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3d9cb21f-0f7d-4a81-bc56-986fa204e95f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Audit trails should capture user identity, date/time of access, and actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec312b1d-6538-4177-9e18-68bed5322771",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "287dab27-f349-47c8-a52b-d9bc756a1db4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Regular Audit Review"
+        }
+      ]
+    },
+    {
+      "id": "19574e1a-6d46-4ad9-adde-79742f8961fe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e904dde1-cd8c-416e-b7a4-c7250389dcf4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA officers should regularly review audit trails to detect unauthorised access or suspicious activity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "762e43e6-7068-4e19-b1a6-cc961cc2459b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "920c8edd-773a-4df8-bb19-161f21bed08e",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Training on Confidentiality"
+        }
+      ]
+    },
+    {
+      "id": "98f84eda-5e3a-4157-a942-6e44d35f715c",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "266ff90e-6bff-4e20-9432-8f06fadd50ab",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. Initial Confidentiality Training"
+        }
+      ]
+    },
+    {
+      "id": "57d4283f-b550-470d-bf01-e9ff9d92763c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "713ae39a-36e2-48f3-9e03-d30928376d96",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provide mandatory training for new hires on patient confidentiality policies, HIPAA regulations, and ISO 15189 requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ecc1378b-1ad2-4734-8499-f2278786465b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9dc39753-7150-445a-8b02-40df84ba790d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. Ongoing Training"
+        }
+      ]
+    },
+    {
+      "id": "661d554e-ed12-4183-8729-747c7ef754f8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "858c0b27-deaf-4bec-bf71-d57fcec15fa6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual refresher training for all staff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "355ff687-3351-4726-9fb3-8cf43fe8e085",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "065719f7-1b2e-4552-a1b0-108d78bf9704",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain records of all training sessions, including attendance and topics covered."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7210eb54-bc06-46d4-9c7b-2991b6d2c814",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bac04b4d-da6f-48cb-939e-3559554a5d7f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. Reporting and Responding to Data Breaches"
+        }
+      ]
+    },
+    {
+      "id": "9d2b87dc-d2ef-442f-a606-774221f94bb8",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2e8f6b18-5c49-4ea4-b5a3-0be2404e4f98",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.1. Identifying Potential Breaches"
+        }
+      ]
+    },
+    {
+      "id": "c3659679-cb92-4838-9cd8-365eab2ebf23",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0d415ce1-4c09-4808-834d-001502249b63",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitor systems and audit trails for signs of unauthorised access."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71f225a8-79ce-4e28-ad47-d94cc7745d82",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc184c82-3d17-45bc-bfd4-e036f6e8cd0a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report suspected or confirmed breaches immediately to the lab manager and QA officer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "991b26e9-a440-476a-ab3f-c8e555df83f7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "639ac12f-9a75-4fe3-abac-066064a1bb82",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.2. Investigation and Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "90f2d971-8507-45ce-b9c4-c4adbf9ea8c6",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c0865547-234e-4a7f-a3d7-fe38f720b81c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Investigate breaches, perform root cause analysis, and implement corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d74fc22e-0a46-445f-9afc-137420205943",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d3054774-8782-400e-a3a0-d080edd21b6e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Notify affected individuals and authorities as required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a220840-8580-459c-b516-ba6fe3ec4942",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "eb7fa270-ed78-4c36-b4e3-43733652f93b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. Retention and Disposal of Records"
+        }
+      ]
+    },
+    {
+      "id": "1a90eb62-c3fe-4498-8dbd-720322bd900d",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1149fab6-51ee-4bd4-8ce3-70fc5220ed98",
+      "type": "h3",
+      "children": [
+        {
+          "text": "12.1. Record Retention"
+        }
+      ]
+    },
+    {
+      "id": "289ec010-66f4-41f2-9355-347f1adccdc3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cee50ebe-86e6-4e17-ab84-cd7f96d9a4e9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain patient records for the period specified by institutional policy (usually a minimum of five years)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90f92755-8ddf-41aa-8549-015a83389650",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "52af6f05-1147-4721-a6dd-976cf685bbb9",
+      "type": "h3",
+      "children": [
+        {
+          "text": "12.2. Secure Disposal of Records"
+        }
+      ]
+    },
+    {
+      "id": "5578d72d-ad2e-43ed-ad35-65d06f83c72e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "49215a90-9faa-46cb-a186-316e80f8328d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For electronic records, use secure deletion methods to prevent data recovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74f326a3-2fff-40d4-b8a2-2399a3726deb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "94b2b0a8-33e7-4d4b-bb3a-dad5bbb85af9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document the disposal process to ensure accountability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4de42619-582e-4945-b63a-48fefa9abfbc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "49621e81-2030-4d45-a748-427fb23ed0d1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "13. Monitoring and Compliance Audits"
+        }
+      ]
+    },
+    {
+      "id": "df9d7554-22c7-4a19-865c-8dd618e42b03",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9b54c2a3-dea7-4dfb-a26b-2897299540f3",
+      "type": "h3",
+      "children": [
+        {
+          "text": "13.1. Internal Audits"
+        }
+      ]
+    },
+    {
+      "id": "0f53bf16-fb84-41f3-81e1-56879da485e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e8ad2f64-22bd-4bc7-bf68-84f20d9ae589",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct regular internal audits to assess adherence to confidentiality protocols and HIPAA/ISO 15189 compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfc52125-e777-4ee0-98be-4c84580f35b0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1fd7d990-77c0-4493-9622-ed5313621ade",
+      "type": "h3",
+      "children": [
+        {
+          "text": "13.2. Continuous Improvement"
+        }
+      ]
+    },
+    {
+      "id": "59757e83-ddae-4d18-bbe1-d7a4c8f00471",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "06184ec5-113e-4fb6-bba0-0bcaaffa99ab",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update this SOP based on audit findings, regulatory changes, and best practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "870fb454-5299-47e2-a092-4c606906c747",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f923271d-381c-42c1-8b3e-fc055923d112",
+      "type": "h2",
+      "children": [
+        {
+          "text": "14. References"
+        }
+      ]
+    },
+    {
+      "id": "e5e534e5-5135-4aec-b8a0-aa0b92ad2fbc",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "adb44923-8830-4d49-80b3-6456ae3d06c7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "HIPAA Privacy Rule"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc7c6e21-1749-4809-9a40-2ef2161476c5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "92d570e0-ca4c-4a96-8967-788a579a187b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "ISO 15189: Medical Laboratories – Requirements for Quality and Competence"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca6a51a9-23cb-4d6a-acd4-a1cdacb3ee77",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fbb1dae6-b9e2-40a8-828a-85a3ee1b7216",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Institutional Data Privacy and Security Policies"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1af204b2-31b3-4363-a3aa-ca24e5cb03fb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8adfc9f7-6de6-4a8b-92f6-d3e8b9b6c031",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

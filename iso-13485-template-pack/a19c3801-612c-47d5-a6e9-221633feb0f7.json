@@ -1,0 +1,245 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "a19c3801-612c-47d5-a6e9-221633feb0f7",
+  "title": "Equipment Requirements and Utility Assessment",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Manufacturer": {
+        "id": "0a1d4189-7702-4488-b11d-151b500c2d13",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": []
+        },
+        "dataType": "SELECT"
+      },
+      "Equipment Name": {
+        "id": "d91ae3db-a14a-4be0-8ce7-5d344f797ccd",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Equipment Model": {
+        "id": "9d699847-e6ce-47da-ad6c-c3c93e466abe",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Acceptance Criteria": {
+        "id": "49e5fab5-325c-4613-9675-d35d77385b5a",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": []
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "dc84a403-9363-4139-bd5f-9259832b253d",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "9e5775a7-dc30-4948-a3f9-74f3d44828f7",
+        "type": "h2",
+        "children": [
+          {
+            "text": "Equipment Requirements",
+            "underline": true
+          }
+        ]
+      },
+      {
+        "id": "b6ee5df5-07e7-497e-9010-523029372512",
+        "type": "field",
+        "fieldId": "d91ae3db-a14a-4be0-8ce7-5d344f797ccd",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "343268da-591a-4747-8f61-4af6cb7152d9",
+        "type": "field",
+        "fieldId": "9d699847-e6ce-47da-ad6c-c3c93e466abe",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "82086245-90bd-4f1a-9e45-512d0bd7bd61",
+        "type": "field",
+        "fieldId": "0a1d4189-7702-4488-b11d-151b500c2d13",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "804d0d15-5b1f-48f3-9d2b-1e12cd3b605f",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "e1c44b3a-e27e-49b0-b32e-c610752d6171",
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Provide details in the intended use of this equipment:"
+          }
+        ]
+      },
+      {
+        "id": "10e673af-9881-408f-a817-f57f52af2b5b",
+        "type": "li",
+        "children": [
+          {
+            "id": "a0eff69d-15df-4dd0-af6d-a541bee46f64",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9a552c5c-0870-4fec-ae06-9a734ab66a77",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "00908a42-889b-4396-9bc6-fbeadbda1ff9",
+        "type": "field",
+        "fieldId": "49e5fab5-325c-4613-9675-d35d77385b5a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "f50dd037-9655-4c11-99e2-1290dde6d76f",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "add92986-b1b3-4f1b-9933-a8a3bda2a787",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "32211b45-aa85-485f-a96a-b945d673151d",
+        "type": "h2",
+        "children": [
+          {
+            "text": "Facility/Utility Assessment",
+            "underline": true
+          }
+        ]
+      },
+      {
+        "id": "3e9acc96-1526-4245-b132-3f014df0247f",
+        "type": "p",
+        "children": [
+          {
+            "text": "Provide details below on the space, power, water, and utility requirements for this equipment:"
+          }
+        ]
+      },
+      {
+        "id": "334c0884-a684-4036-9d26-97f9f0d2dd59",
+        "type": "li",
+        "children": [
+          {
+            "id": "35539ec8-9f04-46a8-9101-629143927d86",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "237d16cf-1b0c-4e34-8de5-0f7f62f2cbff",
+        "type": "FIELD",
+        "fieldId": "d91ae3db-a14a-4be0-8ce7-5d344f797ccd"
+      },
+      {
+        "id": "ec30486b-2d27-44d4-bde0-7ea691a39550",
+        "type": "FIELD",
+        "fieldId": "0a1d4189-7702-4488-b11d-151b500c2d13"
+      },
+      {
+        "id": "e5498c01-79f9-4f9d-98f8-623789b9962e",
+        "type": "FIELD",
+        "fieldId": "9d699847-e6ce-47da-ad6c-c3c93e466abe"
+      },
+      {
+        "id": "c82b23f5-9926-46c0-b9fc-d27487777267",
+        "type": "FIELD",
+        "fieldId": "49e5fab5-325c-4613-9675-d35d77385b5a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "f508c1ba-dffc-4177-b4a7-c2fa9b459fff",
+  "title": "Audit Information",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": null,
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Lead Auditor": {
+        "id": "4b304111-4468-435a-9613-117f680ded3c",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Date of Audit": {
+        "id": "4bf07544-b80e-4e30-b56f-945f1eb23a3b",
+        "type": "DATE",
+        "value": null,
+        "config": {},
+        "dataType": "DATE"
+      },
+      "Other Auditors": {
+        "id": "5ba428b2-0d89-411b-b5b6-1abb6e250f68",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Purpose of Audit": {
+        "id": "2e7dbd47-af62-41fd-a520-08a2e3423505",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": []
+        },
+        "dataType": "SELECT"
+      },
+      "Description and Scope of Audit": {
+        "id": "71a5a161-ddc2-434f-b5d4-287215bc1dbb",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "a820d78a-6cfa-4277-b727-1d455c4a1390",
+        "type": "field",
+        "fieldId": "4bf07544-b80e-4e30-b56f-945f1eb23a3b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "44172e63-16c9-458c-bde6-1af013d38c15",
+        "type": "field",
+        "fieldId": "4b304111-4468-435a-9613-117f680ded3c",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "cabc7625-4680-4eb9-99ad-9a2436adf52c",
+        "type": "field",
+        "fieldId": "5ba428b2-0d89-411b-b5b6-1abb6e250f68",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6f070a20-6589-4267-ad3a-5feac1d8dbdc",
+        "type": "p",
+        "align": "left",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "18eef271-2de7-417f-bbbf-7914fdcf4401",
+        "type": "field",
+        "fieldId": "2e7dbd47-af62-41fd-a520-08a2e3423505",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c7926fcd-b0d6-4efb-bff4-479326337e64",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7b5eb6e0-1d31-4b95-9587-42f5db9e339c",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Description and Scope of Audit:"
+          }
+        ]
+      },
+      {
+        "id": "418399c9-c832-40af-8cc2-dcb7397de6f2",
+        "type": "li",
+        "children": [
+          {
+            "id": "e0d97c2a-25d9-4c62-9fa5-aebceffd5704",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "2f456945-69cd-4b70-932a-da6803e28ade",
+        "type": "FIELD",
+        "fieldId": "4bf07544-b80e-4e30-b56f-945f1eb23a3b"
+      },
+      {
+        "id": "708a9a0c-978b-4a5c-a066-dd11b4dd16fc",
+        "type": "FIELD",
+        "fieldId": "4b304111-4468-435a-9613-117f680ded3c"
+      },
+      {
+        "id": "a3b60762-4ac5-4917-bac8-e64bab3b734e",
+        "type": "FIELD",
+        "fieldId": "5ba428b2-0d89-411b-b5b6-1abb6e250f68"
+      },
+      {
+        "id": "7cf22983-663a-4b7a-a53f-e9c41834a7d5",
+        "type": "FIELD",
+        "fieldId": "2e7dbd47-af62-41fd-a520-08a2e3423505"
+      },
+      {
+        "id": "9470fb1d-3124-406f-ba40-fe29b2454693",
+        "type": "FIELD",
+        "fieldId": "71a5a161-ddc2-434f-b5d4-287215bc1dbb"
+      }
+    ]
+  }
+}

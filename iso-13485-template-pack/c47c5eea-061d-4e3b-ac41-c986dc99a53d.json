@@ -1,0 +1,1511 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c47c5eea-061d-4e3b-ac41-c986dc99a53d",
+  "title": "SOP - Electrical Safety",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "8d128d0e-a475-40c3-b31d-fe9fa8eb2309",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "c3d3e06a-9f4f-41e9-b337-270b9344bb53",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "d740184e-b768-4cb1-af39-ae3d3b64bfc0",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "4c3fcba4-315f-4417-8d72-68cfe6e4a7d3",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "b5534f0f-efef-4cb4-82e0-be1405aaa8fa",
+      "type": "field",
+      "fieldId": "4c3fcba4-315f-4417-8d72-68cfe6e4a7d3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a5f79df4-97e2-43ab-afcc-4846d809da03",
+      "type": "field",
+      "fieldId": "d740184e-b768-4cb1-af39-ae3d3b64bfc0",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "17a42264-9de1-45ee-af8f-22fd8c246afb",
+      "type": "field",
+      "fieldId": "8d128d0e-a475-40c3-b31d-fe9fa8eb2309",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "17667e5b-1fdc-4b6b-865d-51ea7857bfda",
+      "type": "field",
+      "fieldId": "c3d3e06a-9f4f-41e9-b337-270b9344bb53",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "85b3e73c-4740-46f6-ae60-e90bcf6d320b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "55242d50-0ccb-4915-8b5a-fab3125e8c8f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "d978b87f-f8ea-4f44-abc1-467c761da590",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines safety procedures for working with electrical equipment in the laboratory. It provides guidelines to minimise the risk of electrical hazards, such as electric shock, fire, and equipment damage, ensuring a safe working environment for all laboratory personnel."
+        }
+      ]
+    },
+    {
+      "id": "f177a68b-6ec9-40a8-bbc9-193db7d7f160",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a27dc11f-bea5-4668-a684-482512f00b47",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "fe7a3679-e7c0-4150-9f3a-06c85bfbe9de",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel who work with or near electrical equipment in the laboratory. It covers the safe handling, inspection, and use of electrical devices, as well as procedures for reporting and addressing electrical hazards."
+        }
+      ]
+    },
+    {
+      "id": "a618e9fa-0e5f-4c55-b060-becdbe034580",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5d28a525-93db-4dc0-812e-78e030a6666a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "1f54fa68-572e-40db-8a17-b5dd48b191a2",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bf6249d5-f87c-4418-998b-f6fc279cdf1d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "26e4623f-2077-49ff-8f03-5ace7d363647",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d678f655-3321-4800-a772-43df401888a1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures personnel are trained in electrical safety."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59b386af-e86c-4d06-a9c9-bd77929f6916",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "33285d29-ba27-47f6-b0f2-651ec87802df",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintains all electrical equipment in safe working condition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0442ccc2-85c6-4335-a054-bce9a7ca7711",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "e8652777-135b-4bca-82c9-90095a66e041",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1acdff87-afa2-4d17-a3e7-0bf6ef4525a3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follows the procedures outlined in this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a3f926d-0b1f-470d-beab-2ee8a1238a32",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "705f3f3f-6d26-4501-a618-331a04bed2ce",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reports any electrical hazards or malfunctions immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4643241e-7fc3-4003-817c-16d464b64e75",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Electrical Safety Officer (if applicable)"
+        }
+      ]
+    },
+    {
+      "id": "b7834bc8-1d29-4615-9172-30858b0c9d09",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5d9758fb-a5a5-4329-bb38-05f754d6636a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Oversees electrical safety practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "828808d6-acff-49ce-9c22-359131f56e30",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "242c2f7c-0db5-4b26-abe8-7dcc10e62052",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts regular inspections of laboratory equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "533b9767-63e3-4b1e-8212-c2505f912422",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c58677d4-6990-484b-b37b-c7ed363a318f",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "6ab50eaf-809a-4ab4-804e-2ea7bef8128a",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "75c605fa-a332-4204-a19d-dffcfda95634",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Electrical Equipment"
+        }
+      ]
+    },
+    {
+      "id": "7fe71504-7072-4ec6-8c03-b50e859bd6e5",
+      "type": "p",
+      "children": [
+        {
+          "text": "Any device powered by electricity, including laboratory instruments, computers, heating devices, power tools, and lighting."
+        }
+      ]
+    },
+    {
+      "id": "55fde0b8-5de6-412f-b041-0db299e151b4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Grounding"
+        }
+      ]
+    },
+    {
+      "id": "90c19312-63ce-4d10-8816-0a6c6cf31fac",
+      "type": "p",
+      "children": [
+        {
+          "text": "A safety mechanism that provides a direct path to the earth, reducing the risk of electrical shock by dissipating excess electrical energy."
+        }
+      ]
+    },
+    {
+      "id": "f852bf9e-b45a-4fe3-bf52-b186cef4745f",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lockout/Tagout (LOTO)"
+        }
+      ]
+    },
+    {
+      "id": "e038b39b-b8b7-41b6-8b7c-c9382647dad7",
+      "type": "p",
+      "children": [
+        {
+          "text": "A procedure to ensure electrical equipment is properly shut off and cannot be restarted during maintenance or repair."
+        }
+      ]
+    },
+    {
+      "id": "3596ca18-4d45-47d2-921c-97b049797a0a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "921a8859-967f-4b69-a043-8b0f33225d0a",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. General Electrical Safety Procedures"
+        }
+      ]
+    },
+    {
+      "id": "9d9dc443-f398-4b3d-9986-977ba765262d",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "60bb53a5-9456-4f8a-a0f1-00e3d7064f41",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Electrical Hazard Awareness"
+        }
+      ]
+    },
+    {
+      "id": "4277ba62-10de-4ffa-a2d1-943bfac9fa3a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7d6f5ec8-1d36-4b8a-a587-c3fdd1dea170",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Electric Shock"
+            },
+            {
+              "text": ": Can occur when a person comes into contact with an electrical current. Risk is higher with wet skin or damaged insulation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3aee5e9-fee7-4957-8455-0db8cd9adb31",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "db3d406b-c31e-4c7f-b511-fd3ae2c24934",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Fire Hazard"
+            },
+            {
+              "text": ": May arise from overheating equipment, faulty wiring, or overloaded circuits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beb01c7c-a440-4841-aa5a-c7238d85e522",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0a1e9377-2e0b-46ab-a700-ecebee455856",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Equipment Damage"
+            },
+            {
+              "text": ": Improper handling or maintenance can increase the risk of injury or fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4e89db3-e489-4eef-aabf-212296cf78c7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "db0f4f91-841d-4848-8bce-16098e010316",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Personal Protective Equipment (PPE)"
+        }
+      ]
+    },
+    {
+      "id": "777f3ca4-8aca-4563-93df-885dfcfbcb46",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "45a816f0-089f-48c6-b058-c0481484ec10",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Rubber-soled shoes or electrical-insulating footwear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90758c09-c9a7-401f-ba9b-1e0105e16952",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "000eb593-c0a5-4fcf-82de-ba2281be0734",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Non-conductive gloves when handling exposed wiring."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a485908-9d56-4fa1-8899-8f0d451aac42",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "92d3683f-0f83-4d48-bfca-0725ab93948d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Safety glasses when working near electrical equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "968c1f26-d7e0-4848-9dfe-a0ffe6a0bfea",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "17871f77-d0de-4f29-b370-8f7629cea16a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Additional PPE (e.g., insulated tools, face shields) for high-voltage tasks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65078262-de84-4f5b-a386-b8c33fedce2f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3255c7f9-1df5-42de-9f62-0428cf691556",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3. Housekeeping and Workspace Organisation"
+        }
+      ]
+    },
+    {
+      "id": "150648f8-9304-4f9e-bb35-3da446c27542",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ef1c966f-0642-470b-bde6-7a1d0f26ecd6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Keep Electrical Equipment Dry"
+            },
+            {
+              "text": ": Avoid using electrical devices near water sources."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c7c7028-5486-4767-8376-1a71da901746",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bf92b3de-df3f-4578-82f4-c827b2f12f7d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Avoid Overloading Circuits"
+            },
+            {
+              "text": ": Do not plug multiple high-wattage devices into a single outlet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bd2f2fe-b6ba-4851-ab38-4f46ff124ec3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "999c2c06-3915-409d-967e-96bdfa824da5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Minimise Tripping Hazards"
+            },
+            {
+              "text": ": Keep power cords off the floor and away from foot traffic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "405282a3-0a37-4807-9312-0b409dee6d37",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3c795447-ab45-444d-8e36-823d18a5fa72",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Inspection and Maintenance of Electrical Equipment"
+        }
+      ]
+    },
+    {
+      "id": "c9f9d9ef-0497-498f-9cfb-ffc5d7197da0",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "35f8d030-b957-4442-93f4-c51d84fb55ed",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Routine Inspection"
+        }
+      ]
+    },
+    {
+      "id": "720fa870-de53-49a0-beaf-5e7263037845",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c0d39ddd-67b6-40e7-a021-03371faf738b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Visual Checks"
+            },
+            {
+              "text": ": Inspect equipment for frayed cords, exposed wires, or loose connections before use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c64b9ec0-0107-43bf-96ee-f3ae0225c84c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "91ccba4c-b59c-457a-a9c2-0fc571761fec",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Grounding"
+            },
+            {
+              "text": ": Ensure all equipment with a three-prong plug is grounded. Equipment with damaged grounding prongs must not be used."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68598e6a-8921-4787-8c3f-487d31c8b366",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "01c829d3-b7fb-4a56-b632-05d386e65dbd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Labelling"
+            },
+            {
+              "text": ": Clearly label all electrical equipment with its voltage requirements and ensure connection to appropriately rated power supplies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7fdb6a7-530c-4d85-852f-b3b9036335a4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6888affc-bde9-4c9b-9b62-56f1b0685657",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. Regular Maintenance"
+        }
+      ]
+    },
+    {
+      "id": "c2bf9e77-8e84-4039-bc00-6a934a1fa62e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1727581e-9c33-4677-844d-e4f21a16e8e8",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Preventative Maintenance Schedule"
+            },
+            {
+              "text": ": Establish a routine schedule for checks and repairs. Maintain an equipment logbook."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6858ee9a-b2b8-4dde-aefe-9cacb1da5692",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "dfb681b7-8baf-4a31-ba24-707729007add",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Servicing by Qualified Personnel"
+            },
+            {
+              "text": ": Only licensed electricians or trained technicians are permitted to repair or service electrical equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa25f5a2-1608-449a-a4ed-b6f628496682",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3f86cfe7-b2ec-4dbc-8678-1d59832bfd6d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Safe Use of Electrical Equipment"
+        }
+      ]
+    },
+    {
+      "id": "0569aa2b-9ea9-448d-b416-00cf3a612457",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "49b34552-082c-4c9e-b6e9-c0c446e73e66",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.1. Powering Equipment On and Off"
+        }
+      ]
+    },
+    {
+      "id": "a11d8c44-41e7-4d0d-b608-1c9550bb7471",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "03b1acaf-0618-4445-9155-5a1cba214bad",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Safe Start-Up"
+            },
+            {
+              "text": ": Ensure the power switch is in the \"off\" position before plugging in equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3dfa25f-2a4f-44fe-8a37-144784fd3a91",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "42a41232-fa47-41c7-8238-b123790a2927",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Emergency Shut-Off"
+            },
+            {
+              "text": ": Know the location of emergency power shut-off switches."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46535a71-0603-4e39-976b-d58a24c93b48",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8315f856-497a-4c8e-8dfc-6e40aea0f525",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Turning Off Unused Equipment"
+            },
+            {
+              "text": ": Switch off and unplug equipment when not in use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e07d0dc4-cb57-4400-94b3-8abbb1988fe7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6379ffb9-f116-43c9-853f-c941e8c42011",
+      "type": "h3",
+      "children": [
+        {
+          "text": "7.2. Working with High-Voltage Equipment"
+        }
+      ]
+    },
+    {
+      "id": "8e3cc57f-c2ed-4809-b019-f4484b0faffe",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bb67f3e2-6b30-439d-bd90-f76abf9c6531",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "High-Voltage Safety Precautions"
+            },
+            {
+              "text": ": Clearly mark high-voltage equipment and follow additional safety measures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f084bdae-3d6c-48ae-9c88-8019f9abdca8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "188e42ca-e088-478e-90db-27d1843a88c5",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Insulation and Barriers"
+            },
+            {
+              "text": ": Use insulating mats and barriers to minimise contact with live components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e608e47-a710-49b4-a832-fd379892ffe5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "49cef09d-1a95-4fda-a75f-570b27d40c61",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Buddy System"
+            },
+            {
+              "text": ": Always have another person present when working with high-voltage equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9777e0eb-3aaa-4d8f-aa1a-847d71e51d41",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4ce77438-5f0b-4dc6-9ef1-81d4c212ba78",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Lockout/Tagout (LOTO) Procedures"
+        }
+      ]
+    },
+    {
+      "id": "f626907a-375b-40d7-892a-48155d01814a",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1a14963a-e23c-4399-9935-bd4c902afeaf",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.1. When to Use LOTO"
+        }
+      ]
+    },
+    {
+      "id": "9c367b52-e83d-4da4-bb23-4e47ada24599",
+      "type": "p",
+      "children": [
+        {
+          "text": "LOTO must be implemented during maintenance, servicing, or repair of electrical equipment to prevent accidental activation."
+        }
+      ]
+    },
+    {
+      "id": "37cb43ec-5c29-4bfc-bac4-df1a6efb6007",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "755ad89a-b11e-44b4-9cf8-695e1dbeea32",
+      "type": "h3",
+      "children": [
+        {
+          "text": "8.2. LOTO Procedure"
+        }
+      ]
+    },
+    {
+      "id": "c18623d4-d178-4b9a-a5e1-935bd9d159c3",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bb7139c3-5c05-4a19-b1d7-581eb410b80a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Shut Off Power"
+            },
+            {
+              "text": ": Turn off power at the main switch or breaker."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63cbe5f0-db9e-4bc7-80bf-aaf87054bf18",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "91eed27f-bb36-4a8f-98c1-75cf70e527c1",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Apply Lock and Tag"
+            },
+            {
+              "text": ": Secure the switch in the \"off\" position with a lockout device and attach a tag indicating the equipment is under maintenance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea26f2b7-1726-4e01-9625-99546d8955eb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2a43a8f0-8b45-47a3-a3e6-73527ffb835d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Test Equipment"
+            },
+            {
+              "text": ": Verify the equipment is fully de-energised using an electrical testing device."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51278306-434f-4e4b-826e-27e40f4500e9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "290a6a36-1c26-4b7f-9fdc-bd0ada3dfa68",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Removal of LOTO Devices"
+            },
+            {
+              "text": ": Only the person who applied the lock and tag may remove them after maintenance is complete."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32441849-a490-4b2b-8564-b5109408dd17",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad7649a5-20fc-4222-a0ca-f41f4211c943",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Emergency Procedures for Electrical Incidents"
+        }
+      ]
+    },
+    {
+      "id": "cbe476c8-911e-438e-8433-44d1a9fd4fef",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "82f12146-9850-4aa4-a3a6-41ab1f7623d2",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Electric Shock Response"
+        }
+      ]
+    },
+    {
+      "id": "cbf78bf9-ecad-4359-960a-e1bd76aa0b8a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "86924da0-66ac-4bde-b7d3-911f6d917c76",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Do Not Touch the Victim"
+            },
+            {
+              "text": ": Turn off power first, or use a non-conductive object to separate the victim from the electrical source."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a489485-23a8-4c62-afcf-9586ece8dc52",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "61ed6625-8b9d-4d17-898b-fa0c218c9f8b",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Call for Help"
+            },
+            {
+              "text": ": Contact emergency services and the lab manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc9fa280-920e-4315-8895-afe1481ee947",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c8df7545-39d8-4b97-a0fc-9e4fa4e4f296",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Administer First Aid"
+            },
+            {
+              "text": ": If the person is not breathing, perform CPR until help arrives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "567b7c40-e24e-4223-9f8f-338c837d39e4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "49658d42-e4f2-42e5-9c81-a6ca6ff3162b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Electrical Fire Response"
+        }
+      ]
+    },
+    {
+      "id": "620d7b1b-1942-41fb-a242-66d09607bb9c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "940f5bbd-db11-430e-b3db-806857ee5af0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Use Fire Extinguishers"
+            },
+            {
+              "text": ": Only Class C extinguishers should be used on electrical fires. Do not use water-based extinguishers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbc2cf5b-b744-4ca5-aeb0-06bb26a8aba5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "572cf251-1b37-4969-80e5-6c4796963ecd",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Evacuate if Necessary"
+            },
+            {
+              "text": ": If the fire cannot be controlled, evacuate immediately and call emergency services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6615af89-46ca-4dd6-9050-22d6ed6ae5af",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fc00f892-6527-4af3-a628-3bca595756b6",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Reporting Electrical Hazards"
+        }
+      ]
+    },
+    {
+      "id": "0f9c97ea-749c-4d03-9168-de3d0974bcd4",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0a641884-19fa-475a-9e1d-d76907b4b53b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. Hazard Identification"
+        }
+      ]
+    },
+    {
+      "id": "77fe1f18-608b-4908-bc96-1f6771a90053",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8289709d-c5e9-4aaa-b021-f7d1671902f4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Report Malfunctions"
+            },
+            {
+              "text": ": Immediately notify the lab manager or safety officer about malfunctioning equipment or unusual smells, sparks, or noises."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1a73407-fffe-45ce-a548-0da9ef56590b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2ab433c5-1b8d-43ca-a60d-de21ee3b0df8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. Incident Documentation"
+        }
+      ]
+    },
+    {
+      "id": "08b2388f-6a91-49b4-96fb-2310a40eccb9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a985725b-2bfc-491a-81ed-238949d2e4a6",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Incident Reports"
+            },
+            {
+              "text": ": Document all electrical incidents, detailing equipment involved and corrective actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70d479a7-6f6b-408b-b809-35de08b0ccfc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cffa8938-2940-4c09-99a5-8c40761eeb9d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. Training"
+        }
+      ]
+    },
+    {
+      "id": "3d326554-528e-4bc5-b984-0123083b857b",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fc3ba90f-347a-49e1-9135-e97d8091220b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "e94dd802-f028-4528-b68f-4fc152a5a5ac",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "52fef80a-0dee-488c-922f-edd21f48c005",
+          "type": "lic",
+          "children": [
+            {
+              "text": "All personnel must complete electrical safety training before working with electrical equipment. Training includes hazard identification, safe equipment use, and emergency procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffc132ff-1d8d-471f-b83c-2379e0716bab",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "7fa578b5-880c-4367-88ce-518c42777e44",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7dba0f73-f64e-4528-acd2-71446e1d2356",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annually or after updates to this SOP. Maintain training records for all personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c94072cf-6f0a-4b07-a7c4-4e7bfec9c2a2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f7340fe1-eb8f-4643-be04-742ac26239d6",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "a462a98c-0045-4582-aae1-7bdf8a9acb82",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ccea6ca7-876e-4973-937a-1e22a8f72bca",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "OSHA Electrical Safety Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51278810-b8cf-4c9e-a122-538978c56285",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c9f42b0e-21a3-404e-b637-38d281b75d63",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "NFPA 70E: Standard for Electrical Safety in the Workplace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34ac3d5e-a8fd-4fef-81d7-508311f63268",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "80402b1e-189f-476f-aa1a-334a238e6ac4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Institutional Safety and Electrical Policies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "654dc7ed-0294-42b8-bc0f-593a576689b9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

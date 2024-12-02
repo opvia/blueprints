@@ -1,0 +1,1211 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "2cc9de2d-12cf-4fa1-9afd-06ebdaa31e2a",
+  "title": "SOP - Test Result Reporting",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "e642e2a5-6bf4-4dbf-b12c-59a07b8da456",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "eee77fa8-d6b2-4e53-91fe-26e0dc804400",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "b3f26154-36d0-4d52-9675-8fa6b82a001e",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "170ef9e0-fef7-4b6e-8269-f2177091872f",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "975f2c9a-65e5-4598-8f11-2c46ff149347",
+      "type": "field",
+      "fieldId": "170ef9e0-fef7-4b6e-8269-f2177091872f",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0ab99dfb-c5e7-47ef-96be-6f98331c17ac",
+      "type": "field",
+      "fieldId": "b3f26154-36d0-4d52-9675-8fa6b82a001e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bea14b41-d7b5-4df4-92f0-d3ba75993bf8",
+      "type": "field",
+      "fieldId": "e642e2a5-6bf4-4dbf-b12c-59a07b8da456",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "653bb158-1c55-472a-8061-1532d85cb605",
+      "type": "field",
+      "fieldId": "eee77fa8-d6b2-4e53-91fe-26e0dc804400",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b6e2b73e-832e-4981-9633-8752ee7acdba",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b383853c-2616-4459-ba6d-efa15efd6b55",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "f18352a3-97b9-4ee8-93f0-62fe2ed753d3",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) outlines the steps for accurately and promptly reporting laboratory test results. It ensures that results are reviewed, verified, and released according to quality standards and regulatory requirements. Additionally, this SOP addresses the process for correcting errors in reported results."
+        }
+      ]
+    },
+    {
+      "id": "8092cf0c-44dd-4b69-9094-8e7fc5554d94",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "741e89b4-5110-4460-a798-d6381393ac69",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "59af4413-4654-4ca5-8277-ae0a4366f832",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel involved in reporting test results. It covers result entry, review, approval, release, and correction of errors in laboratory reports."
+        }
+      ]
+    },
+    {
+      "id": "f05cca45-34eb-46f8-bc70-49a00415cea8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2184670a-db84-4e88-a443-95bda3495973",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "465a90de-e0bb-4482-8abf-30a9289f628e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager:"
+        },
+        {
+          "text": " Oversees the reporting process, ensures results meet quality standards, and authorises result release."
+        }
+      ]
+    },
+    {
+      "id": "e1ceb646-3599-4b53-ac92-2877c31c66f3",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Personnel:"
+        },
+        {
+          "text": " Responsible for accurate data entry, preliminary review of results, and reporting any discrepancies."
+        }
+      ]
+    },
+    {
+      "id": "dc5b6675-7c3d-4c4b-9a33-5d2ed051a5fb",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Quality Assurance (QA) Officer:"
+        },
+        {
+          "text": " Conducts periodic reviews of the reporting process, verifies accuracy, and monitors corrective actions for reported errors."
+        }
+      ]
+    },
+    {
+      "id": "27d446ad-09c4-4664-8615-3858e3faaeb8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0bc69da7-c9f3-4626-9876-1efd9f8a6ba8",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "723dcad9-e6e1-4981-8bbb-b3f0af27d3f2",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Test Result Reporting:"
+        },
+        {
+          "text": " The process of communicating laboratory test outcomes to the requesting clinician or department."
+        }
+      ]
+    },
+    {
+      "id": "f009598d-1f2e-479c-9365-64eb5829f8cf",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Critical Result:"
+        },
+        {
+          "text": " A result that indicates a life-threatening condition and requires immediate communication to the requesting party."
+        }
+      ]
+    },
+    {
+      "id": "5050723d-87d5-4c8b-bad5-38f388fe261e",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Corrective Action:"
+        },
+        {
+          "text": " Steps taken to address and rectify any errors identified in reported results."
+        }
+      ]
+    },
+    {
+      "id": "18167f9c-b91e-407e-99df-c7e1c15d7251",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "86753400-20e6-46fa-8613-dc933a0ee0ad",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Criteria for Test Result Reporting"
+        }
+      ]
+    },
+    {
+      "id": "a27932ac-0e3c-459f-9979-4ce30aa517d8",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d59dd8a5-7887-43e5-af26-4f971fe2741a",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Accuracy and Completeness"
+        }
+      ]
+    },
+    {
+      "id": "533bf2fb-de0b-49fe-8dad-789cc52a0d3e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Data Verification: "
+        },
+        {
+          "text": "Ensure that each test result is accurate and complete, including units, reference ranges, and annotations (if required). All calculations and conversions should be double-checked before reporting."
+        }
+      ]
+    },
+    {
+      "id": "949e14fe-3bda-4c99-af33-58289b2c95dd",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Documentation Requirements: "
+        },
+        {
+          "text": "Ensure results include patient identifiers, test name, collection date, analysis date, and any relevant comments or interpretations."
+        }
+      ]
+    },
+    {
+      "id": "74f3e061-ca32-4f01-b651-61c1504e9709",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c79f7bbf-4daf-419b-944c-0f57a3a51b2e",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "5.2. Review and Approval"
+        }
+      ]
+    },
+    {
+      "id": "3f9f888c-c995-45cb-a3d1-8b6d4813204c",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Internal Review: "
+        },
+        {
+          "text": "Results must be reviewed by the assigned lab personnel and verified by the lab manager or a designated reviewer. Any unusual or out-of-range results should be verified before release."
+        }
+      ]
+    },
+    {
+      "id": "01251462-b849-4bb5-9070-a10b6c432fdb",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Approval for Release: "
+        },
+        {
+          "text": "All results must be authorised by the lab manager or a qualified reviewer before they are released. Document the reviewer’s initials, date, and time of approval in the Laboratory Information Management System (LIMS) or on the report."
+        }
+      ]
+    },
+    {
+      "id": "68e13dc1-80b4-479e-8fde-24ad6d48ecd8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9d2faa48-5884-4883-bb57-96a5c6a58aef",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Reporting Process"
+        }
+      ]
+    },
+    {
+      "id": "caebcc06-197b-4342-9f40-717d84735ecc",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e0e7eaa2-b1d3-40a9-a42e-741a66d8fd31",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Data Entry and Verification"
+        }
+      ]
+    },
+    {
+      "id": "f6435d9e-9924-47fb-b0e0-7356f0d76e9d",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Data Entry into LIMS: "
+        },
+        {
+          "text": "Enter all test results directly into the LIMS or other approved electronic reporting system. Ensure accuracy by double-checking entries against raw data."
+        }
+      ]
+    },
+    {
+      "id": "7c1c7052-e840-4bb4-8bbd-ea1a0bdba9d2",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Verification of Results: "
+        },
+        {
+          "text": "Conduct a preliminary review of data entered in the LIMS, cross-referencing it with raw data. Report any discrepancies to the lab manager for correction before final approval."
+        }
+      ]
+    },
+    {
+      "id": "ed3894ef-da32-425c-b978-c0b392471f00",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5c5c0c8a-3a3d-4f31-a1a8-683073712bdb",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.2. Reporting of Critical Results"
+        }
+      ]
+    },
+    {
+      "id": "05e188e2-a94e-4a4b-b354-79fce1bc5b29",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Identification of Critical Results:"
+        },
+        {
+          "text": "Identify any test results that fall within the laboratory’s defined critical range. Flag these results in the LIMS and prioritise their verification."
+        }
+      ]
+    },
+    {
+      "id": "2074e79c-12ee-404e-a084-7c10f30cf83b",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Immediate Communication:"
+        },
+        {
+          "text": "Notify the requesting clinician or department immediately of any critical results. Document the time and method of communication, the recipient, and the name of the person communicating the result."
+        }
+      ]
+    },
+    {
+      "id": "4b29870c-990f-4b09-acaf-d8a8ed2c759a",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "474719b4-3bb8-4b90-85e5-82bdffeaa413",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "6.3. Approval and Release of Results"
+        }
+      ]
+    },
+    {
+      "id": "e8fc61ce-715c-4efb-bd5e-e1b60ad326c5",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Final Review: "
+        },
+        {
+          "text": "The lab manager or authorised reviewer conducts a final review of the report for accuracy, completeness, and compliance with SOPs. Ensure any annotations or interpretations are clear and relevant."
+        }
+      ]
+    },
+    {
+      "id": "4a3d23e5-f6d3-4e30-afc3-2a5636c0334a",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Electronic Release in LIMS: "
+        },
+        {
+          "text": "Upon approval, release the results in the LIMS for secure access by the requesting party. If a physical copy is required, print a report and ensure all pages are accounted for."
+        }
+      ]
+    },
+    {
+      "id": "d015dab5-081c-487e-98d6-d28b5c56261a",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "005f498e-693f-4c1e-8fc2-357f6fa9da68",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Format and Content of Test Reports"
+        }
+      ]
+    },
+    {
+      "id": "21f38d60-362d-45bb-9a2e-1a56a76c76de",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f0ed0da5-e8c4-4f54-afe1-60f3c546d3de",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Standardised Report Format"
+        }
+      ]
+    },
+    {
+      "id": "d629bdb0-6e9d-478b-a75f-7b3517649039",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Report Sections: "
+        },
+        {
+          "text": "Each test report should include:Laboratory header (with contact information)Patient identifiers (e.g., name, ID, date of birth)Test information (test name, method, collection date, analysis date)Results and unitsReference ranges or interpretive commentsReviewer’s initials and approval date"
+        }
+      ]
+    },
+    {
+      "id": "9b63c674-fe4d-4688-8d60-ddbe5727923d",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Clear Presentation of Results: "
+        },
+        {
+          "text": "Present results in a clear, organised format, using standard units and terminology. Highlight critical results to ensure visibility."
+        }
+      ]
+    },
+    {
+      "id": "c5cce8a4-5585-4946-9d34-af2824150cf9",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3e699804-5b7c-47c8-ba5a-2a23768da6b7",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "7.2. Interpretation and Comments"
+        }
+      ]
+    },
+    {
+      "id": "8da62162-e4a2-437d-b93d-66cbe03b0dd6",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Reference Ranges: "
+        },
+        {
+          "text": "Include reference ranges for each test, along with interpretive comments if applicable. These should be standardised and agreed upon by the lab management team."
+        }
+      ]
+    },
+    {
+      "id": "1ae6953b-1016-4ee3-86b8-21e26ad0fc50",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Additional Comments: "
+        },
+        {
+          "text": "Include any additional comments or interpretive guidance provided by the laboratory specialist, as necessary, to aid the clinician in understanding the results."
+        }
+      ]
+    },
+    {
+      "id": "757e7993-d8e1-4c48-8f4e-9e8d082853bf",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3d39a677-11a7-49a3-a113-c6e194604c30",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Correction of Errors in Test Reports"
+        }
+      ]
+    },
+    {
+      "id": "880cc7ee-982e-4178-8876-f4d0a08ccbcd",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "88b96cb3-34c6-4e4a-af73-5f9e9b9bfcc3",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Identifying and Documenting Errors"
+        }
+      ]
+    },
+    {
+      "id": "6524ccb5-4d51-4c2f-b0af-8e7a24c82840",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Error Identification: "
+        },
+        {
+          "text": "If an error is identified in a reported result, immediately notify the lab manager and the QA officer. Complete an "
+        },
+        {
+          "bold": true,
+          "text": "Error Report Form"
+        },
+        {
+          "text": " detailing the nature of the error, the cause (if known), and the affected test result."
+        }
+      ]
+    },
+    {
+      "id": "5ad52ac7-3082-44f5-a83f-799f013a075e",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Correction Documentation: "
+        },
+        {
+          "text": "Document the corrected result in the LIMS, noting the correction date, time, and initials of the person making the correction. Maintain the original result with an annotation indicating that it was corrected."
+        }
+      ]
+    },
+    {
+      "id": "1fd4e331-285e-484f-bc20-41ae6489f828",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4506821b-1b8c-4bf2-bda3-574edcf56af1",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "8.2. Issuing Corrected Reports"
+        }
+      ]
+    },
+    {
+      "id": "afdadc00-e5f6-47d9-bda1-eeda43bedb69",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Revised Report Generation: "
+        },
+        {
+          "text": "Generate a corrected report, clearly indicating that it is a revision. Highlight the corrected values, and include a statement explaining the correction."
+        }
+      ]
+    },
+    {
+      "id": "f643eec4-522c-472a-bcdf-10a7edfa1a7c",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Notification to Requesting Party: "
+        },
+        {
+          "text": "Notify the requesting clinician or department of the correction immediately. Document the date, time, method of communication, recipient, and the name of the person communicating the revised report."
+        }
+      ]
+    },
+    {
+      "id": "4f7736dc-a8ab-4256-8bb8-a33e511b6762",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8e66db86-e4a9-4a2c-a7ba-6721da469099",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "8.3. Root Cause Analysis and Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "937721a9-fb85-4cdc-9ac0-235b1f21bb97",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Root Cause Analysis (RCA): "
+        },
+        {
+          "text": "Conduct an RCA to determine the underlying cause of the error. Record findings in the "
+        },
+        {
+          "bold": true,
+          "text": "Corrective Action Log"
+        },
+        {
+          "text": ", including preventive measures to avoid similar errors in the future."
+        }
+      ]
+    },
+    {
+      "id": "3986b2df-9856-4dac-a8a6-b3a6fe1dfe22",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Implementation of Corrective Actions: "
+        },
+        {
+          "text": "Implement corrective actions based on RCA findings and monitor the effectiveness of these actions through follow-up reviews."
+        }
+      ]
+    },
+    {
+      "id": "0d02ebe9-a2e7-4002-b592-e20bad810423",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "60a120e5-21f4-411a-901d-83ccb3ed400c",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Documentation and Record-Keeping"
+        }
+      ]
+    },
+    {
+      "id": "6a970594-3be7-4bc8-a92e-b1e40285016f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fd4faa2f-1fbe-452d-b055-db7c9e2f024e",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Required Documentation"
+        }
+      ]
+    },
+    {
+      "id": "8c2edc2d-6e81-4137-a32c-9584d386c2e0",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Test Reports: "
+        },
+        {
+          "text": "Maintain all test reports, including corrected reports, in the LIMS. Retain documentation of report reviews and approvals for traceability."
+        }
+      ]
+    },
+    {
+      "id": "bf03a720-9cd5-4dd1-a6b0-c428032c80a3",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Error and Corrective Action Records: "
+        },
+        {
+          "text": "Maintain records of any errors identified, corrective actions taken, and follow-up actions. Store Error Report Forms and Corrective Action Logs securely."
+        }
+      ]
+    },
+    {
+      "id": "94f399ee-d82b-4f65-af36-5d61866e038e",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aaa8c08a-f08e-4d6a-b945-8e616bd9ec86",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "9.2. Retention of Records"
+        }
+      ]
+    },
+    {
+      "id": "b844c89a-0281-49df-b1c3-66162e50a419",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Record Retention Period: "
+        },
+        {
+          "text": "Retain all test reports, error records, and corrective actions for a minimum of five years or as required by regulatory standards. Ensure records are securely stored and easily accessible for audits."
+        }
+      ]
+    },
+    {
+      "id": "7682f5a8-77ac-4960-b7bb-7ea5ceeb5b69",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4d567296-55da-45a2-9a1c-1c8adf69f6d9",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Monitoring and Quality Assurance"
+        }
+      ]
+    },
+    {
+      "id": "2fc158c8-bce1-47f5-b5a0-6dc4f042b8d1",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1d98b027-b25f-4996-8ee2-f967e8fce864",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. Periodic Audits of Reporting Procedures"
+        }
+      ]
+    },
+    {
+      "id": "b6ebf42a-9242-4e04-bdd8-8ec69158fe84",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Internal Audits: "
+        },
+        {
+          "text": "QA personnel should conduct periodic audits of the reporting process, reviewing a sample of reports to verify compliance with SOPs and accuracy of reporting."
+        }
+      ]
+    },
+    {
+      "id": "1cc0016c-9cf3-4e4e-b73a-020234bc11ca",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "Audit Findings and Improvements: "
+        },
+        {
+          "text": "Document audit findings and any recommended improvements. Implement corrective actions as necessary to ensure continued compliance and accuracy in reporting."
+        }
+      ]
+    },
+    {
+      "id": "ed1123e8-6dc4-499b-8ab6-0249976c3a6b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cc8c80af-a819-41f9-bbbe-205d69564d5c",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "10.2. Continuous Improvement"
+        }
+      ]
+    },
+    {
+      "id": "7b44456b-30c7-46ac-a817-789303639366",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Feedback and Updates: "
+        },
+        {
+          "text": "Review feedback from clinicians and laboratory personnel to identify opportunities for improvement in the reporting process. Update this SOP periodically to incorporate best practices and regulatory changes."
+        }
+      ]
+    },
+    {
+      "id": "6e85af5a-ed44-4497-b16e-cc7aaf6d2368",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f59b5df8-2fe9-4ee1-b962-9e07dd838aa7",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. Staff Training and Competency"
+        }
+      ]
+    },
+    {
+      "id": "ce1ff092-8164-40b8-a6f0-cbd45cca46d4",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dae2c514-8744-4a3a-98aa-374c68045f5b",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "11.1. Initial Training on Reporting Procedures"
+        }
+      ]
+    },
+    {
+      "id": "b7fdaf42-a0f6-46a5-b312-51e2ee434e46",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Training for New Staff:"
+        },
+        {
+          "text": "Provide all new staff with training on test result reporting procedures, including LIMS data entry, result review, critical result reporting, and error correction."
+        }
+      ]
+    },
+    {
+      "id": "6377f057-efc9-40b4-8b92-3c9808dbcc43",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bac6df73-c562-448a-a342-cca3596b7be4",
+      "type": "h3",
+      "align": "left",
+      "children": [
+        {
+          "text": "11.2. Refresher Training Competency Assessment"
+        }
+      ]
+    },
+    {
+      "id": "f525c2bb-0348-4969-8f65-61c29b304ff9",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Annual Refresher Training:"
+        },
+        {
+          "text": "Conduct annual refresher training on reporting procedures and review any updates to the SOP. Ensure personnel are aware of common errors and best practices for result verification."
+        }
+      ]
+    },
+    {
+      "id": "460b85cd-0f13-49a9-a844-41ea5f89b275",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Competency Assessments:"
+        },
+        {
+          "text": "Periodically assess competency in reporting procedures, particularly for personnel involved in data entry and report review, to ensure compliance and minimise errors."
+        }
+      ]
+    },
+    {
+      "id": "4bb776f3-5c7b-4b09-92b1-8dec37fc6b9a",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dad8ffae-8109-4baf-a541-132a7f07acd1",
+      "type": "h2",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "8254d249-1950-49e6-824f-9f04a8c93e4c",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "- ISO 15189: Medical laboratories – Requirements for quality and competence"
+        }
+      ]
+    },
+    {
+      "id": "9b728f64-84b3-4fe0-9c25-1483c7ff8931",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "- Good Laboratory Practice (GLP) Guidelines"
+        }
+      ]
+    },
+    {
+      "id": "bb1b326a-b9b9-4758-b0a8-c8a4b89437d1",
+      "type": "p",
+      "align": "left",
+      "children": [
+        {
+          "text": "- Institutional Quality Assurance Policies"
+        }
+      ]
+    }
+  ]
+}

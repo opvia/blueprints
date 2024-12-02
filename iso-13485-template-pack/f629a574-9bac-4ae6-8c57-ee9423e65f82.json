@@ -1,0 +1,1426 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "f629a574-9bac-4ae6-8c57-ee9423e65f82",
+  "title": "SOP - Supplier and Vendor Management",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "2e1f5c42-8be1-435a-8a34-c68245b8c036",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "9b63d38d-4806-4346-8ca7-7a80f67bade6",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "c2103d43-1707-45aa-8387-4db634af024e",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "2d64c1e3-434c-4770-b00f-1289e5c5efe8",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "7460734d-eae2-439b-8c78-93fd65a9d010",
+      "type": "field",
+      "fieldId": "2d64c1e3-434c-4770-b00f-1289e5c5efe8",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bc3b15cf-202c-4dc0-9e02-ac2c92b03cd4",
+      "type": "field",
+      "fieldId": "c2103d43-1707-45aa-8387-4db634af024e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "487b40d0-41a9-4bbe-b2fc-4d8dc145d583",
+      "type": "field",
+      "fieldId": "2e1f5c42-8be1-435a-8a34-c68245b8c036",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5ceba101-d5ce-4c4e-acd2-eeb8c6d83d18",
+      "type": "field",
+      "fieldId": "9b63d38d-4806-4346-8ca7-7a80f67bade6",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c25010be-2e7c-411c-ad63-f78bf59040b4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d024fa01-4911-4f3c-93b2-d56ff9d8cfb8",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "ab010a66-d591-483b-9080-b690b56b78c3",
+      "type": "p",
+      "children": [
+        {
+          "text": "To establish a standardised process for evaluating, selecting, and monitoring suppliers and vendors to ensure the quality and compliance of materials and services provided."
+        }
+      ]
+    },
+    {
+      "id": "bc91f01a-8394-4842-8510-a30b1de7df8c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e0642659-9acf-4a67-bc51-631c35d70b2b",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "2b1269a5-bb9b-49ba-beb6-084230d322f8",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all suppliers and vendors providing critical materials, components, or services used in the production of products within the organisation."
+        }
+      ]
+    },
+    {
+      "id": "a9188ff8-b0b4-4458-9dda-1de72fdb03a9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "618be6cd-8b4a-482a-857b-94ed0f9edcc9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "08916fca-22b4-4e0a-a78d-0f05e1b39e56",
+      "type": "li",
+      "children": [
+        {
+          "id": "6778aee2-969f-42e7-b37c-0ea20d24a2ab",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Procurement Team: "
+            },
+            {
+              "text": "Responsible for initial supplier evaluation, selection, and maintaining supplier records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1814d340-ef0e-4af5-9ed1-da3bc40c9edf",
+      "type": "li",
+      "children": [
+        {
+          "id": "f7fd8e07-fc55-438e-a749-d4ddbe8184da",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA) Team:"
+            },
+            {
+              "text": " Ensures that suppliers meet quality standards, conducts performance monitoring, and performs supplier audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0eb246a0-4d8e-448b-a40a-544e726d2bec",
+      "type": "li",
+      "children": [
+        {
+          "id": "9db884fc-b346-455c-85fa-53527bcabd63",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": " Supply Chain Manager:"
+            },
+            {
+              "text": " Oversees supplier qualification and ongoing monitoring processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2770ff0a-00b9-4e66-8a8c-5fb0c7fc5898",
+      "type": "li",
+      "children": [
+        {
+          "id": "64f52862-d4e2-4b4a-8cb2-0a411b74a1be",
+          "type": "lic",
+          "children": [
+            {
+              "text": " "
+            },
+            {
+              "bold": true,
+              "text": "Regulatory Affairs: "
+            },
+            {
+              "text": "Verifies compliance with applicable regulatory standards for supplier management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e92b12e-0ccd-4563-b794-dca22773cbd2",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5935a989-5f6c-47e8-b1cb-e5e4d0a76a36",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "dcd33e4e-f806-4ad7-903c-00bc63204a86",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c2383d4e-4c27-4b03-a1ef-3ca3463816e7",
+      "type": "li",
+      "children": [
+        {
+          "id": "37d2e89b-76a9-44ad-8583-923737bdceab",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Supplier Qualification:"
+            },
+            {
+              "text": " The process of evaluating a supplier's ability to meet specified requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47a571a6-a29e-44c9-b4c7-8bfdf8cd174f",
+      "type": "li",
+      "children": [
+        {
+          "id": "372f2ace-8bd5-40bb-afe0-6b8d4dda3e22",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Approved Supplier List (ASL): "
+            },
+            {
+              "text": "A list of suppliers that have been evaluated and approved to provide materials or services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dca14464-5e8c-46d6-9884-40dd73c9c68d",
+      "type": "li",
+      "children": [
+        {
+          "id": "7cc5e143-32c2-44cd-b07d-ef38ccf731e4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Non-Conformance:"
+            },
+            {
+              "text": " Failure of materials or services to meet specified requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a4aa57c-9483-4fd9-8eb6-b3d7785c5162",
+      "type": "li",
+      "children": [
+        {
+          "id": "c449187f-bc3f-4c45-baa6-c9ba4bbdb6b9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Critical Supplier:"
+            },
+            {
+              "text": " A supplier whose materials or services directly affect the quality and safety of the final product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b974793-fba9-41f4-b573-ec06a4dde768",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "12a1a4fd-61c5-42e6-9d1b-a1f74925c7f1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Procedure"
+        }
+      ]
+    },
+    {
+      "id": "94ea0d24-9af0-4cd7-b41f-e5bb88d2bed8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "54c8dd9f-e5a4-4e54-8d1e-abd0f275e6b8",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1 Supplier Selection and Qualification"
+        }
+      ]
+    },
+    {
+      "id": "1f671152-9ff4-428d-9632-e95b6e69a71f",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Identify Supplier Needs:"
+        }
+      ]
+    },
+    {
+      "id": "cc4984c8-5500-4a3c-b7d2-7ae90ffdf63e",
+      "type": "li",
+      "children": [
+        {
+          "id": "b1f33d2f-1279-46fc-a823-f56ca884a4a5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Determine the need for a new supplier based on materials, components, or services required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec359ee6-a5fd-4b9c-848a-a21919f96293",
+      "type": "li",
+      "children": [
+        {
+          "id": "a3980154-0160-4c7a-b5ea-1c73817e9c8c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define supplier requirements, including quality, regulatory, technical, and logistical specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71a4963d-444f-4048-8fd4-c49e1ef3e119",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Initial Supplier Evaluation:"
+        }
+      ]
+    },
+    {
+      "id": "49adbd62-6e29-4b82-b14e-d8b30dac8bd3",
+      "type": "li",
+      "children": [
+        {
+          "id": "114bddab-b68a-4b72-b63f-fa934fc93cd6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct an initial evaluation of potential suppliers, focusing on the following criteria:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d48144f-1ce0-445c-a2d0-546c77f87e49",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "4718936d-c8b5-458e-9795-6b1a5fa3d71a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Quality Management System (QMS): Assess whether the supplier has a QMS in place, preferably certified to ISO 9001, ISO 13485, or another relevant standard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d83fe4d9-45b5-4ba9-b0c8-470433b0f6fb",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "21c846d4-9c1d-4e7e-a4db-6d8587cb566f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Compliance: Ensure the supplier complies with relevant industry and regulatory standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "012ae3ba-2c2a-4517-923b-55c5f5a6582e",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "06af6f2f-a5fc-431a-98b7-7813d01ca80d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Capacity and Capability: Verify that the supplier can meet quality and production demands."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a288a0f8-a788-472b-9c24-155ad7054b01",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2a67abb5-8f2f-4f8a-844e-36a9431a5a26",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Financial Stability: Review the supplier's financial health to confirm business stability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db1427e7-d0ef-41d3-81bb-76ab54c315cd",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "27fadb6c-9a69-4698-8216-599401532eda",
+          "type": "lic",
+          "children": [
+            {
+              "text": " References and Reputation: Obtain feedback from existing customers or references to assess reliability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5dfc23c3-8bb2-4d74-96f4-558ae0ca7fc2",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Supplier Qualification Audit:"
+        }
+      ]
+    },
+    {
+      "id": "09ec8a64-a641-40f3-af76-5643f315b52c",
+      "type": "li",
+      "children": [
+        {
+          "id": "f926c39b-6120-4353-b7d0-a5eaa428b399",
+          "type": "lic",
+          "children": [
+            {
+              "text": "If deemed necessary, conduct an on-site audit to further evaluate the supplier’s processes and compliance with regulatory and quality standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37a5714c-6d27-4c54-8d45-3318a51057db",
+      "type": "li",
+      "children": [
+        {
+          "id": "d71bfcd8-3346-417d-bdd2-f3090794ebc1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document findings and corrective actions (if any) in an Audit Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14e236e6-2aab-44ea-ae1f-e9fa2b1c63e9",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Risk Assessment:"
+        }
+      ]
+    },
+    {
+      "id": "8423bcd7-d1c7-491d-a8b8-71dd62672e37",
+      "type": "li",
+      "children": [
+        {
+          "id": "a39d28c4-a9d8-4488-a2d2-86d7e6906cc9",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform a risk assessment for each supplier, evaluating potential risks to quality, reliability, and compliance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c910ca44-7ed7-4c20-a490-750af1df653a",
+      "type": "li",
+      "children": [
+        {
+          "id": "cd038774-a6f3-4fcf-8805-8292f857c192",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document identified risks and mitigation strategies in a Supplier Risk Assessment Form."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0109f65-d347-4e4a-bd32-58f95d8b0468",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Approval and Inclusion in Approved Supplier List (ASL):"
+        }
+      ]
+    },
+    {
+      "id": "8bf0365c-eae0-43a4-bc3b-c8afa2e9d2de",
+      "type": "li",
+      "children": [
+        {
+          "id": "f4ef5041-df07-4ec4-812e-c9c0910049fc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Based on the evaluation and risk assessment, decide whether to approve the supplier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7a168da-9c5d-4927-949b-a364ba162160",
+      "type": "li",
+      "children": [
+        {
+          "id": "c9ce38cb-1058-4de1-9a6d-621c2513e787",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Add approved suppliers to the Approved Supplier List (ASL) and notify relevant departments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f93f198b-c784-48b3-b271-fbcbf1156bdd",
+      "type": "li",
+      "children": [
+        {
+          "id": "ff76c2b2-8d42-4001-8926-2d00a3f32c18",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record supplier approval details, including the evaluation criteria and final decision."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00041dce-57cf-401b-b769-82f180e0527c",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4a0ea62b-265b-43f1-9cbb-b497acfeb416",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2 Supplier Performance Monitoring"
+        }
+      ]
+    },
+    {
+      "id": "bcf05c45-0f0b-48db-946e-4872a3c69374",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Establish Performance Metrics:"
+        }
+      ]
+    },
+    {
+      "id": "6c6dec1f-8c18-4def-a703-4a8db059ce2b",
+      "type": "li",
+      "children": [
+        {
+          "id": "4ffb7fba-df5f-4856-99a6-d145e168233e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define key performance indicators (KPIs) to monitor ongoing supplier performance, such as:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83ffb75e-301a-451e-b51d-d74588731d3c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "dc35afed-4258-4cbf-9ef9-acbf5505f0b7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "On-Time Delivery: Percentage of orders delivered on or before the due date."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51336413-c278-4914-ac83-0a9544735657",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b77becd9-bf3f-4ef4-9872-72b87da05d7e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Product Quality: Number of rejected or defective units."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd794bac-87e8-4b87-b590-5b85755a1042",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "854e5e0c-7794-48c5-97ae-17666c0026eb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Responsiveness: Supplier’s response time to inquiries and issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b8ce69d-5651-4134-a4de-a85461212eef",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "582033a5-eda1-4b09-94ef-7019e64f9c64",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Documentation Compliance: Adherence to documentation and regulatory requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14eb165d-2680-4ae4-b408-05cbd774de08",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Regular Performance Review:"
+        }
+      ]
+    },
+    {
+      "id": "560e6f62-5e0a-4e42-bdad-8b598ca3e15a",
+      "type": "li",
+      "children": [
+        {
+          "id": "818057a7-dab2-46a4-8e12-5c090e00b91a",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Monitor and record supplier performance on a quarterly basis or as required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e7088e1-75c9-4bef-87f7-0dfc93dd7a6e",
+      "type": "li",
+      "children": [
+        {
+          "id": "55578f47-a857-43c0-bbbf-e9161bbfb415",
+          "type": "lic",
+          "children": [
+            {
+              "text": " Document performance metrics in a Supplier Performance Review Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dfc427c-6e88-4a75-9c5b-56c2d9fa7dbd",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Corrective Actions for Non-Conformance:"
+        }
+      ]
+    },
+    {
+      "id": "14fdc6c7-3752-46d0-a18f-baa45a11d224",
+      "type": "li",
+      "children": [
+        {
+          "id": "e93e72db-214e-4262-99d8-71e911da6c51",
+          "type": "lic",
+          "children": [
+            {
+              "text": "In cases where supplier performance does not meet established criteria, initiate a Supplier Corrective Action Request (SCAR)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c87e7493-3e47-4224-bad5-be8f44953a26",
+      "type": "li",
+      "children": [
+        {
+          "id": "226e66b5-5354-42dc-b461-212264d2d612",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Require the supplier to provide a Corrective Action Plan (CAP) outlining steps to address and resolve the issue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88150cc2-791b-45ca-a968-d7ec6bc72229",
+      "type": "li",
+      "children": [
+        {
+          "id": "affb1a66-6513-4c47-add1-04ad799e17fc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review and approve the CAP and verify implementation during the next performance review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12c551fe-1c8e-467e-90b3-889404f8195c",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Annual Supplier Re-Evaluation:"
+        }
+      ]
+    },
+    {
+      "id": "11403688-aefa-4020-a9ca-612da1d8c484",
+      "type": "li",
+      "children": [
+        {
+          "id": "d7ce37a8-4732-4a8a-8cb2-401a30567ceb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct a formal re-evaluation of each critical supplier annually, including a review of past performance, compliance with requirements, and quality of materials or services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10ba3bdd-b16c-4e84-a7e3-3741d4ff34e5",
+      "type": "li",
+      "children": [
+        {
+          "id": "d380021d-d59c-4c94-bcdd-3de37863a291",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document findings and, if necessary, adjust the supplier’s approval status on the ASL."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ff695e6-7264-4eb4-8b90-8849d43a34fa",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9d37df6f-e65c-44a9-97fb-c4d0f01e8da6",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.3 Supplier Risk Management"
+        }
+      ]
+    },
+    {
+      "id": "9e5e2f91-5ce8-4988-9561-c30d673c5832",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Ongoing Risk Assessment:"
+        }
+      ]
+    },
+    {
+      "id": "5050e9d0-8e92-479e-80b9-2085dd9781ad",
+      "type": "li",
+      "children": [
+        {
+          "id": "fb7f815c-0ab3-4014-a49c-a25520808d82",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reassess supplier risks annually or when there are significant changes, such as:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05529110-b488-49de-a262-d868d0b937af",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "23dc4041-5b8f-4231-bc80-a6ac096d8442",
+          "type": "lic",
+          "children": [
+            {
+              "text": "A new supplier for critical components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46e9f1ff-5446-480e-9daf-c46ca4c03475",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "37f0a2a5-89cd-4127-910a-42e4727ef243",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Significant changes in supplier processes or quality issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "581963c5-cc38-4ecc-9ade-ee56ba0b24c9",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "bf300a5b-63fd-470d-ba7e-394b5c5d11d2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Changes in regulatory or compliance requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5a8f897-268e-45cc-9146-aed85bba8e4b",
+      "type": "li",
+      "children": [
+        {
+          "id": "78722c41-3a2e-4511-a020-4ce457ea03af",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update the Supplier Risk Assessment Form with any new risks or changes in risk levels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3215b09-ae33-478e-81e0-d9790d6bc27e",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Risk Mitigation Strategies:"
+        }
+      ]
+    },
+    {
+      "id": "255bbcc6-fe6d-4b03-8cbb-a37ad2aef884",
+      "type": "li",
+      "children": [
+        {
+          "id": "96170268-2e45-4a64-a237-936f74468ad5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Implement risk mitigation strategies based on assessment findings, such as:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "777ac477-bdfa-4f2f-9ca4-86ea2a5d6743",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "048f1f5b-f3b2-4f7a-966d-04a2b8d68330",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Increased Audits: Schedule more frequent audits for high-risk suppliers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2ff2472-79d4-4784-b4ff-b2855bd41042",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "5258205e-b60f-42ad-886d-7bcf94088f9a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Quality Agreements: Develop and enforce quality agreements specifying performance requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a4956d2-92c5-41ff-8620-d9f47e5f9af9",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "e8bf5402-0242-4295-a321-2e5f18b37b5d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Inventory Buffers: Establish safety stocks to mitigate supply chain disruptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8aec8a3e-f21a-4f3d-b80e-b18c6cdcbbff",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Documentation of Risk Management:"
+        }
+      ]
+    },
+    {
+      "id": "b16c3293-489e-4886-bae3-bca687886fc0",
+      "type": "li",
+      "children": [
+        {
+          "id": "f51e6ef7-ef81-4186-b7df-273bbd0a367d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain all risk assessment and mitigation records as part of the supplier's file."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "854d5766-b489-4c4e-bdb7-7b6fccc39563",
+      "type": "li",
+      "children": [
+        {
+          "id": "e7e0ff1e-4fdd-43df-aa1b-7f03e455756d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review and adjust risk management plans based on supplier performance and external factors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2208b1a7-6c77-4989-b4c0-c3a4af97a176",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a536f35c-ff18-4660-a402-74fe3c8a3680",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.4 Supplier Communication and Relationship Management"
+        }
+      ]
+    },
+    {
+      "id": "9409ff74-b88d-4a91-8b3d-36cabf5009d3",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Establish Communication Protocols:"
+        }
+      ]
+    },
+    {
+      "id": "dfc7d889-d2b4-434b-8ec3-35a2e40554d3",
+      "type": "li",
+      "children": [
+        {
+          "id": "777e155a-7ddf-4498-82d2-de83aa724b9e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define clear lines of communication with suppliers for inquiries, orders, and issue resolution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51686ddf-63fd-4cca-bc58-2dead4929a13",
+      "type": "li",
+      "children": [
+        {
+          "id": "f548a041-f8fd-49e8-8856-73bf4932b241",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Schedule periodic meetings with critical suppliers to discuss performance and expectations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45be2f79-31e2-4bcc-b34c-26fe50d7672b",
+      "type": "p",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Addressing Supplier Changes:"
+        }
+      ]
+    },
+    {
+      "id": "e5b126c0-8de5-4839-8319-586873140637",
+      "type": "li",
+      "children": [
+        {
+          "id": "7e3aeca3-57ee-4c8f-a228-c1585b5791e5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Require suppliers to notify the organisation of any significant changes (e.g., process, personnel, facility)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c43c94e6-3513-48ed-8b79-940353c5a25c",
+      "type": "li",
+      "children": [
+        {
+          "id": "58626c7a-9410-4c80-8a7d-44f058b0b714",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assess any potential impact on product quality and, if necessary, initiate a re-evaluation process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6138f9c5-18ec-4717-8c6a-61b930693d15",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7f74c196-46f7-4880-a471-72e5a391a351",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Documentation"
+        }
+      ]
+    },
+    {
+      "id": "fc402137-39e5-4340-bdc3-ae3c826e1dc1",
+      "type": "li",
+      "children": [
+        {
+          "id": "447d2162-3551-421a-a7e2-0e80bb363306",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Approved Supplier List (ASL): A record of all approved suppliers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "924ac50e-ab66-4af3-b2e1-4d3ad367ae56",
+      "type": "li",
+      "children": [
+        {
+          "id": "a1cf6d89-4e40-4ba4-aff4-f09736c0bc38",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supplier Qualification and Evaluation Form: Document initial evaluation criteria and findings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e64dab73-6027-4b26-969a-6f4210d86be9",
+      "type": "li",
+      "children": [
+        {
+          "id": "bebb7f1b-342c-4be2-ab62-e19046483f93",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Audit Report: Detailed findings and corrective actions from any on-site audit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f299029b-7cd7-45b5-972b-59a93022c9fc",
+      "type": "li",
+      "children": [
+        {
+          "id": "0dc88601-aac9-4b32-9f00-70cc8e616e97",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supplier Risk Assessment Form: Records supplier risk level and mitigation measures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23f87d1c-cc94-4254-b5f6-5ea2a63e8537",
+      "type": "li",
+      "children": [
+        {
+          "id": "7d022960-332e-4b9c-ba8a-8233f4e82f24",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supplier Performance Review Report: Regular assessments of supplier KPIs and corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e2ad615-1346-4f94-94c9-d84341fa8b2f",
+      "type": "li",
+      "children": [
+        {
+          "id": "c49470bf-5b24-40c1-b9bf-8c55a743d0eb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supplier Corrective Action Request (SCAR): Initiates and tracks corrective actions for non-conformances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e185a67e-d660-4fdc-b7f7-789a0dbc943c",
+      "type": "li",
+      "children": [
+        {
+          "id": "37850b6b-647f-4cf6-9161-b6279d9f4142",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Corrective Action Plan (CAP): Supplier’s response to non-conformance issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b002d4b0-1721-460a-a830-d7f7f6aecc5b",
+      "type": "li",
+      "children": [
+        {
+          "id": "34ffc999-fbdc-43c3-a468-bd08fb6b9d25",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Supplier Change Notification Form: Record and assess significant changes in the supplier’s operations or processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6d08b789-2b45-42fc-b160-b1852f762e16",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "84f373e8-6056-433b-938b-238095d8d248",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. References"
+        }
+      ]
+    },
+    {
+      "id": "82458c24-10a4-45f1-a84a-d81d2c50075c",
+      "type": "li",
+      "children": [
+        {
+          "id": "98a8c322-ff95-4a05-ba24-76feaefcd098",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 13485: Medical Devices — Quality Management Systems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc3f0319-10b2-4620-ad64-d8c94d010d3b",
+      "type": "li",
+      "children": [
+        {
+          "id": "650506af-c6e8-48af-ac48-0881ec8d43dc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 9001: Quality Management Systems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d54dcd61-eb1f-41e8-8ae3-611784e9fd9a",
+      "type": "li",
+      "children": [
+        {
+          "id": "6b924628-2b1e-487d-a917-208fa4194d7b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Relevant regulatory standards and industry guidelines"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

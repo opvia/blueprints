@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "12b72303-215b-4d19-b4cc-ca3df517ba63",
+  "title": "Pre-Maintenance Check",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Ensure these are all completed before carrying out the equipment maintenance",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": false,
+    "fields": {
+      "Power Off": {
+        "id": "bd9f8628-002f-4a3d-af05-7fcaae8f29be",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Checkbox 1": {
+        "id": "583dd6c6-a6f7-43b8-b4ab-fcdf01f23ab3",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Checkbox 2": {
+        "id": "0ceb045b-285f-482b-9291-d3d723303cb4",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Area Cleared": {
+        "id": "9bdaf370-e0fa-4046-a517-6e95877ddb9c",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      },
+      "Maintenance Protocol": {
+        "id": "a5752ef1-969a-4535-b87d-e444cb0f4f91",
+        "type": "REFERENCE",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ENTITY"
+      },
+      "Wearing Safety Equipment": {
+        "id": "eb0d96ce-77aa-4427-bc15-bfe9703d8d6a",
+        "type": "BOOLEAN",
+        "value": null,
+        "config": {},
+        "dataType": "BOOLEAN"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "ac78319c-646e-40c2-90ff-c49c693b3dad",
+        "type": "field",
+        "fieldId": "a5752ef1-969a-4535-b87d-e444cb0f4f91",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "adda124d-ca97-424a-aecc-649096b864aa",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c96627e8-9a78-462b-9b53-7c21f73b8a96",
+        "type": "field",
+        "fieldId": "bd9f8628-002f-4a3d-af05-7fcaae8f29be",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3ddd2aed-952a-4ae7-b1bc-7a942fdfe603",
+        "type": "field",
+        "fieldId": "9bdaf370-e0fa-4046-a517-6e95877ddb9c",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "a94be833-160b-46a7-a65f-cf53181a36b9",
+        "type": "field",
+        "fieldId": "eb0d96ce-77aa-4427-bc15-bfe9703d8d6a",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "a088d16c-9ecf-40a5-a46d-2aee576fe592",
+        "type": "FIELD",
+        "fieldId": "bd9f8628-002f-4a3d-af05-7fcaae8f29be"
+      },
+      {
+        "id": "3e971023-ca7b-4a1e-baa5-414788b6d467",
+        "type": "FIELD",
+        "fieldId": "583dd6c6-a6f7-43b8-b4ab-fcdf01f23ab3"
+      },
+      {
+        "id": "14ec091c-604b-4d15-8386-ccefb0eaef36",
+        "type": "FIELD",
+        "fieldId": "9bdaf370-e0fa-4046-a517-6e95877ddb9c"
+      },
+      {
+        "id": "e3ea5a0a-5f04-4151-81a2-c9d4e4999f57",
+        "type": "FIELD",
+        "fieldId": "eb0d96ce-77aa-4427-bc15-bfe9703d8d6a"
+      },
+      {
+        "id": "3451710a-812b-4916-a036-2d9c2c424058",
+        "type": "FIELD",
+        "fieldId": "0ceb045b-285f-482b-9291-d3d723303cb4"
+      },
+      {
+        "id": "c4c8f985-ad71-4026-9ae5-99f9a06e1cee",
+        "type": "FIELD",
+        "fieldId": "a5752ef1-969a-4535-b87d-e444cb0f4f91"
+      }
+    ]
+  }
+}
