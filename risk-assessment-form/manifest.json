@@ -1,0 +1,35 @@
+{
+  "id": "risk-assessment-form",
+  "version": 1,
+  "name": "Risk Assessment Form",
+  "description": "The Risk Assessment Template is a structured document designed to identify, evaluate, and manage potential hazards in laboratory and production environments. It ensures that risks are systematically assessed, control measures are implemented, and activities comply with safety and regulatory standards, reducing the likelihood of accidents or operational disruptions.",
+  "entities": [
+    {
+      "id": "df84773c-1b96-4884-b6af-d82ad535c20e",
+      "type": "PROCEDURE",
+      "title": "Risk Assessment Form",
+      "source": {
+        "id": "adb92bfd-95e9-4aca-8552-d42166f631b9",
+        "version": "2"
+      }
+    },
+    {
+      "id": "75867c90-8153-4df1-b141-a98fd88a9ac7",
+      "type": "STEP",
+      "subType": "DATA",
+      "title": "Risk Assessment",
+      "source": {
+        "id": "c59fa628-a9b7-4110-bddf-e8889245fe94",
+        "version": "1"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "id": "0b2bf8b9-869a-4e64-a6fd-f66f1a185464",
+      "entityId": "75867c90-8153-4df1-b141-a98fd88a9ac7",
+      "filename": "Screen Shot 2024-11-11 at 12.24.56 PM.png",
+      "contentType": "image/png"
+    }
+  ]
+}

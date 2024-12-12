@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c212a3a0-e1cc-452a-8cb6-72ad25d61583",
+  "title": "Equipment Registration Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "92050474-f832-48f8-8c1f-fb6432997b4d",
+      "step": {
+        "id": "886493f1-9e91-4cba-a08f-014c0229dd13",
+        "version": null
+      }
+    }
+  ]
+}

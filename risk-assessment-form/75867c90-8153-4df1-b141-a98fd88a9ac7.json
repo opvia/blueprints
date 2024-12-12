@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "75867c90-8153-4df1-b141-a98fd88a9ac7",
+  "title": "Risk Assessment",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "STEP",
+  "description": "Use Document View for each record to add more details",
+  "recordReviewConfig": null,
+  "recordCollections": null,
+  "subType": "DATA",
+  "recordConfig": {
+    "allowMultiple": true,
+    "fields": {
+      "Risk": {
+        "id": "8d4cd265-5eab-4c4b-b2c5-442ca5ef35b8",
+        "type": "STRING",
+        "value": null,
+        "config": {},
+        "dataType": "STRING"
+      },
+      "Severity": {
+        "id": "784f0fd2-440f-450a-8ef4-e188d2f6bb5e",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "1 (Insignificant)",
+            "2 (Minor)",
+            "3 (Moderate)",
+            "4 (Major)",
+            "5 (Severe)"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Assigned to": {
+        "id": "ddab40f4-b2a1-43a3-8671-6331b03d1669",
+        "type": "USER",
+        "value": null,
+        "config": {
+          "allowMultiple": false
+        },
+        "dataType": "ROLE"
+      },
+      "Probability": {
+        "id": "bea39fcc-a568-4b5d-aeeb-608ccba8497b",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": [
+            "1 (Rare)",
+            "2 (Unlikely)",
+            "3 (Moderate)",
+            "4 (Likely)",
+            "5 (Almost Certain)"
+          ]
+        },
+        "dataType": "SELECT"
+      },
+      "Overall Risk Level": {
+        "id": "1d2252e9-2ae2-4be3-9495-c948f254dd7c",
+        "type": "SELECT",
+        "value": null,
+        "config": {
+          "allowMultiple": false,
+          "selectOptions": []
+        },
+        "dataType": "SELECT"
+      }
+    },
+    "pageContent": [
+      {
+        "id": "36c1fbab-9625-4aa2-a42f-bfdd7ff66c58",
+        "type": "img",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "uploadId": "0b2bf8b9-869a-4e64-a6fd-f66f1a185464"
+      },
+      {
+        "id": "68e4e03d-7f36-44e0-a1d9-f359227113bd",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7f49fc07-a0d1-464b-8a3b-67e2ab4c84ce",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "3f9cfdf3-0a2a-4648-9cdc-9f2ccf8da43d",
+        "type": "field",
+        "fieldId": "8d4cd265-5eab-4c4b-b2c5-442ca5ef35b8",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "131334fb-008c-4def-b84e-57be888350d1",
+        "type": "h3",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "a6f1ce6e-aa11-4576-b76a-a719f11715fe",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Associated Hazards"
+          }
+        ]
+      },
+      {
+        "id": "eabd8669-7f43-4567-a8ff-c8d561de8912",
+        "type": "li",
+        "children": [
+          {
+            "id": "a4b53eca-ed74-4c0a-b8d6-d25216168fdb",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "97088092-4092-4c06-8036-c852f2914bb0",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7ab5ccf5-64b6-4b87-a7c0-b999d8c6c4c4",
+        "type": "field",
+        "fieldId": "bea39fcc-a568-4b5d-aeeb-608ccba8497b",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "e087da15-7e39-4e92-897a-aefdeafd7269",
+        "type": "field",
+        "fieldId": "784f0fd2-440f-450a-8ef4-e188d2f6bb5e",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "b1a1fd83-423a-4388-a2a5-d801651d6aa7",
+        "type": "field",
+        "fieldId": "1d2252e9-2ae2-4be3-9495-c948f254dd7c",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "7bf8ce47-a94b-46b4-8698-4bba99c6cd8f",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "c4b52b73-a183-4865-8557-156819a75503",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Current Control Measures"
+          }
+        ]
+      },
+      {
+        "id": "b1e7c533-1b3f-43a5-bc00-71f31aa2c9b3",
+        "type": "li",
+        "children": [
+          {
+            "id": "ff9b8ec2-5a13-4285-b917-fe606e5f2669",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b0b871f0-626e-4c37-86f4-cd3ffdf59fa0",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "6eecf452-0c53-4ded-8f15-731bd966e7f9",
+        "type": "h3",
+        "children": [
+          {
+            "text": "Further Actions to Minimise Risk"
+          }
+        ]
+      },
+      {
+        "id": "e32d8408-85dd-4277-94d8-0f8b5e9d6bbf",
+        "type": "li",
+        "children": [
+          {
+            "id": "c1ec8417-2614-4f16-945e-443ab9949bd3",
+            "type": "lic",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6b254e4a-a92c-4094-b553-16dce5c38b5e",
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": "aab046a6-0c92-4faa-ad94-c7bc288b4f6b",
+        "type": "field",
+        "fieldId": "ddab40f4-b2a1-43a3-8671-6331b03d1669",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tableView": {
+    "properties": [
+      {
+        "id": "5765a8fa-3cee-4f1b-a1e3-c34affd68a46",
+        "type": "FIELD",
+        "fieldId": "8d4cd265-5eab-4c4b-b2c5-442ca5ef35b8"
+      },
+      {
+        "id": "1167ea51-2e2f-4956-aa50-b1c96cbc3561",
+        "type": "FIELD",
+        "fieldId": "bea39fcc-a568-4b5d-aeeb-608ccba8497b"
+      },
+      {
+        "id": "db8b6169-6255-40dc-97f5-2ce4db0c8032",
+        "type": "FIELD",
+        "fieldId": "784f0fd2-440f-450a-8ef4-e188d2f6bb5e"
+      },
+      {
+        "id": "837aec09-716d-4819-94d5-097cc246b224",
+        "type": "FIELD",
+        "fieldId": "1d2252e9-2ae2-4be3-9495-c948f254dd7c"
+      },
+      {
+        "id": "49f4d35b-c74a-4e7d-9afc-96dd996129c2",
+        "type": "FIELD",
+        "fieldId": "ddab40f4-b2a1-43a3-8671-6331b03d1669"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "744e4061-1e8d-427d-b085-51f1386c3e4e",
+  "title": "Purchasing Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "5b4966bb-9e7d-47e5-bd51-4e47cab64d47",
+      "step": {
+        "id": "1feb376c-acde-45b1-b6ea-ee9b5891ae45",
+        "version": null
+      }
+    }
+  ]
+}

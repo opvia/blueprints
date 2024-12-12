@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "020bf30b-6d98-4ad5-9699-b98abf6fa735",
+  "title": "Goods Release Form",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "28f44a3e-e4f7-4ba8-83cf-2041549298b6",
+      "step": {
+        "id": "acab3be5-987c-4e51-b9b1-d2ff63bba233",
+        "version": null
+      }
+    },
+    {
+      "id": "94d031c2-e9c5-44fc-8618-07d0d34699cd",
+      "step": {
+        "id": "92603efd-4241-43bf-b21b-5d94ce84e1a8",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "28f44a3e-e4f7-4ba8-83cf-2041549298b6",
+        "refFieldName": "Reference"
+      }
+    },
+    {
+      "id": "02c23470-5887-44fd-bff4-9e46c2604abf",
+      "step": {
+        "id": "869630c4-a5a1-43c0-a4a0-018d4267ab9a",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "28f44a3e-e4f7-4ba8-83cf-2041549298b6",
+        "refFieldName": "Reference"
+      }
+    }
+  ]
+}
