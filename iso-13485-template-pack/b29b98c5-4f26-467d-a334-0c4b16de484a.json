@@ -1,0 +1,1681 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "b29b98c5-4f26-467d-a334-0c4b16de484a",
+  "title": "SOP - Procedure for Quality Control (QC) and Quality Assurance (QA)",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "48830c78-06b5-4ff6-a386-a670fa2c198a",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "363e215c-c2ec-4961-b6cc-61bb28aa8151",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "37beceb8-c6e2-4a49-9471-38f0720edb23",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "af152ce1-bcf9-40c8-b367-02fe5b440046",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "b30a4845-1aa1-432a-a183-f72d0912a731",
+      "type": "field",
+      "fieldId": "af152ce1-bcf9-40c8-b367-02fe5b440046",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "47388d53-36d0-4698-8025-5b8ed8e4b7ca",
+      "type": "field",
+      "fieldId": "37beceb8-c6e2-4a49-9471-38f0720edb23",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6b389251-0933-4a64-9d3b-1cc2bda751fe",
+      "type": "field",
+      "fieldId": "48830c78-06b5-4ff6-a386-a670fa2c198a",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ba5fd59c-45f0-4ec2-9409-0ff4fe02fab4",
+      "type": "field",
+      "fieldId": "363e215c-c2ec-4961-b6cc-61bb28aa8151",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4a6270aa-8e62-46a6-b6c1-779be4164523",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9f8e5f19-da48-4d9b-8f2d-6a57927001a2",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "e3a84e2e-99fd-4003-a22d-2ff9e0f2aa50",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP outlines the processes for implementing Quality Control (QC) and Quality Assurance (QA) in the laboratory. These measures ensure the accuracy, precision, reliability, and consistency of laboratory results and compliance with regulatory requirements."
+        }
+      ]
+    },
+    {
+      "id": "4c1b2c10-2dab-45a2-b633-3f8d036531d1",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d4ee8575-e4fc-4072-b9a7-8988cf043f2f",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "abff18bc-72cf-4d5b-838c-d4def46ec1b3",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel involved in sample testing, result reporting, equipment maintenance, and participation in external quality assessment (EQA) programs. It covers daily QC activities, QA procedures, and protocols for continuous quality improvement."
+        }
+      ]
+    },
+    {
+      "id": "266b591c-b9bf-4a56-9a88-4efefe821208",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f5aec3e1-1204-4a43-950f-808555da4ac4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "8e55777a-9972-402b-8ae6-2ae9c5fb4bf4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cc9a0545-1b03-4aef-a8e7-1fabcfa67ee4",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "3bdc1ee1-ed15-4974-b6b0-ecf62fb34f3f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c08f8d02-7fc0-46cc-87d8-2fdebc00f999",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Oversees QC and QA activities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3af0e144-bc90-4288-8ea4-8a7159142b0c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ca885600-39b1-490c-ada8-c7d5a1580623",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures adherence to SOPs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64089c43-fd06-4414-aba4-5b44583602eb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "19edc403-9434-40be-a2b6-f46337c101da",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Approves corrective actions for identified issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f20483d-5b60-489f-88c3-42f58c5e214d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "1a58a0b4-063e-494c-b934-06726d1ca33c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7638cd6b-1e40-4eff-8b89-432f20d64a83",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform QC tests and document results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa767a0b-f708-4589-8630-39b5c2e3d0de",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a7ee8c4c-3fdb-4892-baba-ecef32fd5410",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report any deviations immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c466d774-648b-4ed0-8d4b-390731b35f2a",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "619af373-f8ce-4ff4-a215-12edb1b7f3e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "76f9adf1-dcc2-453b-9282-1b1f5f77b5a3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Monitors QC and QA processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a0a83c2-5ebc-46cf-9c33-04f41ef5fe40",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "98dc1393-6cf9-4135-9449-fe5a90d04d2d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts audits and manages EQA programs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6baf0aa0-4505-4305-bb4e-9e342428e06d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3f45bd7f-bd30-4529-9095-809585b0ac07",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reviews corrective and preventive actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba430806-4d68-4ddc-8c8a-3baee9fde086",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9b077d93-0b44-472d-99bf-13543ba06e7d",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "98caaa7c-880e-4c4d-8a07-b08d207c9577",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9e34793b-689c-48b1-a935-fc3f77afec9e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Control (QC)"
+            },
+            {
+              "text": ": Operational techniques and activities ensuring processes meet performance standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "802dbfb9-eb34-4c71-9e05-0d87971b51e0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7f61819e-e762-454d-a97e-ba297109c87f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Quality Assurance (QA)"
+            },
+            {
+              "text": ": Systematic evaluations ensuring QC measures produce reliable results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69e8dbe7-ff71-4730-953f-143c34754d35",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "14b2661b-cb5e-4b05-965e-4dcbd8cd1c05",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "External Quality Assessment (EQA)"
+            },
+            {
+              "text": ": Programs evaluating laboratory performance for consistency and accuracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9598e82-6ae2-4a26-82fc-69df8b15d121",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d6812194-7163-4cbc-8c46-0dadbda0af52",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective Action"
+            },
+            {
+              "text": ": Steps taken to address and prevent recurrences of deviations or issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1dc6102-9b85-4eae-9405-98d7ae0a9584",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d750b65c-60ed-48ae-9f5c-ca1c3eea4c88",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. Quality Control (QC) Procedures"
+        }
+      ]
+    },
+    {
+      "id": "4503adb8-3bb9-4064-9d9f-b063a8abcf45",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7545e7ac-13c8-464a-8fd8-b23f3c77de7c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1. Daily QC Procedures"
+        }
+      ]
+    },
+    {
+      "id": "4a5e7d05-f335-4367-9d4f-f8e689e332d7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "47e3d369-dbff-4658-815b-c71b5d8b723e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Control Testing"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14d5f99e-85ac-4f7a-b805-179cbfc39f76",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "b5a38e1f-6f5e-4d2e-be81-654fb070fa36",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform QC tests on control samples at the start of each testing run."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a5a7315-c1d8-468c-9441-d2519d61803a",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "7f59c761-a18c-449a-b1e7-f380f1a9b581",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use positive and negative controls appropriate to each assay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80e669a3-e234-4586-a127-bd5cc25dd6c9",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "673a79e4-5aaa-4627-a20e-2352c9d3648e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify control results are within acceptable ranges before releasing patient results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa8b2e5e-1f5b-4bf0-8506-5bbd3ddf02a2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8748e0fc-c891-4291-bce1-eeeefdb4a112",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Equipment Calibration"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c5d57e7-4109-4f6c-9b5c-fa86b2729211",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "6169b7bc-754a-415d-a81f-a2e648d755a7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Calibrate equipment per manufacturer guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7a59ae2-418d-4467-8bca-e2bd3b220327",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "040af226-b39f-4bfd-b7a9-c74529e272f8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document in the Equipment Calibration Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "199e7a85-1963-4dec-999c-2ad295aa8528",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6242d826-92a0-42b8-8580-f4985d2fd086",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Documentation"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1185279-4fd4-41a5-9e17-d5ddf1a51827",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "704ba7c7-9ef4-4bd1-ba38-c97b309bf0bf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record QC data in the QC Log or LIMS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ba99b91-65cc-4162-97ca-1fc3d376e7b0",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "7b5efd50-0da5-448a-bd8f-110aa0425ba5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Include date, time, lot number of controls, and initials of the performing personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b73e59f-a3f4-48a1-95e5-108acaf7d1a5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e7b34832-5a16-4847-983e-3646f08ec001",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2. QC Acceptance Criteria"
+        }
+      ]
+    },
+    {
+      "id": "a111c993-d7d1-4e1e-98f4-97efc0925f27",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd167042-7d1c-49f8-8bdb-1314b8fbeb78",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Defined Ranges"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "213ee05d-3bb9-4b52-b536-98177e039526",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "4abe6cf6-5b81-4d87-abe0-04e318c23d96",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Control samples must fall within pre-determined ranges."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60def547-fa2d-47d2-b029-0f87476b9e6d",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "78665c86-0457-4b77-9437-b6bb5e848edb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly review and adjust ranges as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b687c427-56d6-4d50-8fdf-68749f988b91",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5285434b-dfb0-4827-b7e6-b4629ef1d3dc",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Deviation Handling"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff727ce8-bcb9-4b4e-850f-9f8361baf461",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "c14fe75d-cf75-4bab-8ca0-700728ecdc04",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Investigate minor deviations; document and correct major deviations with an error report and corrective action plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7aab51a-8235-44e0-87a1-684072c88825",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3e499543-7099-4edd-9557-f36d5969a976",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.3. Handling QC Failures"
+        }
+      ]
+    },
+    {
+      "id": "b1f9787c-6d2e-4cf6-9101-025848aa1a24",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ecf37148-c309-4388-bc8f-31c355cc2bbb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Halt testing if QC results fall outside acceptable ranges."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eed6e09d-d435-4ed3-931b-8a018214e34f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "554de489-14ff-4c2f-9946-79ae6d0ef91f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document failures in a QC Failure Report, detailing causes, corrective actions, and any re-testing performed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f88de7f7-6e6d-44bf-a5e4-c67d10dfb6fe",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cc81f4e1-5185-4366-9c6b-7f291dece80e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.4. Revalidation of QC Procedures"
+        }
+      ]
+    },
+    {
+      "id": "db60beb0-91fb-4a79-b8ef-8ddeed38382b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "294cab68-ab7f-4781-9605-d5aac3e94ccb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Review and revalidate QC procedures annually or after significant changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0316b2d5-3c91-4262-9669-caff3e75013f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "75ed9d7f-c7f5-455c-a299-3f105557d1c3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document revalidation in the QC Revalidation Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "130b1aa9-d571-408e-acc2-f6507da2d4be",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e06c1bdf-bd30-4f56-ae93-2016897bf278",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Quality Assurance (QA) Procedures"
+        }
+      ]
+    },
+    {
+      "id": "53123cf5-7234-4234-8663-68466124ad53",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5a3eba87-2052-4f67-845c-fa755da3e51d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1. Internal Audits"
+        }
+      ]
+    },
+    {
+      "id": "0eb4d8f1-24ef-473f-802e-8cb2a2bef882",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "928d1999-4ab0-458f-b7ae-277cb7ce779f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct quarterly audits covering QC performance, SOP compliance, equipment maintenance, and record-keeping."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "047af0d3-298f-434a-9cc4-5a35503eb467",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "282f64d1-62a2-4f84-8d1a-0173d2b36bb6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document findings in an Audit Report with recommended corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51a08c0f-3620-487e-bbe3-dce1cecd90af",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5a63e7bf-40bc-42ee-aacf-e66304f36b72",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2. External Quality Assessment (EQA)"
+        }
+      ]
+    },
+    {
+      "id": "b197f09e-1bad-4a36-b151-72ad2b8cb229",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9f5e09b1-923d-4ee5-b873-9067e835f149",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Participation"
+            },
+            {
+              "text": ": Enrol in accredited EQA programs. Submit samples per guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab646022-7b06-4dc2-b4b2-ec2fa4b616f5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9d9be3ff-f155-4324-ad3c-9c4181a3c85e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Result Review"
+            },
+            {
+              "text": ": Compare EQA results with expected values; document findings in the EQA Results Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fff14d39-ebad-48e6-9c2d-b879e011e7ff",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd41b182-7bc5-4ad4-9be4-388517f62a2a",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Corrective Actions"
+            },
+            {
+              "text": ": Address deviations, conduct root cause analyses, and document corrective measures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e77fcc35-e5b4-403e-b547-4110a5443a72",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d10591f6-4764-47ae-a6ae-5871781915b0",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3. Quality Improvement Meetings"
+        }
+      ]
+    },
+    {
+      "id": "856b2d08-895c-42aa-998d-390e3cce9d35",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1bd1d611-f42a-48d0-bc91-4230a0691b80",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Hold monthly QA meetings to review performance and discuss improvements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fcfddfe4-fdb3-4443-93b4-44a995fd8e76",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6e27f002-c6f0-4f1c-aa98-fc268eb8b034",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Develop quality improvement plans based on audit findings, EQA results, and staff feedback."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19b7e80f-d9b8-42bc-a2fa-fbc830daea19",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c7e9d318-0dfc-4fca-b03f-b75455456f9e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Documentation and Record-Keeping"
+        }
+      ]
+    },
+    {
+      "id": "d560b147-d4d9-4a03-98cf-e66a218c00be",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c984187e-b54c-4f71-9dc4-2cc5adf59092",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1. Required Logs and Records"
+        }
+      ]
+    },
+    {
+      "id": "c9e43b56-8e8a-4ae5-8c70-43b85a5afaaa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e39588a3-9207-4351-8fd2-3ce4150f7a5a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QC Logs: Daily checks, calibrations, QC failures, and corrective actions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bf09ae0-f7ef-457a-a351-87b246b1fa93",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "59ecc088-bf62-487b-8b13-6d14d507ea56",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA Logs: Audit reports, EQA results, and meeting minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f25d9995-0d9b-44f9-a32e-b05905769d71",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "04f52299-de10-42b1-bc14-be5770ca15c0",
+          "type": "lic",
+          "children": [
+            {
+              "text": "EQA Records: Program enrolment, submission receipts, and performance reports."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1856baf6-05b0-4702-b0fa-d9304a3e0626",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "24a6920f-fe0a-4371-bfa2-820c162adcbd",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2. Retention of Records"
+        }
+      ]
+    },
+    {
+      "id": "dc20a388-1b6f-49b4-ace9-abbc39872dd1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "89814557-1b02-45b4-9164-9c414876d900",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Retain all QC and QA records for at least five years or as required by regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52f97d3d-88f9-4464-9f54-91c2fb9ed0d4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1931ed2a-35de-4db2-a1b3-b7ab05495989",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Store securely in an accessible format for audits or reviews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92e9fa30-c0b8-45ff-b371-b58ed5dbdd8b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "966329b0-b4e9-4031-bccd-28172ce9f418",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Corrective Actions and Preventive Actions (CAPA)"
+        }
+      ]
+    },
+    {
+      "id": "8ca46201-7250-43d6-a54b-7a8894cff023",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c8ad88d5-df18-4293-adf2-ffbbc9879320",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1. Identifying Non-Conformances"
+        }
+      ]
+    },
+    {
+      "id": "f14b88d0-ece9-4bdf-9b0e-4632f62c0544",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "11ba86f6-c2f3-43cd-ab93-17930f492467",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Identify through QC checks, audits, EQA reports, and observations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1b999de-b622-4f3c-8a1f-66cb86a3b8e2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "051af1f3-8c10-4b7a-aa94-4874a1483108",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document, categorise, and analyse all non-conformances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8bad4241-ec7c-4538-bb18-2dfb3e606eda",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "400d0e04-cb63-44e1-9c54-9b7773209e68",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.2. Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "72bf3370-fd21-4fb8-b00f-817ced4723f0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "db9ff0ab-f1d1-428c-9f66-574636c4bdbc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct root cause analyses (RCA)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fec0dbb1-6828-4cb6-b753-d1f83564972d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c7d961af-5338-460d-ba8f-7b3ad44c12f4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Document corrective actions in the Corrective Action Log."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49d1d73c-651a-446c-8611-7bfe8b238980",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "48c933ce-ce1c-4440-8b0f-024d715c9a17",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.3. Preventive Actions"
+        }
+      ]
+    },
+    {
+      "id": "310de2fe-2eee-4db3-b5f6-d846419c08b7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cf9e490c-ce05-4136-9dc5-3118983b35d8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform risk assessments to preempt potential issues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2ebe3e2-676c-4df5-9644-9a034481d891",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "84127d72-e760-41e0-866e-50ed75b93efd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Implement preventive measures and review quarterly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c68f416b-ef4f-4dea-a403-c3ee28db37c5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fffdae75-c623-47b7-bc5e-4addb57b9a44",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Staff Training and Competency Assessment"
+        }
+      ]
+    },
+    {
+      "id": "1f084043-4a0d-410c-bb14-11aa52ec34d8",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "86c99402-a8cf-46b0-9291-caffc4311278",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1. Initial and Ongoing Training"
+        }
+      ]
+    },
+    {
+      "id": "a0d19d20-70ec-4ae0-b9b7-758415b2b4ee",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ad4993ea-e478-400b-92a9-c431b821cb9f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Train new staff on QC and QA procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bacc3ce-006c-41b1-8c42-bc748154f06e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6f70b648-05e2-481b-936c-a04863eb5fec",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annual refresher training."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3531efc0-14b0-42fc-98ed-707a663503f2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cd092595-c471-45da-9f7b-1ece5be1d1a8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain individual training records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92c57751-0b39-4b4c-bc71-262a00bf9ca8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5ce343d0-14a5-468d-8e7c-61863c7add40",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.2. Competency Assessment"
+        }
+      ]
+    },
+    {
+      "id": "9fa6a173-114d-4c77-9730-0cb6f7c7e573",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "cbfce40d-f10e-4532-8046-b06ddf23622f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Annually assess staff proficiency in QC checks, QA protocols, and non-conformance management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7a7c730-bb07-4c93-b886-6c353772b814",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f6809e1c-fd64-4205-b2d3-619c5af57185",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Monitoring and Quality Assurance"
+        }
+      ]
+    },
+    {
+      "id": "0ddc5d86-00f0-4247-a2be-a6d5d2dc63c4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2e43d7b9-dfe9-402d-9a75-34ffaf087db6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1. Monitoring Processes"
+        }
+      ]
+    },
+    {
+      "id": "ff210f17-613a-4aa5-b293-e4d5b9267d75",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "53a1e300-f4d6-4022-b6a9-4895c58955d6",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly evaluate QC and QA data for trends and improvement opportunities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b06a6aaf-6b98-4d50-aa93-f6f3a005c0f0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "46e78b35-4572-4700-8d21-73b69e2123d6",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.2. Continuous Improvement"
+        }
+      ]
+    },
+    {
+      "id": "78e6ebfe-859a-4262-a010-b593384523c1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9c62b776-b4ae-44e1-95ad-2f1e67a14ecb",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct quarterly reviews of QC and QA activities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "563da2f3-e423-4425-a7a2-bd6c74cdf018",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a58284b8-6e5e-4d3c-b255-45eb09672965",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Update processes, training, and documentation as necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76b2e2e2-b009-4f95-b721-5891075adae9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f97979ab-0e94-49f1-a7b8-448643a41bbb",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. References"
+        }
+      ]
+    },
+    {
+      "id": "839a1688-26ba-40cd-8c39-679cc2335c04",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "eee9b74c-1873-42db-9fbe-cf392fee4dc3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 15189: Medical laboratories – Requirements for quality and competence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49371a83-125a-43c5-9323-b519846bfcab",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "640a9f70-7146-43fa-b83b-22f690bd0ce5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "ISO 17025: General requirements for the competence of testing and calibration laboratories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "567eb8dc-b0ab-4ded-b7ff-7abe2974863b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "fc96ee50-def1-46e7-b665-6486d0bc2380",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "709ef270-38d8-477a-a158-b74af354f568",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "336c777f-a7fa-40e6-a744-3d722723408b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Institutional Quality Assurance Policies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

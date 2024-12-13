@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "87f29cd6-eb19-47b4-b5f2-d917143d8727",
+  "title": "Periodic Review of the Quality Systems",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "PROCEDURE",
+  "runReviewConfig": null,
+  "runCollections": null,
+  "stages": [
+    {
+      "id": "b1862a11-5f67-4393-84fb-5e6f11b4e663",
+      "step": {
+        "id": "3cd0cfaf-1c6d-4b05-928d-949e869bb367",
+        "version": null
+      }
+    },
+    {
+      "id": "3c98f1e7-6af2-437e-b8eb-81497627f26a",
+      "step": {
+        "id": "90f64df6-1104-4205-a86d-fbebbd30faa0",
+        "version": null
+      }
+    },
+    {
+      "id": "c465f272-aeac-4e4e-98c5-844882684ed3",
+      "step": {
+        "id": "3ac44854-6e30-4100-b11e-2e945e9fc843",
+        "version": null
+      }
+    },
+    {
+      "id": "04a08f89-6777-47b8-ab7b-ef5e50e30f93",
+      "step": {
+        "id": "00bd000a-612a-4133-8f34-dd24200f38e3",
+        "version": null
+      },
+      "connection": {
+        "targetStageId": "c465f272-aeac-4e4e-98c5-844882684ed3",
+        "refFieldName": "Reference"
+      }
+    }
+  ]
+}

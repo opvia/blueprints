@@ -1,0 +1,1703 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "311bf2fb-eb04-4de8-9e53-98381c63f6e6",
+  "title": "SOP - Method Validation and Verification",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "3cdcb92f-a5b8-4266-ad75-9bcef55b59c4",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "db09aca0-bb89-44e2-a16f-63f38e9509a0",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "26c7075b-0af3-4539-b367-229489bd8033",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "2faaeecb-9492-4cbb-945a-ba92cbd744ee",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "cf3a44a1-ad54-49c9-830a-3d80a2c4fb4e",
+      "type": "field",
+      "fieldId": "2faaeecb-9492-4cbb-945a-ba92cbd744ee",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "667baef7-ea32-4990-95d3-0eea8713929a",
+      "type": "field",
+      "fieldId": "26c7075b-0af3-4539-b367-229489bd8033",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "07c0ade7-516c-496b-a309-ffc74ab0867f",
+      "type": "field",
+      "fieldId": "3cdcb92f-a5b8-4266-ad75-9bcef55b59c4",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "94d7fbec-3b22-4d32-bfd2-54eb33e7a35b",
+      "type": "field",
+      "fieldId": "db09aca0-bb89-44e2-a16f-63f38e9509a0",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c5aac14c-7239-4e97-8dc1-721e1c069fd7",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bf30a2b2-c47a-4be8-8bed-bf248d98f5c9",
+      "type": "h2",
+      "children": [
+        {
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "4bd4039e-293a-4663-93b6-c5512976e93a",
+      "type": "p",
+      "children": [
+        {
+          "text": "This Standard Operating Procedure (SOP) defines the processes for validating and verifying analytical and experimental methods used in the laboratory. Proper method validation and verification ensure accuracy, reliability, reproducibility of results, and compliance with regulatory requirements."
+        }
+      ]
+    },
+    {
+      "id": "3def73b7-052e-4fda-952c-bab009a64194",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5e1429e0-b073-4945-a107-568ceda85e84",
+      "type": "h2",
+      "children": [
+        {
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "f02f6a48-cdd7-4473-86b1-2b1343507201",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all laboratory personnel responsible for developing, validating, and verifying analytical methods in the laboratory. It includes criteria for method validation, verification, documentation, and acceptance criteria."
+        }
+      ]
+    },
+    {
+      "id": "7358c96a-f1b8-4217-8b7d-5d3dc6557848",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1a139cbc-9aaa-4be4-8e44-89c62ef25c76",
+      "type": "h2",
+      "children": [
+        {
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "c1020cd4-d309-4805-bf22-cb9a9635a188",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "925e6482-57a2-4b19-9ad1-10820ba3b0ab",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "ef30ff72-1d64-425c-a687-96d14f700828",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0e3a8e13-3f2d-45c7-84fd-f8f251ddcfae",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c20db662-9562-43e7-b833-83f6250dd4b9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "823a4cf1-9ce0-4b6f-9233-031be13d95fd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assigns personnel for method validation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e94d8f56-8d35-480f-9ca8-32452228fce1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3f2e5ec5-0f84-4498-b9ee-ced4f7712a8f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reviews validation and verification results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24256293-6491-4623-a9f6-e4664264522f",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "f8d2c93a-ac23-4f49-8cd2-f15e1a7a6f47",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bb24bd04-254f-4c66-a059-2f0eb749b13d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conducts validation and verification studies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "349046ec-5882-4ed7-b91e-fef23ffcb9e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "08c796cb-6d30-40b1-99bd-1417facc1aaf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Documents processes according to this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8da0d0e-be2b-4167-ba70-b1345169ca2d",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Quality Assurance (QA) Officer"
+        }
+      ]
+    },
+    {
+      "id": "6f4db161-e319-4bc4-9030-9efdc1b8b7e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5d9f20bd-54c1-4f6d-bedb-59785545665b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reviews method validation and verification reports."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90aba57c-a17b-4682-a34d-434740ef30f7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c5422d34-3efe-4b30-b419-951072c5fce2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Approves finalised methods."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a215f41-20a6-4dfd-94b1-78ffb3899294",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "247ed531-b047-4285-a2b5-22f9558442cd",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensures adherence to regulatory and quality standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32b26234-0ba2-4b5e-a8b6-d2303b5c8aba",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f6294309-8fd1-4755-835d-f3b274646dbb",
+      "type": "h2",
+      "children": [
+        {
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "c113b6a0-741a-42c3-9232-9bd121d27b11",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7e788851-f914-4133-b5b5-d531178642bd",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Method Validation"
+        }
+      ]
+    },
+    {
+      "id": "e958a146-9816-419b-ba71-5808cd379c16",
+      "type": "p",
+      "children": [
+        {
+          "text": "The process of proving that an analytical method is suitable for its intended purpose by evaluating accuracy, precision, specificity, sensitivity, robustness, and other relevant performance criteria."
+        }
+      ]
+    },
+    {
+      "id": "fa82df5e-707e-4098-88cd-d0a40e1f48ee",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Method Verification"
+        }
+      ]
+    },
+    {
+      "id": "06d376c5-7c34-4f0c-8f39-714bd7a7d311",
+      "type": "p",
+      "children": [
+        {
+          "text": "The confirmation that a validated method performs as expected in the laboratory, ensuring it meets required standards under specific conditions."
+        }
+      ]
+    },
+    {
+      "id": "618b017c-9bf3-49ea-99e7-346ba3e34814",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Acceptance Criteria"
+        }
+      ]
+    },
+    {
+      "id": "15c6983c-d9b8-4521-96f8-ea7e7f0833f4",
+      "type": "p",
+      "children": [
+        {
+          "text": "Predefined standards that a method must meet to be deemed validated or verified."
+        }
+      ]
+    },
+    {
+      "id": "9dae4bed-e28e-4f43-9a6c-01e3767180d5",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2ec35a87-ae41-4d56-bdd4-9a62cfbd1fbd",
+      "type": "h2",
+      "children": [
+        {
+          "text": "5. Method Validation Process"
+        }
+      ]
+    },
+    {
+      "id": "47657676-a19f-44c7-92ef-db76340cab89",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "61ceb2aa-f191-47c5-b0de-3cf730b94ae1",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.1. Criteria for Method Validation"
+        }
+      ]
+    },
+    {
+      "id": "34b926f1-fc7a-429e-abf7-2335e9a99c6d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2e0534a4-d912-4cf8-9e15-34d7b5225233",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Accuracy"
+            },
+            {
+              "text": ": Closeness of test results to the true value or standard, evaluated by comparing results against reference standards or certified materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3174534e-f7be-4112-9c28-d9f116cb3100",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ed24e117-2803-4325-a183-1c0474b4e502",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Precision"
+            },
+            {
+              "text": ": Reproducibility of results under identical conditions, including:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0d903a1-8b4b-47d1-bd5b-27defbfe122b",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "029494e8-b5b2-4c45-8c5c-613f0c56008f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Repeatability",
+              "italic": true
+            },
+            {
+              "text": ": Consistency within a single operator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "147edf10-0948-40cb-84aa-cc89b0216a56",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "44bb27ad-c061-40e3-873a-4f7606ef612c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reproducibility",
+              "italic": true
+            },
+            {
+              "text": ": Consistency across different operators, equipment, and days."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "607f151f-95b4-4ba4-9126-36b434d350f0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "448e6389-4350-4096-90f9-83bde61972cb",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Specificity"
+            },
+            {
+              "text": ": Ability to measure the analyte in the presence of impurities, degradants, or matrix components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1596688c-b9c2-4459-ba24-a976cbba114a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "61697efd-4c6a-4228-9bd4-785cec04054e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sensitivity"
+            },
+            {
+              "text": ":"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1bfef998-6994-4d22-bc46-9955237ab7eb",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "75c2b593-b896-464d-bc48-0571ac62c66a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "LOD (Limit of Detection)",
+              "italic": true
+            },
+            {
+              "text": ": Lowest detectable analyte amount."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6247e87d-4209-4215-bd9b-ed873f680d7c",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "7ab9704a-1e0a-4ccb-b3a1-e142f018db23",
+          "type": "lic",
+          "children": [
+            {
+              "text": "LOQ (Limit of Quantification)",
+              "italic": true
+            },
+            {
+              "text": ": Lowest quantifiable analyte amount with acceptable accuracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f11263a6-0937-41f5-8d11-328e34ab1170",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "64c742d1-bf2b-483c-b28f-5828c6d26d24",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Linearity and Range"
+            },
+            {
+              "text": ": Proportionality of test results to analyte concentration over a specific range."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66b47350-40a7-4c0b-9c46-3f0ad61696b1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "268fc3f1-3d81-45c3-ad87-4223145c43e7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Robustness"
+            },
+            {
+              "text": ": Method resilience to small, deliberate variations in parameters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "525fb6c6-75c0-41cb-8d86-7b59948b6b60",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8f3696f2-a30e-438d-8b5d-5c6be7ed4c57",
+      "type": "h3",
+      "children": [
+        {
+          "text": "5.2. Method Validation Procedure"
+        }
+      ]
+    },
+    {
+      "id": "5174e1e9-f1b0-477c-a138-c3a3788be482",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Develop a Validation Plan"
+        }
+      ]
+    },
+    {
+      "id": "b646618c-286b-4a8d-8691-fd0605f209f2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "df6cf15a-cf89-4e06-8f2c-046447a51ab5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define objectives, scope, method details, validation parameters, and acceptance criteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe771f9e-cac7-4ca2-92aa-2501cbf3c9c2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "445fb01a-3a6c-49ef-a065-31567673427d",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Assign personnel and schedule tasks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "643b5c9f-688f-4880-b667-ab2c7274a9d0",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Conduct Validation Experiments"
+        }
+      ]
+    },
+    {
+      "id": "a167d5b2-b75f-40b5-a5bf-6b3fd07270bf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "00d17bd8-ca01-441b-acd1-83e10343c829",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform experiments as per the validation plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eede80c3-e780-4348-97fd-367658faed4d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "bd48fd3c-eb25-40d8-b961-b2698deb7237",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record raw data, calculations, and observations systematically."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ebaffef-7da5-4341-a34f-29b1c820e3f5",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Data Analysis and Calculations"
+        }
+      ]
+    },
+    {
+      "id": "99c9d9c3-8c68-43d6-a342-f4890c132fb7",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ff1f484c-5e7f-4947-8a12-2919635cea90",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use statistical analysis to evaluate accuracy, precision, and linearity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e7c808b-c6c0-47ae-ad4b-e00061e6615d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "12b3516b-160b-4abb-adc1-5f20acf504f7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Confirm that all data meet acceptance criteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "272cb82f-fefe-4bc0-bd60-d0d87faf6a9b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Documentation"
+        }
+      ]
+    },
+    {
+      "id": "115584fb-9c73-49fb-b209-f3a5e5c75d88",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ca2da82f-11ac-4599-9420-8839c0fa2c78",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Compile all data, calculations, and observations in the Method Validation Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "373e5acc-1f38-4bcd-94db-bd719c395c0b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Review and Approval"
+        }
+      ]
+    },
+    {
+      "id": "c8cb3756-3f49-41cf-acf9-5e659a809d52",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0c2349cc-20d6-4a71-8972-e2fcb071fc89",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Submit the report to the Lab Manager and QA Officer for approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eed646d8-8fb0-4995-9b05-c2457d37659a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4533a4dc-8769-435d-b3e4-27fb40147678",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Approved methods are deemed validated for routine use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f96eea66-f4d0-4e5f-92a8-a7fe2f72bdee",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8025cf63-b7f5-4bc5-bff6-a3c5c15870ef",
+      "type": "h2",
+      "children": [
+        {
+          "text": "6. Method Verification Process"
+        }
+      ]
+    },
+    {
+      "id": "6965272b-0806-468e-900b-21bf88c135b1",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c3f29559-b480-4135-8d82-5c4377883eaf",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.1. Criteria for Method Verification"
+        }
+      ]
+    },
+    {
+      "id": "976dfcde-d4c4-4fe9-ad3e-57b2f505c7b0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "01e654fd-e9a6-47d8-a23a-951b8e314e51",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Consistency"
+            },
+            {
+              "text": ": Results must align with the original validation data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd60e8c0-14e1-4d54-b66c-865aa0a06bfd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "feab0747-ff89-453a-ae82-5f65b79975e7",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Reproducibility"
+            },
+            {
+              "text": ": Results should remain consistent across operators, equipment, and varied lab conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3046b723-0319-477e-a7e0-c4704fb5b2f3",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1021c448-5a39-4e5f-baac-72f9257cbb3b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.2. When to Perform Method Verification"
+        }
+      ]
+    },
+    {
+      "id": "fa7a0a52-990d-4bf7-995c-29b609923b47",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aecdb6d4-d672-4a2d-9cff-5380f0e180aa",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Adopting externally validated methods for use in the lab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "961b5189-10ce-44e1-804e-3aefcc44d31f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5b5eb133-3fb6-4d1b-8dfc-1bf9945d159e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Introducing the method to new equipment or environments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7c06cfd-b08d-4b7a-8b88-825818edebeb",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0280ebb0-5bef-48dc-be7e-8cdbfa9aa4be",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Making minor adjustments to method parameters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6cb6026-999d-4783-bc1a-4cae371f0278",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8486790e-5b32-4f45-af73-d6ad9bb92c35",
+      "type": "h3",
+      "children": [
+        {
+          "text": "6.3. Method Verification Procedure"
+        }
+      ]
+    },
+    {
+      "id": "d062e21d-46d3-4446-8f0f-8ab413578e78",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Prepare a Verification Plan"
+        }
+      ]
+    },
+    {
+      "id": "73722386-0f56-4689-8342-3b94d834eddd",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "85b6b5a5-0087-4989-9f12-306109f043e5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define objectives, parameters, criteria, and assigned personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c653f9ea-dfb0-4709-8c57-9f905a5d2865",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Conduct Verification Tests"
+        }
+      ]
+    },
+    {
+      "id": "89e94674-1958-4378-adb8-c1aaa46aa6c0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a1ccfc2b-6c8e-4747-a2a0-15e01ee92cdf",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Perform tests under lab-specific conditions, focusing on reproducibility, accuracy, and precision."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2a5a80e-9c13-4d38-a4b9-f239b53fadcb",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Documentation"
+        }
+      ]
+    },
+    {
+      "id": "fff2e9f8-9a04-4170-b985-bee4ca91432d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "479641d7-99bb-48b9-b5da-1b06b59cca8e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record all data and observations in the Method Verification Report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93402b1b-7263-4df7-9b93-35986c89abce",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Review and Approval"
+        }
+      ]
+    },
+    {
+      "id": "15deff7e-02df-4b76-8fcb-647aa57576e1",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e9ca08ac-0405-4924-a655-03def804f432",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Submit the report for review by the Lab Manager and QA Officer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9373bbd-90ff-4052-b0a2-ffc6498e8cea",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "91647891-d585-48fa-87c9-48d52d72656c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verified methods are approved for routine use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "533b6bf5-9c65-4030-8f86-5b29dda14974",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b3ac4827-707a-47c9-8c5d-a6585a9c25ab",
+      "type": "h2",
+      "children": [
+        {
+          "text": "7. Acceptance Criteria for Validation and Verification"
+        }
+      ]
+    },
+    {
+      "id": "bf8cde5b-60b2-4e5c-a7a1-61b2f9ece306",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "66357436-9522-4e50-94d5-4fe6eb605543",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Setting Acceptance Criteria"
+        }
+      ]
+    },
+    {
+      "id": "9330cd0f-7516-4642-9581-9bd45f09f005",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1bf44055-0104-4ab8-89f8-c30c19f96d8a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Define standards for each parameter based on the method’s purpose, regulatory requirements, and lab needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "637d8983-c42f-41ad-81e9-151bfb9e9f7e",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Meeting Criteria"
+        }
+      ]
+    },
+    {
+      "id": "e8a2fcff-2cca-4d30-8884-b9eb67725a9a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ecc3f624-7734-4e03-b3b1-da3e9981bd01",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Methods are validated or verified only if all criteria are met. Investigate any failures and address them before use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30c7ccd1-8bae-4bb6-a1ef-80048411a2eb",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Documentation"
+        }
+      ]
+    },
+    {
+      "id": "733830ad-79f3-4373-9287-cde6c713f02a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "1eb16942-a349-4088-9ccf-10d1f82ad799",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Include acceptance criteria in the Validation or Verification Plan and reference them in final reports."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10c469bf-f5c7-4fa9-b6c7-bcaeb351aac9",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6c5c1339-188d-42ec-bb7b-e6bb3d76d06d",
+      "type": "h2",
+      "children": [
+        {
+          "text": "8. Corrective Actions for Non-Conformance"
+        }
+      ]
+    },
+    {
+      "id": "af48e345-2b95-4eb8-b388-7d640041488f",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6236d40f-61a8-4a18-8081-1ad67b4df680",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Deviations from Acceptance Criteria"
+        }
+      ]
+    },
+    {
+      "id": "024b1f86-a61e-43b5-86f2-1d6fbe6f9bb9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6357e1af-1ace-41f1-b2d8-0a9e768df276",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Investigate potential causes such as procedural errors, equipment issues, or environmental factors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b1bf1da-5fb5-4f7d-99d1-e9a55147ccbf",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Modification and Revalidation"
+        }
+      ]
+    },
+    {
+      "id": "952daa85-7f7c-4829-b1a1-9cb4569c2a94",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7dc7d09f-90d4-4402-8094-f9ef43276599",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Modify methods to address issues and revalidate affected parameters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f0dc2fc-8a92-45d3-865b-18ca583d682a",
+      "type": "h3",
+      "children": [
+        {
+          "text": "Documentation of Corrective Actions"
+        }
+      ]
+    },
+    {
+      "id": "8537e520-1223-4600-9661-477385ef8656",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "24dde26a-ca07-4719-a78b-ef4b59467fc3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Record all corrective actions and revalidation results in the relevant report."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a7aeb19-2c21-474c-9ae3-63b6b14d5468",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d64a40a0-a5c5-4231-8062-f01f98e3fa61",
+      "type": "h2",
+      "children": [
+        {
+          "text": "9. Documentation and Record-Keeping"
+        }
+      ]
+    },
+    {
+      "id": "9100eae2-ffd0-459b-886c-bbcf96b027ee",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a0294469-41c2-44ef-9a21-cb82cda5e262",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.1. Required Documentation"
+        }
+      ]
+    },
+    {
+      "id": "ba8befbe-5571-4869-af3c-c6a2c71c1b72",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "048c921e-c2dc-49bc-82c9-f7febf0bc45e",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Method Validation Plan and Report"
+            },
+            {
+              "text": ": Detailed process, results, deviations, and conclusions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1ecf94b-779f-4b6a-9282-e17794767036",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "093af637-2f35-4aa8-8def-0128f221c4a0",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Method Verification Plan and Report"
+            },
+            {
+              "text": ": Same as validation but specific to verification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "813f6507-a4bb-4379-958a-70d3016175fd",
+      "type": "h3",
+      "children": [
+        {
+          "text": "9.2. Record Retention"
+        }
+      ]
+    },
+    {
+      "id": "305521c9-b99a-444a-952f-fb51ba48bd37",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "f0616f45-d426-4e87-b388-af5784b113b1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain records for a minimum of five years or as required by regulatory authorities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca85749f-790a-4192-b71b-b22bd7c5cd66",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "da750f4f-4d24-4efe-ad21-a4d75e590c63",
+      "type": "h2",
+      "children": [
+        {
+          "text": "10. Training"
+        }
+      ]
+    },
+    {
+      "id": "27101787-3111-4a12-a742-a12b063e8ccd",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "33be53e9-8d10-4304-9777-dc92fc41badc",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.1. Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "30200958-296d-4c61-915a-e9fbc27231f4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "aa2ae0ca-1daf-4a2b-8de6-bfc8db325904",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Train personnel on validation and verification concepts, documentation, and criteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359d1fb2-64b4-4199-8d1a-810e7106d2a4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2170f32b-7c4d-40c1-b548-caa4c59ca354",
+      "type": "h3",
+      "children": [
+        {
+          "text": "10.2. Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "959a9102-a2fb-4f7f-8b40-15e5f5753b99",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d79f074a-a8b2-4fd3-82b9-5a9c890bd050",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annually or after significant updates to this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77471b37-0f92-4340-96d1-45ef4ab5a6ba",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "32ca1df7-027f-4478-a168-22e8ee5df22c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain training records for audits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1b6a12e-5766-44b4-97c6-a9a59a52b4c4",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4011bd55-1489-4e5b-befe-92b3ed6386b1",
+      "type": "h2",
+      "children": [
+        {
+          "text": "11. Quality Assurance and Review"
+        }
+      ]
+    },
+    {
+      "id": "4148b531-bb6f-4fdc-9ad4-49f522dce790",
+      "type": "h2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ae5bb8d3-3bfa-443e-9c75-1d8383abebe4",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.1. Internal Audits"
+        }
+      ]
+    },
+    {
+      "id": "814aecfb-5b71-449e-adf5-544bcde289c2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "789596b8-07be-43d5-977c-203d867dee4b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "QA personnel to audit validation and verification processes to ensure compliance with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb6afbea-a1e3-4f5d-9da9-f18e4d55cb8e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "08cf2dfa-e485-4c76-9013-86c00298c55b",
+      "type": "h3",
+      "children": [
+        {
+          "text": "11.2. Continuous Improvement"
+        }
+      ]
+    },
+    {
+      "id": "093ff365-1710-4560-a340-d61400912bae",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7170e752-8b0d-475a-bfc9-818bd140a72e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Regularly review methods to incorporate new information, technological advancements, or regulatory updates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d614acd1-a1f9-4795-a1f7-fc585db7c789",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "729e9734-1c78-42ae-bea0-5cdef3ee2cb6",
+      "type": "h2",
+      "children": [
+        {
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "8079e53a-613d-41d6-8cf4-c8e6e6915c1f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e5f804c5-34d0-4905-85b5-ad242b7b3c92",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "ISO 17025"
+            },
+            {
+              "text": ": General Requirements for the Competence of Testing and Calibration Laboratories."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fb82b9a-0377-49ec-87f0-5f51985ae0cf",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a44b1cad-587d-4bed-ade3-51b36eda49a9",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "International Conference on Harmonisation (ICH) Q2(R1)"
+            },
+            {
+              "text": ": Validation of Analytical Procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18d0188a-bacb-4b9e-8e1c-cd79bf5fa553",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "0b39d51b-22a9-45ec-84a0-2c2841bffb6f",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Good Laboratory Practice (GLP) Guidelines"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

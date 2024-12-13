@@ -1,0 +1,1562 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "c98cf1b9-7cce-4d54-9a4b-b89bf2bb8d94",
+  "title": "SOP - Biological Materials Handling",
+  "status": "DRAFT",
+  "version": null,
+  "previousVersion": null,
+  "assignees": [],
+  "tags": [],
+  "duplicatedFromEntity": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "reviewConfig": null,
+  "collections": null,
+  "type": "DOCUMENT",
+  "fields": {
+    "Review Date": {
+      "id": "f036c46c-1725-4469-86e7-b8ef8ac6bcc5",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Authorised By": {
+      "id": "f8fbbf84-f97d-4470-9c30-5409a49586cd",
+      "type": "USER",
+      "value": null,
+      "config": {
+        "allowMultiple": false
+      },
+      "dataType": "ROLE"
+    },
+    "Effective Date": {
+      "id": "971fbbe3-05a3-44ee-8f74-e012de4d7517",
+      "type": "DATE",
+      "value": null,
+      "config": {},
+      "dataType": "DATE"
+    },
+    "Document Number": {
+      "id": "e0f562a5-af72-47fd-8538-b4c0630812a7",
+      "type": "STRING",
+      "value": null,
+      "config": {},
+      "dataType": "STRING"
+    }
+  },
+  "pageContent": [
+    {
+      "id": "b4223e54-32b2-4ff9-9325-69a3cb8964a3",
+      "type": "field",
+      "fieldId": "e0f562a5-af72-47fd-8538-b4c0630812a7",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "76d763ff-7696-4364-bf0a-23fffdc8c207",
+      "type": "field",
+      "fieldId": "971fbbe3-05a3-44ee-8f74-e012de4d7517",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c83a3329-7931-4ee0-b45a-13b62512c596",
+      "type": "field",
+      "fieldId": "f036c46c-1725-4469-86e7-b8ef8ac6bcc5",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "63fb0a39-f9ef-4002-9e5f-d9de958c1ff7",
+      "type": "field",
+      "fieldId": "f8fbbf84-f97d-4470-9c30-5409a49586cd",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a390efd5-b753-47e5-aa6c-b357cc2e6c16",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9b91c57d-7eb1-45be-aeb6-c97fda96ef14",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "id": "ad747a33-7c23-43f9-be91-52107ba5bae5",
+      "type": "p",
+      "children": [
+        {
+          "text": "To define safe and effective procedures for handling biological materials in the laboratory. This SOP includes guidelines for working with potentially infectious agents, handling biological samples, and proper decontamination methods to ensure the safety of personnel and the environment."
+        }
+      ]
+    },
+    {
+      "id": "741c693f-cdf0-4c55-8e08-a00de9fd19bc",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "55b35f54-2be3-4752-b8e7-befb52707ac2",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "2. Scope"
+        }
+      ]
+    },
+    {
+      "id": "aa2c9381-a9f6-4e53-b808-824c86919df5",
+      "type": "p",
+      "children": [
+        {
+          "text": "This SOP applies to all personnel working with biological materials in the laboratory. It covers the proper handling, transportation, and decontamination of biological materials, including microorganisms, cell cultures, human or animal tissues, and biological waste."
+        }
+      ]
+    },
+    {
+      "id": "5b724584-d26c-4622-a1bc-882f36373a8b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "89d8e6d5-c3d4-4d4b-a0ba-44fde024ba8f",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "3. Responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "6fd2dcc3-eef7-41f2-a250-58e163eb4eac",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0f78d193-8d57-457a-b6c7-e937761cc60f",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Manager"
+        }
+      ]
+    },
+    {
+      "id": "10265ae9-8fc8-4fe4-bf79-403140e8b664",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "717c63c7-9520-4269-8109-8804f64db094",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Oversees biosafety procedures and ensures personnel comply with this SOP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd011cb1-53d8-48ef-b519-17fe8f062321",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Lab Personnel"
+        }
+      ]
+    },
+    {
+      "id": "414d2983-a3b4-41ea-8297-25683d4f4d92",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2d419742-9e26-4ecf-b70f-5dc3158f4dd5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Follows the procedures outlined in this SOP when working with biological materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "650eef3c-5eff-4a52-8d81-9f49cf8caf6c",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Biosafety Officer"
+        }
+      ]
+    },
+    {
+      "id": "a93f7dc2-6ed4-469d-83e9-287aac6bd359",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "903190c8-97f3-48c2-8755-68a95cd01a99",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Provides training on biosafety procedures, performs audits, and investigates incidents related to biological materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86ec7cba-8cdc-4ca2-b12c-60ef02958893",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "07efabd3-738c-48d1-898b-89eeb7434a3a",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "4. Definitions"
+        }
+      ]
+    },
+    {
+      "id": "ddba0a7a-c088-438b-b274-0d3993eca14f",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "24e6e67c-b8e6-4a23-a7d1-94ae75125e72",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Biological Materials"
+        }
+      ]
+    },
+    {
+      "id": "00ac363c-42ca-4be2-8d1e-88d996f292bf",
+      "type": "p",
+      "children": [
+        {
+          "text": "Any material containing or potentially contaminated with biological agents, including microorganisms, human or animal tissues, blood, cell lines, and biological waste."
+        }
+      ]
+    },
+    {
+      "id": "e5a1c83b-af98-48e6-b5c0-d17a50ac62b1",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Biosafety Level (BSL)"
+        }
+      ]
+    },
+    {
+      "id": "d5b42fd9-9633-4e4d-8106-89aff278b773",
+      "type": "p",
+      "children": [
+        {
+          "text": "The level of biocontainment precautions required to handle biological materials safely, ranging from BSL-1 (low risk) to BSL-4 (high risk)."
+        }
+      ]
+    },
+    {
+      "id": "cb1ff808-a87f-4827-b668-9b064bdb7b70",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Decontamination"
+        }
+      ]
+    },
+    {
+      "id": "07c45d99-d234-4a79-9ce9-4ee81a4022cc",
+      "type": "p",
+      "children": [
+        {
+          "text": "The process of removing or killing infectious agents to render biological materials safe for handling or disposal."
+        }
+      ]
+    },
+    {
+      "id": "2f09b21b-58ad-4ed3-a99e-c5f9fefac336",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e0e2eaa1-97bd-4251-b948-6e5dec2df7dc",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "5. General Biosafety Procedures"
+        }
+      ]
+    },
+    {
+      "id": "68bd0182-87fe-4681-bb0c-11fa71df48cc",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ff43e659-4ed0-4ebd-bbc6-edee2de470b4",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.1 Biosafety Levels (BSL)"
+        }
+      ]
+    },
+    {
+      "id": "7e5d37a6-4836-4ef6-921c-97d67cb90837",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "BSL-1"
+        }
+      ]
+    },
+    {
+      "id": "b1a4f0c7-c9e4-4e13-8c66-997fa1bd84f9",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "07be0526-936a-4c70-8275-62a3b02dc9e2",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Appropriate for work involving well-characterised agents not known to cause disease in healthy adults."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d48b97f1-5cd3-49e8-a168-ad11f9e49707",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d2dec952-b365-4858-a695-2d614bafa82c",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Requires standard microbiological practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37584336-c413-4495-8fd8-b98ddd94b9a9",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "BSL-2"
+        }
+      ]
+    },
+    {
+      "id": "073a8354-3234-43fe-a981-b5506d4c237b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "b403714d-cf46-4119-866f-09c4fa3d2e71",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Involves agents posing moderate hazards to personnel and the environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d24e97a2-ceb6-4b8a-9c32-5ab01ae94f05",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8a15094c-4261-4181-9c39-840827e28b7e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Requires limited access, use of biosafety cabinets, and additional precautions for sharps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "931992d0-f929-4cc5-ab4c-1a057b54e4b7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "BSL-3"
+        }
+      ]
+    },
+    {
+      "id": "86adf00b-b22d-4032-886c-9e0b3d1f554b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9e05104b-3cf4-464a-a197-151cd90e9f25",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For agents that may cause serious or potentially lethal diseases through aerosol transmission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa52b57c-e8e3-4ce5-853b-16d84caee88e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "642cedae-3e10-4900-ae3e-c153c5c03117",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Requires specialised ventilation, restricted access, and strict PPE requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44b37394-ca34-41b4-a6af-9ce30d028102",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "BSL-4"
+        }
+      ]
+    },
+    {
+      "id": "f6d15e76-965f-42eb-9f2f-af5684f4cc3f",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a2f34591-be17-479f-9855-1fe48bf5f074",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Reserved for agents posing a high risk of life-threatening disease."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f463a79b-1f05-4f58-9f08-a20845ce01f5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d101c70a-e52a-410a-b4d3-f1348802746e",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Requires full-body, air-supplied suits and high-containment facilities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5549b94-eb6f-4e08-8986-c9da570cf2ff",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1d48688a-83e2-43ec-9ca3-60ad679b42a0",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "5.2 Personal Protective Equipment (PPE)"
+        }
+      ]
+    },
+    {
+      "id": "643ebb03-3109-4336-9b5c-f8df84e91fa5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4c100fca-8dd9-4544-9e50-222d60863ab4",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Standard PPE:"
+            },
+            {
+              "text": " Lab coat or gown, gloves, safety goggles or face shield, and closed-toe shoes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "def2c26b-e5a2-47ef-9981-5f54bbbb3176",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "6e02e546-2501-46e0-9f3f-33ca0f5b6613",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Glove Usage:"
+            },
+            {
+              "text": " Change gloves frequently and dispose of them after handling biological materials. Avoid touching personal items (e.g., phones) while wearing gloves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f9ec364-350a-4682-836c-153acfec5dba",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b6e5f825-4fff-4a56-9356-e285656e73eb",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "6. Handling Biological Materials"
+        }
+      ]
+    },
+    {
+      "id": "b15c075a-7cd9-48f8-8676-2569d2c5fab4",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "90516ee8-7552-4a67-8243-680b04bd3607",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.1 Sample Handling"
+        }
+      ]
+    },
+    {
+      "id": "d2e22658-d71c-4ceb-b631-f0f5ed9125cc",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Receiving Biological Samples"
+        }
+      ]
+    },
+    {
+      "id": "afa6308d-2bec-4f6f-ba5d-f99b07014f3e",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e2a9e40c-a6c4-48bd-ae77-c4d791b09cec",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure samples are properly labelled and contained. Verify associated documentation (e.g., sample type, risk level)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b32e3d32-3229-4fad-89ff-8af0fca4a9ac",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Transporting Biological Materials"
+        }
+      ]
+    },
+    {
+      "id": "2b8e83c6-3dfd-4f91-a3b3-aac70ee253aa",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c78baadf-1353-4067-96a7-d4d015a9fdfe",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use secondary containment (e.g., sealed containers or biohazard bags) for transport within or between labs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0b2e72d-6390-4ccc-8210-c415a9c7c638",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Working in Biosafety Cabinets (BSC)"
+        }
+      ]
+    },
+    {
+      "id": "a4a53348-eeef-4281-858f-b64f1d6ebd99",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8955b20d-0b32-476a-bac7-cdbb96f5ee52",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For BSL-2 and above, handle open biological materials inside a BSC. Maintain the sash at the correct height and avoid blocking airflow vents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c18d6f4c-fcad-49b8-be52-3ea99744b40a",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c8658b25-3a8c-4607-89e0-83c8621eb47e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.2 Biological Material Labelling"
+        }
+      ]
+    },
+    {
+      "id": "071d627e-8981-418c-9966-274c4a6edd46",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "375d9b43-1d9c-4d4a-83b7-c2e76243306d",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Labelling Requirements:"
+            },
+            {
+              "text": " Include sample description, biosafety level, date of collection/preparation, hazard symbols, and handler’s name/initials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3350a54c-dbf1-4345-aad0-39f4278f9410",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "72e0f982-0e9a-4d02-bb33-c90e281b36ec",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Label Placement:"
+            },
+            {
+              "text": " Place labels on primary and secondary containers securely and visibly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26c26f06-252e-4cfe-8fa8-909d366e3b31",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "216d14dd-0648-42cb-9b10-b0c12093bd74",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "6.3 Waste Management"
+        }
+      ]
+    },
+    {
+      "id": "a93390ba-2ef5-4408-8943-f1176418cb9a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "a0638943-d0ef-487c-9d52-7b1f2c7c6518",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Segregation:"
+            },
+            {
+              "text": " Use red biohazard bags for solid waste and puncture-resistant containers for sharps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18a4ebe4-66bf-44da-b944-451d1a4f62c4",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "c9bdad2a-d68d-4471-ae75-561487e9a754",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Liquid Waste:"
+            },
+            {
+              "text": " Treat with disinfectant (e.g., 10% bleach) and allow adequate contact time before disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "197e5e3c-86eb-4437-aa93-be1bc1e3f0d8",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ffb80b43-5f32-4ead-9b3f-f7a66bbbf12c",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "7. Decontamination Procedures"
+        }
+      ]
+    },
+    {
+      "id": "15983ca0-b31a-4cf4-b0da-ccd6f7684b4f",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3b00dc95-3cce-4df0-af01-94cadd3483c0",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.1 Decontamination Methods"
+        }
+      ]
+    },
+    {
+      "id": "aec558a9-7b20-4d61-a23d-443660191874",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Autoclaving"
+        }
+      ]
+    },
+    {
+      "id": "d8994126-1f16-481c-9d08-1ae8c6bad912",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "7bb3761b-e3ea-415d-9ed9-9d0d3ee2738f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use autoclave cycles at 121°C for at least 30 minutes for biological waste."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9979540c-6bae-4d5b-aa59-ad332644526c",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "8623cc00-b627-4abc-b70a-96531b816508",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Verify sterilisation with autoclave indicators."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16544135-a423-4da7-8527-94eec4649c4e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Chemical Disinfection"
+        }
+      ]
+    },
+    {
+      "id": "d28a9ab2-2dc2-4efe-ac13-c9cad1d9afa0",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d99b0c1f-0d27-40ae-9f3e-0ae1be40b2ff",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Use bleach (10%), ethanol (70%), or approved disinfectants."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97d3c0ab-2c0d-43f1-9944-ab35f8040c2d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d06edca3-0ad9-4ba5-b51a-cfdfe3554055",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Allow sufficient contact time (e.g., 20 minutes for bleach)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ef613b9-2dce-4b2c-aa1c-580a9021bfbb",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ded50215-14a6-4804-a9e0-b81c6b00d5e2",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.2 Decontamination of Work Surfaces"
+        }
+      ]
+    },
+    {
+      "id": "422d0936-7647-408d-9f15-80df4c55e197",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "d7533d59-e170-4d38-8a2c-33ea28e6b362",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Daily Cleaning:"
+            },
+            {
+              "text": " Decontaminate surfaces before and after handling biological materials."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9a3a6be-2b5b-479d-9c1e-7c6019bd3aca",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "48f8b39e-3996-4f28-b801-b20659c4ed4c",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Spill Response:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23b4a35c-7b03-489c-b4ae-2c171b54ea29",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "2b4e4864-26ad-4788-9e91-59323bce45dc",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For small spills: Cover with disinfectant-soaked paper towels and clean after 20 minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b19bfa09-7af0-4acf-bf38-111f0c7045b4",
+      "type": "li",
+      "indent": 1,
+      "children": [
+        {
+          "id": "92cf246c-20b7-4a77-8ba6-9539af4d2198",
+          "type": "lic",
+          "children": [
+            {
+              "text": "For large spills: Evacuate and report to the biosafety officer for containment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92e27f39-08c7-42e5-a755-c8567830c70e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8f12429a-3776-43fc-ac4b-c31707ce7140",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "7.3 Decontamination of Equipment"
+        }
+      ]
+    },
+    {
+      "id": "5f931146-9f4a-4cae-97fe-11c2a0a17738",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "737d3ea4-6978-4eba-9602-850d400b1ab3",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Clean reusable equipment (e.g., pipettes, centrifuges) with disinfectant or autoclave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff148dae-6fd2-4f39-9d5a-f019bd52a7d5",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5d4ebc68-2685-4b28-9105-c3258f310ad1",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Arrange for professional decontamination of BSCs as per manufacturer or institutional guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a3fe075-1b89-473a-a86a-7c76e05bfd5b",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "38af63dd-6e2b-464e-ae0a-d234001209d1",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "8. Waste Disposal of Biological Materials"
+        }
+      ]
+    },
+    {
+      "id": "e3cc824b-f716-42da-9cf4-f19d5f19998e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6fbbb476-3be3-4f67-b995-fd8585595f85",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "8.1 Disposal Procedures"
+        }
+      ]
+    },
+    {
+      "id": "6732d822-14aa-4c31-a183-1e9e60b922ba",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Solid Waste"
+        }
+      ]
+    },
+    {
+      "id": "e06059b4-c864-4784-a840-aa1d526a4b23",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5503c1d1-1b92-411a-a018-74b167113e7b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Place in red biohazard bags and autoclave before disposal through licensed contractors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e856ba9b-fa05-483d-a409-a83277e73514",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Liquid Waste"
+        }
+      ]
+    },
+    {
+      "id": "c2b7425a-cda1-43ce-89fa-ee69d43e0b10",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "2b305628-f418-4f44-bbff-e564f420c6b4",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Disinfect with bleach or approved disinfectants and dispose down the drain with water after adequate contact time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16d60d51-eac1-4dd5-b69d-539877e5359d",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Sharps Waste"
+        }
+      ]
+    },
+    {
+      "id": "5bab90bc-40f8-4197-b024-48d5ab2b2b2d",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5c2c4bf5-09b9-4dc1-9242-9d05ef6a2906",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Dispose of in puncture-resistant sharps containers. Seal containers at ¾ full and process through approved contractors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2da1825-7b93-4c04-9b07-f5b51d787dff",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "144e2137-6d0e-4ea0-9fb8-bf109ad5aa47",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "9. Incident Reporting"
+        }
+      ]
+    },
+    {
+      "id": "76a3606e-0d71-4c73-8e35-de5a1d1a9082",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9aabefef-f894-4c65-9bc8-dbd36e4f859e",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "9.1 Exposure to Biological Materials"
+        }
+      ]
+    },
+    {
+      "id": "25efb1cf-b49a-48d8-b37f-36280026ab5b",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Immediate Actions"
+        }
+      ]
+    },
+    {
+      "id": "e10fc1dc-8d6b-40c4-bcd8-7d001ec7ba0a",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "e3c660b1-db9d-4862-ac6b-a799e2491df7",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Wash exposed areas with soap and water or rinse eyes at an eyewash station."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69bc6e41-a7e5-4fa2-adc5-39927e0f9b73",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "2c453660-1418-40d2-8524-732fdcd3d6f8",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "3a3a9ea1-37d8-464e-9c9c-d12b4201ac3b",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Report incidents immediately to the lab manager or biosafety officer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4856f5db-8e49-434d-9c9d-a32a3c401bfe",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "Documentation"
+        }
+      ]
+    },
+    {
+      "id": "ea7d9768-59a9-4c55-b92f-0bc4bdd7769b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "34c99cff-d9e5-4236-9f85-9d9715f0411f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Complete an incident report detailing the exposure, materials involved, and actions taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5fafc962-c2a8-47f4-8b78-307e9d7c663f",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "23935496-486b-40f2-ab14-ad005255b258",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "10. Training"
+        }
+      ]
+    },
+    {
+      "id": "1164cc98-d551-4251-a8fd-37869cdb6a7e",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1762e711-4de2-4ef4-8c03-1d5fe9ed2fd7",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.1 Initial Training"
+        }
+      ]
+    },
+    {
+      "id": "662fd622-b1ce-4d8c-bfb1-81643c26543b",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "5606a328-ce74-45c8-9166-d6ea71c505d8",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Cover biosafety levels, PPE usage, material handling, and decontamination procedures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97847e7c-e17b-4744-ad39-95f2986fe299",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f77da1d1-07ff-4574-a9b6-e3e24c090cda",
+      "type": "h3",
+      "children": [
+        {
+          "bold": true,
+          "text": "10.2 Refresher Training"
+        }
+      ]
+    },
+    {
+      "id": "9307bdba-fd33-407d-8df3-a8cec58211b2",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4f60e7c3-895e-44b1-be88-9da38d1b159a",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Conduct annually or when significant changes to biosafety procedures occur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b128097-ef90-493b-a427-958496cdf820",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8deeb52b-9e35-479f-b5a5-068c77ed1ffd",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "11. Record-Keeping and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "5b23a70e-cbd4-4917-a026-096f70d71816",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "757f8d29-1bff-402b-81fb-f97274abf4b5",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Maintain records on biosafety training, incident reports, decontamination logs, and waste disposal manifests for at least five years or as per institutional requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32af57bb-2527-4fe7-bed2-f209b86a3a11",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "9678426c-d033-42b6-948f-b9528716959f",
+          "type": "lic",
+          "children": [
+            {
+              "text": "Ensure biological material logs are updated regularly, including receipt, usage, and disposal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f299b5a6-b422-4357-8738-85532e9a070e",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cfa6d407-af91-4aea-9153-5579b128baa1",
+      "type": "h2",
+      "children": [
+        {
+          "bold": true,
+          "text": "12. References"
+        }
+      ]
+    },
+    {
+      "id": "28cd643f-a80b-487a-a3be-697fe0b28f24",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "673f7b16-0114-48fa-8455-ff9f6ca062de",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "CDC Biosafety Guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23b6d3b4-4b05-47e1-8076-7cd5ad2d7501",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "4c4a6e30-f58c-48d8-8090-b047475d0f81",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "WHO Laboratory Biosafety Manual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "474e2b64-8d6a-437f-8b22-e7936635db48",
+      "type": "li",
+      "indent": 0,
+      "children": [
+        {
+          "id": "ac70e249-e76c-4e90-978f-bba28bf7b930",
+          "type": "lic",
+          "children": [
+            {
+              "bold": true,
+              "text": "Institutional Biosafety Policies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6650d6a-1c6d-4e39-a997-58eb097ac6e0",
+      "type": "p",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
