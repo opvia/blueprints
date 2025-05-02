@@ -1,0 +1,70 @@
+{
+  "id": "test",
+  "version": 1,
+  "name": "Test",
+  "description": "",
+  "entities": [
+    {
+      "id": "9e3ffdf7-adbe-420d-aa8b-5cc0fcbcd53a",
+      "kind": "TEMPLATE",
+      "contentType": "PAGE_CONTENT",
+      "title": "Main template",
+      "sourceVersion": "1.2",
+      "type": {
+        "ref": {
+          "id": "0aab6a36-ea4e-4c7a-9874-1c4b1dd3ac96"
+        }
+      }
+    },
+    {
+      "id": "0aab6a36-ea4e-4c7a-9874-1c4b1dd3ac96",
+      "kind": "TYPE",
+      "contentType": "PAGE_CONTENT",
+      "title": "Document"
+    },
+    {
+      "id": "3c4c74ef-abb2-43fa-ac5d-ce610344a757",
+      "kind": "TEMPLATE",
+      "contentType": "PAGE_CONTENT",
+      "title": "Record Template",
+      "sourceVersion": "1.4",
+      "type": {
+        "ref": {
+          "id": "3e5ec52d-fda3-4fc7-bc6a-985d8ca4bec3"
+        }
+      }
+    },
+    {
+      "id": "3e5ec52d-fda3-4fc7-bc6a-985d8ca4bec3",
+      "kind": "TYPE",
+      "contentType": "PAGE_CONTENT",
+      "title": "Record"
+    },
+    {
+      "id": "a7c2a72b-71f7-4d27-bae5-c9d2244ea490",
+      "kind": "TEMPLATE",
+      "contentType": "PAGE_CONTENT",
+      "title": "Object template",
+      "sourceVersion": "1",
+      "type": {
+        "ref": {
+          "id": "2ee948e1-a62e-45ee-8302-453d758cab20"
+        }
+      }
+    },
+    {
+      "id": "2ee948e1-a62e-45ee-8302-453d758cab20",
+      "kind": "TYPE",
+      "contentType": "PAGE_CONTENT",
+      "title": "Object"
+    }
+  ],
+  "assets": [
+    {
+      "id": "124e05fd-b703-45d2-93b8-1b79ebce2c2c",
+      "entityId": "9e3ffdf7-adbe-420d-aa8b-5cc0fcbcd53a",
+      "filename": "cells.jpg",
+      "contentType": "image/jpeg"
+    }
+  ]
+}
