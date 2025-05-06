@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "2.0.0",
+  "id": "dd1c58f1-5717-4cf9-885e-32f53e5a2a96",
+  "title": "Jack Lawrence-Jones's Moon tide person help",
+  "status": "EDITABLE",
+  "version": null,
+  "previousVersion": null,
+  "metadata": {
+    "index": "0",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "lastUpdatedAt": "1970-01-01T00:00:00.000Z",
+    "createdByRoleId": "44444444-4444-4444-4444-444444444444",
+    "lastUpdatedByRoleId": "44444444-4444-4444-4444-444444444444",
+    "editors": []
+  },
+  "sourceInfo": {},
+  "fields": {},
+  "kind": "TEMPLATE",
+  "type": {
+    "ref": {
+      "id": "3f5f651b-263e-437c-9645-8c09106c22b6"
+    }
+  },
+  "content": {
+    "type": "PAGE_CONTENT",
+    "value": {
+      "pageContent": [
+        {
+          "id": "d3b5d68a-1f30-4eb8-8753-399b39fdc1d2",
+          "type": "p",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
