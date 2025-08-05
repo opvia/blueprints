@@ -61,12 +61,7 @@
     "Templates": {
       "id": "287f1178-cd03-4b91-aeba-607c2cf1d699",
       "type": "REFERENCE",
-      "value": [
-        {
-          "id": "a090dc5a-2a5f-430c-9b4b-bb7402e857b6",
-          "version": "1"
-        }
-      ],
+      "value": [],
       "config": {
         "searchConfig": {
           "filters": {

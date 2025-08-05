@@ -139,14 +139,6 @@
       ]
     },
     {
-      "id": "9f597069-4eb8-45e5-96c9-08b5a2d0f9e1",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Table #128",
-      "icon": "media",
-      "sourceVersion": "1"
-    },
-    {
       "id": "35f3bff1-981b-4d9b-9770-66cda6374d3e",
       "kind": "TEMPLATE",
       "contentType": "PAGE_CONTENT",
@@ -156,14 +148,6 @@
       "tagIds": [
         "3bc049fc-a9dd-4853-acca-57cb5f8702ee"
       ]
-    },
-    {
-      "id": "9c1217c9-b8c8-49f0-9ed5-deb8fb251a0d",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Image #129",
-      "icon": "media",
-      "sourceVersion": "1"
     },
     {
       "id": "1f6b3ccc-08e8-432f-8f86-9f914b04e38a",
@@ -177,14 +161,6 @@
       ]
     },
     {
-      "id": "e21f4f04-9df5-42b3-83eb-5b9c4e9de13f",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Text #130",
-      "icon": "media",
-      "sourceVersion": "1"
-    },
-    {
       "id": "cd14e95f-f125-4eb8-9c3e-3a696a85100b",
       "kind": "TEMPLATE",
       "contentType": "PAGE_CONTENT",
@@ -196,14 +172,6 @@
       ]
     },
     {
-      "id": "e26be4d9-e00c-4651-a618-4ade9ec26c73",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Field #131",
-      "icon": "media",
-      "sourceVersion": "1"
-    },
-    {
       "id": "fee8e5c2-efdb-4904-8be5-e2a563dbc704",
       "kind": "TEMPLATE",
       "contentType": "PAGE_CONTENT",
@@ -213,38 +181,6 @@
       "tagIds": [
         "3bc049fc-a9dd-4853-acca-57cb5f8702ee"
       ]
-    },
-    {
-      "id": "35ac1f59-aa2d-4f91-a698-af2feeaf09ed",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Field #134",
-      "icon": "media",
-      "sourceVersion": "1"
-    },
-    {
-      "id": "5e05c626-be45-447d-9e3e-7c7da108687b",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Text #135",
-      "icon": "media",
-      "sourceVersion": "1"
-    },
-    {
-      "id": "d681d7f0-349e-4b65-b3dd-97256d45e48a",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Field #136",
-      "icon": "media",
-      "sourceVersion": "1"
-    },
-    {
-      "id": "c4ab6c64-e618-4613-9243-a1ce97e29f12",
-      "kind": "INSTANCE",
-      "contentType": "PAGE_CONTENT",
-      "title": "Field #137",
-      "icon": "media",
-      "sourceVersion": "1"
     },
     {
       "id": "704f0c62-bcdd-4415-9555-aa44e969f22d",

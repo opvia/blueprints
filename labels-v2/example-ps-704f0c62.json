@@ -14,12 +14,7 @@
     "editors": [],
     "typeIndex": "0"
   },
-  "sourceInfo": {
-    "template": {
-      "id": "a090dc5a-2a5f-430c-9b4b-bb7402e857b6",
-      "version": "1"
-    }
-  },
+  "sourceInfo": {},
   "fields": {
     "Date": {
       "id": "5941d10f-d52e-4186-9e07-7f129a933b4a",
